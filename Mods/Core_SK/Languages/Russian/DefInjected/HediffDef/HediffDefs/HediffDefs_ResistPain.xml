@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<UndeadPassive.label>нежить</UndeadPassive.label>
+	<UndeadPassive.labelNoun>нежить</UndeadPassive.labelNoun>
+	<!-- EN: Can't die twice... -->
+	<UndeadPassive.description>Нельзя умереть дважды...</UndeadPassive.description>
+
+	<ResistPainPassive.label>бронированный</ResistPainPassive.label>
+	<ResistPainPassive.labelNoun>бронированный</ResistPainPassive.labelNoun>
+	<!-- EN: Don't know what pain is -->
+	<ResistPainPassive.description>Не знает, что такое боль.</ResistPainPassive.description>
+
+	<UnstoppablePassive.label>неудержимое состояние</UnstoppablePassive.label>
+	<UnstoppablePassive.labelNoun>неудержимое состояние</UnstoppablePassive.labelNoun>
+	<!-- EN: Can only go forward. -->
+	<UnstoppablePassive.description>Может двигаться только вперёд.</UnstoppablePassive.description>
+
+	<FuriousPassive.label>яростное состояние</FuriousPassive.label>
+	<FuriousPassive.labelNoun>яростное состояние</FuriousPassive.labelNoun>
+	<!-- EN: Don't stand in his way -->
+	<FuriousPassive.description>Лучше не стоять у него на пути.</FuriousPassive.description>
+
+	<BerserkPassive.label>неистовое состояние</BerserkPassive.label>
+	<BerserkPassive.labelNoun>неистовое состояние</BerserkPassive.labelNoun>
+	<!-- EN: Real berserker -->
+	<BerserkPassive.description>Истинный берсерк.</BerserkPassive.description>
+
+	<HardPassive.label>жёсткая кожа</HardPassive.label>
+	<HardPassive.labelNoun>жёсткая кожа</HardPassive.labelNoun>
+	<!-- EN: It's hard to break this skin -->
+	<HardPassive.description>Эту кожу трудно пробить.</HardPassive.description>
+
+	<ThickPassive.label>толстая кожа</ThickPassive.label>
+	<ThickPassive.labelNoun>толстая кожа</ThickPassive.labelNoun>
+	<!-- EN: This skin softens any bumps. -->
+	<ThickPassive.description>Эта кожа смягчает любые удары.</ThickPassive.description>
+</LanguageData>

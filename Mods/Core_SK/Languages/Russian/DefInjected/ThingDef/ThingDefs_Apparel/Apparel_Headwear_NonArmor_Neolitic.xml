@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Hat_DeerHood.label>капюшон с длинными рогами</Hat_DeerHood.label>
+	<Hat_DeerHood.description>Капюшон с рогами, сделанный с любовью. Вы можете практически почувствовать дух храброго зверя внутри вас.</Hat_DeerHood.description>
+
+	<Hat_ThickLeather.label>Шапка из толстой кожи</Hat_ThickLeather.label>
+	<Hat_ThickLeather.description>Шапка из толстой кожи, сделанная с любовью. Вы можете практически почувствовать дух решительного зверя внутри вас.</Hat_ThickLeather.description>
+
+	<!--Hats and helmets-->
+	<Hat_FeathersHeaddress.label>церемониальная шляпа</Hat_FeathersHeaddress.label>
+	<Hat_FeathersHeaddress.description>Церемониальная шляпа шаманов.. На ней действительно много перьев.</Hat_FeathersHeaddress.description>
+
+	<Hat_FurHood.label>меховой капюшон</Hat_FurHood.label>
+	<Hat_FurHood.description>Меховой капюшон из головы зверя, сделанный с любовью. Вы можете практически почувствовать дух хитрого зверя внутри вас.</Hat_FurHood.description>
+
+	<Hat_ArcticWolfHood.label>меховой капюшон волка</Hat_ArcticWolfHood.label>
+	<Hat_ArcticWolfHood.description>Меховой капюшон из волка. Вы можете практически почувствовать дух хитрого зверя внутри вас.</Hat_ArcticWolfHood.description>
+
+	<Hat_RamHood.label>капюшон с рогами</Hat_RamHood.label>
+	<Hat_RamHood.description>Капюшон из головы зверя, сделанный с любовью. Вы можете практически почувствовать дух упорного зверя внутри вас.</Hat_RamHood.description>
+
+	<Hat_ChimmeringCrown.label>сверкающая корона</Hat_ChimmeringCrown.label>
+	<Hat_ChimmeringCrown.description>Внушающее благоговение корона. Делает так, что сердца у всех окружающих вас бьются быстрее .</Hat_ChimmeringCrown.description>
+
+	<Hat_TusksHood.label>капюшон с бивнями</Hat_TusksHood.label>
+	<Hat_TusksHood.description>Капюшон с бивнями, сделанный с любовью. Вы можете практически почувствовать дух дремлющего зверя внутри вас.</Hat_TusksHood.description>
+
+	<Hat_Kufiya.label>куфия</Hat_Kufiya.label>
+	<Hat_Kufiya.description>Это головной платок. Служит для защиты головы и лица от солнца, песка и холода.</Hat_Kufiya.description>
+
+	<Hat_Straw.label>соломенная шляпа</Hat_Straw.label>
+	<Hat_Straw.description>Щит от солнца для фермеров и погонщиков скота.</Hat_Straw.description>
+</LanguageData>

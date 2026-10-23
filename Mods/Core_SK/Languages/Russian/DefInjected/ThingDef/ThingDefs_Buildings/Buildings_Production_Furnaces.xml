@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<TableFurnace.label>Кузнечная печь</TableFurnace.label>
+	<TableFurnace.description>Кузнечная печь для выплавки различных слитков, получения древесного угля, а также изготовления посуды.</TableFurnace.description>
+
+	<Kiln.label>Горн</Kiln.label>
+	<Kiln.description>Горн позволяет обжигать глиняные кирпичи, сжигать одежду, а ещё его можно использовать как крематорий. После изучения химии доступна вулканизация каучука.</Kiln.description>
+
+	<EAF.label>Электродуговая печь</EAF.label>
+	<EAF.description>Электродуговая печь требуется для выплавки прочных сплавов, требует при использовании много электроэнергии.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 250 W\nПри работе: 2500 W</EAF.description>
+</LanguageData>

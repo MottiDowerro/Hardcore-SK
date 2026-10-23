@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MatterConverter.label>Конвертер материи</MatterConverter.label>
+	<MatterConverter.description>С его помощью можно превращать любой ресурс, одежду или оружие в неорганическую субстанцию - материю, которую в свою очередь можно превратить в почти любой полезный ресурс!\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 250 W\nПри работе: 2500 W</MatterConverter.description>
+
+	<Matterfab.label>Квантовый фабрикатор</Matterfab.label>
+	<Matterfab.description>Передовое устройство квантовой термодинамики и плазменной спектрометрии, для получения материалов будущего посредством деления сырья на субатомные частицы и соединения их в более сложные синтетические элементы.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 2000 W\nПри работе: 20000 W</Matterfab.description>
+
+	<HadronCollider.label>Адронный коллайдер</HadronCollider.label>
+	<HadronCollider.description>Устройство для ускорения субатомных частиц до сверхвысоких скоростей с помощью электрических и электромагнитных полей, как результат получение антивещества.</HadronCollider.description>
+
+	<HadronColliderFeeder.label>Приёмник коллайдера</HadronColliderFeeder.label>
+	<HadronColliderFeeder.description>Требуется для работы адронного коллайдера.</HadronColliderFeeder.description>
+</LanguageData>

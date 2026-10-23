@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Silage -->
+	<Silage.label>Силос</Silage.label>
+	<!-- EN: Silage is nutrient-rich fermented hay and raw food product suitable for animal feed. The fermentation process preserves the silage and prevents it from rotting. -->
+	<Silage.description>Ферментированное сено с высокими питательными свойствами, пригодное для корма животных. Процесс ферментации сохраняет силос и предотвращает его гниение.</Silage.description>
+
+	<!-- EN: Neutro Flower Petals -->
+	<NeutroPetals.label>Лепестки нейтроцветов</NeutroPetals.label>
+	<!-- EN: Beautiful Yellow-Orange Petals from the Neutro Flower. Used to make Neutroamine, a medicine base. -->
+	<NeutroPetals.description>Красивые желто-оранжевые лепестки нейтроцветов. Используются для создания нейтроамина, основного ингредиента медикаментов.\nМожно посадить только в гидропонике.</NeutroPetals.description>
+
+	<!-- EN: Aloe Leaves -->
+	<aloe.label>Алоэ</aloe.label>
+	<!-- EN: A bundle of Aloe Leaves from an Aloe Plant. Aloe Leaves are used as a type of natural medicine. -->
+	<aloe.description>Пучок листьев растения алоэ. Имеют великолепные природные целебные свойства.</aloe.description>
+
+	<!-- EN: Caoutchouc -->
+	<RawCaoutchouc.label>Каучук</RawCaoutchouc.label>
+	<!-- EN: Caoutchouc is a natural rubber sap collected from a Hevea Tree. It can be vulcanized to create useful rubber materials. -->
+	<RawCaoutchouc.description>Натуральный каучуковый сок, собранный с дерева гевеи. Можно вулканизировать для создания полезных резиновых материалов.</RawCaoutchouc.description>
+</LanguageData>

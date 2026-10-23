@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ====================== Shotguns ======================= -->
+	<Gun_M37A2_USCM.label>Дробовик M37A2</Gun_M37A2_USCM.label>
+	<Gun_M37A2_USCM.description>Помповый дробовик M37A2 морской пехоты.\n\nИспользует боеприпасы: .12 патрон</Gun_M37A2_USCM.description>
+
+	<Gun_TacticalShotgun.label>Дробовик Halo M45D</Gun_TacticalShotgun.label>
+	<Gun_TacticalShotgun.description>Удобный в использовании тактический боевой дробовик.\n\nИспользует боеприпасы: .12 патрон</Gun_TacticalShotgun.description>
+
+	<Gun_AssaultShotgun.label>Автодробовик AA-12</Gun_AssaultShotgun.label>
+	<Gun_AssaultShotgun.description>Автоматический дробовик. Почти без отдачи. Дальность стрельбы как у винтовки и высокий урон как у дробовика.\n\nИспользует боеприпасы: .12 патрон</Gun_AssaultShotgun.description>
+
+	<Gun_TacticalAutoShotgun.label>Автодробовик Trident F7</Gun_TacticalAutoShotgun.label>
+	<Gun_TacticalAutoShotgun.description>Удобный в использовании тактический автоматический боевой дробовик.\n\nИспользует боеприпасы: .12 патрон</Gun_TacticalAutoShotgun.description>
+</LanguageData>

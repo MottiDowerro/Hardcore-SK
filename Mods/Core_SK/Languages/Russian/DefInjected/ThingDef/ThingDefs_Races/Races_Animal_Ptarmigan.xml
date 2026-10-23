@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Animal -->
+	<Ptarmigan.label>куропатка</Ptarmigan.label>
+	<Ptarmigan.description>Дикая птица с хорошим оперением. Способна выживать в холодных температурах.</Ptarmigan.description>
+	<!-- EN: claws -->
+	<Ptarmigan.tools.claws.label>когти</Ptarmigan.tools.claws.label>
+	<!-- EN: head -->
+	<Ptarmigan.tools.head.label>голова</Ptarmigan.tools.head.label>
+</LanguageData>

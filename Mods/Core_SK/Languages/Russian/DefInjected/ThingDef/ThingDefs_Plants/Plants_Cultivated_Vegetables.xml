@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Bean Stalk -->
+	<Plantbean.label>Соя</Plantbean.label>
+	<!-- EN: A Bean Stalk produces a Bean Pod, a soft shell with small, edible seeds inside. They can be used as a meal ingredient or can be refined into BioDiesel Fuel. -->
+	<Plantbean.description>Растение семейства бобовых с множеством полезных свойств, применений и богатейшей историей, которая насчитывает семь тысяч лет.</Plantbean.description>
+
+	<!-- EN: PlantTomato -->
+	<PlantTomato.label>Томат</PlantTomato.label>
+	<!-- EN: Tomato Vines produce round, palm sized, red, sharp-tasting fruits called Tomatoes. Tomatoes are related to Potato Plants and grow very quickly. -->
+	<PlantTomato.description>Полукустарниковое травянистое растение. Плоды томата называют помидорами.</PlantTomato.description>
+
+	<!-- EN: Carrot Plant -->
+	<PlantCarrot.label>Морковь</PlantCarrot.label>
+	<!-- EN: Carrot Plants produce long, crunchy, orange root vegetables called Carrots. Carrots are refreshing to eat raw and have a long shelf life. -->
+	<PlantCarrot.description>Овощная культура. Производит оранжевые корнеплоды, которые считаются полезными как в сыром виде, так и составе блюд.</PlantCarrot.description>
+
+	<!-- EN: Champignon Mushroom -->
+	<Plant_Mushroom.label>Шампиньон</Plant_Mushroom.label>
+	<!-- EN: Champignon Mushrooms produce white or brown edible caps called Raw Champignon. This robust mushroom has been genetically engineered and is cultivated to produce a filling meat substitute. -->
+	<Plant_Mushroom.description>Самый распространённый гриб в мире. Он используется в кухнях многих народов и авторских блюдах знаменитых кулинаров разных стран. Шампиньон – один из немногих грибов, поддающийся выращиванию в специальных условиях, дома или на специальных грибных фермах.</Plant_Mushroom.description>
+</LanguageData>

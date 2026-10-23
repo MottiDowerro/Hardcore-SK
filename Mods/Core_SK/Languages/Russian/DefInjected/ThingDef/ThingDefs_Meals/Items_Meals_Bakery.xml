@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<bread.label>Хлеб</bread.label>
+	<bread.description>Свежеиспечённая булка.</bread.description>
+
+	<Pizza.label>Пицца</Pizza.label>
+	<Pizza.description>Роскошная пицца из кучи разных ингредиентов.\n\nУлучшает сопротивляемость боли\nУлучшает движение\nУменьшает получаемый урон</Pizza.description>
+
+	<Taffy.label>Ириска</Taffy.label>
+	<Taffy.description>Жевательные сладкие конфеты.</Taffy.description>
+
+	<cookie.label>Печенье</cookie.label>
+	<cookie.description>Свежие испеченные печенья!</cookie.description>
+
+	<PieBlueberry.label>Фруктовый пирог</PieBlueberry.label>
+	<PieBlueberry.description>Аппетитный ломтик фруктового пирога.</PieBlueberry.description>
+
+	<SweetBun.label>Сладкие булочки</SweetBun.label>
+	<SweetBun.description>Нежный ролл покрытый сладкой глазурью.</SweetBun.description>
+</LanguageData>

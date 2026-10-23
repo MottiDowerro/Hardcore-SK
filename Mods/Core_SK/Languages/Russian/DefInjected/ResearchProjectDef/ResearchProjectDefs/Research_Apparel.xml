@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Apparel_A1.label>Производство одежды I</Apparel_A1.label>
+	<Apparel_A1.description>description</Apparel_A1.description>
+
+	<Apparel_A2.label>Продвинутый пошив I</Apparel_A2.label>
+	<Apparel_A2.description>description</Apparel_A2.description>
+
+	<Apparel_B1.label>Производство одежды II</Apparel_B1.label>
+	<Apparel_B1.description>description</Apparel_B1.description>
+
+	<Apparel_B3.label>Продвинутый пошив III</Apparel_B3.label>
+	<Apparel_B3.description>description</Apparel_B3.description>
+
+	<Armor_B2.label>Броня II</Armor_B2.label>
+	<Armor_B2.description>description</Armor_B2.description>
+
+	<Apparel_C2.label>Продвинутый пошив IV</Apparel_C2.label>
+	<Apparel_C2.description>description</Apparel_C2.description>
+
+	<Armor_C1.label>Броня III</Armor_C1.label>
+	<Armor_C1.description>description</Armor_C1.description>
+
+	<Apparel_C3.label>Технологии шитья</Apparel_C3.label>
+	<Apparel_C3.description>description</Apparel_C3.description>
+
+	<Apparel_C5.label>Продвинутый пошив V</Apparel_C5.label>
+	<Apparel_C5.description>description</Apparel_C5.description>
+
+	<Apparel_D1.label>Производство одежды V</Apparel_D1.label>
+	<Apparel_D1.description>description</Apparel_D1.description>
+
+	<Armor_D1.label>Броня V</Armor_D1.label>
+	<Armor_D1.description>description</Armor_D1.description>
+
+	<Armor_E3.label>Броня VIII</Armor_E3.label>
+	<Armor_E3.description>description</Armor_E3.description>
+</LanguageData>

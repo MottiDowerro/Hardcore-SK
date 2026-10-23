@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ==================== OTHER ========================== -->
+	<BuildFlamethrowerRM.label>Сделать огнемёт RM2</BuildFlamethrowerRM.label>
+	<BuildFlamethrowerRM.description>Нетрадиционная конструкция огнемёта, которая использует сменные канистры под давлением вместо заднего бака. Менее обременительно, но нужно чаще перезаряжать.</BuildFlamethrowerRM.description>
+	<BuildFlamethrowerRM.jobString>Делает огнемёт</BuildFlamethrowerRM.jobString>
+
+	<BuildFireExtinguisher.label>Собрать огнетушитель</BuildFireExtinguisher.label>
+	<BuildFireExtinguisher.description>Мощный огнетушитель, с помощью которого можно быстро потушить серьезный пожар.</BuildFireExtinguisher.description>
+	<BuildFireExtinguisher.jobString>Собирает огнетушитель</BuildFireExtinguisher.jobString>
+
+	<BuildFlareGun.label>Собрать сигнальную ракетницу</BuildFlareGun.label>
+	<BuildFlareGun.description>Древня одноразовая ракетница для подсветки или подачи сигналов. Заряжается через ствол.</BuildFlareGun.description>
+	<BuildFlareGun.jobString>Собирает сигнальную ракетницу</BuildFlareGun.jobString>
+</LanguageData>

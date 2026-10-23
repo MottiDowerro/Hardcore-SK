@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<GermanShepherd.label>немецкая овчарка</GermanShepherd.label>
+	<GermanShepherd.description>Большая рабочая собака, обычно чепрачного окраса, одна из самых умных и способных к тренировке собак.</GermanShepherd.description>
+	<!-- EN: head -->
+	<GermanShepherd.tools.head.label>голова</GermanShepherd.tools.head.label>
+	<!-- EN: left claw -->
+	<GermanShepherd.tools.0.label>левая лапа</GermanShepherd.tools.0.label>
+	<!-- EN: right claw -->
+	<GermanShepherd.tools.1.label>правая лапа</GermanShepherd.tools.1.label>
+</LanguageData>

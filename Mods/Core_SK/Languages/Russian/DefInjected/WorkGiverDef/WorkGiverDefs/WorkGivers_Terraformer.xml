@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<StudyMechanoidTerraformer.label>исследовать терраформер механоидов</StudyMechanoidTerraformer.label>
+	<StudyMechanoidTerraformer.verb>Исследует странный артефакт, используя</StudyMechanoidTerraformer.verb>
+	<StudyMechanoidTerraformer.gerund>Исследовать странный артефакт, используя</StudyMechanoidTerraformer.gerund>
+
+	<StudyAncientStargate.label>исследовать странный артефакт</StudyAncientStargate.label>
+	<StudyAncientStargate.verb>Исследует странный артефакт, используя</StudyAncientStargate.verb>
+	<StudyAncientStargate.gerund>Исследовать странный артефакт, используя</StudyAncientStargate.gerund>
+</LanguageData>

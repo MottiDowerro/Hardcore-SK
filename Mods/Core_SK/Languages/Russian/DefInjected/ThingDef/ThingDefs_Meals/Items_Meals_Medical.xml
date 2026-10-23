@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Bandagekitcrude.label>самодельные бинты</Bandagekitcrude.label>
+	<Bandagekitcrude.description>Самодельные бинты. Выглядят ужасно, верный способ заработать инфекцию. Сгодятся для остановки кровотечения, но не более.</Bandagekitcrude.description>
+
+	<Bandagekit.label>бинты</Bandagekit.label>
+	<Bandagekit.description>Комплект бинтов, сделанных из ткани. Не медицинская аптечка, но лучше чем ничего.</Bandagekit.description>
+
+	<Herbmedicine.label>простая аптечка</Herbmedicine.label>
+	<Herbmedicine.description>Смесь лечебных трав в комплекте с бинтами. Менее эффективна, чем индустриальные медикаменты.</Herbmedicine.description>
+
+	<MedicalDrink.label>иммунобустер</MedicalDrink.label>
+	<MedicalDrink.description>Концентрированный экстракт из лечебного корня и хмеля. Вкус ужасный, но укрепляет иммунную систему.</MedicalDrink.description>
+
+	<MushroomTincture.label>лечебная грибная настойка</MushroomTincture.label>
+	<MushroomTincture.description>Мы научились готовить настойку из грибов, которая обладает волшебными целебными свойствами, а ещё от нее начинает сносить крышу!</MushroomTincture.description>
+
+	<HealrootTincture.label>лечебная настойка из трав</HealrootTincture.label>
+	<HealrootTincture.description>Концентрированный экстракт из лечебных трав. Хороший, натуральный медицинский препарат. Применяется как антибиотик.</HealrootTincture.description>
+</LanguageData>

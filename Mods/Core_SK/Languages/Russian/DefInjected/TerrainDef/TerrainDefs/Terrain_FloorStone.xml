@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<FloorStoneSlabsSandstone.label>Аккуратные пластины из песчаника</FloorStoneSlabsSandstone.label>
+	<FloorStoneSlabsSandstone.description>Каменный пол из аккуратных квадратных плит песчаника.</FloorStoneSlabsSandstone.description>
+
+	<FloorStoneSlabsGranite.label>Аккуратные пластины из гранита</FloorStoneSlabsGranite.label>
+	<FloorStoneSlabsGranite.description>Каменный пол из аккуратных квадратных плит гранита.</FloorStoneSlabsGranite.description>
+
+	<FloorStoneSlabsLimestone.label>Аккуратные пластины из известняка</FloorStoneSlabsLimestone.label>
+	<FloorStoneSlabsLimestone.description>Каменный пол из аккуратных квадратных плит известняка.</FloorStoneSlabsLimestone.description>
+
+	<FloorStoneSlabsSlate.label>Аккуратные пластины из сланца</FloorStoneSlabsSlate.label>
+	<FloorStoneSlabsSlate.description>Каменный пол из аккуратных квадратных плит сланца.</FloorStoneSlabsSlate.description>
+
+	<FloorStoneSlabsMarble.label>Аккуратные пластины из мрамора</FloorStoneSlabsMarble.label>
+	<FloorStoneSlabsMarble.description>Каменный пол из аккуратных квадратных плит мрамора.</FloorStoneSlabsMarble.description>
+
+	<FloorStoneSlabsCeramics.label>Аккуратные пластины из керамики</FloorStoneSlabsCeramics.label>
+	<FloorStoneSlabsCeramics.description>Каменный пол из аккуратных квадратных плит керамики.</FloorStoneSlabsCeramics.description>
+
+	<FloorStoneHexSandstone.label>Шестиугольные пластины из песчаника</FloorStoneHexSandstone.label>
+	<FloorStoneHexSandstone.description>Каменный пол из аккуратных шестиугольных плит песчаника.</FloorStoneHexSandstone.description>
+
+	<FloorStoneHexGranite.label>Шестиугольные пластины из гранита</FloorStoneHexGranite.label>
+	<FloorStoneHexGranite.description>Каменный пол из аккуратных шестиугольных плит гранита.</FloorStoneHexGranite.description>
+
+	<FloorStoneHexLimestone.label>Шестиугольные пластины из известняка</FloorStoneHexLimestone.label>
+	<FloorStoneHexLimestone.description>Каменный пол из аккуратных шестиугольных плит известняка.</FloorStoneHexLimestone.description>
+
+	<FloorStoneHexSlate.label>Шестиугольные пластины из сланца</FloorStoneHexSlate.label>
+	<FloorStoneHexSlate.description>Каменный пол из аккуратных шестиугольных плит сланца.</FloorStoneHexSlate.description>
+
+	<FloorStoneHexMarble.label>Шестиугольные пластины из мрамора</FloorStoneHexMarble.label>
+	<FloorStoneHexMarble.description>Каменный пол из аккуратных шестиугольных плит мрамора.</FloorStoneHexMarble.description>
+
+	<FloorStoneHexCeramics.label>Шестиугольные пластины из керамики</FloorStoneHexCeramics.label>
+	<FloorStoneHexCeramics.description>Каменный пол из аккуратных шестиугольных плит керамики.</FloorStoneHexCeramics.description>
+
+	<FloorStoneMosaicSandstone.label>Мозаика из песчаника</FloorStoneMosaicSandstone.label>
+	<FloorStoneMosaicSandstone.description>Каменный пол из аккуратной мозаики из песчаника.</FloorStoneMosaicSandstone.description>
+
+	<FloorStoneMosaicGranite.label>Мозаика из гранита</FloorStoneMosaicGranite.label>
+	<FloorStoneMosaicGranite.description>Каменный пол из аккуратной гранитной мозаики.</FloorStoneMosaicGranite.description>
+
+	<FloorStoneMosaicLimestone.label>Мозаика из известняка</FloorStoneMosaicLimestone.label>
+	<FloorStoneMosaicLimestone.description>Каменный пол из аккуратной известняковой мозаики.</FloorStoneMosaicLimestone.description>
+
+	<FloorStoneMosaicSlate.label>Мозаика из сланца</FloorStoneMosaicSlate.label>
+	<FloorStoneMosaicSlate.description>Каменный пол из аккуратной мозаики из сланца.</FloorStoneMosaicSlate.description>
+
+	<FloorStoneMosaicMarble.label>Мозаика из мрамора</FloorStoneMosaicMarble.label>
+	<FloorStoneMosaicMarble.description>Каменный пол из аккуратной мраморной мозаики.</FloorStoneMosaicMarble.description>
+
+	<FloorStoneMosaicClayBrick.label>Мозаика из глиняного кирпича</FloorStoneMosaicClayBrick.label>
+	<FloorStoneMosaicClayBrick.description>Каменный пол из аккуратной мраморной мозаики.</FloorStoneMosaicClayBrick.description>
+
+	<FloorStoneMosaicCeramics.label>Мозаика из керамики</FloorStoneMosaicCeramics.label>
+	<FloorStoneMosaicCeramics.description>Каменный пол из аккуратной керамической мозаики.</FloorStoneMosaicCeramics.description>
+
+	<FloorStoneRoughSandstone.label>Грубые блоки песчаника</FloorStoneRoughSandstone.label>
+	<FloorStoneRoughSandstone.description>Каменный пол из грубых блоков песчаника.</FloorStoneRoughSandstone.description>
+
+	<FloorStoneRoughGranite.label>Грубые блоки гранита</FloorStoneRoughGranite.label>
+	<FloorStoneRoughGranite.description>Каменный пол из грубых блоков гранита.</FloorStoneRoughGranite.description>
+
+	<FloorStoneRoughLimestone.label>Грубые блоки известняка</FloorStoneRoughLimestone.label>
+	<FloorStoneRoughLimestone.description>Каменный пол из грубых блоков известняка.</FloorStoneRoughLimestone.description>
+
+	<FloorStoneRoughSlate.label>Грубые блоки сланца</FloorStoneRoughSlate.label>
+	<FloorStoneRoughSlate.description>Каменный пол из грубых блоков сланца.</FloorStoneRoughSlate.description>
+
+	<FloorStoneRoughMarble.label>Грубые блоки мрамора</FloorStoneRoughMarble.label>
+	<FloorStoneRoughMarble.description>Каменный пол из грубых блоков мрамора.</FloorStoneRoughMarble.description>
+
+	<FloorStoneRoughCeramics.label>Грубые блоки керамики</FloorStoneRoughCeramics.label>
+	<FloorStoneRoughCeramics.description>Каменный пол из грубых блоков керамики.</FloorStoneRoughCeramics.description>
+
+	<FloorStoneRandomSandstone.label>случайное мощение (песчаник)</FloorStoneRandomSandstone.label>
+	<FloorStoneRandomSandstone.description>Каменный пол из прямоугольных и квадратных блоков песчаника, расположенных случайным образом.</FloorStoneRandomSandstone.description>
+
+	<FloorStoneRandomGranite.label>случайное мощение (гранит)</FloorStoneRandomGranite.label>
+	<FloorStoneRandomGranite.description>Каменный пол из прямоугольных и квадратных блоков гранита, расположенных случайным образом.</FloorStoneRandomGranite.description>
+
+	<FloorStoneRandomLimestone.label>случайное мощение (известняк)</FloorStoneRandomLimestone.label>
+	<FloorStoneRandomLimestone.description>Каменный пол из прямоугольных и квадратных блоков известняка, расположенных случайным образом.</FloorStoneRandomLimestone.description>
+
+	<FloorStoneRandomSlate.label>случайное мощение (сланец)</FloorStoneRandomSlate.label>
+	<FloorStoneRandomSlate.description>Каменный пол из прямоугольных и квадратных блоков сланца, расположенных случайным образом.</FloorStoneRandomSlate.description>
+
+	<FloorStoneRandomMarble.label>случайное мощение (мрамор)</FloorStoneRandomMarble.label>
+	<FloorStoneRandomMarble.description>Каменный пол из прямоугольных и квадратных блоков мрамора, расположенных случайным образом.</FloorStoneRandomMarble.description>
+
+	<FloorStoneRandomClayBrick.label>случайное мощение (глиняный кирпич)</FloorStoneRandomClayBrick.label>
+	<FloorStoneRandomClayBrick.description>Каменный пол из прямоугольных и квадратных блоков керамики, расположенных случайным образом.</FloorStoneRandomClayBrick.description>
+
+	<FloorStoneRandomCeramics.label>случайное мощение (керамика)</FloorStoneRandomCeramics.label>
+	<FloorStoneRandomCeramics.description>Каменный пол из прямоугольных и квадратных блоков керамики, расположенных случайным образом.</FloorStoneRandomCeramics.description>
+
+	<FloorStoneStaggeredSandstone.label>шахматная плитка (песчаник)</FloorStoneStaggeredSandstone.label>
+	<FloorStoneStaggeredSandstone.description>Плитка из песчаника со скругленными углами, уложенная в шахматном порядке.</FloorStoneStaggeredSandstone.description>
+
+	<FloorStoneStaggeredGranite.label>шахматная плитка (гранит)</FloorStoneStaggeredGranite.label>
+	<FloorStoneStaggeredGranite.description>Плитка из гранита со скругленными углами, уложенная в шахматном порядке.</FloorStoneStaggeredGranite.description>
+
+	<FloorStoneStaggeredLimestone.label>шахматная плитка (известняк)</FloorStoneStaggeredLimestone.label>
+	<FloorStoneStaggeredLimestone.description>Плитка из известняка со скругленными углами, уложенная в шахматном порядке.</FloorStoneStaggeredLimestone.description>
+
+	<FloorStoneStaggeredSlate.label>шахматная плитка (сланец)</FloorStoneStaggeredSlate.label>
+	<FloorStoneStaggeredSlate.description>Плитка из сланца со скругленными углами, уложенная в шахматном порядке.</FloorStoneStaggeredSlate.description>
+
+	<FloorStoneStaggeredMarble.label>шахматная плитка (мрамор)</FloorStoneStaggeredMarble.label>
+	<FloorStoneStaggeredMarble.description>Плитка из мрамора со скругленными углами, уложенная в шахматном порядке.</FloorStoneStaggeredMarble.description>
+
+	<FloorStoneStaggeredCeramics.label>шахматная плитка (керамика)</FloorStoneStaggeredCeramics.label>
+	<FloorStoneStaggeredCeramics.description>Плитка из керамики со скругленными углами, уложенная в шахматном порядке.</FloorStoneStaggeredCeramics.description>
+
+	<FloorStoneStaggeredClayBrick.label>шахматная плитка (глиняный кирпич)</FloorStoneStaggeredClayBrick.label>
+	<FloorStoneStaggeredClayBrick.description>Плитка из глиняного кирпича со скругленными углами, уложенная в шахматном порядке.</FloorStoneStaggeredClayBrick.description>
+</LanguageData>

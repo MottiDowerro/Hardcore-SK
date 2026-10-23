@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<WorkGiver_UseAquacultureBasin.label>Работать с бассейном</WorkGiver_UseAquacultureBasin.label>
+	<WorkGiver_UseAquacultureBasin.verb>работает с бассейном</WorkGiver_UseAquacultureBasin.verb>
+	<WorkGiver_UseAquacultureBasin.gerund>работать с бассейном</WorkGiver_UseAquacultureBasin.gerund>
+
+	<WorkGiver_FishAtFishingPier.label>Рыбачить на пирсе</WorkGiver_FishAtFishingPier.label>
+	<WorkGiver_FishAtFishingPier.verb>рыбачит</WorkGiver_FishAtFishingPier.verb>
+	<WorkGiver_FishAtFishingPier.gerund>рыбачить</WorkGiver_FishAtFishingPier.gerund>
+
+	<DoBillsMakeFishingBait.label>Делать наживку</DoBillsMakeFishingBait.label>
+	<DoBillsMakeFishingBait.verb>делает наживку</DoBillsMakeFishingBait.verb>
+	<DoBillsMakeFishingBait.gerund>делать наживку</DoBillsMakeFishingBait.gerund>
+</LanguageData>

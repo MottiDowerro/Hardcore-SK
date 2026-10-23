@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<OverheatMechanoid.label>перегрев</OverheatMechanoid.label>
+	<!-- EN: initial -->
+	<OverheatMechanoid.stages.initial-0.label>начальный</OverheatMechanoid.stages.initial-0.label>
+	<!-- EN: initial -->
+	<OverheatMechanoid.stages.initial-1.label>начальный</OverheatMechanoid.stages.initial-1.label>
+	<!-- EN: minor -->
+	<OverheatMechanoid.stages.minor.label>лёгкий</OverheatMechanoid.stages.minor.label>
+	<!-- EN: serious -->
+	<OverheatMechanoid.stages.serious.label>серьёзный</OverheatMechanoid.stages.serious.label>
+	<!-- EN: extreme -->
+	<OverheatMechanoid.stages.extreme.label>сильнейший</OverheatMechanoid.stages.extreme.label>
+	<!-- EN: Overheating causes system failure -->
+	<OverheatMechanoid.description>Перегрев вызывает сбой систем.</OverheatMechanoid.description>
+	<!-- EN: initial -->
+	<OverheatMechanoid.stages.0.label>начальный</OverheatMechanoid.stages.0.label>
+	<!-- EN: initial -->
+	<OverheatMechanoid.stages.1.label>начальный</OverheatMechanoid.stages.1.label>
+	<!-- EN: minor -->
+	<OverheatMechanoid.stages.2.label>лёгкий</OverheatMechanoid.stages.2.label>
+	<!-- EN: serious -->
+	<OverheatMechanoid.stages.3.label>серьёзный</OverheatMechanoid.stages.3.label>
+	<!-- EN: extreme -->
+	<OverheatMechanoid.stages.4.label>критический</OverheatMechanoid.stages.4.label>
+
+	<GlaciationMechanoid.label>заледенение</GlaciationMechanoid.label>
+	<!-- EN: minor -->
+	<GlaciationMechanoid.stages.minor-0.label>лёгкое</GlaciationMechanoid.stages.minor-0.label>
+	<!-- EN: minor -->
+	<GlaciationMechanoid.stages.minor-1.label>лёгкое</GlaciationMechanoid.stages.minor-1.label>
+	<!-- EN: moderate -->
+	<GlaciationMechanoid.stages.moderate.label>среднее</GlaciationMechanoid.stages.moderate.label>
+	<!-- EN: serious -->
+	<GlaciationMechanoid.stages.serious.label>серьёзное</GlaciationMechanoid.stages.serious.label>
+	<!-- EN: extreme -->
+	<GlaciationMechanoid.stages.extreme.label>критическое</GlaciationMechanoid.stages.extreme.label>
+	<!-- EN: Glaciation causes system failure -->
+	<GlaciationMechanoid.description>Заледенение вызывает сбой систем.</GlaciationMechanoid.description>
+	<!-- EN: minor -->
+	<GlaciationMechanoid.stages.0.label>лёгкое</GlaciationMechanoid.stages.0.label>
+	<!-- EN: minor -->
+	<GlaciationMechanoid.stages.1.label>лёгкое</GlaciationMechanoid.stages.1.label>
+	<!-- EN: moderate -->
+	<GlaciationMechanoid.stages.2.label>среднее</GlaciationMechanoid.stages.2.label>
+	<!-- EN: serious -->
+	<GlaciationMechanoid.stages.3.label>серьёзное</GlaciationMechanoid.stages.3.label>
+	<!-- EN: extreme -->
+	<GlaciationMechanoid.stages.4.label>критическое</GlaciationMechanoid.stages.4.label>
+</LanguageData>

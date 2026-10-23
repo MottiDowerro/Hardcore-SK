@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ElectricShock.label>электрошок</ElectricShock.label>
+	<ElectricShock.injuryProps.destroyedLabel>уничтожено</ElectricShock.injuryProps.destroyedLabel>
+	<ElectricShock.labelNoun>электрошок</ElectricShock.labelNoun>
+	<!-- EN: Electric discharge greatly reduced run speed -->
+	<ElectricShock.description>Электрический разряд значительно снизил скорость передвижения.</ElectricShock.description>
+</LanguageData>

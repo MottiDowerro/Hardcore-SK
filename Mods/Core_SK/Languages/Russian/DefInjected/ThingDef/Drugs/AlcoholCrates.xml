@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Crate_Cider.label>Ящик яблочного сидра</Crate_Cider.label>
+	<Crate_Cider.description>75 бутылок вкуснейшего яблочного сидра, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - GG.</Crate_Cider.description>
+
+	<Crate_Rum.label>Ящик рома</Crate_Rum.label>
+	<Crate_Rum.description>75 бутылок вкуснейшего рома, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - GuiltyHollow.</Crate_Rum.description>
+
+	<Crate_Wine.label>Ящик классического вина</Crate_Wine.label>
+	<Crate_Wine.description>75 бутылок вкуснейшего вина, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Sidfu.</Crate_Wine.description>
+
+	<Crate_BerryWine.label>Ящик ягодного вина</Crate_BerryWine.label>
+	<Crate_BerryWine.description>75 бутылок вкуснейшего ягодного вина, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Laurens.</Crate_BerryWine.description>
+
+	<Crate_Sake.label>Ящик саке</Crate_Sake.label>
+	<Crate_Sake.description>75 бутылок вкуснейшего саке, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Owlchemist.</Crate_Sake.description>
+
+	<Crate_Vodka.label>Ящик водки</Crate_Vodka.label>
+	<Crate_Vodka.description>75 бутылок вкуснейшей водки, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Skyarkhangel.</Crate_Vodka.description>
+
+	<Crate_Tequila.label>Ящик текилы</Crate_Tequila.label>
+	<Crate_Tequila.description>75 бутылок вкуснейшей текилы, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Szara Kryik.</Crate_Tequila.description>
+
+	<Crate_Whiskey.label>Ящик виски</Crate_Whiskey.label>
+	<Crate_Whiskey.description>75 бутылок вкуснейшего виски, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Adenia.</Crate_Whiskey.description>
+
+	<Crate_Moonshine.label>Ящик самогона</Crate_Moonshine.label>
+	<Crate_Moonshine.description>75 бутылок вкуснейшего самогона, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Ky6000.</Crate_Moonshine.description>
+
+	<Crate_Gin.label>Ящик джина</Crate_Gin.label>
+	<Crate_Gin.description>75 бутылок вкуснейшего джина, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - NiciusB.</Crate_Gin.description>
+
+	<Crate_Brandy.label>Ящик бренди</Crate_Brandy.label>
+	<Crate_Brandy.description>75 бутылок вкуснейшего бренди, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Puffamagicdragon.</Crate_Brandy.description>
+
+	<Crate_Cognac.label>Ящик коньяка</Crate_Cognac.label>
+	<Crate_Cognac.description>75 бутылок вкуснейшего коньяка, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Kiko20.</Crate_Cognac.description>
+
+	<Crate_Kahlua.label>Ящик ликёра калуа</Crate_Kahlua.label>
+	<Crate_Kahlua.description>75 бутылок вкуснейшего ликёра калуа, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Fsempri.</Crate_Kahlua.description>
+
+	<Crate_Arak.label>Ящик арака</Crate_Arak.label>
+	<Crate_Arak.description>75 бутылок вкуснейшего арака, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - sKeptr.</Crate_Arak.description>
+
+	<Crate_Applejack.label>Ящик яблочного бренди</Crate_Applejack.label>
+	<Crate_Applejack.description>75 бутылок вкуснейшего яблочного бренди, бережно упакованных в ящик. Можно распаковать в пивоварне. На упаковке красуется логотип изготовителя - Lore.</Crate_Applejack.description>
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Hat_PlagueDoctor.label>маска чумного врача</Hat_PlagueDoctor.label>
+	<Hat_PlagueDoctor.description>Чумные врачи носили их, чтобы защитить себя от болезней во время лечения своих пациентов. Не самая эффективная форма защиты, но лучше, чем ничего.</Hat_PlagueDoctor.description>
+
+	<Hat_Bonnet.label>боннет</Hat_Bonnet.label>
+	<Hat_Bonnet.description>Старомодный головной убор</Hat_Bonnet.description>
+
+	<Hat_NorbalKing.label>рогатая шапка норбалов</Hat_NorbalKing.label>
+	<Hat_NorbalKing.description>Украшенная закаленная рогатая шапка. Часто носили наиболее почитаемые и опытные бойцы общины.</Hat_NorbalKing.description>
+
+	<Hat_Caravaneer.label>шляпа «Караван»</Hat_Caravaneer.label>
+	<Hat_Caravaneer.description>Кочующие торговцы используют такие шляпы для защиты от полевых бурь и других природных напастей.</Hat_Caravaneer.description>
+
+	<Hat_NorbalCowl.label>кожаный капюшон</Hat_NorbalCowl.label>
+	<Hat_NorbalCowl.description>Кожаный капюшон. Часто носят мудрецы общины.</Hat_NorbalCowl.description>
+
+	<Hat_NorbalSkullCap.label>шапка с черепом</Hat_NorbalSkullCap.label>
+	<Hat_NorbalSkullCap.description>Украшенная шапка, защищающая всю голову.</Hat_NorbalSkullCap.description>
+
+	<Hat_NorbalSkullCapWinged.label>красивая шапка с черепом</Hat_NorbalSkullCapWinged.label>
+	<Hat_NorbalSkullCapWinged.description>Украшенная шапка, защищающая всю голову.</Hat_NorbalSkullCapWinged.description>
+
+	<Hat_Kubanka.label>норбальская меховая шапка</Hat_Kubanka.label>
+	<Hat_Kubanka.description>Тёплая шапка из меха.</Hat_Kubanka.description>
+
+	<Hat_Bandana.label>бандана</Hat_Bandana.label>
+	<Hat_Bandana.description>Кусок ткани на голову.</Hat_Bandana.description>
+
+	<Hat_Coif.label>койф</Hat_Coif.label>
+	<Hat_Coif.description>Обычный дешевый чепец из средневековья.</Hat_Coif.description>
+</LanguageData>

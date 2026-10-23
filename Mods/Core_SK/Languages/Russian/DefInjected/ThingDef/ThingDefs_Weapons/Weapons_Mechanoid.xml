@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ================= Mechanoid weapons ================= -->
+	<Gun_lightmechblaster.label>Энерговинтовка Unc-P6</Gun_lightmechblaster.label>
+	<Gun_lightmechblaster.description>Самое ходовое вооружение роя механоидов. Обычно этим оружием вооружены жнецы.</Gun_lightmechblaster.description>
+
+	<Gun_mechlaser.label>Лазерный пульсар Unc-L3</Gun_mechlaser.label>
+	<Gun_mechlaser.description>Лазерный пульсар средней мощности, разработанный механоидами для более эффективного уничтожения живой силы противника.</Gun_mechlaser.description>
+
+	<Gun_mechheavylaser.label>Лазерный пульсар Unc-L9</Gun_mechheavylaser.label>
+	<Gun_mechheavylaser.description>Unc-L9 - тяжёлый лазерный пульсар разработанный механоидами для уничтожения опасных противников, оснащенных бронёй.</Gun_mechheavylaser.description>
+
+	<Gun_ZeonBlaster.label>Плазмер Unc-P80 Zeon</Gun_ZeonBlaster.label>
+	<Gun_ZeonBlaster.description>Редчайшая плазменная пушка. Штучный экземпляр, которым оснащаются элитные силы роя механоидов.</Gun_ZeonBlaster.description>
+
+	<Gun_MechPlasma.label>Плазмо-бластер Unc-PB18</Gun_MechPlasma.label>
+	<Gun_MechPlasma.description>Экспериментальное оружие-прототип, разработанное механоидами. Используется наряду с рейлганом Unc-01 для ведения снайперского огня.</Gun_MechPlasma.description>
+</LanguageData>

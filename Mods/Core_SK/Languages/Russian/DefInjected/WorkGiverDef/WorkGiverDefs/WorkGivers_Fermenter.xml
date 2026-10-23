@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- 
+	label - отображается названием в расширенных приоритетах. 
+	verb - отображается при наведении в расширенных приоритетах.
+	gerund - отображается при прямом приказе (клике правой кнопкой). С заглавной буквы.
+-->
+	<UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>брать продукт из ферментера</UF_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+	<UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>Берет продукт</UF_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+	<UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>Берет продукт из</UF_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+
+	<UF_WorkGiver_FillUniversalFermenter.label>заполнять ферментеры</UF_WorkGiver_FillUniversalFermenter.label>
+	<UF_WorkGiver_FillUniversalFermenter.verb>Заполняет</UF_WorkGiver_FillUniversalFermenter.verb>
+	<UF_WorkGiver_FillUniversalFermenter.gerund>Заполняет</UF_WorkGiver_FillUniversalFermenter.gerund>
+</LanguageData>

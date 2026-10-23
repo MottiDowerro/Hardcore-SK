@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SavannaSoil.label>земля саванны</SavannaSoil.label>
+	<!-- EN: dirt -->
+	<SavannaSoil.tools.dirt.label>земля</SavannaSoil.tools.dirt.label>
+
+	<RockySoil.label>Скалистая грязь</RockySoil.label>
+	<RockySoil.description>Скалистый участок не подходящий для роста растений.</RockySoil.description>
+	<!-- EN: dirt -->
+	<RockySoil.tools.dirt.label>земля</RockySoil.tools.dirt.label>
+
+	<Topsoil.label>Чернозём</Topsoil.label>
+	<Topsoil.description>Превосходная почва, отлично подходящая для роста растений.</Topsoil.description>
+	<!-- EN: dirt -->
+	<Topsoil.tools.dirt.label>земля</Topsoil.tools.dirt.label>
+
+	<DirtFert.label>Удобренный чернозём</DirtFert.label>
+	<DirtFert.description>Превосходная, удобренная почва, отлично подходящая для роста растений.</DirtFert.description>
+	<!-- EN: dirt -->
+	<DirtFert.tools.dirt.label>земля</DirtFert.tools.dirt.label>
+
+	<SoilTilled.label>Возделанная земля</SoilTilled.label>
+	<SoilTilled.description>Пропашка почвы. Делай посадки культур правильно!</SoilTilled.description>
+	<!-- EN: dirt -->
+	<SoilTilled.tools.dirt.label>земля</SoilTilled.tools.dirt.label>
+
+	<PoorSoil.label>Бедная почва</PoorSoil.label>
+	<PoorSoil.description>Бедная почва, в которой не хватает питательных веществ, необходимых для поддержания роста растений.</PoorSoil.description>
+	<!-- EN: dirt -->
+	<PoorSoil.tools.dirt.label>земля</PoorSoil.tools.dirt.label>
+
+	<MarginalSoil.label>Маргинальная почва</MarginalSoil.label>
+	<MarginalSoil.description>Бедная почва, в которой не хватает питательных веществ, необходимых для поддержания роста растений.</MarginalSoil.description>
+	<!-- EN: dirt -->
+	<MarginalSoil.tools.dirt.label>земля</MarginalSoil.tools.dirt.label>
+
+	<DustySoil.label>Пустынная поверхность</DustySoil.label>
+	<DustySoil.description>Пустынная почва, слишком сухая и бесплодная, чтобы поддерживать рост растений.</DustySoil.description>
+	<!-- EN: dirt -->
+	<DustySoil.tools.dirt.label>земля</DustySoil.tools.dirt.label>
+
+	<Quicksand.label>Плывун</Quicksand.label>
+	<Quicksand.description>Насыщенный водой грунт (обычно песок или супесь), который способен разжижаться под механическим воздействием.</Quicksand.description>
+	<Quicksand.tools.0.label>Плывун</Quicksand.tools.0.label>
+
+	<LoamSoil.label>Суглинок</LoamSoil.label>
+	<LoamSoil.description>Почва, состоящая из смеси песка и глины.</LoamSoil.description>
+	<LoamSoil.tools.0.label>Суглинок</LoamSoil.tools.0.label>
+</LanguageData>

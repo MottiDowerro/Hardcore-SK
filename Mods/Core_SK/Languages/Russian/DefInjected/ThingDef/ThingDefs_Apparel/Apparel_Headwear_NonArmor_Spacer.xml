@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Hat_SpeedsterCap.label>шапка с очками</Hat_SpeedsterCap.label>
+	<Hat_SpeedsterCap.description>Шапка из закаленной кожи с шикарными очками.</Hat_SpeedsterCap.description>
+
+	<Hat_EngineerCommLink.label>гарнитура военных инженеров</Hat_EngineerCommLink.label>
+	<Hat_EngineerCommLink.description>Головной убор, который используют военные инженеры. Обычно они отвечают за хранение информации и линии снабжения.</Hat_EngineerCommLink.description>
+</LanguageData>

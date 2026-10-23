@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<TendPawnOnGround.reportString>Оказывает для {0} первую помощь.</TendPawnOnGround.reportString>
+
+	<!-- EN: 문을 열거나 잠그는 중 -->
+	<LockingDoorBasic.reportString>запирает или отпирает двери.</LockingDoorBasic.reportString>
+
+	<JobDef_StudyAncientStargate.reportString>изучает странный артефакт.</JobDef_StudyAncientStargate.reportString>
+
+	<RefuelBurner.reportString>заправляет топливом.</RefuelBurner.reportString>
+
+	<WatchGlassTelevision.reportString>смотрит фильмы.</WatchGlassTelevision.reportString>
+
+	<LockerBasic.reportString>идет к запирающемуся шкафчику.</LockerBasic.reportString>
+
+	<BeatFireWithTool.reportString>Beating fire out</BeatFireWithTool.reportString>
+
+	<Mend.reportString>ремонтирует TargetB.</Mend.reportString>
+
+	<Recycle.reportString>перерабатывает TargetB.</Recycle.reportString>
+
+	<UseSignalFire.reportString>использует сигнальный огонь.</UseSignalFire.reportString>
+
+	<HuntAndLeave.reportString>охотится на TargetA.</HuntAndLeave.reportString>
+
+	<ChatOnComms.reportString>общается через консоль.</ChatOnComms.reportString>
+</LanguageData>

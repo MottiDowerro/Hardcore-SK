@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SenexiumAccelleratedAging.label>Чип: Сенексиум "х60"</SenexiumAccelleratedAging.label>
-  <SenexiumAccelleratedAging.description>Установлен имплантат для ускорения роста в 60 раз.</SenexiumAccelleratedAging.description>
-  <SenexiumAccelleratedAging.labelNoun>Чип: Сенексиум "х60"</SenexiumAccelleratedAging.labelNoun>
-
+	<SenexiumAccelleratedAging.label>ускоренное старение х60</SenexiumAccelleratedAging.label>
+	<SenexiumAccelleratedAging.description>Установлен имплантат для ускорения старения в 60 раз.</SenexiumAccelleratedAging.description>
+	<SenexiumAccelleratedAging.labelNoun>ускоренное старение</SenexiumAccelleratedAging.labelNoun>
 </LanguageData>

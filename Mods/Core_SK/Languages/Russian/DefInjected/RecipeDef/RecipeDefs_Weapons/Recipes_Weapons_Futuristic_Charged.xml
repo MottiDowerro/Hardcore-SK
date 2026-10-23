@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<BuildChargeRifle.label>Собрать энерговинтовку R3 Menstruum</BuildChargeRifle.label>
+	<BuildChargeRifle.description>Винтовка с энергетическими зарядами.</BuildChargeRifle.description>
+	<BuildChargeRifle.jobString>Собирает энерговинтовку R3 Menstruum</BuildChargeRifle.jobString>
+
+	<BuildSplitter.label>Собрать энерговинтовку R6 Splitter</BuildSplitter.label>
+	<BuildSplitter.description>Тяжелая винтовка R6 с энергетическими зарядами.</BuildSplitter.description>
+	<BuildSplitter.jobString>Собирает энерговинтовку R6 Splitter</BuildSplitter.jobString>
+</LanguageData>

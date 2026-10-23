@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Scorpion.label>скорпион</Scorpion.label>
+	<Scorpion.description>Скорпионов можно найти в жарких областях римворлда. Это очень опасный и ядовитый вид насекомых.</Scorpion.description>
+	<!-- EN: head -->
+	<Scorpion.tools.head.label>голова</Scorpion.tools.head.label>
+</LanguageData>

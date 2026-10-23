@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--<SubCategory_QuantumRelay.label>квантовое реле</SubCategory_QuantumRelay.label>
+    <SubCategory_QuantumRelay.description>Дополнение к квантовому складу.</SubCategory_QuantumRelay.description>
+	
+    <SubCategory_QuantumStockpile.label>квантовые запасники</SubCategory_QuantumStockpile.label>
+    <SubCategory_QuantumStockpile.description>Квантовые запасники.</SubCategory_QuantumStockpile.description>
+	
+    <SubCategory_QuantumWarehouse.label>квантовые склады</SubCategory_QuantumWarehouse.label>
+    <SubCategory_QuantumWarehouse.description>Продвинутые квантовые склады.</SubCategory_QuantumWarehouse.description>-->
+	<!-- Food Production -->
+	<SubCategory_ButcherTable.label>разделка</SubCategory_ButcherTable.label>
+	<SubCategory_ButcherTable.description>Специальные столы для разделки трупов.</SubCategory_ButcherTable.description>
+
+	<SubCategory_Stove.label>плиты и грили</SubCategory_Stove.label>
+	<SubCategory_Stove.description>Различные плиты и грили для приготовления пищи.</SubCategory_Stove.description>
+
+	<SubCategory_FoodProcessing.label>обработка</SubCategory_FoodProcessing.label>
+	<SubCategory_FoodProcessing.description>Различные столы для обработки пищи для дальнейшей готовки или хранения.</SubCategory_FoodProcessing.description>
+
+	<SubCategory_CookingStuff.label>кулинария</SubCategory_CookingStuff.label>
+	<SubCategory_CookingStuff.description>Различные столы для приготовления прочих обычных типов пищи и напитков.</SubCategory_CookingStuff.description>
+
+	<SubCategory_SpecialFoods.label>синтезированная пища</SubCategory_SpecialFoods.label>
+	<SubCategory_SpecialFoods.description>Различные синтезаторы пищи и сойлента.</SubCategory_SpecialFoods.description>
+
+	<SubCategory_Brewery.label>пивоварение</SubCategory_Brewery.label>
+	<SubCategory_Brewery.description>Специальные пивоварни для приготовления алкоголя.</SubCategory_Brewery.description>
+
+	<SubCategory_DryingRack.label>сушка и вызревание</SubCategory_DryingRack.label>
+	<SubCategory_DryingRack.description>Служат для сушки трав или мяса.</SubCategory_DryingRack.description>
+
+	<SubCategory_Fishing.label>рыбалка</SubCategory_Fishing.label>
+	<SubCategory_Fishing.description>Постройки для рыбалки и рыбного фермерства.</SubCategory_Fishing.description>
+
+	<SubCategory_Farming.label>фермерство</SubCategory_Farming.label>
+	<SubCategory_Farming.description>Постройки для производства пищи.</SubCategory_Farming.description>
+</LanguageData>

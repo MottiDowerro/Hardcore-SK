@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<GENcounter.label>неопределённая грязь</GENcounter.label>
+
+	<EQcounter.label>неопределённая грязь</EQcounter.label>
+
+	<MTcounter.label>неопределённая грязь</MTcounter.label>
+
+	<MTRcounter.label>неопределённая грязь</MTRcounter.label>
+
+	<RADcounter.label>неопределённая грязь</RADcounter.label>
+
+	<NFcounter.label>неопределённая грязь</NFcounter.label>
+
+	<ORcounter.label>неопределённая грязь</ORcounter.label>
+
+	<CosmicRAD.label>радиоактивная грязь</CosmicRAD.label>
+
+	<NFRAD.label>радиоактивная грязь</NFRAD.label>
+
+	<NuclearStrikeIncoming.label>Стальной дождь на подходе!</NuclearStrikeIncoming.label>
+
+	<!-- EN: Orbital strike (Incoming!) -->
+	<OrbitalStrikeIncoming.label>орбитальный удар (падает!)</OrbitalStrikeIncoming.label>
+
+	<RazorRainIncoming.label>Стальной дождь на подходе!</RazorRainIncoming.label>
+
+	<MechanoidTerraformerIncoming.label>Терраформер механоидов приближается!</MechanoidTerraformerIncoming.label>
+
+	<Thing_RazorSpawner.label>стальной спавнер</Thing_RazorSpawner.label>
+
+	<!-- EN: light -->
+	<VGlower.label>свет</VGlower.label>
+
+	<!-- EN: ship chunk (incoming) -->
+	<ShipChunkIncomingFlame.label>обломок корабля (падает)</ShipChunkIncomingFlame.label>
+
+	<!-- EN: meteorite (incoming) -->
+	<FixedMeteoriteIncoming.label>метеорит (падает)</FixedMeteoriteIncoming.label>
+
+	<!-- EN: meteorite (incoming) -->
+	<FixedMeteoriteIncomingFlame.label>метеорит (падает)</FixedMeteoriteIncomingFlame.label>
+
+	<!-- EN: An enemy ship. -->
+	<EnemyShipPart.description>Корабль противника.</EnemyShipPart.description>
+	<!-- EN: Enemy ship -->
+	<EnemyShipPart.label>корабль противника</EnemyShipPart.label>
+
+	<!-- EN: A portal to transport troops. -->
+	<RaidPortal.description>Портал для переброски войск.</RaidPortal.description>
+	<!-- EN: portal -->
+	<RaidPortal.label>портал</RaidPortal.label>
+</LanguageData>

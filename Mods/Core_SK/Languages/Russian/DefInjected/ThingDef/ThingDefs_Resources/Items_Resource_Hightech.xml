@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Antimatter.label>Антивещество</Antimatter.label>
+	<Antimatter.description>Вы почти приблизились к разгадке тайны вселенной и научились получать антивещество!</Antimatter.description>
+
+	<MagneticMaterial.label>Супермагнит</MagneticMaterial.label>
+	<MagneticMaterial.description>Материал будущего. Невероятно мощный магнитный материал.</MagneticMaterial.description>
+
+	<BiosyntheticMaterial.label>Биосинтетика</BiosyntheticMaterial.label>
+	<BiosyntheticMaterial.description>Материал будущего. Соединение биорганики и синтетики обладающее прочными так и регенерирующими свойствами.</BiosyntheticMaterial.description>
+
+	<Hexcell.label>Модуль питания</Hexcell.label>
+	<Hexcell.description>Компактное устройство хранения энергии, как правило используется для питания современного оружия, экзоскелетов и силовой брони.</Hexcell.description>
+</LanguageData>

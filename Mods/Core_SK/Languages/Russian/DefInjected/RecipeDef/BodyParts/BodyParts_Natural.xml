@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallNaturalEye.label>Пересадить глаз</InstallNaturalEye.label>
+	<InstallNaturalEye.description>Пересадить натуральный глаз.</InstallNaturalEye.description>
+	<InstallNaturalEye.jobString>Пересаживает натуральный глаз</InstallNaturalEye.jobString>
+
+	<InstallNaturalEar.label>Пересадить ухо</InstallNaturalEar.label>
+	<InstallNaturalEar.description>Пересадить натуральное ухо.</InstallNaturalEar.description>
+	<InstallNaturalEar.jobString>Пересаживает натуральное ухо</InstallNaturalEar.jobString>
+
+	<InstallNaturalNose.label>Пересадить нос</InstallNaturalNose.label>
+	<InstallNaturalNose.description>Пересадить натуральный нос.</InstallNaturalNose.description>
+	<InstallNaturalNose.jobString>Пересаживает натуральный нос</InstallNaturalNose.jobString>
+
+	<InstallNaturalStomach.label>Пересадить желудок</InstallNaturalStomach.label>
+	<InstallNaturalStomach.description>Пересадить натуральный желудок.</InstallNaturalStomach.description>
+	<InstallNaturalStomach.jobString>Пересаживает натуральный желудок</InstallNaturalStomach.jobString>
+
+	<InstallNaturalJaw.label>Пересадить челюсть</InstallNaturalJaw.label>
+	<InstallNaturalJaw.description>Пересадить натуральную челюсть.</InstallNaturalJaw.description>
+	<InstallNaturalJaw.jobString>Пересаживает натуральную челюсть</InstallNaturalJaw.jobString>
+
+	<InstallNaturalLeg.label>Пересадить ногу</InstallNaturalLeg.label>
+	<InstallNaturalLeg.description>Пересадить натуральную ногу.</InstallNaturalLeg.description>
+	<InstallNaturalLeg.jobString>Пересаживает натуральную ногу</InstallNaturalLeg.jobString>
+
+	<InstallNaturalArm.label>Пересадить руку</InstallNaturalArm.label>
+	<InstallNaturalArm.description>Пересадить натуральную руку.</InstallNaturalArm.description>
+	<InstallNaturalArm.jobString>Пересаживает натуральную руку</InstallNaturalArm.jobString>
+
+	<!-- EN: Installs a natural Foot. -->
+	<InstallNaturalFoot.description>Пересадить натуральную ступню.</InstallNaturalFoot.description>
+	<!-- EN: Installing Fott. -->
+	<InstallNaturalFoot.jobString>Пересаживает натуральную ступню</InstallNaturalFoot.jobString>
+	<!-- EN: Install Foot -->
+	<InstallNaturalFoot.label>пересадить ступню</InstallNaturalFoot.label>
+
+	<!-- EN: Installs a natural Hand. -->
+	<InstallNaturalHand.description>Пересадить натуральную кисть.</InstallNaturalHand.description>
+	<!-- EN: Installing Hand. -->
+	<InstallNaturalHand.jobString>Пересаживает натуральную кисть</InstallNaturalHand.jobString>
+	<!-- EN: Install hand -->
+	<InstallNaturalHand.label>пересадить кисть</InstallNaturalHand.label>
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Furniture -->
+	<SubCategory_SpecialBeds.label>особые кровати</SubCategory_SpecialBeds.label>
+	<SubCategory_SpecialBeds.description>Кровати со специальным назначением - спальные мешки и гостевые кровати.</SubCategory_SpecialBeds.description>
+
+	<SubCategory_KidsBeds.label>детские кровати</SubCategory_KidsBeds.label>
+	<SubCategory_KidsBeds.description>Кровати для детей.</SubCategory_KidsBeds.description>
+
+	<SubCategory_StandardBeds.label>обычные кровати</SubCategory_StandardBeds.label>
+	<SubCategory_StandardBeds.description>Обычные кровати для одного человека.</SubCategory_StandardBeds.description>
+
+	<SubCategory_DoubleBeds.label>двойные кровати</SubCategory_DoubleBeds.label>
+	<SubCategory_DoubleBeds.description>Двойные кровати. Могут использоваться сразу двумя людьми.</SubCategory_DoubleBeds.description>
+
+	<SubCategory_LoftBeds.label>лофтовые кровати</SubCategory_LoftBeds.label>
+	<SubCategory_LoftBeds.description>Кровати для постройки над другими строениями для нужд ваших бараков.</SubCategory_LoftBeds.description>
+
+	<SubCategory_AdvancedBeds.label>продвинутые кровати</SubCategory_AdvancedBeds.label>
+	<SubCategory_AdvancedBeds.description>Продвинутые кровати с повышенными показателями комфорта и отдыха.</SubCategory_AdvancedBeds.description>
+
+	<SubCategory_HospitalBeds.label>больничные кровати</SubCategory_HospitalBeds.label>
+	<SubCategory_HospitalBeds.description>Специальные кровати для лечения заболевших.</SubCategory_HospitalBeds.description>
+
+	<SubCategory_AnimalFurniture.label>кровати для зверей</SubCategory_AnimalFurniture.label>
+	<SubCategory_AnimalFurniture.description>Различные кровати и спальные места для животных.</SubCategory_AnimalFurniture.description>
+
+	<SubCategory_Seats.label>стулья</SubCategory_Seats.label>
+	<SubCategory_Seats.description>Различные обычные  стулья и скамейки.</SubCategory_Seats.description>
+
+	<SubCategory_ComfortableSeats.label>удобные стулья</SubCategory_ComfortableSeats.label>
+	<SubCategory_ComfortableSeats.description>Стулья и кресла с повышенным комфортом.</SubCategory_ComfortableSeats.description>
+
+	<SubCategory_RoyaltyStuff.label>седалища знати</SubCategory_RoyaltyStuff.label>
+	<SubCategory_RoyaltyStuff.description>Троны и ширмы для знатных особ.</SubCategory_RoyaltyStuff.description>
+
+	<SubCategory_TablesN.label>примитивные столы</SubCategory_TablesN.label>
+	<SubCategory_TablesN.description>Обеденные столы.</SubCategory_TablesN.description>
+
+	<SubCategory_Tables.label>обычные столы</SubCategory_Tables.label>
+	<SubCategory_Tables.description>Обеденные столы.</SubCategory_Tables.description>
+
+	<SubCategory_TablesM.label>современные столы</SubCategory_TablesM.label>
+	<SubCategory_TablesM.description>Обеденные столы.</SubCategory_TablesM.description>
+
+	<SubCategory_SpTables.label>тумбы</SubCategory_SpTables.label>
+	<SubCategory_SpTables.description>Разные тумбы и кофейные столики.</SubCategory_SpTables.description>
+
+	<SubCategory_ClothLockers.label>запирающиеся ящики</SubCategory_ClothLockers.label>
+	<SubCategory_ClothLockers.description>Разные ящики с замком для хранения одежды.</SubCategory_ClothLockers.description>
+
+	<SubCategory_Books.label>книжные полки</SubCategory_Books.label>
+	<SubCategory_Books.description>Мебель для хранения и использования книг.</SubCategory_Books.description>
+
+	<SubCategory_SchoolStuff.label>школьная мебель</SubCategory_SchoolStuff.label>
+	<SubCategory_SchoolStuff.description>Преподавание - единственный правильный путь сохранения знания (кроме внедрения знаний прямо в мозг конечно).</SubCategory_SchoolStuff.description>
+</LanguageData>

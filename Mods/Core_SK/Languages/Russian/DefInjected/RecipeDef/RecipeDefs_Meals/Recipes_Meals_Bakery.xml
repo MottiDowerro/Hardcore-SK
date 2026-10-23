@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MakePizza.label>Приготовить пиццу</MakePizza.label>
+	<MakePizza.description>Приготовить пиццу.</MakePizza.description>
+	<MakePizza.jobString>Готовит пиццу</MakePizza.jobString>
+
+	<MakePieBlueberry.label>Приготовить фруктовый пирог</MakePieBlueberry.label>
+	<MakePieBlueberry.description>Приготовить фруктовый пирог</MakePieBlueberry.description>
+	<MakePieBlueberry.jobString>Готовит фруктовый пирог</MakePieBlueberry.jobString>
+
+	<MakeTaffy.label>Сделать ириски</MakeTaffy.label>
+	<MakeTaffy.description>Сделать ириски.</MakeTaffy.description>
+	<MakeTaffy.jobString>Делает ириски</MakeTaffy.jobString>
+
+	<MakeCookies.label>Приготовить печенье</MakeCookies.label>
+	<MakeCookies.description>Приготовить печенье.</MakeCookies.description>
+	<MakeCookies.jobString>Готовит печенье</MakeCookies.jobString>
+
+	<MakeSweetBun.label>Приготовить сладкие булочки</MakeSweetBun.label>
+	<MakeSweetBun.description>Приготовить сладкие булочки покрытые сладкой глазурью.</MakeSweetBun.description>
+	<MakeSweetBun.jobString>Готовит сладкие булочки</MakeSweetBun.jobString>
+
+	<Grind_Flour.label>Намолоть муку</Grind_Flour.label>
+	<Grind_Flour.description>Сделать муку из зерна. На изготовление уходит 0,8 дня.</Grind_Flour.description>
+
+	<Grind_Sugar.label>Намолоть сахар</Grind_Sugar.label>
+	<Grind_Sugar.description>Сделать сахар из сахарного тростника. На изготовление уходит 0,8 дня.</Grind_Sugar.description>
+</LanguageData>

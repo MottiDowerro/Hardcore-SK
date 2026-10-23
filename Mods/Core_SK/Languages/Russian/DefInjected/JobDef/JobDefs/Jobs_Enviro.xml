@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Kill.reportString>Убивает TargetA.</Kill.reportString>
+
+	<Segmentation.reportString>Сегментация через TargetA.</Segmentation.reportString>
+
+	<CrushDoor.reportString>Сокрушает TargetB, чтобы добраться цели.</CrushDoor.reportString>
+
+	<Absorb.reportString>Поглощает TargetA.</Absorb.reportString>
+
+	<!-- EN: Suck TargetA blood. -->
+	<SuckBlood.reportString>сосёт кровь TargetA.</SuckBlood.reportString>
+</LanguageData>

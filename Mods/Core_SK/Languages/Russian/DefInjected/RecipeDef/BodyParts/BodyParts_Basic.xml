@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: 안대를 설치합니다. -->
+	<InstallEyePatch.description>Установить повязку на глаз.</InstallEyePatch.description>
+	<!-- EN: 수술 중 : 안대 설치 수술 중 -->
+	<InstallEyePatch.jobString>Устанавливает повязку на глаз</InstallEyePatch.jobString>
+	<!-- EN: 수술 : 안대 설치 -->
+	<InstallEyePatch.label>установить повязку на глаз</InstallEyePatch.label>
+
+	<!-- EN: 갈고리 손을 설치합니다. -->
+	<InstallHookHand.description>Установить протез-крюк.</InstallHookHand.description>
+	<!-- EN: 수술 중 : 갈고리 손 설치 수술 중 -->
+	<InstallHookHand.jobString>Устанавливает протез-крюк</InstallHookHand.jobString>
+	<!-- EN: 수술 : 갈고리 손 설치 -->
+	<InstallHookHand.label>установить протез-крюк</InstallHookHand.label>
+</LanguageData>

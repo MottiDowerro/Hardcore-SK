@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<BuildLMG.label>Собрать пулемёт L-15</BuildLMG.label>
+	<BuildLMG.description>Старомодный, но мощный легкий ручной пулемёт.</BuildLMG.description>
+	<BuildLMG.jobString>Собирает ручной пулемёт L-15</BuildLMG.jobString>
+
+	<BuildM56_USCM.label>Собрать пулемёт АМ M56 Smartgun</BuildM56_USCM.label>
+	<BuildM56_USCM.description>M56 АМ Smartgun, состоит на вооружении «U.S. Colonial Marine Corps», в качестве основного оружия огневой поддержки.</BuildM56_USCM.description>
+	<BuildM56_USCM.jobString>Собирает пулемёт АМ M56 Smartgun</BuildM56_USCM.jobString>
+
+	<!-- ==================== Machine guns ========================== -->
+	<BuildMinigun.label>Собрать микроган XM214</BuildMinigun.label>
+	<BuildMinigun.description>Скорострельный пулемёт с вращающимся блоком стволом.</BuildMinigun.description>
+	<BuildMinigun.jobString>Собирает Микроган XM214</BuildMinigun.jobString>
+
+	<BuildGalilBurstRifle.label>Собрать пулемёт Galil ACE</BuildGalilBurstRifle.label>
+	<BuildGalilBurstRifle.description>Ручной пулемёт. Древняя модель оружия. Хорошая дальность, низкая мощность, высокая скорострельность</BuildGalilBurstRifle.description>
+	<BuildGalilBurstRifle.jobString>Собирает Ручной пулемёт Galil ACE</BuildGalilBurstRifle.jobString>
+
+	<BuildHeavyCombatRifle.label>Собрать пулемёт MA39X ICWS</BuildHeavyCombatRifle.label>
+	<BuildHeavyCombatRifle.description>Удобный в использовании ручной пулемёт MK 48 Mod.0.</BuildHeavyCombatRifle.description>
+	<BuildHeavyCombatRifle.jobString>Собирает пулемёт MA39X ICWS</BuildHeavyCombatRifle.jobString>
+
+	<BuildM249.label>Собрать пулемёт M249 SAW</BuildM249.label>
+	<BuildM249.description>Мощный тяжелый ручной пулемет M249.</BuildM249.description>
+	<BuildM249.jobString>Собирает пулемёт M249 SAW</BuildM249.jobString>
+
+	<Build_M60GPMG.label>Собрать пулемёт M60E4</Build_M60GPMG.label>
+	<Build_M60GPMG.description>Пулемет винтовочного калибра, обладающий высокой огневой мощью.</Build_M60GPMG.description>
+	<Build_M60GPMG.jobString>Собирает пулемёт M60E4</Build_M60GPMG.jobString>
+</LanguageData>

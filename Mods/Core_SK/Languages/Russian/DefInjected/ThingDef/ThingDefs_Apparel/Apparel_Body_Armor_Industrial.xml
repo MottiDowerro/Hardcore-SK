@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Armor_ColonialMarine.label>пехотная броня</Armor_ColonialMarine.label>
+	<Armor_ColonialMarine.description>Полная броня морского десантника.</Armor_ColonialMarine.description>
+
+	<Armor_TacticalVest.label>тактический бронежилет</Armor_TacticalVest.label>
+	<Armor_TacticalVest.description>Удобный в использовании тактический бронежилет для экипировки бойцов.</Armor_TacticalVest.description>
+</LanguageData>

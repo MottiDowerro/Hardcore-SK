@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CopperBar.label>медь</CopperBar.label>
+	<CopperBar.description>Медь является сплавом медной руды. В основном она используется для электротехнических целей благодаря своей высокой проводимости. Медь не является магнитным металлом.</CopperBar.description>
+	<CopperBar.stuffProps.stuffAdjective>меди</CopperBar.stuffProps.stuffAdjective>
+
+	<TinBar.label>олово</TinBar.label>
+	<TinBar.description>Чистое металлическое олово, выплавленное из оловянной руды. Олово не является магнитным металлом.</TinBar.description>
+	<TinBar.stuffProps.stuffAdjective>олова</TinBar.stuffProps.stuffAdjective>
+
+	<Bronze.label>бронза</Bronze.label>
+	<Bronze.description>Бронза главным образом состоит из меди, обычно с 12% олова и часто с добавлением других металлов, таких как алюминий и никель.</Bronze.description>
+	<Bronze.stuffProps.stuffAdjective>бронзы</Bronze.stuffProps.stuffAdjective>
+
+	<GoldBar.label>золотой слиток</GoldBar.label>
+	<GoldBar.description>Золото - это красивый, драгоценный сплав чистого золота и меди или бокситов. Золото не является магнитным металлом.</GoldBar.description>
+	<GoldBar.stuffProps.stuffAdjective>золота</GoldBar.stuffProps.stuffAdjective>
+
+	<SilverBar.label>серебрянный слиток</SilverBar.label>
+	<SilverBar.description>Слиток стерлингового серебра - ценного сплава серебра и меди или бокситов. Стерлинговое серебро не является магнитным металлом.</SilverBar.description>
+	<SilverBar.stuffProps.stuffAdjective>серебра</SilverBar.stuffProps.stuffAdjective>
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Apparel_DoctorBrocade.label>медицинский жилет</Apparel_DoctorBrocade.label>
+	<Apparel_DoctorBrocade.description>Незаменимая вещь для полевого медика. Наличие огромного числа карманов позволит разместить все необходимые медикаменты.\nВрачи, имеющие такую брутальную экипировку, всегда знают, как спаси жизнь пациента или, по крайней мере, создают такое впечатление.</Apparel_DoctorBrocade.description>
+
+	<Apparel_ChefJacket.label>костюм шеф-повара</Apparel_ChefJacket.label>
+	<Apparel_ChefJacket.description>Одежда для настоящего мастера колпака и половника. Владелец этого костюма наверняка знает как сделать вкусно.</Apparel_ChefJacket.description>
+
+	<!--Sets-->
+	<Apparel_CryptosleepBodysuit.label>Комбинезон криптосна</Apparel_CryptosleepBodysuit.label>
+	<Apparel_CryptosleepBodysuit.description>Полностью закрывающий тело комбинезон, предназначенный для длительного криптосна. Вы можете спокойно отдыхать, зная, что ваше тело не будет обнаженным сотни или тысячи лет, пока вы спите.</Apparel_CryptosleepBodysuit.description>
+
+	<Apparel_MarineBodysuit.label>Комбинезон морской пехоты</Apparel_MarineBodysuit.label>
+	<Apparel_MarineBodysuit.description>Темно-зелёный комбинезон сил специального назначения. Закрывает также руки.</Apparel_MarineBodysuit.description>
+
+	<Apparel_VicScullery.label>униформа слуги</Apparel_VicScullery.label>
+	<Apparel_VicScullery.description>Дизайн эпохи первой промышленной революции человечества. Посудомойка — самая низкоранговая из служанок, отвечающая за мытье посуды и выполнение других несложных домашних обязанностей.\n\nМужской эквивалент — мальчик-слуга, чьи обязанности часто были одними из самых неприятных в доме, например, опорожнение ночных горшков для слуг более высокого ранга и чистка обуви.</Apparel_VicScullery.description>
+
+	<Apparel_MedicUniform.label>Медицинский халат</Apparel_MedicUniform.label>
+	<Apparel_MedicUniform.description>Самый обычный медицинский халат.</Apparel_MedicUniform.description>
+
+	<Apparel_MedicalApron.label>хирургический передник</Apparel_MedicalApron.label>
+	<Apparel_MedicalApron.description>Милый пластиковый передник, хорошо защищающий от брызг крови во время операции.</Apparel_MedicalApron.description>
+
+	<Apparel_SmithApron.label>Фартук с нагрудником</Apparel_SmithApron.label>
+	<Apparel_SmithApron.description>Такие универсальные фартуки из дублёной кожи - излюбленная одежда различных ремесленников.</Apparel_SmithApron.description>
+
+	<Apparel_CookApron.label>передник</Apparel_CookApron.label>
+	<Apparel_CookApron.description>Обычный тканевый передник, хорошо защищающий от грязи во время работы по дому.</Apparel_CookApron.description>
+
+	<Apparel_UrbanShirt.label>городская футболка</Apparel_UrbanShirt.label>
+	<Apparel_UrbanShirt.description>Все панки чувствовали бы себя счастливыми носить это.</Apparel_UrbanShirt.description>
+
+	<Apparel_MarineShirt.label>майка морской пехоты</Apparel_MarineShirt.label>
+	<Apparel_MarineShirt.description>Это настоящая зеленая майка морского десанта!</Apparel_MarineShirt.description>
+</LanguageData>

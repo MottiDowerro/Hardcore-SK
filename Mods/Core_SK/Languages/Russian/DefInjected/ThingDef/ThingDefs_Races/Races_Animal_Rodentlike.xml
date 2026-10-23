@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Chipmunk.label>бурундук</Chipmunk.label>
+	<Chipmunk.description>Небольшой грызун, известный своей способностью забивать за щеки огромное количество еды.</Chipmunk.description>
+	<!-- EN: head -->
+	<Chipmunk.tools.head.label>голова</Chipmunk.tools.head.label>
+	<!-- EN: left claw -->
+	<Chipmunk.tools.0.label>левая лапа</Chipmunk.tools.0.label>
+	<!-- EN: right claw -->
+	<Chipmunk.tools.1.label>правая лапа</Chipmunk.tools.1.label>
+</LanguageData>

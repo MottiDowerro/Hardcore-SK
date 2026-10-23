@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Armor_SkynetCloak.label>плащ скайнета</Armor_SkynetCloak.label>
+	<Armor_SkynetCloak.description>Высокотехнологичный плащ скайнета, который часто носят терминаторы.</Armor_SkynetCloak.description>
+
+	<Armor_PowerArmorLight.label>лёгкая силовая броня</Armor_PowerArmorLight.label>
+	<Armor_PowerArmorLight.description>Легкая силовая броня, с прикрепленными экзо-движками, которые позволяют немного быстрее передвигаться.</Armor_PowerArmorLight.description>
+
+	<Armor_PowerArmorMedium.label>средняя силовая броня</Armor_PowerArmorMedium.label>
+	<Armor_PowerArmorMedium.description>Средняя силовая броня, предназначенная для легких пехотных и вспомогательных подразделений. Менее знаменитая и массивнее легкой силовой брони. Поставляется с прикрепленными экзо-движками, что позволяет немного быстрее передвигаться.</Armor_PowerArmorMedium.description>
+
+	<Armor_SyndicateCoat.label>длинное пальто «Синдикат»</Armor_SyndicateCoat.label>
+	<Armor_SyndicateCoat.description>Длинное пальто с пуленепробиваемым бронированным сплавом, оснащен щитом.</Armor_SyndicateCoat.description>
+
+	<Armor_PhaseArmor.label>доспех «Фаза»</Armor_PhaseArmor.label>
+	<Armor_PhaseArmor.description>Средний доспех «Фаза», обладает хорошими сбалансированными характеристиками.</Armor_PhaseArmor.description>
+
+	<Armor_Hive.label>тяжелая броня «Чужой»</Armor_Hive.label>
+	<Armor_Hive.description>Изготовленная по технологиям инопланетного сплава структуры тела центропеды. Это чрезвычайно громоздкая броня, которая почти не поддается разрушению. Сам вес брони резко тормозит мобильность.</Armor_Hive.description>
+
+	<Armor_Steamhull.label>средняя броня «Чужой»</Armor_Steamhull.label>
+	<Armor_Steamhull.description>Сочетание повышенной мобильности компонентов каркаса брони по технологии инопланетного сплава лезвия Жнеца и тяжелой обшивки брони Центропеды, получили увеличение мощности для работы сервоприводов, что заставило шок демпферы работать на меньшей мощности. Таким образом, владелец более уязвим для травм, но и имеет более высокую мобильность, а в боевых ситуациях это много стоит. Создает огромное кол-во тепла.</Armor_Steamhull.description>
+
+	<Armor_HellPowerArmor.label>адская силовая броня</Armor_HellPowerArmor.label>
+	<Armor_HellPowerArmor.description>Усовершенствованная силовая броня. Обычно используется штурмовыми отрядами с развитых планет.</Armor_HellPowerArmor.description>
+
+	<Armor_InteractorCloak.label>плащ-интерактор</Armor_InteractorCloak.label>
+	<Armor_InteractorCloak.description>Особый плащ-интерактор. Обеспечивает хорошую теплоизоляцию от жары и холода.</Armor_InteractorCloak.description>
+
+	<Armor_Siege.label>осадная броня «Дверг»</Armor_Siege.label>
+	<!-- EN: 이것은 JE-342A7"드워프" 공성 갑옷 세트의 일부입니다. 이 갑옷은 공성전에서 성벽을 돌파하는 용도 딱 하나만을 생각하고 만들어진 갑옷입니다. -->
+	<Armor_Siege.description>Часть комплекта осадной брони JE-342A7 "Дверг". Эта броня разработана исключительно для одной цели - сокрушительного прорыва крепостных стен в ходе осады.</Armor_Siege.description>
+
+	<Armor_CQC.label>штурмовая броня «Эйнхерий»</Armor_CQC.label>
+	<!-- EN: 이것은 JE-257A1"아인헤랴르" 백병전 전투 갑옷 세트의 일부입니다. 이것은 JE-342A7"드워프"갑옷을 개조해 두꺼운 갑옷 플레이트중 일부를 제거하여 근접 전투에서 효율을 더 내기 위해 만들어졌습니다. -->
+	<Armor_CQC.description>Часть комплекта штурмовой боевой брони JE-257A1 "Эйнхерий". Создана путём модификации брони JE-342A7 "Дверг" с удалением части массивных бронепластин для большей подвижности и эффективности в ближнем бою.</Armor_CQC.description>
+
+	<Armor_AlloyVest.label>бронежилет из лёгкого сплава</Armor_AlloyVest.label>
+	<Armor_AlloyVest.description>Защитный жилет, сделано из нескольких слоев чрезвычайно легкого, но прочного сплава.</Armor_AlloyVest.description>
+
+	<Armor_Commando.label>броня коммандос</Armor_Commando.label>
+	<Armor_Commando.description>Стандартные доспехи, которые носят коммандос в полевых условиях. Легко носить, но в то же время они также обеспечивают хорошую защиту на поле боя.</Armor_Commando.description>
+
+	<Armor_Interstellar.label>межзвездная броня</Armor_Interstellar.label>
+	<Armor_Interstellar.description>Специальная броня предназначенная для межзвездных путешествий и высадок на неизведанные планеты.</Armor_Interstellar.description>
+</LanguageData>

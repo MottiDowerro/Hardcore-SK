@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Boots-->
+	<Boots_Clawed.label>сапоги с зубцами</Boots_Clawed.label>
+	<Boots_Clawed.description>Устойчивые к походам по пересеченной местности</Boots_Clawed.description>
+
+	<Boots_Shoes.label>обычные ботинки</Boots_Shoes.label>
+	<Boots_Shoes.description>Обычная обувь. Хороши при движении по местности.</Boots_Shoes.description>
+
+	<Boots_Plated.label>пластинчатые сапоги</Boots_Plated.label>
+	<Boots_Plated.description>Пара кожаных сапог со стальными пластинами.</Boots_Plated.description>
+
+	<Boots_Metal.label>армированные сапоги</Boots_Metal.label>
+	<Boots_Metal.description>Армированным сапогом можно с легкостью уничтожить пару вражеских пальцев.</Boots_Metal.description>
+
+	<Boots_Snow.label>снегоступы</Boots_Snow.label>
+	<Boots_Snow.description>Снегоступы. Исключительно теплые и удобные.</Boots_Snow.description>
+
+	<Boots_Fur.label>меховые сапоги</Boots_Fur.label>
+	<Boots_Fur.description>Пушистые и тёплые сапоги. Помогают при движении по местности.</Boots_Fur.description>
+
+	<Boots_Spurred.label>ботинки со шпорами</Boots_Spurred.label>
+	<Boots_Spurred.description>Кожаные сапоги со шпорами. Хороши при движении по местности.</Boots_Spurred.description>
+
+	<Boots_Combat.label>боевые сапоги</Boots_Combat.label>
+	<Boots_Combat.description>Серийные походные сапоги, изготовленные из гиперткани и металла. Корректировка в дизайне ремешков, стельки из гиперткани и контур формы обеспечивают удобную посадку для любого типа стопы.</Boots_Combat.description>
+
+	<Boots_Techno.label>техносапоги</Boots_Techno.label>
+	<Boots_Techno.description>Выполненные на заказ ракетными промышленниками, эти сапоги - чудо современных технологий, поставляются в комплекте с обшивкой из металла.</Boots_Techno.description>
+
+	<Boots_Speed.label>скоростные сапоги</Boots_Speed.label>
+	<Boots_Speed.description>Созданы исключительно для быстрого перемещения и прыжков, как у кролика.</Boots_Speed.description>
+</LanguageData>

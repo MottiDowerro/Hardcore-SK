@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<TableSawmillHand.label>Стол плотника</TableSawmillHand.label>
+	<TableSawmillHand.description>Стол плотника для обработки брёвен в доски или дрова.</TableSawmillHand.description>
+
+	<TableSawmillElectric.label>Электрический станок плотника</TableSawmillElectric.label>
+	<TableSawmillElectric.description>Электрический станок плотника для обработки брёвен в доски или дрова. Позволяет выполнять работу быстрее, чем вручную.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 60 W\nПри работе: 600 W</TableSawmillElectric.description>
+
+	<GlassworkTable.label>Стеклорезный стол</GlassworkTable.label>
+	<GlassworkTable.description>Включает в себя все необходимые инструменты для производства и обработки стекла.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 40 W\nПри работе: 400 W</GlassworkTable.description>
+
+	<TableStonecutterNeolithic.label>Примитивный камнерезный верстак</TableStonecutterNeolithic.label>
+	<TableStonecutterNeolithic.description>Допотопный камнерезный верстак для переработки камней в блоки.</TableStonecutterNeolithic.description>
+
+	<ConcreteMixer.label>Бетономешалка</ConcreteMixer.label>
+	<ConcreteMixer.description>Производит бетон из песка и щебня.</ConcreteMixer.description>
+
+	<EConcreteMixer.label>Электрическая бетономешалка</EConcreteMixer.label>
+	<EConcreteMixer.description>Электрическая бетономешалка производит бетон быстрее обычной! Но по прежнему из песка и щебня.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 50 W\nПри работе: 500 W</EConcreteMixer.description>
+
+	<TableChemlab.label>Нефтехимическая лаборатория</TableChemlab.label>
+	<TableChemlab.description>Лаборатория для производства нефтепродуктов, таких как пластик, каучук и синтетическое волокно.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 45 W\nПри работе: 450 W</TableChemlab.description>
+
+	<Extractor.label>Добывающая установка</Extractor.label>
+	<Extractor.description>С помощью этой установки можно добывать различные полезные ресурсы, хранящиеся в недрах земли.\n\nНужна энергия.\nПотребляемая мощность: 800 W</Extractor.description>
+
+	<RareExtractor.label>Улучшенная добывающая установка</RareExtractor.label>
+	<RareExtractor.description>С помощью этой установки можно добывать различные полезные ресурсы, хранящиеся в недрах земли.\n\nНужна энергия.\nПотребляемая мощность: 1100 W</RareExtractor.description>
+</LanguageData>

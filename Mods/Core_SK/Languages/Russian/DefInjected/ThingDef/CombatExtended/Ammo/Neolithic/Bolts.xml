@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ==================== Neolitic ========================== -->
+	<Ammo_Bolt_Metallic.label>Болт (металлический)</Ammo_Bolt_Metallic.label>
+	<Ammo_Bolt_Metallic.description>Самый обычный болт с металлическим наконечником.</Ammo_Bolt_Metallic.description>
+
+	<Ammo_Bolt_Venom.label>Болт (отравленный)</Ammo_Bolt_Venom.label>
+	<Ammo_Bolt_Venom.description>Болт с отравленным наконечником.</Ammo_Bolt_Venom.description>
+
+	<Ammo_Bolt_Explosive.label>Болт (взрывной)</Ammo_Bolt_Explosive.label>
+	<Ammo_Bolt_Explosive.description>Болт с разрывным наконечником. Делает небольшой бабах при поражении цели.</Ammo_Bolt_Explosive.description>
+
+	<Projectile_MetallicBolt.label>болт (метал.)</Projectile_MetallicBolt.label>
+
+	<Projectile_VenomBolt.label>болт (яд.)</Projectile_VenomBolt.label>
+
+	<Projectile_ExplosiveBolt.label>болт (взрыв.)</Projectile_ExplosiveBolt.label>
+</LanguageData>

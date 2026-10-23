@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Gun_ATML.label>Орудие FGM-148 "Javelin"</Gun_ATML.label>
+	<Gun_ATML.description>Противотанковый ракетный комплекс FGM-148 Javelin.</Gun_ATML.description>
+
+	<!-- ==================== Rocket turrets ========================== -->
+	<Artillery_TOWMissile.label>Орудие BGM-71 TOW</Artillery_TOWMissile.label>
+	<Artillery_TOWMissile.description>BGM-71 TOW комплекс для тяжёлой противотанковой турели.</Artillery_TOWMissile.description>
+
+	<Gun_MissileSystem.label>Орудие RGM-3 "Вихрь"</Gun_MissileSystem.label>
+	<Gun_MissileSystem.description>Стационарный ракетный 130мм комплекс. Выпускает 2 ракеты за раз.</Gun_MissileSystem.description>
+
+	<Gun_RL.label>Орудие RGM-6 "Шквал"</Gun_RL.label>
+	<Gun_RL.description>Стационарный ракетный 130мм комплекс. Выпускает 3 ракеты за раз.</Gun_RL.description>
+</LanguageData>

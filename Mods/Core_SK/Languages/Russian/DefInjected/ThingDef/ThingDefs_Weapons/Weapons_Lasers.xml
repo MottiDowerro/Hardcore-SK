@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Gun_Mantis.label>Лазер M-6 Mantis</Gun_Mantis.label>
+	<Gun_Mantis.description>Лазерный пульсер, способный поражать цели на удалённом расстоянии с высокой точностью и мощностью выстрела, но низкой скорострельностью.</Gun_Mantis.description>
+
+	<LaserRifle.label>Лазер M-8 Revenant</LaserRifle.label>
+	<LaserRifle.description>Лазерная пульсер-винтовка, способная поражать цели на удалённом расстоянии с высокой точностью выстрела, но малой мощностью.</LaserRifle.description>
+
+	<HeavyLasergun.label>Лазер M-10 Spiker</HeavyLasergun.label>
+	<HeavyLasergun.description>Лазерный пульсер, способный поражать цели на удалённом расстоянии со средней точностью выстрела.</HeavyLasergun.description>
+
+	<BurstLasergun.label>Лазер M-12 Intercessor</BurstLasergun.label>
+	<BurstLasergun.description>Лазерный пульсар, способный поражать цели на удалённом расстоянии с низкой точностью выстрела, но большей мощностью.</BurstLasergun.description>
+</LanguageData>

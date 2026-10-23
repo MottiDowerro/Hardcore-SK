@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<OrganicOptimizing.label>Ввести органические оптимизирующие наноботы</OrganicOptimizing.label>
+	<OrganicOptimizing.description>Комплект органических продвинутых наноботов, которые помогают раскрыть весь потенциал естественного тела. Для завершения процесса требуется 3 дня, требуя больше отдыха и большее потребление пищи. В конце этого изнурительного процесса наноботы ломаются и растворяются, не оставляя следов.\n\nПовышение эффективности при полном завершении процедуры после 3 дней: +15%</OrganicOptimizing.description>
+
+	<InstinctOptimizingEyes.label>Ввести в глаз оптимизирующих инстинкты наноботов</InstinctOptimizingEyes.label>
+	<InstinctOptimizingEyes.description>Улучшите инстинктивную реакцию глаз с помощью наноботов, оптимизирующих инстинкты, повышая точность попадания и прицеливания. Хирург тщательно следит за первоначальным применением и прогрессом.</InstinctOptimizingEyes.description>
+
+	<InstinctOptimizingHands.label>Ввести в руку оптимизирующих инстинкты наноботов</InstinctOptimizingHands.label>
+	<InstinctOptimizingHands.description>Улучшение инстинктивной реакции рук с помощью наноботов, оптимизирующих инстинкты, повышение скорости прицеливания, нанесения ударов оружием ближнего боя и общей повторяющейся работы. При этом хирург тщательно следит за первоначальным применением и прогрессом.</InstinctOptimizingHands.description>
+
+	<InstinctOptimizingFoot.label>Ввести в ногу оптимизирующих инстинкты наноботов</InstinctOptimizingFoot.label>
+	<InstinctOptimizingFoot.description>Улучшите инстинктивную реакцию ног с помощью наноботов, оптимизирующих инстинкты, улучшая способность уклоняться от входящих атак ближнего боя. Хирург тщательно следит за первичным применением и прогрессом.</InstinctOptimizingFoot.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Temperature -->
+	<SubCategory_Vents.label>вентилирование</SubCategory_Vents.label>
+	<SubCategory_Vents.description>Точный контроль температуры воздуха в помещениях.</SubCategory_Vents.description>
+
+	<SubCategory_PipesAir.label>вентиляционные трубы</SubCategory_PipesAir.label>
+	<SubCategory_PipesAir.description>Вентиляционные трубы для проведения воздушных масс.</SubCategory_PipesAir.description>
+
+	<SubCategory_FueledHeaters.label>топливное отопление</SubCategory_FueledHeaters.label>
+	<SubCategory_FueledHeaters.description>Различные топливные обогреватели.</SubCategory_FueledHeaters.description>
+
+	<SubCategory_radiator.label>радиаторы</SubCategory_radiator.label>
+	<SubCategory_radiator.description>Оборудование для нагрева помещений.</SubCategory_radiator.description>
+
+	<SubCategory_Heaters.label>обогреватели</SubCategory_Heaters.label>
+	<SubCategory_Heaters.description>Различные электрические обогреватели.</SubCategory_Heaters.description>
+
+	<SubCategory_PassiveCoolers.label>пассивные охладители</SubCategory_PassiveCoolers.label>
+	<SubCategory_PassiveCoolers.description>Охладители, использующие испарение для небольшого охлаждения области.</SubCategory_PassiveCoolers.description>
+
+	<SubCategory_Coolers.label>базовые кондиционеры</SubCategory_Coolers.label>
+	<SubCategory_Coolers.description>Различные электрические кондиционеры.</SubCategory_Coolers.description>
+
+	<SubCategory_Airconditon.label>охладительные системы</SubCategory_Airconditon.label>
+	<SubCategory_Airconditon.description>Оборудование для охлаждения помещений и создания морозильных камер.</SubCategory_Airconditon.description>
+
+	<SubCategory_TemperatureDevices.label>специальные устройства</SubCategory_TemperatureDevices.label>
+	<SubCategory_TemperatureDevices.description>Особые устройства, не подпадающие под другие категории.</SubCategory_TemperatureDevices.description>
+</LanguageData>

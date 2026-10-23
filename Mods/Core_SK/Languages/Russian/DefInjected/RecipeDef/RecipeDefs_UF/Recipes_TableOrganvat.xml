@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Have alternative translation since they are parts of TableOrganvat recipes -->
+	<!-- EN: extract biomatter from corpse -->
+	<!-- <ExtractBiomatterCorpse.label>Выделить биоматерию из трупов гуманоидов</ExtractBiomatterCorpse.label> -->
+	<!-- EN: Extracts BioMatter from a corpse. Produces 30. -->
+	<!-- <ExtractBiomatterCorpse.description>Выделить биоматерию из трупов гуманоидов.\nПроизводится 30 шт.</ExtractBiomatterCorpse.description> -->
+	<!-- EN: Extracting BioMatter from corpse. -->
+	<!-- <ExtractBiomatterCorpse.jobString>Выделяет биоматерию из трупов гуманоидов</ExtractBiomatterCorpse.jobString> -->
+	<ExtractBiomatterCorpse.label>извлечь биоматерию из трупов</ExtractBiomatterCorpse.label>
+	<ExtractBiomatterCorpse.description>Извлечь биоматерию из трупов, количество получаемой биоматерии зависит от размера и целостности трупа. Процесс занимает 1.5 дня.</ExtractBiomatterCorpse.description>
+
+	<!--Organ Vat-->
+	<Grow_Eye.label>вырастить глаз</Grow_Eye.label>
+	<Grow_Eye.description>Вырастить глаз. Процесс занимает 1.5 дня.</Grow_Eye.description>
+
+	<Grow_Ear.label>вырастить ухо</Grow_Ear.label>
+	<Grow_Ear.description>Вырастить ухо. Процесс занимает 1.5 дня.</Grow_Ear.description>
+
+	<Grow_Nose.label>вырастить нос</Grow_Nose.label>
+	<Grow_Nose.description>Вырастить нос. Процесс занимает 1.5 дня.</Grow_Nose.description>
+
+	<Grow_Heart.label>вырастить сердце</Grow_Heart.label>
+	<Grow_Heart.description>Вырастить сердце. Процесс занимает 1.5 дня.</Grow_Heart.description>
+
+	<Grow_Lung.label>вырастить лёгкое</Grow_Lung.label>
+	<Grow_Lung.description>Вырастить лёгкое. Процесс занимает 1.5 дня.</Grow_Lung.description>
+
+	<Grow_Liver.label>вырастить печень</Grow_Liver.label>
+	<Grow_Liver.description>Вырастить печень. Процесс занимает 1.5 дня.</Grow_Liver.description>
+
+	<Grow_Kidney.label>вырастить почку</Grow_Kidney.label>
+	<Grow_Kidney.description>Вырастить почку. Процесс занимает 1.5 дня.</Grow_Kidney.description>
+
+	<Grow_Stomach.label>вырастить желудок</Grow_Stomach.label>
+	<Grow_Stomach.description>Вырастить желудок. Процесс занимает 1.5 дня.</Grow_Stomach.description>
+</LanguageData>

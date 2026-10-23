@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ================= Glowing Floors ================= -->
+	<TileGlowstoneSolid.label>Светокаменная плита</TileGlowstoneSolid.label>
+	<TileGlowstoneSolid.description>Светокаменная плитка, которая излучает естественный свет. Весьма красивая, но сложная в укладке и чистке.</TileGlowstoneSolid.description>
+
+	<TileGlowstoneDotted.label>Светокаменная резная плита</TileGlowstoneDotted.label>
+	<TileGlowstoneDotted.description>Светокаменная плитка, которая излучает естественный свет. Весьма красивая, но сложная в укладке и чистке.</TileGlowstoneDotted.description>
+
+	<TileColdstoneSolid.label>Хладокаменная плита</TileColdstoneSolid.label>
+	<TileColdstoneSolid.description>Хладокаменная плитка, которая излучает естественный свет. Весьма красивая, но сложная в укладке и чистке.</TileColdstoneSolid.description>
+
+	<TileColdstoneDotted.label>Хладокаменная резная плита</TileColdstoneDotted.label>
+	<TileColdstoneDotted.description>Хладокаменная плитка, которая излучает естественный свет. Весьма красивая, но сложная в укладке и чистке.</TileColdstoneDotted.description>
+</LanguageData>

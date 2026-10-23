@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SubCategory_PipesWater.label>трубы</SubCategory_PipesWater.label>
+	<SubCategory_PipesWater.description>Изделия для распределения воды и соединения кондиционерных блоков.</SubCategory_PipesWater.description>
+
+	<!-- Hygiene -->
+	<SubCategory_Sprinkler.label>разбрызгиватели</SubCategory_Sprinkler.label>
+	<SubCategory_Sprinkler.description>Разбрызгиватели.</SubCategory_Sprinkler.description>
+
+	<SubCategory_Watertanks.label>резервуары</SubCategory_Watertanks.label>
+	<SubCategory_Watertanks.description>Резервуары для хранения воды.</SubCategory_Watertanks.description>
+
+	<SubCategory_Waterheaters.label>нагреватели</SubCategory_Waterheaters.label>
+	<SubCategory_Waterheaters.description>Оборудование для нагрева воды.</SubCategory_Waterheaters.description>
+
+	<SubCategory_WaterWells.label>водяные скважины</SubCategory_WaterWells.label>
+	<SubCategory_WaterWells.description>Оборудование для доступа к подземным водам.</SubCategory_WaterWells.description>
+
+	<SubCategory_HygienePumps.label>насосы</SubCategory_HygienePumps.label>
+	<SubCategory_HygienePumps.description>Оборудование для перекачки воды.</SubCategory_HygienePumps.description>
+
+	<SubCategory_Sewage.label>канализация</SubCategory_Sewage.label>
+	<SubCategory_Sewage.description>Оборудование для очистки и удаления сточных вод.</SubCategory_Sewage.description>
+
+	<!-- EN: Thirst is universal for all living being. -->
+	<SubCategory_PetsWater.description>Жажда присуща всем живым существам.</SubCategory_PetsWater.description>
+	<!-- EN: Water for pets -->
+	<SubCategory_PetsWater.label>вода для питомцев</SubCategory_PetsWater.label>
+
+	<SubCategory_Basins.label>краны</SubCategory_Basins.label>
+	<SubCategory_Basins.description>Приспособления подачи воды для мытья и питья.</SubCategory_Basins.description>
+
+	<SubCategory_Toilets.label>туалеты</SubCategory_Toilets.label>
+	<SubCategory_Toilets.description>Cанитарно-технические приспособления для избавления от отходов жизнедеятельности.</SubCategory_Toilets.description>
+
+	<SubCategory_Showers.label>души</SubCategory_Showers.label>
+	<SubCategory_Showers.description>Приспособления для поддержания чистоты тела. Быстрее, чем прием ванны.</SubCategory_Showers.description>
+
+	<SubCategory_Tubs.label>ванны</SubCategory_Tubs.label>
+	<SubCategory_Tubs.description>Приспособления для поддержания чистоты тела.</SubCategory_Tubs.description>
+
+	<SubCategory_Pools.label>бассейны</SubCategory_Pools.label>
+	<SubCategory_Pools.description>Бассейны и джакузи.</SubCategory_Pools.description>
+
+	<SubCategory_Sauna.label>сауны</SubCategory_Sauna.label>
+	<SubCategory_Sauna.description>Сауны и аксессуары.</SubCategory_Sauna.description>
+
+	<SubCategory_ApparelWashing.label>стирка</SubCategory_ApparelWashing.label>
+	<SubCategory_ApparelWashing.description>Оно не грязное, просто требует немного воды!</SubCategory_ApparelWashing.description>
+</LanguageData>

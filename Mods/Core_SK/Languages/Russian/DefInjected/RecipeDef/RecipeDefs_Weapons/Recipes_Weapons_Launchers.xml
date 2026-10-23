@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<BuildIncendiaryLauncher.label>Собрать РГ "Солнцепёк" T9</BuildIncendiaryLauncher.label>
+	<BuildIncendiaryLauncher.description>Ручной зажигательный гранатомет "Солнцепёк" T9.</BuildIncendiaryLauncher.description>
+	<BuildIncendiaryLauncher.jobString>Собирает РГ "Солнцепёк" T9</BuildIncendiaryLauncher.jobString>
+
+	<BuildM79GL.label>Собрать РГ M79</BuildM79GL.label>
+	<BuildM79GL.description>Простейший 40мм ручной гранатомёт.</BuildM79GL.description>
+	<BuildM79GL.jobString>Собирает РГ M79</BuildM79GL.jobString>
+
+	<!-- ==================== Heavy weapons ========================== -->
+	<BuildMilkorGrenadeLauncher.label>Собрать РГ Milkor MGL Mk.1</BuildMilkorGrenadeLauncher.label>
+	<BuildMilkorGrenadeLauncher.description>Ручной гранатомёт с 40mm боеприпасами. Забрасывает противника гранатами издалека.</BuildMilkorGrenadeLauncher.description>
+	<BuildMilkorGrenadeLauncher.jobString>Собирает РГ Milkor MGL Mk.1</BuildMilkorGrenadeLauncher.jobString>
+
+	<BuildRPG.label>Собрать гранатомёт РПГ-7</BuildRPG.label>
+	<BuildRPG.description>РПГ-7 - это ручной противотанковый гранатомет. Очень серьезная штука, я вам скажу!</BuildRPG.description>
+	<BuildRPG.jobString>Собирает гранатомёт РПГ-7</BuildRPG.jobString>
+
+	<BuildM5_USCM.label>Собрать гранатомёт РПГ M5</BuildM5_USCM.label>
+	<BuildM5_USCM.description>Собрать РПГ M5 морской пехоты.</BuildM5_USCM.description>
+	<BuildM5_USCM.jobString>Собирает гранатомёт РПГ M5</BuildM5_USCM.jobString>
+
+	<BuildLAW.label>Собрать ПТРК M72 LAW</BuildLAW.label>
+	<BuildLAW.description>Противотанковый гранатомет M72 LAW. Наносит хорошие повреждения бронированным целям.</BuildLAW.description>
+	<BuildLAW.jobString>Собирает ПТРК M72 LAW</BuildLAW.jobString>
+</LanguageData>

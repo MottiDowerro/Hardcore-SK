@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CookMeatSoup.label>Приготовить мясной суп</CookMeatSoup.label>
+	<CookMeatSoup.description>Приготовить мясной суп из сырого мяса и растительных ингредиентов.</CookMeatSoup.description>
+	<CookMeatSoup.jobString>Готовит мясной суп</CookMeatSoup.jobString>
+
+	<CookMeatSoupBulk.label>Приготовить мясной суп (x4)</CookMeatSoupBulk.label>
+	<CookMeatSoupBulk.description>Приготовить мясной суп из сырого мяса и растительных ингредиентов. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</CookMeatSoupBulk.description>
+	<CookMeatSoupBulk.jobString>Готовит мясной суп</CookMeatSoupBulk.jobString>
+
+	<MakeCheeseGrilled.label>Приготовить бутерброд с сыром</MakeCheeseGrilled.label>
+	<MakeCheeseGrilled.description>Приготовить два ломтика хлеба с плавленым сыром.</MakeCheeseGrilled.description>
+	<MakeCheeseGrilled.jobString>Готовит бутерброд с сыром</MakeCheeseGrilled.jobString>
+
+	<MakeCheeseGrilledBulk.label>Приготовить бутерброд с сыром (x4)</MakeCheeseGrilledBulk.label>
+	<MakeCheeseGrilledBulk.description>Приготовить восемь ломтиков хлеба с плавленым сыром. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</MakeCheeseGrilledBulk.description>
+	<MakeCheeseGrilledBulk.jobString>Готовит бутерброды с сыром</MakeCheeseGrilledBulk.jobString>
+
+	<MakePotatoesCheese.label>Приготовить картофель с сыром</MakePotatoesCheese.label>
+	<MakePotatoesCheese.description>Пожарить картофель с сыром. Производит 3.</MakePotatoesCheese.description>
+	<MakePotatoesCheese.jobString>Готовит картофель с сыром</MakePotatoesCheese.jobString>
+
+	<MakePotatoesCheeseBulk.label>Приготовить картофель с сыром (x4)</MakePotatoesCheeseBulk.label>
+	<MakePotatoesCheeseBulk.description>Пожарить картофель с сыром. Производит 12. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</MakePotatoesCheeseBulk.description>
+	<MakePotatoesCheeseBulk.jobString>Готовит картофель с сыром</MakePotatoesCheeseBulk.jobString>
+
+	<CookHeartyStew.label>Приготовить домашнее рагу</CookHeartyStew.label>
+	<CookHeartyStew.description>Приготовить домашнее рагу из сырого мяса, картофеля и моркови.</CookHeartyStew.description>
+	<CookHeartyStew.jobString>Готовит домашнее рагу</CookHeartyStew.jobString>
+
+	<CookHeartyStewBulk.label>Приготовить домашнее рагу (x4)</CookHeartyStewBulk.label>
+	<CookHeartyStewBulk.description>Приготовить домашнее рагу из сырого мяса, картофеля и моркови. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</CookHeartyStewBulk.description>
+	<CookHeartyStewBulk.jobString>Готовит домашнее рагу</CookHeartyStewBulk.jobString>
+
+	<MakeMakiRolls.label>Приготовить маки роллы</MakeMakiRolls.label>
+	<MakeMakiRolls.description>Приготовить маки роллы из риса, водорослей и рыбы.</MakeMakiRolls.description>
+	<MakeMakiRolls.jobString>Готовит маки роллы</MakeMakiRolls.jobString>
+
+	<MakeMakiRollsBulk.label>Приготовить маки роллы (x4)</MakeMakiRollsBulk.label>
+	<MakeMakiRollsBulk.description>Приготовить маки роллы из риса, водорослей и рыбы. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</MakeMakiRollsBulk.description>
+	<MakeMakiRollsBulk.jobString>Готовит маки роллы</MakeMakiRollsBulk.jobString>
+
+	<MakeKebab.label>Приготовить кебаб</MakeKebab.label>
+	<MakeKebab.description>Приготовить кебаб из мяса, овощей и грибов.</MakeKebab.description>
+	<MakeKebab.jobString>Готовит кебаб</MakeKebab.jobString>
+
+	<MakeKebabBulk.label>Приготовить кебаб (x4)</MakeKebabBulk.label>
+	<MakeKebabBulk.description>Приготовить кебаб из мяса, овощей и грибов.</MakeKebabBulk.description>
+	<MakeKebabBulk.jobString>Готовит кебаб</MakeKebabBulk.jobString>
+
+	<MakeMushroomMadness.label>Приготовить грибное безумие</MakeMushroomMadness.label>
+	<MakeMushroomMadness.description>Приготовить грибное безумие из различных грибов.</MakeMushroomMadness.description>
+	<MakeMushroomMadness.jobString>Готовит грибное безумие</MakeMushroomMadness.jobString>
+
+	<MakeMushroomMadnessBulk.label>Приготовить грибное безумие (x4)</MakeMushroomMadnessBulk.label>
+	<MakeMushroomMadnessBulk.description>Приготовить грибное безумие из различных грибов. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</MakeMushroomMadnessBulk.description>
+	<MakeMushroomMadnessBulk.jobString>Готовит грибное безумие</MakeMushroomMadnessBulk.jobString>
+
+	<MakeCoconutCurry.label>Приготовить кокосовое карри</MakeCoconutCurry.label>
+	<MakeCoconutCurry.description>Приготовить кокосовое карри из мяса, риса и кокосового молока.</MakeCoconutCurry.description>
+	<MakeCoconutCurry.jobString>Готовит кокосовое карри</MakeCoconutCurry.jobString>
+
+	<MakeCoconutCurryBulk.label>Приготовить кокосовое карри (x4)</MakeCoconutCurryBulk.label>
+	<MakeCoconutCurryBulk.description>Приготовить кокосовое карри из мяса, риса и кокосового молока. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</MakeCoconutCurryBulk.description>
+	<MakeCoconutCurryBulk.jobString>Готовит кокосовое карри</MakeCoconutCurryBulk.jobString>
+
+	<MakePelmeni.label>Приготовить пельмени</MakePelmeni.label>
+	<MakePelmeni.description>Приготовить пельмени. Производит 2.</MakePelmeni.description>
+	<MakePelmeni.jobString>Готовит пельмени</MakePelmeni.jobString>
+
+	<MakePelmeniBulk.label>Приготовить пельмени (x4)</MakePelmeniBulk.label>
+	<MakePelmeniBulk.description>Приготовить пельмени. Производит 8. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</MakePelmeniBulk.description>
+	<MakePelmeniBulk.jobString>Готовит пельмени</MakePelmeniBulk.jobString>
+
+	<MakeBurgerCheese.label>Приготовить чизбургер</MakeBurgerCheese.label>
+	<MakeBurgerCheese.description>Приготовить чизбургер сделанный из хлеба, сыра и мяса..</MakeBurgerCheese.description>
+	<MakeBurgerCheese.jobString>Готовит чизбургер</MakeBurgerCheese.jobString>
+
+	<MakeMisoSoup.label>Приготовить мисо суп</MakeMisoSoup.label>
+	<MakeMisoSoup.description>Приготовить мисо суп из тофу, водорослей, грибов и лука.</MakeMisoSoup.description>
+	<MakeMisoSoup.jobString>Готовит мисо суп</MakeMisoSoup.jobString>
+</LanguageData>

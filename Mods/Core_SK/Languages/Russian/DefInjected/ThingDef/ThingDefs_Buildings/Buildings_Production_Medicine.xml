@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<meditable.label>Медицинский стол</meditable.label>
+	<meditable.description>Стол для создания всех типов медикаментов, включая передовые медикаменты и систему жизнеобеспечения.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 50 W\nПри работе: 500 W</meditable.description>
+
+	<TableOrganvat.label>Биочан</TableOrganvat.label>
+	<TableOrganvat.description>Большая цистерна, в которой человеческие тела перерабатываются в биоматерию. Также в нём можно вырастить натуральные органы из биоматерии.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 70 W\nПри работе: 700 W</TableOrganvat.description>
+
+	<TablePrimitiveProsthetic.label>Примитивный стол протезов</TablePrimitiveProsthetic.label>
+	<TablePrimitiveProsthetic.description>Допотопный стол для производства некоторых базовых протезов.</TablePrimitiveProsthetic.description>
+
+	<TableBasicProsthetic.label>Станок для изготовления протезов</TableBasicProsthetic.label>
+	<TableBasicProsthetic.description>Станок для изготовления самых обычных протезов. Может использоваться без электроэнергии с эффективностью в 60% от обычной.\n\nПотребляемая мощность:\nВ простое: 35 W\nПри работе: 350 W</TableBasicProsthetic.description>
+
+	<TableSynthetics.label>Верстак синтетических органов</TableSynthetics.label>
+	<TableSynthetics.description>Стол, оборудованный с помощью нанотехнологий для изготовления усовершенствованных синтетических органов.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 85 W\nПри работе: 850 W</TableSynthetics.description>
+
+	<TableBionics.label>Верстак бионики</TableBionics.label>
+	<TableBionics.description>Верстак для изготовления бионических частей тела.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 95 W\nПри работе: 950 W</TableBionics.description>
+
+	<UpgradingStation.label>Верстак кибернетики</UpgradingStation.label>
+	<UpgradingStation.description>Верстак для изготовления кибернетических частей тела и улучшения бионических частей тела.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 135 W\nПри работе: 1350 W</UpgradingStation.description>
+</LanguageData>

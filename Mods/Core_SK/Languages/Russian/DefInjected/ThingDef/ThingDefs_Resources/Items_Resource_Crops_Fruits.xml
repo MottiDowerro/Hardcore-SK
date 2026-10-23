@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: A powerful creeping vine with carved leaves that produces giant sweet berries. Despite the botanical classification, colonists continue to argue whether it is a fruit, a vegetable, or a "huge strange raspberry." -->
+	<RawWatermelon.description>Мощная ползучая лоза с резными листьями, дающая гигантские сладкие ягоды. Несмотря на ботаническую классификацию, поселенцы продолжают спорить, фрукт это, овощ или "огромная странная малина".</RawWatermelon.description>
+	<!-- EN: Watermelon -->
+	<RawWatermelon.label>арбуз</RawWatermelon.label>
+
+	<!-- EN: Apples -->
+	<Rawapple.label>Яблоко</Rawapple.label>
+	<!-- EN: Apples are a round, red fruit that grows on Apple Trees. Commonly used in cooking for deserts due to its sweet taste, it can also be brewed into Apple Cider. Delectable to eat even when raw. -->
+	<Rawapple.description>Круглый красный фрукт. Обычно используется для десертов или варки яблочного сидра. Восхитительный на вкус даже в сыром виде.</Rawapple.description>
+
+	<!-- EN: Banana -->
+	<Rawbanana.label>Банан</Rawbanana.label>
+	<!-- EN: A Banana is a long, soft, yellow, sweet fruit that grows on Banana Trees. Yummy to eat when raw. -->
+	<Rawbanana.description>Длинный мягкий жёлтый фрукт, растущий на банановых деревьях. Приятный на вкус, если есть сырым.</Rawbanana.description>
+
+	<!-- EN: Grapes -->
+	<Rawgrape.label>Виноград</Rawgrape.label>
+	<!-- EN: Grapes are small, sweet, berry fruits that grow in clusters on Grape Vines. Tantalizing to eat even when raw. -->
+	<Rawgrape.description>Маленькие ягоды, растущие гроздьями на виноградных лозах. Заманчивые на вкус, если есть сырыми.</Rawgrape.description>
+
+	<!-- EN: Orange -->
+	<Raworange.label>Апельсин</Raworange.label>
+	<!-- EN: Oranges are a sweet, citric fruit that grows on Orange Trees. A tough outer rind protects the soft pulpy flesh inside. Pleasant to eat when raw. -->
+	<Raworange.description>Сладкий цитрусовый фрукт, растущий на апельсиновых деревьях. Жёсткая внешняя кожура защищает мягкую мясистую мякоть внутри. Приятный на вкус, если есть сырым.</Raworange.description>
+
+	<!-- EN: Peach -->
+	<Rawpeach.label>Персик</Rawpeach.label>
+	<!-- EN: Peaches are a soft, fuzzy, sweet fruit that grows on Peach Trees. They have a large, hard pit at the core of the fruit. Splendid to eat when raw. -->
+	<Rawpeach.description>Мягкий пушистый фрукт, растущий на персиковых деревьях. В сердцевине плода находится большая твёрдая косточка. Великолепный на вкус, если есть сырым.</Rawpeach.description>
+
+	<!-- EN: Coconut -->
+	<RawCoconut.label>Кокос</RawCoconut.label>
+	<!-- EN: Coconuts are fruits of the palm tree, which are mistakenly called nuts. -->
+	<RawCoconut.description>Плод пальмового дерева, который ошибочно называют орехом.</RawCoconut.description>
+</LanguageData>

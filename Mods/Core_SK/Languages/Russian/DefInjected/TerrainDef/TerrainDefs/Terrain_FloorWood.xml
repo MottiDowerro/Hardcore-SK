@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ================= Wood Tile ================= -->
+	<ClutterWoodTileA.label>деревянные панели</ClutterWoodTileA.label>
+	<ClutterWoodTileA.description>Чудо современной науки - деревянные панели из дерева.</ClutterWoodTileA.description>
+
+	<WoodPlankFloorTwo.label>Паркет тип 2</WoodPlankFloorTwo.label>
+	<WoodPlankFloorTwo.description>Деревянный паркет. Тёплый, уютный.</WoodPlankFloorTwo.description>
+
+	<WoodPlankFloorThree.label>Паркет тип 3</WoodPlankFloorThree.label>
+	<WoodPlankFloorThree.description>Деревянный паркет. Тёплый, уютный.</WoodPlankFloorThree.description>
+
+	<WoodPlankFloorFour.label>Паркет тип 4</WoodPlankFloorFour.label>
+	<WoodPlankFloorFour.description>Деревянный паркет. Тёплый, уютный.</WoodPlankFloorFour.description>
+
+	<WoodPlankFloorFive.label>Паркет тип 5</WoodPlankFloorFive.label>
+	<WoodPlankFloorFive.description>Деревянный паркет. Тёплый, уютный.</WoodPlankFloorFive.description>
+
+	<WoodPlankFloorSix.label>Паркет тип 6</WoodPlankFloorSix.label>
+	<WoodPlankFloorSix.description>Деревянный паркет. Тёплый, уютный.</WoodPlankFloorSix.description>
+
+	<ParquetFloor.label>Паркет тип 7</ParquetFloor.label>
+	<ParquetFloor.description>Полы ёлочкой. Королевская элегантность для изысканного поселенца.</ParquetFloor.description>
+
+	<BambooFloor.label>Бамбуковые панели</BambooFloor.label>
+	<BambooFloor.description>Бамбуковые панели.</BambooFloor.description>
+
+	<BambooFloorB.label>Бамбуковый пол</BambooFloorB.label>
+	<BambooFloorB.description>Тканые бамбуковые полы.</BambooFloorB.description>
+
+	<BambooFloorC.label>Полированный бамбук</BambooFloorC.label>
+	<BambooFloorC.description>Напольное покрытие из полированного бамбука.</BambooFloorC.description>
+
+	<BambooFloorD.label>Бамбуковый паркет</BambooFloorD.label>
+	<BambooFloorD.description>Бамбуковые панели аккуратно оформлены в узор.</BambooFloorD.description>
+
+	<BambooFloorE.label>Шестиугольный бамбуковый паркет</BambooFloorE.label>
+	<BambooFloorE.description>Паркет из шестиугольной бамбуковой плитки.</BambooFloorE.description>
+
+	<BambooFloorF.label>Художественный бамбуковый паркет</BambooFloorF.label>
+	<BambooFloorF.description>Паркет с абстрактным рисунком из треугольников.</BambooFloorF.description>
+
+	<RedWoodFloor.label>Пол из красного дерева</RedWoodFloor.label>
+	<RedWoodFloor.description>Пол из грубо обработанного красного дерева.</RedWoodFloor.description>
+
+	<RedWoodFloorB.label>Паркет из красного дерева</RedWoodFloorB.label>
+	<RedWoodFloorB.description>Яркий, красный паркет из аккуратно обработанного красного дерева.</RedWoodFloorB.description>
+
+	<RedWoodFloorC.label>Бледный паркет из красного дерева</RedWoodFloorC.label>
+	<RedWoodFloorC.description>Бледный, красивый паркет из аккуратно обработанных досок из красного дерева.</RedWoodFloorC.description>
+
+	<RedWoodFloorD.label>Звездный паркет из красного дерева</RedWoodFloorD.label>
+	<RedWoodFloorD.description>Роскошный пол из красного дерева. Для самых изысканных комнат и требовательных поселенцев.</RedWoodFloorD.description>
+
+	<RedWoodFloorE.label>Темный паркет из красного дерева</RedWoodFloorE.label>
+	<RedWoodFloorE.description>Изысканный паркет из красного дерева. Это придаст атмосферу роскоши и изысканности в любой комнате.</RedWoodFloorE.description>
+
+	<RedWoodFloorF.label>Паркет из красного дерева уложен в шахматном порядке</RedWoodFloorF.label>
+	<RedWoodFloorF.description>Паркет уложенный в шахматном порядке, красивый паркет из  досок красного дерева, аккуратно выложен и обработан.</RedWoodFloorF.description>
+</LanguageData>

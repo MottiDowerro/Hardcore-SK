@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<LeatherworkerTable.label>Верстак кожевника</LeatherworkerTable.label>
+	<LeatherworkerTable.description>Верстак для производства кожаной одежды из обрезков кожи.</LeatherworkerTable.description>
+
+	<TableLoom.label>Ткацкий станок</TableLoom.label>
+	<TableLoom.description>Станок, используемый для обработки сырья в ткань. Может использоваться без электроэнергии с эффективностью в 60% от обычной.\n\nПотребляемая мощность:\nВ простое: 30 W\nПри работе: 300 W</TableLoom.description>
+
+	<HandMendingWorkbench.label>Ручной ремонтный станок</HandMendingWorkbench.label>
+	<HandMendingWorkbench.description>Рабочее место со всеми необходимыми инструментами для починки примитивного снаряжения. Не забудьте принести пару ремонтных наборов!</HandMendingWorkbench.description>
+
+	<HyperTailoringBench.label>Современная портняжная установка</HyperTailoringBench.label>
+	<HyperTailoringBench.description>Верстак, оборудованный для создания современной одежды и брони.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 150 W\nПри работе: 1500 W</HyperTailoringBench.description>
+
+	<TableMending.label>Ремонтный станок</TableMending.label>
+	<TableMending.description>Станок, оснащённый всеми нужными инструментами для ремонта и восстановления повреждённых предметов. Необходимы ремонтные комплекты. Может использоваться без электроэнергии с эффективностью в 60% от обычной.\nПотребляемая мощность:\nВ простое: 55 W\nПри работе: 550 W</TableMending.description>
+
+	<!-- EN: A workbench equipped with all the tools required to tear apart any armor, weapon or apparel. Requires power and consumes chemfuel. -->
+	<TableRecycling.description>Верстак, оснащённый всеми необходимыми инструментами для разбора любой брони, оружия или одежды. Использует электроэнергию и потребляет химтопливо.</TableRecycling.description>
+	<!-- EN: recycling station -->
+	<TableRecycling.label>станция переработки</TableRecycling.label>
+
+	<HolyBasin.label>стиральный тазик</HolyBasin.label>
+	<HolyBasin.description>старый тазик позволяет отмыть одежду и тем самым убрать эффект "носит одежду с трупа".</HolyBasin.description>
+</LanguageData>

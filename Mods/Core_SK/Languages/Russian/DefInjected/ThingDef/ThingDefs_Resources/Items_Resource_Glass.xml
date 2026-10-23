@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--=============== Glass ====================-->
+	<GlassBatch.label>Стекольная шихта</GlassBatch.label>
+	<GlassBatch.description>Стекольная шихта представляет собой высококонцентрированную дисперсную систему из смеси грубых и тонких минеральных частиц, являющихся структурным каркасом для будущих стеклопакетов.</GlassBatch.description>
+
+	<Glass.label>Стекло</Glass.label>
+	<Glass.description>Стекло, сделанное из стеклянной шихты. Используется для постройки структур и создания предметов.</Glass.description>
+	<Glass.stuffProps.stuffAdjective>стекла</Glass.stuffProps.stuffAdjective>
+
+	<ReinforcedGlass.label>Армированное стекло</ReinforcedGlass.label>
+	<ReinforcedGlass.description>Крепкое стекло. Может выдержать удар камнем. Трудно поддаётся обработке.</ReinforcedGlass.description>
+	<ReinforcedGlass.stuffProps.stuffAdjective>бронестекла</ReinforcedGlass.stuffProps.stuffAdjective>
+</LanguageData>

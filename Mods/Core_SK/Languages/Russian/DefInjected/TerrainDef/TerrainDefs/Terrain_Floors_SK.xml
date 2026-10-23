@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DarkConcrete.label>Тёмный бетон</DarkConcrete.label>
+	<DarkConcrete.description>Быстросохнущий бетон. Неприглядный внешний вид. Чтобы залить бетон, необходимо вырыть яму.</DarkConcrete.description>
+
+	<!-- ================= Misc Tile ================= -->
+	<CeramicTile.label>Керам. покрытие</CeramicTile.label>
+	<CeramicTile.description>Утилитарная белая керамическая плитка. Неприглядный внешний вид. Высокая скорость передвижения.</CeramicTile.description>
+
+	<ClayBrickTile.label>Глиняный кирпич</ClayBrickTile.label>
+	<ClayBrickTile.description>Обычный глиняный кирпич.</ClayBrickTile.description>
+
+	<TileCeramics.label>Керамические плиты</TileCeramics.label>
+	<TileCeramics.description>Керамические плиты как в настоящем замке.</TileCeramics.description>
+
+	<RoughSandstoneFloor.label>Пол из грубого песчаника</RoughSandstoneFloor.label>
+	<RoughSandstoneFloor.description>Песчаник в первозданном виде.</RoughSandstoneFloor.description>
+
+	<RoughGraniteFloor.label>Пол из грубого гранита</RoughGraniteFloor.label>
+	<RoughGraniteFloor.description>Гранит в первозданном виде.</RoughGraniteFloor.description>
+
+	<RoughLimestoneFloor.label>Пол из грубого известняка</RoughLimestoneFloor.label>
+	<RoughLimestoneFloor.description>Известняк в первозданном виде.</RoughLimestoneFloor.description>
+
+	<RoughSlateFloor.label>Пол из грубого сланца</RoughSlateFloor.label>
+	<RoughSlateFloor.description>Сланец в первозданном виде.</RoughSlateFloor.description>
+
+	<RoughMarbleFloor.label>Пол из грубого мрамора</RoughMarbleFloor.label>
+	<RoughMarbleFloor.description>Мрамор в первозданном виде.</RoughMarbleFloor.description>
+
+	<RoughCeramicsFloor.label>Пол из грубой керамики</RoughCeramicsFloor.label>
+	<RoughCeramicsFloor.description>Керамика в первозданном виде.</RoughCeramicsFloor.description>
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Feral-->
+	<Helmet_FeralHusker.label>хаскер</Helmet_FeralHusker.label>
+	<Helmet_FeralHusker.description>Грубый, но прочный капюшон одичалых.</Helmet_FeralHusker.description>
+
+	<Helmet_FeralSkulker.label>скалкер</Helmet_FeralSkulker.label>
+	<Helmet_FeralSkulker.description>Грубый, но прочный капюшон одичалых.</Helmet_FeralSkulker.description>
+
+	<Helmet_FeralThumper.label>тэмпер</Helmet_FeralThumper.label>
+	<Helmet_FeralThumper.description>Грубый, но прочный капюшон одичалых.</Helmet_FeralThumper.description>
+
+	<Helmet_FeralGrinder.label>шлем одичалых</Helmet_FeralGrinder.label>
+	<Helmet_FeralGrinder.description>Немного поржавевший шлем, который носил один из одичалых.</Helmet_FeralGrinder.description>
+
+	<Helmet_FeralScorcher.label>газовая маска одичалых</Helmet_FeralScorcher.label>
+	<Helmet_FeralScorcher.description>Газовая маска, которую носил один из одичалых.</Helmet_FeralScorcher.description>
+
+	<Armor_FeralPlateCrude.label>броня одичалых</Armor_FeralPlateCrude.label>
+	<Armor_FeralPlateCrude.description>Изготовленный из переработанного шлака, этот жилет особо устойчив к тупому урону. Зазоры в пластинах делают его практически бесполезным против колющего оружия и пуль.</Armor_FeralPlateCrude.description>
+
+	<Armor_FeralPlateImproved.label>броня хищника</Armor_FeralPlateImproved.label>
+	<Armor_FeralPlateImproved.description>Изготовленный из переработанного шлака, этот жилет особо устойчив к тупому урону. Зазоры в пластинах делают его практически бесполезным против колющего оружия и пуль.</Armor_FeralPlateImproved.description>
+</LanguageData>

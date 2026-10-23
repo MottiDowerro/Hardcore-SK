@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Spin cloth -->
+	<MakeCloth.label>Спрясти ткань</MakeCloth.label>
+	<!-- EN: Spin cloth from raw cotton. Produces 20. -->
+	<MakeCloth.description>Спрясти ткань из хлопка.\nПроизводится 20 шт.</MakeCloth.description>
+	<!-- EN: Spinning cloth from raw cotton. -->
+	<MakeCloth.jobString>Прядёт ткань</MakeCloth.jobString>
+
+	<!-- EN: Spin linen cloth -->
+	<MakeLinen.label>Спрясти льняную ткань</MakeLinen.label>
+	<!-- EN: Spin linen cloth from raw flax. Produces 10. -->
+	<MakeLinen.description>Спрясти ткань из льна.\nПроизводится 10 шт.</MakeLinen.description>
+	<!-- EN: Spinning linen cloth from raw flax. -->
+	<MakeLinen.jobString>Прядёт льняную ткань</MakeLinen.jobString>
+
+	<!-- EN: Spin hemp -->
+	<MakeHempCloth.label>Спрясти конопляную ткань</MakeHempCloth.label>
+	<!-- EN: Spin weed into hemp. Produces 15. -->
+	<MakeHempCloth.description>Спрясти ткань из конопли.\nПроизводится 15 шт.</MakeHempCloth.description>
+	<!-- EN: Spinning hemp from weed. -->
+	<MakeHempCloth.jobString>Прядёт конопляную ткань</MakeHempCloth.jobString>
+
+	<!-- EN: Spin synthread -->
+	<MakeSynthreadCloth.label>Спрясти синткань</MakeSynthreadCloth.label>
+	<!-- EN: Spin synthread from raw cotton and synthetic fibers. Produces 10. -->
+	<MakeSynthreadCloth.description>Спрясти синткань из хлопка и синтетических волокон.\nПроизводится 10 шт.</MakeSynthreadCloth.description>
+	<!-- EN: Spinning synthread from synthetic fibers. -->
+	<MakeSynthreadCloth.jobString>Прядёт синткань</MakeSynthreadCloth.jobString>
+
+	<!-- EN: Spin devilstrand cloth -->
+	<MakeDevilstrand.label>Спрясти дьявлоткань</MakeDevilstrand.label>
+	<!-- EN: Spin devilstrand cloth from synthetic fibers. Produces 15. -->
+	<MakeDevilstrand.description>Спрясти дьявлоткань из дьявлонитника и синтетических волокон.\nПроизводится 15 шт.</MakeDevilstrand.description>
+	<!-- EN: Spinning devilstrand cloth from synthetic fibers. -->
+	<MakeDevilstrand.jobString>Прядёт дьявлоткань</MakeDevilstrand.jobString>
+
+	<!-- EN: Spin hyperweave -->
+	<MakeHyperweaveCloth.label>Спрясти гиперткань</MakeHyperweaveCloth.label>
+	<!-- EN: Spin hyperweave from synthread and devilstrand cloth. Produces 10. -->
+	<MakeHyperweaveCloth.description>Спрясти гиперткань из синткани и дьявлоткани.\nПроизводится 10 шт.</MakeHyperweaveCloth.description>
+	<!-- EN: Spinning hyperweave from devilstrand and synthread. -->
+	<MakeHyperweaveCloth.jobString>Прядёт гиперткань</MakeHyperweaveCloth.jobString>
+
+	<!-- EN: Spin velour -->
+	<MakeVelour.label>Спрясти велюр</MakeVelour.label>
+	<!-- EN: Spin velour, a plush woven fabric resembling velvet, chiefly used for soft furnishings, casual clothing, and hats. Produces 25. -->
+	<MakeVelour.description>Спрясти велюр — мягкую ткань, напоминающую бархат. В основном используется в изготовлении мягкой мебели, повседневной одежды и головных уборов.\nПроизводится 25 шт.</MakeVelour.description>
+	<!-- EN: Spinning velour from various materials. -->
+	<MakeVelour.jobString>Прядёт велюр</MakeVelour.jobString>
+
+	<!-- EN: Create kevlar -->
+	<MakeKevlar.label>Изготовить кевларовый материал</MakeKevlar.label>
+	<!-- EN: Create kevlar from plastic and synthetic fibers. Produces 10. -->
+	<MakeKevlar.description>Изготовить кевларовый материал из пластика и синтетических волокон.\nПроизводится 10 шт.</MakeKevlar.description>
+	<!-- EN: Creating kevlar. -->
+	<MakeKevlar.jobString>Изготавливает кевларовый материал</MakeKevlar.jobString>
+
+	<!-- EN: Create chitin plating -->
+	<MakeChitinPlating.label>Изготовить хитиновый покров</MakeChitinPlating.label>
+	<!-- EN: Create chitin plating from chitin and synthetic fibers. Produces 15. -->
+	<MakeChitinPlating.description>Изготовить хитиновый покров из хитина, синтетических волокон и смеси пасты.\nПроизводится 15 шт.</MakeChitinPlating.description>
+	<!-- EN: Spinning synthread from synthetic fibers. -->
+	<MakeChitinPlating.jobString>Изготавливает хитиновый покров</MakeChitinPlating.jobString>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: make compost -->
+	<MakeCompost.label>Изготовить компост</MakeCompost.label>
+	<!-- EN: Make compost from organic waste (25 meat type and 5 plant/ash). -->
+	<MakeCompost.description>Переработать органику в компост.</MakeCompost.description>
+	<!-- EN: feedstock -->
+	<MakeCompost.ingredients.0.filter.customSummary>сырьё</MakeCompost.ingredients.0.filter.customSummary>
+	<!-- EN: Making compost. -->
+	<MakeCompost.jobString>Изготавливает компост</MakeCompost.jobString>
+
+	<!-- EN: make fertilizer -->
+	<MakeFertilizer.label>Изготовить удобрения</MakeFertilizer.label>
+	<MakeFertilizer.description>Изготовить удобрения из компоста.</MakeFertilizer.description>
+	<!-- EN: Making fertilizer. -->
+	<MakeFertilizer.jobString>Изготавливает удобрения</MakeFertilizer.jobString>
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallLifeSupportHeart.label>Имплантировать кровяной насос</InstallLifeSupportHeart.label>
+	<InstallLifeSupportHeart.description>Имплантировать кровяной насос.</InstallLifeSupportHeart.description>
+	<InstallLifeSupportHeart.jobString>Имплантирует кровяной насос</InstallLifeSupportHeart.jobString>
+
+	<InstallLifeSupportLung.label>Имплантировать респиратор</InstallLifeSupportLung.label>
+	<InstallLifeSupportLung.description>Имплантировать респиратор.</InstallLifeSupportLung.description>
+	<InstallLifeSupportLung.jobString>Имплантирует респиратор</InstallLifeSupportLung.jobString>
+
+	<InstallLifeSupportKidney.label>Имплантировать фильтр мочи</InstallLifeSupportKidney.label>
+	<InstallLifeSupportKidney.description>Имплантировать фильтр мочи.</InstallLifeSupportKidney.description>
+	<InstallLifeSupportKidney.jobString>Имплантирует фильтр мочи</InstallLifeSupportKidney.jobString>
+
+	<InstallLifeSupportLiver.label>Имплантировать фильтр крови</InstallLifeSupportLiver.label>
+	<InstallLifeSupportLiver.description>Имплантировать фильтр крови.</InstallLifeSupportLiver.description>
+	<InstallLifeSupportLiver.jobString>Имплантирует фильтр крови</InstallLifeSupportLiver.jobString>
+
+	<!-- EN: Installs a Feeding Tube. -->
+	<InstallLifeSupportStomach.description>Установить питательную трубку.</InstallLifeSupportStomach.description>
+	<!-- EN: Installing Feeding Tube. -->
+	<InstallLifeSupportStomach.jobString>Устанавливает питательную трубку</InstallLifeSupportStomach.jobString>
+	<!-- EN: Install Feeding Tube -->
+	<InstallLifeSupportStomach.label>установить питательную трубку</InstallLifeSupportStomach.label>
+</LanguageData>

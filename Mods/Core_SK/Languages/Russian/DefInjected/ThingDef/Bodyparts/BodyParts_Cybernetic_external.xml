@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ArchotechEye.label>Кибернетический глаз</ArchotechEye.label>
+	<ArchotechEye.description>Кибернетическая версия глаза, с применением технологий будущего.</ArchotechEye.description>
+	<ArchotechArm.label>Кибернетическая рука</ArchotechArm.label>
+	<ArchotechArm.description>Кибернетическая версия бионической руки, с применением технологий будущего.</ArchotechArm.description>
+	<ArchotechLeg.label>Кибернетическая нога</ArchotechLeg.label>
+	<ArchotechLeg.description>Кибернетическая версия бионической ноги, с применением технологий будущего.</ArchotechLeg.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Accesories-->
+	<Apparel_GlowstoneWard.label>светокаменный оберег</Apparel_GlowstoneWard.label>
+	<Apparel_GlowstoneWard.description>Тщательно обработанные лекарственные травы под воздействием на них мягкого теплого излучения светокамня при постоянном ношении оказывают оздоравливающий и тонизирующий эффект на организм. Тот самый случай, когда сделанные шаманами "магические" вещи действительно работают просто из-за того, что сами материалы имеют необычные свойства.</Apparel_GlowstoneWard.description>
+
+	<Apparel_Aviators.label>очки-авиаторы</Apparel_Aviators.label>
+	<Apparel_Aviators.description>Солнцезащитные очки, хорошо защищают от солнца.</Apparel_Aviators.description>
+
+	<Apparel_Sunshades.label>солнцезащитные очки</Apparel_Sunshades.label>
+	<Apparel_Sunshades.description>Солнцезащитные очки, хорошо защищают от солнца.</Apparel_Sunshades.description>
+
+	<Apparel_SkiMask.label>лыжная маска</Apparel_SkiMask.label>
+	<Apparel_SkiMask.description>Тип военных лыжных очков, стилизованный дизайн. Известны своей ударопрочностью.</Apparel_SkiMask.description>
+
+	<Apparel_BattleMask.label>маска штурмовика</Apparel_BattleMask.label>
+	<Apparel_BattleMask.description>Защитная маска морской пехоты, дополнительно защищает в частности глаза.</Apparel_BattleMask.description>
+
+	<Apparel_Earmuff.label>теплые наушники</Apparel_Earmuff.label>
+	<Apparel_Earmuff.description>Пара мягких прокладок, соединенных лентой по верхней части головы, которые носят по верх ушей, чтобы защитить их от холода.</Apparel_Earmuff.description>
+
+	<Apparel_PilotVisor.label>визор пилота</Apparel_PilotVisor.label>
+	<Apparel_PilotVisor.description>Стандартные очки со средствами связи, которые используют для пилотирования шатла</Apparel_PilotVisor.description>
+
+	<Apparel_TacticalMask.label>балаклава</Apparel_TacticalMask.label>
+	<Apparel_TacticalMask.description>Тактическая маска именуемая балаклавой.</Apparel_TacticalMask.description>
+
+	<Apparel_Ammobelt.label>боевой ремень</Apparel_Ammobelt.label>
+	<Apparel_Ammobelt.description>Специально созданный ремень для переноса увеличенного количества боеприпасов.</Apparel_Ammobelt.description>
+</LanguageData>

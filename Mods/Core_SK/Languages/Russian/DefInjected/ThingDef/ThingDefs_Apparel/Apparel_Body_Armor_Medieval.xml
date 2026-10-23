@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Armor_Hauberk.label>кольчуга</Armor_Hauberk.label>
+	<Armor_Hauberk.description>Доспех, сплетённый из железных колец для защиты от поражения холодным оружием.</Armor_Hauberk.description>
+
+	<Armor_HauberkScaled.label>усиленная кольчуга</Armor_HauberkScaled.label>
+	<Armor_HauberkScaled.description>Длинное пальто, опускающееся до колен. Оно покрыто металлическими пластинами и цепями, образуя добротную кольчугу.</Armor_HauberkScaled.description>
+
+	<Armor_CloakedHauberk.label>усиленная кольчуга лорда</Armor_CloakedHauberk.label>
+	<Armor_CloakedHauberk.description>Длинное пальто, опускающееся до колен. Оно покрыто металлическими пластинами и цепями, образуя добротную кольчугу. Кроме этого, в комплекте идет плащ из меха и кожи. Крайне эффективен при резком ветре и леденящим кости холоде.</Armor_CloakedHauberk.description>
+
+	<Armor_PlateArmor.label>латный доспех</Armor_PlateArmor.label>
+	<Armor_PlateArmor.description>Это тяжелая броня из металлических пластин. Она обеспечивает хорошую защиту от всех видов атак, но сковывает в движениях своего владельца. В жарком климате она нагревается так, что в ней почти невозможно находиться.</Armor_PlateArmor.description>
+
+	<Armor_PlateVest.label>пластинчатый жилет</Armor_PlateVest.label>
+	<Armor_PlateVest.description>Жилет состоит из подвижно скреплённых металлических пластин, закрывающих грудь, спину и плечи.\nЭта броня сочетает в себе защиту жизненно-важных органов и минимальные затраты материалов.\nЕе можно носить под одежной и она совершенно не стесняет движения владельца.</Armor_PlateVest.description>
+
+	<Armor_Brigandine.label>бригантина</Armor_Brigandine.label>
+	<Armor_Brigandine.description>Длинное пальто, до колен. Его внутренняя часть покрыта металлическими пластинами, скрытыми внешними слоями, для дополнительной защиты были добавлены более крупные пластины.</Armor_Brigandine.description>
+
+	<!--Armor-->
+	<Armor_PaddedVest.label>грубый жилет</Armor_PaddedVest.label>
+	<Armor_PaddedVest.description>Грубый жилет с кожаными нашивками для дополнительной защиты от повреждения тупым оружием.</Armor_PaddedVest.description>
+</LanguageData>

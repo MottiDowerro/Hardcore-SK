@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HaulDeliverResourcesToFrames.label>поднести материалы для незавершенных построек</HaulDeliverResourcesToFrames.label>
+	<HaulDeliverResourcesToFrames.verb>Подносит материалы к</HaulDeliverResourcesToFrames.verb>
+	<HaulDeliverResourcesToFrames.gerund>Поднести материалы к</HaulDeliverResourcesToFrames.gerund>
+
+	<HaulDeliverResourcesToBlueprints.label>поднести материалы для проектов построек</HaulDeliverResourcesToBlueprints.label>
+	<HaulDeliverResourcesToBlueprints.verb>Подносит материалы к</HaulDeliverResourcesToBlueprints.verb>
+	<HaulDeliverResourcesToBlueprints.gerund>Поднести материалы к</HaulDeliverResourcesToBlueprints.gerund>
+
+	<HaulPriorityHighPriorityOverride.label>переносить высокий приоритет переноски</HaulPriorityHighPriorityOverride.label>
+	<HaulPriorityHighPriorityOverride.verb>Переносить</HaulPriorityHighPriorityOverride.verb>
+	<HaulPriorityHighPriorityOverride.gerund>Перенести</HaulPriorityHighPriorityOverride.gerund>
+
+	<HaulPriorityMisc.label>переносить приоритетную переноску</HaulPriorityMisc.label>
+	<HaulPriorityMisc.verb>Переносить</HaulPriorityMisc.verb>
+	<HaulPriorityMisc.gerund>Перенести</HaulPriorityMisc.gerund>
+
+	<CollectSand.label>собирать песок</CollectSand.label>
+	<CollectSand.verb>Собирает</CollectSand.verb>
+	<CollectSand.gerund>Собирает песок</CollectSand.gerund>
+
+	<CollectClay.label>собирать глину</CollectClay.label>
+	<CollectClay.verb>Собирает</CollectClay.verb>
+	<CollectClay.gerund>Собирает глину</CollectClay.gerund>
+
+	<CollectPeat.label>собирать торф</CollectPeat.label>
+	<CollectPeat.verb>Собирает</CollectPeat.verb>
+	<CollectPeat.gerund>Собирает торф</CollectPeat.gerund>
+
+	<CollectCrushedstone.label>собирать щебень</CollectCrushedstone.label>
+	<CollectCrushedstone.verb>Собирает щебень</CollectCrushedstone.verb>
+	<CollectCrushedstone.gerund>Собирает щебень</CollectCrushedstone.gerund>
+
+	<!-- EN: preparing -->
+	<DoBillsKitchenTable.gerund>готовить, используя</DoBillsKitchenTable.gerund>
+	<!-- EN: prepare meals -->
+	<DoBillsKitchenTable.label>готовить пищу</DoBillsKitchenTable.label>
+	<!-- EN: prepare -->
+	<DoBillsKitchenTable.verb>готовить, используя</DoBillsKitchenTable.verb>
+
+	<DoBillsBake.label>печь на верстаке</DoBillsBake.label>
+	<DoBillsBake.verb>Печет, используя</DoBillsBake.verb>
+	<DoBillsBake.gerund>Печет, используя</DoBillsBake.gerund>
+
+	<DoBillsGrindStone.label>размалывать зерно</DoBillsGrindStone.label>
+	<DoBillsGrindStone.verb>Размалывает зерно, используя</DoBillsGrindStone.verb>
+	<DoBillsGrindStone.gerund>Размалывает зерно, используя</DoBillsGrindStone.gerund>
+
+	<DoBillsMakeWoodPlanks.label>работать с деревом</DoBillsMakeWoodPlanks.label>
+	<DoBillsMakeWoodPlanks.verb>Работать</DoBillsMakeWoodPlanks.verb>
+	<DoBillsMakeWoodPlanks.gerund>Работать, используя</DoBillsMakeWoodPlanks.gerund>
+
+	<DoBillsKiln.label>работать с горном</DoBillsKiln.label>
+	<DoBillsKiln.verb>Работает, используя</DoBillsKiln.verb>
+	<DoBillsKiln.gerund>Работает, используя</DoBillsKiln.gerund>
+
+	<DoBillsSmeltMetal_Hand.label>плавить металлы</DoBillsSmeltMetal_Hand.label>
+	<DoBillsSmeltMetal_Hand.verb>Плавить металл, используя</DoBillsSmeltMetal_Hand.verb>
+	<DoBillsSmeltMetal_Hand.gerund>Плавить металл, используя</DoBillsSmeltMetal_Hand.gerund>
+
+	<DoBillsTableElectronics.label>делать электронику</DoBillsTableElectronics.label>
+	<DoBillsTableElectronics.verb>Делает электронику, используя</DoBillsTableElectronics.verb>
+	<DoBillsTableElectronics.gerund>Делает электронику, используя</DoBillsTableElectronics.gerund>
+
+	<DoBillsTableLoom.label>прясть ткани</DoBillsTableLoom.label>
+	<DoBillsTableLoom.verb>Прясть ткань, используя</DoBillsTableLoom.verb>
+	<DoBillsTableLoom.gerund>Прядет ткань, используя</DoBillsTableLoom.gerund>
+
+	<DoBillsMatterfab.label>работать с фабрикатором</DoBillsMatterfab.label>
+	<DoBillsMatterfab.verb>Работает с фабрикатором, используя</DoBillsMatterfab.verb>
+	<DoBillsMatterfab.gerund>Работает, используя</DoBillsMatterfab.gerund>
+
+	<DoBillsTableSurrogates.label>производить протезы</DoBillsTableSurrogates.label>
+	<DoBillsTableSurrogates.verb>Работает, используя</DoBillsTableSurrogates.verb>
+	<DoBillsTableSurrogates.gerund>Работает, используя</DoBillsTableSurrogates.gerund>
+
+	<DoBillsMixconcrete.label>замешивать бетон</DoBillsMixconcrete.label>
+	<DoBillsMixconcrete.verb>Замешивает, используя</DoBillsMixconcrete.verb>
+	<DoBillsMixconcrete.gerund>Замешивает бетон, используя</DoBillsMixconcrete.gerund>
+
+	<DoBillsTableChemlab.label>работать в лаборатории</DoBillsTableChemlab.label>
+	<DoBillsTableChemlab.verb>Работать в лаборатории, используя</DoBillsTableChemlab.verb>
+	<DoBillsTableChemlab.gerund>Работает, используя</DoBillsTableChemlab.gerund>
+
+	<DoBillsMakeGlass.label>производить стёкла</DoBillsMakeGlass.label>
+	<DoBillsMakeGlass.verb>Производит стекло</DoBillsMakeGlass.verb>
+	<DoBillsMakeGlass.gerund>Производит стекло, используя</DoBillsMakeGlass.gerund>
+
+	<DoBillsWeaponCraftingWorkTable.label>изготавливать оружие</DoBillsWeaponCraftingWorkTable.label>
+	<DoBillsWeaponCraftingWorkTable.verb>Изготавливает оружие, используя</DoBillsWeaponCraftingWorkTable.verb>
+	<DoBillsWeaponCraftingWorkTable.gerund>Изготавливает оружие, используя</DoBillsWeaponCraftingWorkTable.gerund>
+
+	<DoBillsConvert.label>конвертировать материю</DoBillsConvert.label>
+	<DoBillsConvert.verb>Конвертирует, используя</DoBillsConvert.verb>
+	<DoBillsConvert.gerund>Конвертирует материю, используя</DoBillsConvert.gerund>
+
+	<DoBillsMending.label>ремонтировать одежду</DoBillsMending.label>
+	<DoBillsMending.verb>Ремонтирует одежду, используя</DoBillsMending.verb>
+	<DoBillsMending.gerund>Ремонтирует, используя</DoBillsMending.gerund>
+
+	<DoBillsRecycling.label>перерабатывать вещи</DoBillsRecycling.label>
+	<DoBillsRecycling.verb>Перерабатывает</DoBillsRecycling.verb>
+	<DoBillsRecycling.gerund>Перерабатывает</DoBillsRecycling.gerund>
+
+	<DoBillsMedical.label>работать с медицинским крафтом</DoBillsMedical.label>
+	<DoBillsMedical.verb>Работать с</DoBillsMedical.verb>
+	<DoBillsMedical.gerund>Работает с</DoBillsMedical.gerund>
+
+	<DoBillsUseSaltMine.label>работа в соляной шахте</DoBillsUseSaltMine.label>
+	<DoBillsUseSaltMine.verb>Добывает в соляной шахте</DoBillsUseSaltMine.verb>
+	<DoBillsUseSaltMine.gerund>Добывает</DoBillsUseSaltMine.gerund>
+</LanguageData>

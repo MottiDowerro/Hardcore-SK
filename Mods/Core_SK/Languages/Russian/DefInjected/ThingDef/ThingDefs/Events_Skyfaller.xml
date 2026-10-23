@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DropPodFlying.label>летящая спасательная капсула</DropPodFlying.label>
+
+	<ShipWreckFlying.label>летящий обломок корабля</ShipWreckFlying.label>
+
+	<DebrisFlying.label>летящий мусор</DebrisFlying.label>
+
+	<MeteoriteFlying.label>летящий метеорит</MeteoriteFlying.label>
+
+	<Crater.label>кратер</Crater.label>
+</LanguageData>

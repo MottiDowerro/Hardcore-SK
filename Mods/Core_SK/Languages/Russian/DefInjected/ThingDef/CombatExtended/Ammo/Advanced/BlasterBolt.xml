@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Ammo_BlasterBolt.label>Бластерная энергоячейка (AP)</Ammo_BlasterBolt.label>
+	<Ammo_BlasterBolt.description>Бластерная энергоячейка Бронебойная - боеприпас для хайтек вооружения. Представляет собой микробатарею повышенной мощности.\n\nПри стрельбе за счет бОльшего высвобождения энергии, бластерный луч эффективнее прожигает броню цели.</Ammo_BlasterBolt.description>
+
+	<Bullet_Blaster.label>луч бластера (AP)</Bullet_Blaster.label>
+
+	<!-- EN: Blaster bolt -->
+	<Bullet_Blaster_BlackWidow.label>луч бластера (AP)</Bullet_Blaster_BlackWidow.label>
+
+	<!-- EN: Laser beam (Stable) -->
+	<Bullet_Laserbeam_Stable_BlackWidow.label>луч лазера (Stable)</Bullet_Laserbeam_Stable_BlackWidow.label>
+</LanguageData>

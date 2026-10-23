@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Hygiene_13.label>Гигиена I</Hygiene_13.label>
+	<Hygiene_13.description>description</Hygiene_13.description>
+
+	<LogBoilers.label>Гигиена II</LogBoilers.label>
+	<LogBoilers.description>description</LogBoilers.description>
+
+	<CentralHeating.label>Гигиена III</CentralHeating.label>
+	<CentralHeating.description>description</CentralHeating.description>
+
+	<ModernFixtures.label>Гигиена IV</ModernFixtures.label>
+	<ModernFixtures.description>description</ModernFixtures.description>
+
+	<ElectricPumps.label>Гигиена V</ElectricPumps.label>
+	<ElectricPumps.description>description</ElectricPumps.description>
+
+	<Hygiene_29.label>Гигиена VI</Hygiene_29.label>
+	<Hygiene_29.description>description</Hygiene_29.description>
+
+	<Hygiene_2A.label>Гигиена VII</Hygiene_2A.label>
+	<Hygiene_2A.description>description</Hygiene_2A.description>
+
+	<Hygiene_31.label>Гигиена VIII</Hygiene_31.label>
+	<Hygiene_31.description>description</Hygiene_31.description>
+</LanguageData>

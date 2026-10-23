@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- HeavyGun Scyther -->
+	<Mech_ScytherHG.label>Жнец механоидов</Mech_ScytherHG.label>
+	<Mech_ScytherHG.labelPlural>Жнец механоидов</Mech_ScytherHG.labelPlural>
+	<Mech_ScytherHG.labelMale>Жнец механоидов</Mech_ScytherHG.labelMale>
+	<Mech_ScytherHG.labelMalePlural>Жнец механоидов</Mech_ScytherHG.labelMalePlural>
+	<Mech_ScytherHG.labelFemale>Жнец механоидов</Mech_ScytherHG.labelFemale>
+	<Mech_ScytherHG.labelFemalePlural>Жнец механоидов</Mech_ScytherHG.labelFemalePlural>
+
+	<!-- Sniper Lancer -->
+	<Mech_SniperLancer.label>Лансер механоидов</Mech_SniperLancer.label>
+	<Mech_SniperLancer.labelPlural>Лансеры механоидов</Mech_SniperLancer.labelPlural>
+	<Mech_SniperLancer.labelMale>Лансер механоидов</Mech_SniperLancer.labelMale>
+	<Mech_SniperLancer.labelMalePlural>Лансеры механоидов</Mech_SniperLancer.labelMalePlural>
+	<Mech_SniperLancer.labelFemale>Лансер механоидов</Mech_SniperLancer.labelFemale>
+	<Mech_SniperLancer.labelFemalePlural>Лансеры механоидов</Mech_SniperLancer.labelFemalePlural>
+
+	<!-- Crawler -->
+	<Mech_Crawler.label>Механический краб</Mech_Crawler.label>
+	<Mech_Crawler.labelPlural>Механические крабы</Mech_Crawler.labelPlural>
+	<Mech_Crawler.labelMale>Механический краб</Mech_Crawler.labelMale>
+	<Mech_Crawler.labelMalePlural>Механические крабы</Mech_Crawler.labelMalePlural>
+	<Mech_Crawler.labelFemale>Механический краб</Mech_Crawler.labelFemale>
+	<Mech_Crawler.labelFemalePlural>Механические крабы</Mech_Crawler.labelFemalePlural>
+</LanguageData>

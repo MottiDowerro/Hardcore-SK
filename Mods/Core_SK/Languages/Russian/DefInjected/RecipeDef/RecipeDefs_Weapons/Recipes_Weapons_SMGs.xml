@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ==================== Submachine guns ========================== -->
+	<BuildPDW.label>Собрать ПП Uzi</BuildPDW.label>
+	<BuildPDW.description>Персональное оружие самообороны - пистолет-пулемёт. Короткая дистанция, низкая убойная сила, высокий темп стрельбы. Очень быстрое прицеливание и огонь.</BuildPDW.description>
+	<BuildPDW.jobString>Собирает ПП Uzi</BuildPDW.jobString>
+
+	<BuildHeavySMG.label>Собрать ПП Spectre М4</BuildHeavySMG.label>
+	<BuildHeavySMG.description>Компактный, крупнокалиберный пулемёт. Очень коротая дистанция, но хорошо сосредоточенный огонь.</BuildHeavySMG.description>
+	<BuildHeavySMG.jobString>Собирает ПП Spectre М4</BuildHeavySMG.jobString>
+
+	<BuildTMPMachinePistol.label>Собрать АП TMP с глушителем</BuildTMPMachinePistol.label>
+	<BuildTMPMachinePistol.description>Автоматический пистолет или пистолет-пулемёт. Небольшая точность на дальней дистанции. Быстрый темп стрельбы и низкая пробивная мощность.</BuildTMPMachinePistol.description>
+	<BuildTMPMachinePistol.jobString>Собирает АП TMP с глушителем</BuildTMPMachinePistol.jobString>
+
+	<BuildSkorpionSMG.label>Собрать ПП HK MP5K</BuildSkorpionSMG.label>
+	<BuildSkorpionSMG.description>Пистолет-пулемёт или небольшой SMG с прикладом. Стреляет очередью по 5 выстрелов на расстоянии стрельбы пистолета.</BuildSkorpionSMG.description>
+	<BuildSkorpionSMG.jobString>Собирает ПП HK MP5K</BuildSkorpionSMG.jobString>
+
+	<BuildM3SMG.label>Собрать ПП M3A1 GreaseGun</BuildM3SMG.label>
+	<BuildM3SMG.description>Пистолет-пулемёт с очень простым дизайном. Низкий урон, высокий темп стрельбы, короткая дальность стрельбы.</BuildM3SMG.description>
+	<BuildM3SMG.jobString>Собирает ПП M3A1 GreaseGun</BuildM3SMG.jobString>
+
+	<BuildVector.label>Собрать ПП Kriss Vector K10</BuildVector.label>
+	<BuildVector.description>Пистолет-пулемёт, стреляющий короткими очередями. Его существенно сниженная отдача позволяет стрелять на средней дистанции, но пуля падает раньше и это ограничивает максимальную дистанцию стрельбы.</BuildVector.description>
+	<BuildVector.jobString>Собирает ПП Kriss Vector K10</BuildVector.jobString>
+
+	<BuildMP5Gun.label>Собрать ПП HK MP5A3</BuildMP5Gun.label>
+	<BuildMP5Gun.description>Пистолет-пулемёт MP5 разработки Heckler Koch.</BuildMP5Gun.description>
+	<BuildMP5Gun.jobString>Собирает ПП HK MP5A3</BuildMP5Gun.jobString>
+
+	<BuildUMP45Gun.label>Собрать ПП HK UMP45</BuildUMP45Gun.label>
+	<BuildUMP45Gun.description>Укороченный пистолет-пулемёт, разработанный немецкой компанией Heckler Koch. Большой радиус действия, великолепная точность и убойная сила.</BuildUMP45Gun.description>
+	<BuildUMP45Gun.jobString>Собирает HK UMP45</BuildUMP45Gun.jobString>
+</LanguageData>

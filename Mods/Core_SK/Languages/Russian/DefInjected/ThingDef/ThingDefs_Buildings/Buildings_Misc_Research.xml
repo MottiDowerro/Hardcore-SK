@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<PrimitiveResearchBench.label>Примитивный научный стол</PrimitiveResearchBench.label>
+	<PrimitiveResearchBench.description>Надо же с чего-то начинать! Поможет начать изучение окружающего мира.</PrimitiveResearchBench.description>
+
+	<CounterTopModular.label>лабораторный шкафчик</CounterTopModular.label>
+	<CounterTopModular.description>Удобный лабораторный шкафчик с ровной поверхностью.</CounterTopModular.description>
+
+	<LabStation.label>лабораторная станция</LabStation.label>
+	<LabStation.description>Вспомогательная научно-исследовательская станция для расширения лабораторных исследований. Требует электричество.</LabStation.description>
+
+	<LabTerminal.label>исследовательский терминал</LabTerminal.label>
+	<LabTerminal.description>Компактный исследовательский терминал для расширения лабораторных работ. Требует электричество.</LabTerminal.description>
+
+	<FileCabinet.label>картотечный шкаф</FileCabinet.label>
+	<FileCabinet.description>Важное место для хранения важных документов о важных экспериментах, используемых для важных исследований по важным технологиям. Немного увеличивает скорость исследований, когда стоит рядом с научным столом.</FileCabinet.description>
+</LanguageData>

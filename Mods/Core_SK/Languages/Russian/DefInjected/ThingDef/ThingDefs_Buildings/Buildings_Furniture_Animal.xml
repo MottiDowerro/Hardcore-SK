@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Chickennest.label>Куриное гнездо</Chickennest.label>
+	<Chickennest.description>Небольшое гнездо для животных, в которых они могут спать. Подходит для мелких животных, таких как куры, кошки, или маленькие собачки. Максимальный размер животного: 0.55</Chickennest.description>
+
+	<AnimalSleepingHayLeather.label>Спальник для животного</AnimalSleepingHayLeather.label>
+	<AnimalSleepingHayLeather.description>Небольшая коробка для животных. Подходит для мелких животных, таких как куры, кошки или маленькие собачки. Максимальный размер животного: 1.0</AnimalSleepingHayLeather.description>
+
+	<AnimalPillow.label>Подушка для животных</AnimalPillow.label>
+	<AnimalPillow.description>Лечите, кормите, заботитесь о своем питомце вместе с подушкой для животных! Покажи свою любовь.</AnimalPillow.description>
+
+	<ScratchingPole.label>когтеточка</ScratchingPole.label>
+	<ScratchingPole.description>Здесь коты будут точить свои когти</ScratchingPole.description>
+</LanguageData>

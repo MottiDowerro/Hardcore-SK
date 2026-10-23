@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Proj_Norbhammer.label>граната "Молот Тора"</Proj_Norbhammer.label>
+
+	<Norbhammar.label>молот Тора</Norbhammar.label>
+	<Norbhammar.description>Мощная древняя взрывчатка.</Norbhammar.description>
+
+	<Proj_GrenadeHighExplosive.label>граната фугасная (HE)</Proj_GrenadeHighExplosive.label>
+
+	<Weapon_GrenadeHighExplosive.label>фугасная граната</Weapon_GrenadeHighExplosive.label>
+	<Weapon_GrenadeHighExplosive.description>Обычная граната, предназначенная для поражения противника в небольшой области.</Weapon_GrenadeHighExplosive.description>
+
+	<Proj_GrenadeFlame.label>граната зажигательная (I)</Proj_GrenadeFlame.label>
+
+	<Weapon_GrenadeFlame.label>зажигательная граната</Weapon_GrenadeFlame.label>
+	<Weapon_GrenadeFlame.description>Сжатое соединение легковоспламеняемых материалов, при взрыве хорошо сеет панику в рядах противника.</Weapon_GrenadeFlame.description>
+
+	<Proj_GrenadeChargedFrag.label>граната энергетическая (CH)</Proj_GrenadeChargedFrag.label>
+
+	<Weapon_GrenadeChargedFrag.label>энергетическая граната</Weapon_GrenadeChargedFrag.label>
+	<Weapon_GrenadeChargedFrag.description>Маленький, круглый, но очень убийственный энергетический заряд, вряд ли спасёт много жизней и решит много проблем, но создает большое количество опасных осколков.</Weapon_GrenadeChargedFrag.description>
+
+	<Proj_GrenadePlasma.label>граната плазменная (PL)</Proj_GrenadePlasma.label>
+
+	<Weapon_GrenadePlasma.label>плазменная граната</Weapon_GrenadePlasma.label>
+	<Weapon_GrenadePlasma.description>Маленький, но очень убийственный взрыв плазмы, спасёт много жизней и решит много проблем. Поджигает.</Weapon_GrenadePlasma.description>
+
+	<Proj_GrenadeFusion.label>граната термобарическая (T)</Proj_GrenadeFusion.label>
+
+	<Weapon_GrenadeFusion.label>термобарическая граната</Weapon_GrenadeFusion.label>
+	<Weapon_GrenadeFusion.description>Улучшенная версия фугасной гранаты. Осколки отсутствуют.</Weapon_GrenadeFusion.description>
+</LanguageData>

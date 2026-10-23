@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Lacosdile-->
+	<Lacosdile.label>лакосдил</Lacosdile.label>
+	<Lacosdile.description>Гибридные и генетически модифицированные ящерицы изначально созданы ради забавы. Будучи травоядными, они всё равно достаточно опасны. Однажды, после затопления канализационной системы, их разнесло по всей галактике в дальние уголки космоса. В результате в настоящее время эти виды процветают на пустынных землях Римворлда.</Lacosdile.description>
+	<!-- EN: head -->
+	<Lacosdile.tools.head.label>голова</Lacosdile.tools.head.label>
+	<!-- EN: left claw -->
+	<Lacosdile.tools.0.label>левая лапа</Lacosdile.tools.0.label>
+	<!-- EN: right claw -->
+	<Lacosdile.tools.1.label>правая лапа</Lacosdile.tools.1.label>
+
+	<Okapi.label>окапи</Okapi.label>
+	<Okapi.description>Парнокопытное, жирафоподобное млекопитающее. Окапи в основном активны днём, но могут передвигаться и в темноте. В основном одиночные животные, собираются группой только в период размножения. Травоядные, питаются листьями деревьев, травами, фруктами и грибами.</Okapi.description>
+	<!-- EN: head -->
+	<Okapi.tools.head.label>голова</Okapi.tools.head.label>
+	<!-- EN: left hoof -->
+	<Okapi.tools.0.label>левое копыто</Okapi.tools.0.label>
+	<!-- EN: right hoof -->
+	<Okapi.tools.1.label>правое копыто</Okapi.tools.1.label>
+	<!-- EN: teeth -->
+	<Okapi.tools.teeth.label>зубы</Okapi.tools.teeth.label>
+</LanguageData>

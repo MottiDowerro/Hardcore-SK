@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<TobaccoCigarChocolate.label>шоколадная сигара</TobaccoCigarChocolate.label>
+	<TobaccoCigarChocolate.description>Использование сигары может вызвать зависимость от никотина. Может производиться без оборудования, на месте обработки. Требуется шоколад и табак.</TobaccoCigarChocolate.description>
+	<TobaccoCigarChocolate.ingestible.ingestCommandString>скурить {0}</TobaccoCigarChocolate.ingestible.ingestCommandString>
+	<TobaccoCigarChocolate.ingestible.ingestReportString>курит {0}</TobaccoCigarChocolate.ingestible.ingestReportString>
+</LanguageData>

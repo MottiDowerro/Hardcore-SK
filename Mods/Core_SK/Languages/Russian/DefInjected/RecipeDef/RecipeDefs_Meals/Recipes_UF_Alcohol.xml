@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Brewery-->
+	<Make_Beer.label>сделать пиво</Make_Beer.label>
+	<Make_Beer.description>Сделать пиво из сусла. Процесс занимает 6 дней.</Make_Beer.description>
+
+	<Make_Whisky.label>сделать виски</Make_Whisky.label>
+	<Make_Whisky.description>Сделать виски из сусла. Процесс занимает 7.25 дней.</Make_Whisky.description>
+
+	<Make_Sake.label>сделать сакэ</Make_Sake.label>
+	<Make_Sake.description>Сделать сакэ из сусла. Процесс занимает 5.25 дней.</Make_Sake.description>
+
+	<Make_Cider.label>сделать сидр</Make_Cider.label>
+	<Make_Cider.description>Сделать сидр из сусла. Процесс занимает 4.8 дней.</Make_Cider.description>
+
+	<Make_Rum.label>сделать ром</Make_Rum.label>
+	<Make_Rum.description>Сделать ром из сусла. Процесс занимает 4.5 дней.</Make_Rum.description>
+
+	<Make_Berrywine.label>сделать столовое вино</Make_Berrywine.label>
+	<Make_Berrywine.description>Сделать столовое вино из сусла. Процесс занимает 5.8 дней.</Make_Berrywine.description>
+
+	<Make_Vodka.label>сделать водку</Make_Vodka.label>
+	<Make_Vodka.description>Сделать водку из сусла. Процесс занимает 4.8 дней.</Make_Vodka.description>
+
+	<Make_Tequila.label>сделать текилу</Make_Tequila.label>
+	<Make_Tequila.description>Сделать текилу из сусла. Процесс занимает 5.6 дней.</Make_Tequila.description>
+
+	<Make_Wine.label>сделать вино</Make_Wine.label>
+	<Make_Wine.description>Сделать вино из сусла. Процесс занимает 5.8 дней.</Make_Wine.description>
+</LanguageData>

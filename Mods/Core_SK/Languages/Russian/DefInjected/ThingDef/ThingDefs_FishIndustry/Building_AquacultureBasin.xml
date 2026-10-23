@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AquacultureBasin.label>Бассейн для рыбы</AquacultureBasin.label>
+	<AquacultureBasin.description>Бассейн, предназначенный для разведения рыбы. Температура и качество воды автоматически регулируются. Необходим корм для разведения рыбы, который необходимо загружать в специальный хоппер.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 500 W\nПри работе: 500 W</AquacultureBasin.description>
+</LanguageData>

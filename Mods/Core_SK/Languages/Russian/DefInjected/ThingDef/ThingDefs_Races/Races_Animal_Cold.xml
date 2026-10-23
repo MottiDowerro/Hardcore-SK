@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Snork-->
+	<Snork.label>снорк</Snork.label>
+	<Snork.description>Есть некоторое сходство между ними и моржами, но нельзя сказать, кто появился из них раньше, почти все данные о земляной фауне были давно повреждены. Их бивни высоко ценятся на черном рынке.</Snork.description>
+	<!-- EN: head -->
+	<Snork.tools.head.label>голова</Snork.tools.head.label>
+
+	<Terramorph.label>терраморф</Terramorph.label>
+	<Terramorph.description>Эти уникальный подвид насекомых, способный существовать в суровых климатических условиях. Ядовит и чрезвычайно вынослив.</Terramorph.description>
+	<!-- EN: head -->
+	<Terramorph.tools.head.label>голова</Terramorph.tools.head.label>
+</LanguageData>

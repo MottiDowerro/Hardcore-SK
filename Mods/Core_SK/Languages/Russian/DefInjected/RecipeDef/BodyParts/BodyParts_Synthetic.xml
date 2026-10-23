@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallBionicLung.label>Имплантировать синтетическое лёгкое</InstallBionicLung.label>
+	<InstallBionicLung.description>Имплантировать синтетическое лёгкое.</InstallBionicLung.description>
+	<InstallBionicLung.jobString>Имплантирует синтетическое лёгкое</InstallBionicLung.jobString>
+
+	<InstallBionicLiver.label>Имплантировать синтетическую печень</InstallBionicLiver.label>
+	<InstallBionicLiver.description>Имплантировать синтетическую печень.</InstallBionicLiver.description>
+	<InstallBionicLiver.jobString>Имплантирует синтетическую печень</InstallBionicLiver.jobString>
+
+	<InstallBionicKidney.label>Имплантировать синтетическую почку</InstallBionicKidney.label>
+	<InstallBionicKidney.description>Имплантировать синтетическую почку.</InstallBionicKidney.description>
+	<InstallBionicKidney.jobString>Имплантирует синтетическую почку</InstallBionicKidney.jobString>
+
+	<InstallMuscleStimulatorArms.label>установить стимулятор мышц</InstallMuscleStimulatorArms.label>
+	<InstallMuscleStimulatorArms.description>Установить стимулятор мышц в плечо.</InstallMuscleStimulatorArms.description>
+	<InstallMuscleStimulatorArms.jobString>Устанавливает стимулятор мышц</InstallMuscleStimulatorArms.jobString>
+
+	<InstallMuscleStimulatorLegs.label>установить стимулятор мышц</InstallMuscleStimulatorLegs.label>
+	<InstallMuscleStimulatorLegs.description>Установить стимулятор мышц в бедро.</InstallMuscleStimulatorLegs.description>
+	<InstallMuscleStimulatorLegs.jobString>Устанавливает стимулятор мышц</InstallMuscleStimulatorLegs.jobString>
+</LanguageData>

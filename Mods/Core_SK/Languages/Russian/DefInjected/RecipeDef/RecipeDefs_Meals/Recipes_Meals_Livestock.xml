@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CookCatFood.label>Сделать кошачью еду</CookCatFood.label>
+	<CookCatFood.description>Сделать кошачью еду.</CookCatFood.description>
+	<CookCatFood.jobString>Делает кошачью еду</CookCatFood.jobString>
+
+	<MakeSilage.label>Заготовить силос</MakeSilage.label>
+	<MakeSilage.description>Заготовить силос для кормежки животных. Производится 30.</MakeSilage.description>
+	<MakeSilage.jobString>Заготавливает силос</MakeSilage.jobString>
+</LanguageData>

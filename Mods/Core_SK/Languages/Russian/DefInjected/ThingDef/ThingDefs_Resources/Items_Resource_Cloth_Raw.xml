@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Raw Cotton -->
+	<RawCotton.label>Хлопок</RawCotton.label>
+	<!-- EN: Raw Cotton from a Cotton Bush. It can be spun into Cloth at a Tailor's Workbench. -->
+	<RawCotton.description>Можно спрясти из него ткань или продать торговцу.</RawCotton.description>
+
+	<!-- EN: Raw flax -->
+	<RawFlax.label>Лён</RawFlax.label>
+	<!-- EN: Raw flax. It can be spun into cloth or sold to a trader. -->
+	<RawFlax.description>Можно спрясти из него ткань или продать торговцу.</RawFlax.description>
+
+	<!-- EN: Raw Devilstrand -->
+	<RawDevilstrand.label>Дьявлонитник</RawDevilstrand.label>
+	<!-- EN: Raw Devilstrand from a Devilstrand Mushroom. It can be spun into Devilstrand Cloth at a Tailor's Workbench. -->
+	<RawDevilstrand.description>Можно спрясти из него ткань или продать торговцу.\nМожно посадить только в гидропонике.</RawDevilstrand.description>
+</LanguageData>

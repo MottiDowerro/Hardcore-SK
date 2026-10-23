@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Make_ArtificialBone.label>Изготовить искусственную кость</Make_ArtificialBone.label>
+	<Make_ArtificialBone.description>Изготовить искусственную кость.\nПроизводится 1 шт.</Make_ArtificialBone.description>
+	<Make_ArtificialBone.jobString>Изготавливает искусственную кость</Make_ArtificialBone.jobString>
+
+	<Make_ArtificialBoneBulk.label>Изготовить искусственные кости (х4)</Make_ArtificialBoneBulk.label>
+	<Make_ArtificialBoneBulk.description>Изготовить искусственные кости.\nПроизводится 4 шт.</Make_ArtificialBoneBulk.description>
+	<Make_ArtificialBoneBulk.jobString>Изготавливает искусственные кости</Make_ArtificialBoneBulk.jobString>
+
+	<InstallArtificialBone_Small.label>установить малую искусственную кость</InstallArtificialBone_Small.label>
+	<InstallArtificialBone_Small.description>Установка малой искусственной кости.</InstallArtificialBone_Small.description>
+	<InstallArtificialBone_Small.jobString>Устанавливает малую искусственную кость</InstallArtificialBone_Small.jobString>
+
+	<InstallArtificialBone_Medium.label>установить среднюю искусственную кость</InstallArtificialBone_Medium.label>
+	<InstallArtificialBone_Medium.description>Установка средней искусственной кости.</InstallArtificialBone_Medium.description>
+	<InstallArtificialBone_Medium.jobString>Устанавливает среднюю искусственную кость</InstallArtificialBone_Medium.jobString>
+
+	<InstallArtificialBonePiece_Large.label>установить большую искусственную кость</InstallArtificialBonePiece_Large.label>
+	<InstallArtificialBonePiece_Large.description>Установка большой искусственной кости.</InstallArtificialBonePiece_Large.description>
+	<InstallArtificialBonePiece_Large.jobString>Устанавливает большую искусственную кость</InstallArtificialBonePiece_Large.jobString>
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Rock Crusher-->
+	<CrushChunkSand.label>раскрошить обломки в песок</CrushChunkSand.label>
+	<CrushChunkSand.description>Переработать обломки в песок.</CrushChunkSand.description>
+
+	<CrushRubbleSand.label>раскрошить щебень в песок</CrushRubbleSand.label>
+	<CrushRubbleSand.description>Переработать щебень в песок.</CrushRubbleSand.description>
+
+	<Crush_Chunk_Rubble.label>раскрошить обломки в щебень</Crush_Chunk_Rubble.label>
+	<Crush_Chunk_Rubble.description>Переработать обломки в щебень.</Crush_Chunk_Rubble.description>
+
+	<Crush_Blocks_Rubble.label>раскрошить блоки в щебень</Crush_Blocks_Rubble.label>
+	<Crush_Blocks_Rubble.description>Переработать блоки в щебень.</Crush_Blocks_Rubble.description>
+</LanguageData>

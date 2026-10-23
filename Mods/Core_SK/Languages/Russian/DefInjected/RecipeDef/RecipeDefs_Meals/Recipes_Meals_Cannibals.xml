@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: mince organs -->
+	<MinceOrgans.label>Замесить фарш из органов</MinceOrgans.label>
+	<!-- EN: Minces human organs to obtain edible meat. Makes great prison meals. -->
+	<MinceOrgans.description>Перемолоть человеческие органы для получения съедобного фарша.</MinceOrgans.description>
+	<!-- EN: Butchering. -->
+	<MinceOrgans.jobString>Замешивает фарш из органов</MinceOrgans.jobString>
+
+	<!-- EN: mince limbs -->
+	<MinceLimbs.label>Разделать конечности</MinceLimbs.label>
+	<!-- EN: Minces human limbs to obtain edible meat. Watch out for toenails. -->
+	<MinceLimbs.description>Разделать человеческие конечности для получения питательного мяса. Следите за ногтями на ногах.</MinceLimbs.description>
+	<!-- EN: Butchering. -->
+	<MinceLimbs.jobString>Разделывает конечности</MinceLimbs.jobString>
+</LanguageData>

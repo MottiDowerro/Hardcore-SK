@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Blaster pellet bolt -->
+	<Bullet_BlasterPelletBolt.label>луч бластера (AP-FRAC)</Bullet_BlasterPelletBolt.label>
+
+	<Ammo_BlasterPelletBolt.label>Бластерная энергоячейка (AP-FRAC)</Ammo_BlasterPelletBolt.label>
+	<Ammo_BlasterPelletBolt.description>Бластерная энергоячейка Бронебойно-фракционная - боеприпас для хайтек вооружения. Представляет собой микробатарею повышенной мощности.\n\nПри стрельбе сконцентрированный бластерный луч проходит через надульный разделитель оружия, расщепляясь на несколько более слабых.\n\nКонусный разлет лучей позволяет охватить бОльшую площадь, но за счет их быстрого рассеивания в атмосфере, этот боеприпас имеет сниженную дальность действия.</Ammo_BlasterPelletBolt.description>
+</LanguageData>

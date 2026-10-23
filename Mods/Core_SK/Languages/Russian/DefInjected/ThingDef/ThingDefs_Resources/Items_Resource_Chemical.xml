@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Polymers.label>Полимеры</Polymers.label>
+	<Polymers.description>Из полимеров получаются интересные материалы, например пластик.</Polymers.description>
+
+	<Plastic.label>Пластик</Plastic.label>
+	<Plastic.description>Пластик везде нужен, везде необходим...</Plastic.description>
+	<Plastic.stuffProps.stuffAdjective>пластика</Plastic.stuffProps.stuffAdjective>
+
+	<Rubber.label>Резина</Rubber.label>
+	<Rubber.description>Эластичный синтетический материал.</Rubber.description>
+
+	<SyntheticFibers.label>Синтетические волокна</SyntheticFibers.label>
+	<SyntheticFibers.description>Синтетические волокна используются для разных целей.</SyntheticFibers.description>
+
+	<Carbon.label>Карбон</Carbon.label>
+	<Carbon.description>Карбон.</Carbon.description>
+
+	<SyntheticAmmonia.label>Синтетический аммиак</SyntheticAmmonia.label>
+	<SyntheticAmmonia.description>Синтетический аммиак используется в основном для удобрений.</SyntheticAmmonia.description>
+
+	<Paraffins.label>Парафин</Paraffins.label>
+	<Paraffins.description>Парафин используется в самых разных местах, но в основном в медицине.</Paraffins.description>
+
+	<Sulfur.label>Сера</Sulfur.label>
+	<Sulfur.description>Сера необходима для производства пороха.</Sulfur.description>
+
+	<Sulphates.label>Сульфаты</Sulphates.label>
+	<Sulphates.description>Ингридиент используемый в основном для производства резины, синтетических волокон.</Sulphates.description>
+</LanguageData>

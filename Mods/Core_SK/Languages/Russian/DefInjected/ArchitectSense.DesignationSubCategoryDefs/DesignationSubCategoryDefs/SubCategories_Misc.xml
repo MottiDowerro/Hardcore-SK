@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Misc -->
+	<SubCategory_Spots.label>точки сбора</SubCategory_Spots.label>
+	<SubCategory_Spots.description>Установить различные точки сбора для ваших поселенцев.</SubCategory_Spots.description>
+
+	<SubCategory_Graves.label>могилы</SubCategory_Graves.label>
+	<SubCategory_Graves.description>Различные могилы для погребения трупов.</SubCategory_Graves.description>
+
+	<SubCategory_ResearchBenches.label>научные столы</SubCategory_ResearchBenches.label>
+	<SubCategory_ResearchBenches.description>Научные столы различного технического уровня.</SubCategory_ResearchBenches.description>
+
+	<SubCategory_ResearchStations.label>инструменты исследователя</SubCategory_ResearchStations.label>
+	<SubCategory_ResearchStations.description>Исследователи используют данные станции для ускорения работ.</SubCategory_ResearchStations.description>
+
+	<SubCategory_Trade.label>торговля</SubCategory_Trade.label>
+	<SubCategory_Trade.description>Постройки для торговли и коммуникации.</SubCategory_Trade.description>
+
+	<SubCategory_Scanners.label>сканеры</SubCategory_Scanners.label>
+	<SubCategory_Scanners.description>Специальные сканеры для обнаружения скрытых месторождений.</SubCategory_Scanners.description>
+
+	<SubCategory_Transportation.label>транспортировка</SubCategory_Transportation.label>
+	<SubCategory_Transportation.description>Постройки для перевозки между поселениями.</SubCategory_Transportation.description>
+
+	<SubCategory_Facilities.label>средства обслуживания</SubCategory_Facilities.label>
+	<SubCategory_Facilities.description>Специальные постройки, которые можно "подключить" к существующим постройкам для усиления.</SubCategory_Facilities.description>
+
+	<SubCategory_MFacilities.label>медицинское оборудование</SubCategory_MFacilities.label>
+	<SubCategory_MFacilities.description>Специальные постройки, которые можно "подключить" к существующим постройкам для усиления.</SubCategory_MFacilities.description>
+
+	<SubCategory_TrainingFacilities.label>тренажеры</SubCategory_TrainingFacilities.label>
+	<SubCategory_TrainingFacilities.description>Постройки для тренировки каких-либо навыков.</SubCategory_TrainingFacilities.description>
+
+	<SubCategory_Firefoam.label>пожарная пена</SubCategory_Firefoam.label>
+	<SubCategory_Firefoam.description>Устройства для защиты поселений от пожаров.</SubCategory_Firefoam.description>
+
+	<SubCategory_Robots.label>роботы</SubCategory_Robots.label>
+	<SubCategory_Robots.description>Станции подзарядки с роботами.</SubCategory_Robots.description>
+</LanguageData>

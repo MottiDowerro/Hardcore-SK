@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--=============== Raw Materials ====================-->
+	<!-- EN: tallow -->
+	<Tallow.label>Смалец</Tallow.label>
+	<!-- EN: Pure non-edible fat that can be used to fuel simple buildings that don't require high burning temperature. -->
+	<Tallow.description>Очищеный несъедобный жир. Можно использовать как топливо с невысокой температурой горения или как топливо для свечей.</Tallow.description>
+
+	<!--=============== Weaponry SK ====================-->
+	<Powder.label>Порох</Powder.label>
+	<Powder.description>Необходим для производства большинства боеприпасов.</Powder.description>
+
+	<Napalm.label>Напалм</Napalm.label>
+	<Napalm.description>Загущённый бензин. Горючий продукт, применяемый в качестве зажигательных и огнемётных смесей. Используется как оружие. Напалм легко воспламеняется, горит относительно медленно, выделяя густой чёрный дым, благодаря своей гелеобразной консистенции хорошо прилипает к поражаемым объектам, в том числе и вертикальным поверхностям.</Napalm.description>
+</LanguageData>

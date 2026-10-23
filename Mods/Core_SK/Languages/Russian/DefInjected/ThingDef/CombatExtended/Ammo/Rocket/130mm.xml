@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ==================== 130mm rocket missiles ========================== -->
+	<Ammo_130mmRocketMissile.label>130mm ракетный снаряд (HE)</Ammo_130mmRocketMissile.label>
+	<Ammo_130mmRocketMissile.description>130мм ракетный снаряд, предназначенный для уничтожения тяжелой техники.</Ammo_130mmRocketMissile.description>
+
+	<Bullet_130mmRocketMissile.label>130mm снаряд (HE)</Bullet_130mmRocketMissile.label>
+</LanguageData>

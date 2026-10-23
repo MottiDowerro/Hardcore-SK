@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Gun_PlasmaPistol.label>Плазмер C1 Ascension</Gun_PlasmaPistol.label>
+	<Gun_PlasmaPistol.description>Очень редкий высокоточный плазменный пистолет.</Gun_PlasmaPistol.description>
+
+	<Gun_PlasmaPrecision.label>Плазмер C2 Moonspell</Gun_PlasmaPrecision.label>
+	<Gun_PlasmaPrecision.description>Очень редкий высокоточный плазмер, снабжённое оптическим прицелом и ультрасовременной системой компьютерного наведения.</Gun_PlasmaPrecision.description>
+
+	<Gun_PlasmaCarbine.label>Плазмер C3 Conjurer</Gun_PlasmaCarbine.label>
+	<Gun_PlasmaCarbine.description>Очень редкий плазмер. Выстреливает рассеивающимся веерным пучком плазмы.</Gun_PlasmaCarbine.description>
+
+	<Gun_PlasmaShotgun.label>Плазмер C5 Incantator</Gun_PlasmaShotgun.label>
+	<Gun_PlasmaShotgun.description>Очень редкий плазменный дробовик. Наносит большой урон на ближней дистанции. Эффективен против брони, щитов и биотических барьеров. Это оружие защищено технологией Fabrication Rights Management (FRM), поэтому его практически невозможно воспроизвести, и оно стоит непомерно дорого.</Gun_PlasmaShotgun.description>
+
+	<Gun_PlasmaRifle.label>Плазмер C7 StormWizard</Gun_PlasmaRifle.label>
+	<Gun_PlasmaRifle.description>Очень редкий плазмер, способное поражать цели на удалённом расстоянии со средней точностью выстрела.</Gun_PlasmaRifle.description>
+</LanguageData>

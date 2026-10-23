@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ====================== Machine guns ======================= -->
+	<RF_Gun_Galil.label>Пулемёт Galil ACE</RF_Gun_Galil.label>
+	<RF_Gun_Galil.description>Ручной пулемёт. Древняя модель оружия. Хорошая дальность, низкая мощность, высокая скорострельность.\n\nИспользует боеприпасы: 7.62x39mm Soviet</RF_Gun_Galil.description>
+
+	<Gun_HeavyCombatRifle.label>Пулемёт MA39X ICWS</Gun_HeavyCombatRifle.label>
+	<Gun_HeavyCombatRifle.description>Удобный в использовании ручной пулемёт MK 48 Mod.0.\n\nИспользует боеприпасы: 5.56x45mm NATO</Gun_HeavyCombatRifle.description>
+
+	<Gun_HHMG.label>Пулемёт M249 SAW</Gun_HHMG.label>
+	<Gun_HHMG.description>Мощный тяжелый ручной пулемёт M249.\n\nИспользует боеприпасы: 5.56x45mm NATO</Gun_HHMG.description>
+
+	<Gun_M56_USCM.label>Пулемёт АМ M56 Smartgun</Gun_M56_USCM.label>
+	<Gun_M56_USCM.description>M56 АМ Smartgun, состоит на вооружении «U.S. Colonial Marine Corps», в качестве основного оружия огневой поддержки.\n\nИспользует боеприпасы: .50 BMG</Gun_M56_USCM.description>
+
+	<Gun_M60GPMG.label>Единый пулемёт M60E4</Gun_M60GPMG.label>
+	<Gun_M60GPMG.description>Единый пулемет винтовочного калибра, обладающий высокой огневой мощью. За недостатки конструкции, размеры, непомерный аппетит и внешний вид получил прозвище «Свинья».\n\nИспользует боеприпасы: 7.62x51mm NATO</Gun_M60GPMG.description>
+</LanguageData>

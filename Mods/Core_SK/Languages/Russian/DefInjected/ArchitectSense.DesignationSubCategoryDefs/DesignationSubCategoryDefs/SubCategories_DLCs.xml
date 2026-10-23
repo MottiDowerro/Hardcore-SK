@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SubCategory_GenesStations.label>генетика</SubCategory_GenesStations.label>
+	<SubCategory_GenesStations.description>Устройства для модификации, хранения и извлечения генов.</SubCategory_GenesStations.description>
+
+	<SubCategory_GemoStations.label>торпор</SubCategory_GemoStations.label>
+	<SubCategory_GemoStations.description>Устройства для гемофагов.</SubCategory_GemoStations.description>
+
+	<!-- DLCs -->
+	<!--Biotech-->
+	<SubCategory_MechRechargers.label>зарядные станции</SubCategory_MechRechargers.label>
+	<SubCategory_MechRechargers.description>Поддерживайте стабильное электропитание механоидов с помощью этих устройств!</SubCategory_MechRechargers.description>
+
+	<SubCategory_MechGestators.label>гестаторы механоидов</SubCategory_MechGestators.label>
+	<SubCategory_MechGestators.description>Создавайте новых механоидов с помощью этих устройств!</SubCategory_MechGestators.description>
+
+	<SubCategory_MechSubcores.label>станции субъядер</SubCategory_MechSubcores.label>
+	<SubCategory_MechSubcores.description>Создавайте новые ядра для механоидов с помощью этих устройств!</SubCategory_MechSubcores.description>
+
+	<SubCategory_BossSummoners.label>локаторы мехбоссов</SubCategory_BossSummoners.label>
+	<SubCategory_BossSummoners.description>Вызывайте мощных мехбоссов на бой!</SubCategory_BossSummoners.description>
+
+	<!--Anomaly-->
+	<SubCategory_HoldingDevices.label>изоляция и сдерживание</SubCategory_HoldingDevices.label>
+	<SubCategory_HoldingDevices.description>Обезопасить. Сдержать. Защищать.</SubCategory_HoldingDevices.description>
+
+	<SubCategory_DarkRituals.label>тёмные ритуалы</SubCategory_DarkRituals.label>
+	<SubCategory_DarkRituals.description>Призыв ужасов за гранью нашего понимания, что может пойти не так?</SubCategory_DarkRituals.description>
+
+	<SubCategory_EffectProjectors.label>эффекты по области</SubCategory_EffectProjectors.label>
+	<SubCategory_EffectProjectors.description>Если постоянно что-то нашептывать колонистам прямо в мозг, то они наверняка будут только рады.</SubCategory_EffectProjectors.description>
+
+	<!--Odyssey-->
+	<SubCategory_GravStructures.label>структурные объекты</SubCategory_GravStructures.label>
+	<SubCategory_GravStructures.description>Всё начинается со стены.</SubCategory_GravStructures.description>
+
+	<SubCategory_GravSystems.label>грав-системы</SubCategory_GravSystems.label>
+	<SubCategory_GravSystems.description>Не забудь включить подачу кислорода!</SubCategory_GravSystems.description>
+
+	<SubCategory_GravFuelTanks.label>хранилища топлива</SubCategory_GravFuelTanks.label>
+	<SubCategory_GravFuelTanks.description>Всегда храни больше чем требуется.</SubCategory_GravFuelTanks.description>
+
+	<SubCategory_GravEnergy.label>энергетическая сеть</SubCategory_GravEnergy.label>
+	<SubCategory_GravEnergy.description>Полететь можно и без электричества, но хорошее ли это решение?</SubCategory_GravEnergy.description>
+
+	<SubCategory_GravThrusters.label>ускорители</SubCategory_GravThrusters.label>
+	<SubCategory_GravThrusters.description>Я есть скорость.</SubCategory_GravThrusters.description>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HSK_FishingSpotSpawner.label>Место для рыбалки</HSK_FishingSpotSpawner.label>
+	<HSK_FishingSpotSpawner.description>Простое место для рыбалки. Держит ваши ноги сухими, когда рыбачите. Для лучше улова следует строить на мосту.</HSK_FishingSpotSpawner.description>
+
+	<HSK_FishingSpot.label>Место для рыбалки</HSK_FishingSpot.label>
+	<HSK_FishingSpot.description>Простое место для рыбалки. Держит ваши ноги сухими, когда рыбачите. Для лучше улова следует строить на мосту.</HSK_FishingSpot.description>
+
+	<HSK_FishTrap.label>Ловушка для рыбы</HSK_FishTrap.label>
+	<HSK_FishTrap.description>Ловушка для пассивной ловли небольшой рыбы. Наживка может быть использована для значительного ускорения ловли.\n\nРекомендруется устанавливать на расстоянии как минимум 18 клеток друг от друга.</HSK_FishTrap.description>
+</LanguageData>

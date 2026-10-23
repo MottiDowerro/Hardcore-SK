@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VG_Ibuprofen.label>ибупрофен</VG_Ibuprofen.label>
+	<VG_Ibuprofen.description>Обезболивающий препарат. Принимать ежедневно.</VG_Ibuprofen.description>
+
+	<Berserk_herb.label>берсерк трава</Berserk_herb.label>
+	<Berserk_herb.description>Мощный наркотик для подавления боли в бою. \nОсторожно, может вызвать сердечный приступ.</Berserk_herb.description>
+	<Berserk_herb.ingestible.ingestCommandString>Принять {0}</Berserk_herb.ingestible.ingestCommandString>
+	<Berserk_herb.ingestible.ingestReportString>Принимает {0}</Berserk_herb.ingestible.ingestReportString>
+</LanguageData>

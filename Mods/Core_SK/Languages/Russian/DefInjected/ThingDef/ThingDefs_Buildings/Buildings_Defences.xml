@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<chevalDeFrise.label>рогатка</chevalDeFrise.label>
+	<chevalDeFrise.description>Рогатка — лёгкое оборонительное заграждение, конструкция из перекрещенных и скреплённых (связанных) между собою деревянных бруса и кольев (обычно заострённых).</chevalDeFrise.description>
+
+	<IonSatelliteBroadcaster.label>контроллер ионного спутника</IonSatelliteBroadcaster.label>
+	<IonSatelliteBroadcaster.description>Контроллер для управления ионным спутником механоидов. Устройство предназначено для связи и передачи координат цели.</IonSatelliteBroadcaster.description>
+
+	<Building_NaniteShieldStation.label>станция нанитов щита</Building_NaniteShieldStation.label>
+	<Building_NaniteShieldStation.description>Поддерживает и перезаряжает модуляторы нанитов щита поселенцев.\nНужна энергия.\nПотребляемая мощность: 4500 W</Building_NaniteShieldStation.description>
+
+	<SkywrathController.label>контроллер гнев неба</SkywrathController.label>
+	<SkywrathController.description>Супермощная платформа по управлению погодой. Устройство способно обрушить гнев неба на ваших противников!</SkywrathController.description>
+
+	<Building_Shield.label>Орбитальный силовой щит</Building_Shield.label>
+	<Building_Shield.description>Создает помехи и препятствует нанести по территории прицельный орбитальный удар; Огромный расход энергии и значительный нагрев при работе.</Building_Shield.description>
+</LanguageData>

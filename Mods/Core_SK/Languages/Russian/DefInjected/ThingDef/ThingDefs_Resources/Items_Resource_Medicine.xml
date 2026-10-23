@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<HerbMedicine.label>полевые медикаменты</HerbMedicine.label>
+	<HerbMedicine.description>Обыкновенные полевые медикаменты, сделанные из хельгериума.</HerbMedicine.description>
+
+	<Synchronite.label>необработанный синхронит</Synchronite.label>
+	<Synchronite.description>Необработанный синхронит. Вероятно, получен из десирии. Бесполезен в этой форме, но его можно превратить в психоактивный порошок синхронизма.</Synchronite.description>
+	<Synchronite.ingestible.ingestCommandString>Принять {0}</Synchronite.ingestible.ingestCommandString>
+	<Synchronite.ingestible.ingestReportString>Принимает {0}</Synchronite.ingestible.ingestReportString>
+</LanguageData>

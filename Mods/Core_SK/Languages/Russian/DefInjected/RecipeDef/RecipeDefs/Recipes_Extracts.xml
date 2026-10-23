@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: obtain soylent green -->
+	<Make_SoylentGreen.label>Выделить сойлент</Make_SoylentGreen.label>
+	<!-- EN: Obtain Soylent Green from a humanlike corpse. Produces 45. -->
+	<Make_SoylentGreen.description>Выделить сойлент - питательную биомассу, которую получают из органических тканей (из трупов). Можно использовать в пищу, но поселенцам она не по вкусу.\nПроизводится 45 шт.</Make_SoylentGreen.description>
+	<!-- EN: Obtaining Soylent Green. -->
+	<Make_SoylentGreen.jobString>Выделяет сойлент</Make_SoylentGreen.jobString>
+</LanguageData>

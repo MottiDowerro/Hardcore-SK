@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SpottedHyena.label>гиена</SpottedHyena.label>
+	<SpottedHyena.description>Среднего размера пятнистая гиена.</SpottedHyena.description>
+	<!-- EN: head -->
+	<SpottedHyena.tools.head.label>голова</SpottedHyena.tools.head.label>
+	<!-- EN: left claw -->
+	<SpottedHyena.tools.0.label>левая лапа</SpottedHyena.tools.0.label>
+	<!-- EN: right claw -->
+	<SpottedHyena.tools.1.label>правая лапа</SpottedHyena.tools.1.label>
+</LanguageData>

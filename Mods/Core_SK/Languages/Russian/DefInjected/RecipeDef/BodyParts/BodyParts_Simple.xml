@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<InstallGlassEye.label>Имплантировать стеклянный глаз</InstallGlassEye.label>
+	<InstallGlassEye.description>Имплантировать стеклянный глаз.</InstallGlassEye.description>
+	<InstallGlassEye.jobString>Имплантирует стеклянный глаз</InstallGlassEye.jobString>
+
+	<InstallArtificialNose.label>Имплантировать искусственный нос</InstallArtificialNose.label>
+	<InstallArtificialNose.description>Имплантировать искусственный нос.</InstallArtificialNose.description>
+	<InstallArtificialNose.jobString>Имплантирует искусственный нос</InstallArtificialNose.jobString>
+
+	<InstallSimpleProstheticHand.label>Установить простой протез кисти</InstallSimpleProstheticHand.label>
+	<InstallSimpleProstheticHand.description>Установить простой протез кисти.</InstallSimpleProstheticHand.description>
+	<InstallSimpleProstheticHand.jobString>Устанавливает простой протез кисти</InstallSimpleProstheticHand.jobString>
+
+	<InstallSimpleProstheticFoot.label>Установить простой протез ступни</InstallSimpleProstheticFoot.label>
+	<InstallSimpleProstheticFoot.description>Установить простой протез ступни.</InstallSimpleProstheticFoot.description>
+	<InstallSimpleProstheticFoot.jobString>Устанавливает простой протез ступни</InstallSimpleProstheticFoot.jobString>
+
+	<InstallArtificialPelvis.label>Имплантировать искусственный таз</InstallArtificialPelvis.label>
+	<InstallArtificialPelvis.description>Имплантировать искусственный таз.</InstallArtificialPelvis.description>
+	<InstallArtificialPelvis.jobString>Имплантирует искусственный таз</InstallArtificialPelvis.jobString>
+</LanguageData>

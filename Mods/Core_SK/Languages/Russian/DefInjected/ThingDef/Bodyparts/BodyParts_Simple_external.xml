@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: prosthetic leg -->
+	<SimpleProstheticLeg.label>простой протез ноги</SimpleProstheticLeg.label>
+	<!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+	<SimpleProstheticLeg.description>Протез для замены отсутствующей ноги. Не имеет нейроинтерфейса, но сложная система механических сочленений позволяет весьма убедительно повторять естественные движения, хоть и уступая настоящей ноге.</SimpleProstheticLeg.description>
+	<!-- EN: prosthetic arm -->
+	<SimpleProstheticArm.label>простой протез руки</SimpleProstheticArm.label>
+	<!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+	<SimpleProstheticArm.description>Протез руки. Не имеет нейроинтерфейса, но сложная система механических сочленений позволяет весьма убедительно повторять естественные движения, хоть и уступая настоящей руке.</SimpleProstheticArm.description>
+</LanguageData>

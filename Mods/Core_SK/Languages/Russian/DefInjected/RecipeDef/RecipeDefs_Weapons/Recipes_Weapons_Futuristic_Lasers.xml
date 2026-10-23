@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<BuildMantis.label>Собрать лазер M-6 Mantis</BuildMantis.label>
+	<BuildMantis.description>Лазерный пульсар, способный поражать цели с высокой точностью, но малой мощностью.</BuildMantis.description>
+	<BuildMantis.jobString>Собирает лазер M-6 Mantis</BuildMantis.jobString>
+
+	<BuildLaserRifle.label>Собрать лазер M-8 Revenant</BuildLaserRifle.label>
+	<BuildLaserRifle.description>Лазерный пульсер, способный поражать цели на удалённом расстоянии.</BuildLaserRifle.description>
+	<BuildLaserRifle.jobString>Собирает лазер M-8 Revenant</BuildLaserRifle.jobString>
+
+	<BuildHeavyLaserRifle.label>Собрать лазер M-10 Spiker</BuildHeavyLaserRifle.label>
+	<BuildHeavyLaserRifle.description>Лазерный пульсер, способный поражать цели на удалённом расстоянии со средней точностью выстрела.</BuildHeavyLaserRifle.description>
+	<BuildHeavyLaserRifle.jobString>Собирает лазер M-10 Spiker</BuildHeavyLaserRifle.jobString>
+
+	<BuildBurstLaserRifle.label>Собрать лазер M-12 Intercessor</BuildBurstLaserRifle.label>
+	<BuildBurstLaserRifle.description>лазерный пульсер, способный поражать цели на удалённом расстоянии с низкой точностью выстрела, но большей мощностью.</BuildBurstLaserRifle.description>
+	<BuildBurstLaserRifle.jobString>Собирает лазер M-12 Intercessor</BuildBurstLaserRifle.jobString>
+
+	<BuildBlackWidow.label>Собрать бластер A-1BW Black Widow</BuildBlackWidow.label>
+	<BuildBlackWidow.description>Высокоточный и смертоносный бластер. Эффективен против брони, щитов и биотических барьеров.\n\nИмеет встроенную энергетическую ячейку для переключения в режим стрельбы стабильными лазерными боеприпасами.</BuildBlackWidow.description>
+	<BuildBlackWidow.jobString>Собирает бластер A-1BW Black Widow</BuildBlackWidow.jobString>
+</LanguageData>

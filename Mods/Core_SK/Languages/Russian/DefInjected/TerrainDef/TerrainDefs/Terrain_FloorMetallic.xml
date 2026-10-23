@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<TinTile.label>Оловянная плитка</TinTile.label>
+	<TinTile.description>Белое оловянное металлическое покрытие.</TinTile.description>
+
+	<CopperTile.label>Медная плитка</CopperTile.label>
+	<CopperTile.description>Медное металлическое покрытие.</CopperTile.description>
+
+	<MetalTileTwo.label>Чёрное металл. покрытие</MetalTileTwo.label>
+	<MetalTileTwo.description>Металлическое покрытие для истинных злодеев. Мухахаха.</MetalTileTwo.description>
+
+	<MetalTileThree.label>Тёмное металл. покрытие</MetalTileThree.label>
+	<MetalTileThree.description>Металлическое покрытие для истинных злодеев.</MetalTileThree.description>
+
+	<MetalTileFour.label>Белое металл. покрытие</MetalTileFour.label>
+	<MetalTileFour.description>Почувствуй себя в звездолете!</MetalTileFour.description>
+
+	<AluminiumTile.label>Алюминиевая плитка</AluminiumTile.label>
+	<AluminiumTile.description>Алюминиевое металлическое покрытие.</AluminiumTile.description>
+
+	<CupronickelTile.label>Мельхиоровая плитка</CupronickelTile.label>
+	<CupronickelTile.description>Мельхиоровое металлическое покрытие.</CupronickelTile.description>
+
+	<SteinTile.label>Штейновая плитка</SteinTile.label>
+	<SteinTile.description>Штейновое металлическое покрытие.</SteinTile.description>
+
+	<TitaniumTile.label>Титановая плитка</TitaniumTile.label>
+	<TitaniumTile.description>Титановое металлическое покрытие.</TitaniumTile.description>
+
+	<BetaPolyTile.label>Бета-полимерная плитка</BetaPolyTile.label>
+	<BetaPolyTile.description>Бета-полимерное покрытие.</BetaPolyTile.description>
+
+	<GoldSolid.label>Пол из золота</GoldSolid.label>
+	<GoldSolid.description>Ну вы и богач.</GoldSolid.description>
+
+	<PlateCopperBar.label>Медные пластины</PlateCopperBar.label>
+	<PlateCopperBar.description>Металлические пластины с заклепками для создания промышленного вида. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</PlateCopperBar.description>
+
+	<PlateSilver.label>Серебряные пластины</PlateSilver.label>
+	<PlateSilver.description>Металлические пластины с заклепками для создания промышленного вида. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</PlateSilver.description>
+
+	<PlateGold.label>Золотые пластины</PlateGold.label>
+	<PlateGold.description>Металлические пластины с заклепками для создания промышленного вида. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</PlateGold.description>
+
+	<PlateSteel.label>Стальные пластины</PlateSteel.label>
+	<PlateSteel.description>Металлические пластины с заклепками для создания промышленного вида. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</PlateSteel.description>
+
+	<PlateCupronickelAlloy.label>Мельхиоровые пластины</PlateCupronickelAlloy.label>
+	<PlateCupronickelAlloy.description>Металлические пластины с заклепками для создания промышленного вида. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</PlateCupronickelAlloy.description>
+
+	<PlateCeramics.label>Керамические пластины</PlateCeramics.label>
+	<PlateCeramics.description>Керамические пластины плотно подогнанные друг к другу. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</PlateCeramics.description>
+</LanguageData>

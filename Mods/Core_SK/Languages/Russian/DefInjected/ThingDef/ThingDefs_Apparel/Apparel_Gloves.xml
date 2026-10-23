@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Gloves_Worker.label>рабочие перчатки</Gloves_Worker.label>
+	<Gloves_Worker.description>Укрепленные рабочие кожаные перчатки.</Gloves_Worker.description>
+
+	<Gloves_Plated.label>пластинчатые рукавицы</Gloves_Plated.label>
+	<Gloves_Plated.description>Рукавицы, сделанные из кожи с использованием стальных пластин. Явно предназначены для рукопашного боя.</Gloves_Plated.description>
+
+	<Gloves_Gauntlets.label>латные рукавицы</Gloves_Gauntlets.label>
+	<Gloves_Gauntlets.description>Пара металлических рукавиц, действительно необходимых в рукопашном бою.</Gloves_Gauntlets.description>
+
+	<!--Gloves-->
+	<Gloves_Chef.label>кухонные варежки</Gloves_Chef.label>
+	<Gloves_Chef.description>Термостойкие кухонные варежки повара.</Gloves_Chef.description>
+
+	<Gloves_Reinforced.label>укреплённые перчатки</Gloves_Reinforced.label>
+	<Gloves_Reinforced.description>Майк Тайсон якобы спрятал одну из них под свою боксерскую перчатку во время матча. К счастью, ни один его удар не достиг цели, прежде чем он откусил ухо своего противника. А удар мог убить бедного человека!</Gloves_Reinforced.description>
+
+	<Gloves_Tactical.label>тактические перчатки</Gloves_Tactical.label>
+	<Gloves_Tactical.description>Кожаные тактические перчатки без пальцев, укрепленные металлической пластиной. То что нужно для удобной стрельбы или уменьшения количества зубов вашего противника.</Gloves_Tactical.description>
+
+	<Gloves_Combat.label>боевые перчатки</Gloves_Combat.label>
+	<Gloves_Combat.description>Серийные боевые перчатки, изготовленные из гиперткани с металлическими вставками. Обеспечивают удобную посадку для любого типа руки и хорошее прилегание к ладоням.</Gloves_Combat.description>
+
+	<Gloves_Sniper.label>снайперские перчатки</Gloves_Sniper.label>
+	<Gloves_Sniper.description>Снайперские перчатки с установленным амортизирующим устройством.</Gloves_Sniper.description>
+
+	<Gloves_Injector.label>перчатки с фиолетовым инъектором</Gloves_Injector.label>
+	<Gloves_Injector.description>Кожаные перчатки с внедренным инъекционным устройством, содержащим фиолетовую жидкость, которая успокаивает нервы и позволяет действовать в стрессовых ситуациях.</Gloves_Injector.description>
+
+	<Gloves_DocCutters.label>докторский резак</Gloves_DocCutters.label>
+	<Gloves_DocCutters.description>Резиновые и медицинские. Они имеют очень острые ножницы, которые привязали к ним, но что может пойти не так...</Gloves_DocCutters.description>
+
+	<Gloves_DocPincers.label>докторские щипцы</Gloves_DocPincers.label>
+	<Gloves_DocPincers.description>Резиновые и медицинские. Просто клещи, привязанные к перчаткам.</Gloves_DocPincers.description>
+
+	<Gloves_Melee.label>перчатки с виброразгрузкой</Gloves_Melee.label>
+	<Gloves_Melee.description>Микроскопический экзоскелет в перчатке дает владельцу быстрый и стабильный захват любого оружия ближнего боя.</Gloves_Melee.description>
+
+	<Gloves_InjectorTwo.label>перчатки с зелёным инъектором</Gloves_InjectorTwo.label>
+	<Gloves_InjectorTwo.description>Кожаные перчатки с внедренным инъекционным устройством, содержащим зелёную жидкость, которая успокаивает нервы и позволяет действовать в стрессовых ситуациях.</Gloves_InjectorTwo.description>
+
+	<Gloves_TechnoGauntlets.label>технорукавицы</Gloves_TechnoGauntlets.label>
+	<Gloves_TechnoGauntlets.description>Эти высококачественные боевые перчатки, изготовленные на заказ компанией Interstellar Industries, почти полностью состоят из синтетических наноматериалов и металлических пластин. Эти перчатки оснащены электромеханической системой плетения Omega-weave, термодинамическими функциями помощи и даже нанотактильными элементами для обеспечения надежного нескользящего захвата. Даже при всем этом, в них нашлось место для запатентованной MilCo системы Aim-Assist+. Наноэластичные материалы и контурная гиперпена обеспечивают удобную посадку для любого типа руки. Эти перчатки — любимая вещь любого солдата, которому посчастливилось или который достаточно богат, чтобы их носить. Редко встречаются за пределами самых роскошных миров. Эти перчатки - настоящая находка как для рукопашного боя, так и для боя на расстоянии.</Gloves_TechnoGauntlets.description>
+
+	<Gloves_Power.label>силовые перчатки</Gloves_Power.label>
+	<Gloves_Power.description>Когда нужно ударить посильнее, надо надеть силовые перчатки. Не забудьте поставить на зарядку на ночь.</Gloves_Power.description>
+</LanguageData>

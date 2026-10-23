@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Building_Heater.label>Печь</Building_Heater.label>
+	<Building_Heater.description>Печь, производящая только тепло путём сжигания топлива, основанного на разного рода угле.</Building_Heater.description>
+
+	<EHeatedFloor.label>Тёплый пол</EHeatedFloor.label>
+	<EHeatedFloor.description>Тёплый пол - система отопления, обеспечивающая нагрев воздуха в помещении снизу, где отопительным прибором выступает тёплый пол-настил.</EHeatedFloor.description>
+
+	<RH_MediumHeater.label>Настенный нагреватель</RH_MediumHeater.label>
+	<RH_MediumHeater.description>Электрическое устройство, крепящееся на стену и выдувающее теплый воздух в помещение. Эффективно при обогреве больших комнат и баз. Снабжено автоматическим датчиком температуры и выключателем.</RH_MediumHeater.description>
+
+	<RedistHeat_IndustrialHeater.label>Промышленный нагреватель</RedistHeat_IndustrialHeater.label>
+	<RedistHeat_IndustrialHeater.description>Массивный промышленный обогреватель, способный эффективно повышать температуру большого помещения. Может автоматически регулировать выделяемое тепло, чтобы достичь заданной вами температуры, вплоть до само-отключения.</RedistHeat_IndustrialHeater.description>
+
+	<GH.label>Геотермальный обогреватель</GH.label>
+	<GH.description>Использует возможности геотермальных источников для выработки большого количества тепла. Можно построить только рядом с геотермальным генератором.</GH.description>
+
+	<!-- EN: coldstone passive cooler -->
+	<ColdstonePassiveCooler.label>Хладокаменный охладитель</ColdstonePassiveCooler.label>
+	<!-- EN: A traditional unpowered cooler that works by water evaporation. While it's not strong enough to refridgerate food, it can help survive a heat wave. This version uses cold stone to do the cooling for places with limited timber. -->
+	<ColdstonePassiveCooler.description>Традиционная система охлаждения, не требующая электричества, работающая за счёт хладокамня. Требует периодического обслуживания. Не годится для заморозки продуктов. Используется в местах с ограниченным количеством древесины.</ColdstonePassiveCooler.description>
+
+	<ColdstoneBattery.label>Хладокаменная батарея</ColdstoneBattery.label>
+	<ColdstoneBattery.description>Резервуар для охлаждения комнаты среднего размера ниже точки замерзания. Требуется хладокамень в качестве топлива. Поддерживает крышу.</ColdstoneBattery.description>
+
+	<RH_SmallCooler.label>Маленький кондиционер</RH_SmallCooler.label>
+	<RH_SmallCooler.description>Электрическое устройство, крепящееся на стену и выдувающее холодный воздух в помещение. Его выходное отверстие производит много тепла. Может быть использовано как кондиционер для комнат летом, либо для создания небольших холодильников.</RH_SmallCooler.description>
+
+	<RedistHeat_IndustrialCooler.label>Промышленный кондиционер</RedistHeat_IndustrialCooler.label>
+	<RedistHeat_IndustrialCooler.description>Массивное электрическое устройство для подачи холодного воздуха в помещение. Требует по крайней мере один порт внешнего отвода.</RedistHeat_IndustrialCooler.description>
+
+	<TemperatureGauge.label>Термометр</TemperatureGauge.label>
+	<TemperatureGauge.description>Отображает текущую температуру окружающей среды. Термометр может быть настроен на отображение оповещения при изменении указанной вами температуры. Не требует энергии.</TemperatureGauge.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Ammo_StoneBall.label>Ядро (каменное)</Ammo_StoneBall.label>
+	<Ammo_StoneBall.description>Ядро из камня для стрельбы с катапульты.</Ammo_StoneBall.description>
+
+	<Ammo_ExplosiveBall.label>Ядро (взрывное)</Ammo_ExplosiveBall.label>
+	<Ammo_ExplosiveBall.description>Разрывное ядро для стрельбы с катапульты.</Ammo_ExplosiveBall.description>
+
+	<Stone_Ball.label>ядро (камен.)</Stone_Ball.label>
+
+	<Explosive_Ball.label>ядро (взрыв.)</Explosive_Ball.label>
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Apparel_OverallsStandard.label>военный комбинезон</Apparel_OverallsStandard.label>
+	<Apparel_OverallsStandard.description>Стандартный военный комбинезон. Довольно часто встречается среди орбитальных отрядов.</Apparel_OverallsStandard.description>
+
+	<Apparel_OverallsModified.label>улучшенный военный комбинезон</Apparel_OverallsModified.label>
+	<Apparel_OverallsModified.description>Стандартный военный комбинезон. Иногда встречается среди орбитальных отрядов. Улучшен для большей теплоизоляции.</Apparel_OverallsModified.description>
+
+	<Apparel_OverallsSpecial.label>инженерный комбинезон</Apparel_OverallsSpecial.label>
+	<Apparel_OverallsSpecial.description>Часто используется инженерами на орбитальных станциях, обеспечивает отличное сопротивление против их злейшего врага... электрических кабелей.</Apparel_OverallsSpecial.description>
+
+	<Apparel_OverallsCarbon.label>укреплённый военный комбинезон</Apparel_OverallsCarbon.label>
+	<Apparel_OverallsCarbon.description>Высокотехнологичный комбинезон с вплетенными углеродными волокнами. Обеспечивает хорошую защиту.</Apparel_OverallsCarbon.description>
+
+	<Apparel_Jumpsuit.label>обычный комбинезон</Apparel_Jumpsuit.label>
+	<Apparel_Jumpsuit.description>Основной Комбинезон. Обычно его носит легкой пехоты и должностные лица и особенно пожарные из-за своих прекрасных свойств поглощать тепло.</Apparel_Jumpsuit.description>
+
+	<Apparel_Cryptosuit.label>криптокомбинезон</Apparel_Cryptosuit.label>
+	<Apparel_Cryptosuit.description>Тип верхней одежды закрывающее все тело, любят носить путешественники на длинные дистанции.</Apparel_Cryptosuit.description>
+
+	<Apparel_ThermoCoat.label>термопальто</Apparel_ThermoCoat.label>
+	<Apparel_ThermoCoat.description>Сделанное по продвинутым технологиям, это пальто предоставляет достойную защиту от экстремальных температур, сканируя температупные показатели носителя и включая при необходимости дополнительный нагрев либо отведение избыточного тепла от тела.</Apparel_ThermoCoat.description>
+</LanguageData>

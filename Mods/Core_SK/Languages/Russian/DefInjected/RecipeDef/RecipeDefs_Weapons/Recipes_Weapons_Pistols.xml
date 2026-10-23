@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ==================== Pistols ========================== -->
+	<BuildHandGun.label>Собрать пистолет Colt M1911</BuildHandGun.label>
+	<BuildHandGun.description>Антикварный автоматический пистолет. Слабый и с малой дальностью стрельбы, зато скорострельный.</BuildHandGun.description>
+	<BuildHandGun.jobString>Собирает Пистолет Colt M1911</BuildHandGun.jobString>
+
+	<BuildDeringerPistol.label>Собрать Револьвер Smith&amp;Wesson M1917</BuildDeringerPistol.label>
+	<BuildDeringerPistol.description>Револьвер Smith&amp;Wesson M1917. Точен на коротких дистанциях. Средняя пробивная мощность, время прицеливания и перезарядка.</BuildDeringerPistol.description>
+	<BuildDeringerPistol.jobString>Собирает Револьвер Smith&amp;Wesson M1917</BuildDeringerPistol.jobString>
+
+	<BuildSphinxPistol.label>Собрать пистолет Sphinx AT 2000</BuildSphinxPistol.label>
+	<BuildSphinxPistol.description>Высококачественный и очень прочный пистолет, используемый элитными подразделениями по всей галактике. Большая точность, средняя пробивная мощность, но немного медленная скорость стрельбы.</BuildSphinxPistol.description>
+	<BuildSphinxPistol.jobString>Собирает пистолет Sphinx AT 2000</BuildSphinxPistol.jobString>
+
+	<BuildVektorCP.label>Собрать пистолет Vector CP1</BuildVektorCP.label>
+	<BuildVektorCP.description>Пистолет-пулемёт, стреляющий короткими очередями. Его существенно сниженная отдача позволяет стрелять на средней дистанции, но пуля падает раньше и это ограничивает максимальную дистанцию стрельбы.</BuildVektorCP.description>
+	<BuildVektorCP.jobString>Собирает пистолет Vector CP1</BuildVektorCP.jobString>
+
+	<BuildParaOrdnancePFourteenFortyfive.label>Собрать пистолет Para-Ordnance P14-45</BuildParaOrdnancePFourteenFortyfive.label>
+	<BuildParaOrdnancePFourteenFortyfive.description>Широко используемый Кольт .45 калибра.</BuildParaOrdnancePFourteenFortyfive.description>
+	<BuildParaOrdnancePFourteenFortyfive.jobString>Собирает пистолет Para-Ordnance P14-45</BuildParaOrdnancePFourteenFortyfive.jobString>
+
+	<BuildTecnine.label>Собрать ПП Tec-9</BuildTecnine.label>
+	<BuildTecnine.description>Автоматический пистолет или пистолет-пулемёт. Небольшая точность на дальней дистанции. Быстрый темп стрельбы и низкая пробивная мощность.</BuildTecnine.description>
+	<BuildTecnine.jobString>Собирает Tec-9</BuildTecnine.jobString>
+
+	<Build93RBurstPistol.label>Собрать пистолет Beretta 93R</Build93RBurstPistol.label>
+	<Build93RBurstPistol.description>Красивый автоматический пистолет. Малая мощность и пистолетная дальность стрельбы.</Build93RBurstPistol.description>
+	<Build93RBurstPistol.jobString>Собирает пистолет Beretta 93R</Build93RBurstPistol.jobString>
+</LanguageData>

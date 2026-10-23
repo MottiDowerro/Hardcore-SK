@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Makecheese.label>Приготовить сыр</Makecheese.label>
+	<Makecheese.description>Приготовить сыр по особой технике. Не так эффективно, как созревание в форме.</Makecheese.description>
+	<Makecheese.jobString>Готовит сыр</Makecheese.jobString>
+
+	<MeltSugar.label>Переплавка в сахар</MeltSugar.label>
+	<MeltSugar.description>Кипячение сахаросодержащих веществ в сахар. Производится 5.</MeltSugar.description>
+	<MeltSugar.jobString>Получает сахар</MeltSugar.jobString>
+
+	<MakeSugar.label>Получить сахар</MakeSugar.label>
+	<MakeSugar.description>Получить сахар.</MakeSugar.description>
+	<MakeSugar.jobString>Получает сахар</MakeSugar.jobString>
+
+	<MakeFlour.label>Получить муку</MakeFlour.label>
+	<MakeFlour.description>Получить муку.</MakeFlour.description>
+	<MakeFlour.jobString>Получает муку</MakeFlour.jobString>
+
+	<Makesoymilk.label>Получить соевое молоко</Makesoymilk.label>
+	<Makesoymilk.description>Получить соевое молоко.</Makesoymilk.description>
+	<Makesoymilk.jobString>Получает соевое молоко</Makesoymilk.jobString>
+
+	<MakeChocolate.label>Сделать шоколад</MakeChocolate.label>
+	<MakeChocolate.description>Сделать шоколад.</MakeChocolate.description>
+	<MakeChocolate.jobString>Делает шоколад</MakeChocolate.jobString>
+
+	<MakeCaramel.label>Сделать карамель</MakeCaramel.label>
+	<MakeCaramel.description>Сделать карамель.</MakeCaramel.description>
+	<MakeCaramel.jobString>Делает карамель</MakeCaramel.jobString>
+
+	<MakeIceCream.label>Сделать мороженое</MakeIceCream.label>
+	<MakeIceCream.description>Сделать мороженое. Но как? В этой штуке есть морозилка? Производит 3.</MakeIceCream.description>
+	<MakeIceCream.jobString>Делает мороженое</MakeIceCream.jobString>
+
+	<!--
+	<CookMealJerky.label>Приготовить копчёное мясо</CookMealJerky.label>
+	<CookMealJerky.description>Приготовить из сырого мяса копчёное.</CookMealJerky.description>
+	<CookMealJerky.jobString>Готовит копчёное мясо</CookMealJerky.jobString>
+
+	<CookJerkyMeatx4.label>Приготовить копчёное мясо (x4)</CookJerkyMeatx4.label>
+	<CookJerkyMeatx4.description>Приготовить из сырого мяса копчёное (x4).</CookJerkyMeatx4.description>
+	<CookJerkyMeatx4.jobString>Готовит копчёное мясо (x4)</CookJerkyMeatx4.jobString>
+	-->
+	<MakeBread.label>Приготовить хлеб</MakeBread.label>
+	<MakeBread.description>Выпечь хлеб.</MakeBread.description>
+	<MakeBread.jobString>Готовит хлеб</MakeBread.jobString>
+
+	<MakeTofu.label>Сделать тофу</MakeTofu.label>
+	<MakeTofu.description>Сделать тофу.</MakeTofu.description>
+	<MakeTofu.jobString>Делает тофу</MakeTofu.jobString>
+
+	<HalfCoconut.label>Расколоть кокосы</HalfCoconut.label>
+	<HalfCoconut.description>Получить кокосовое молоко из свежих кокосов.</HalfCoconut.description>
+	<HalfCoconut.jobString>Раскалывает кокосы</HalfCoconut.jobString>
+
+	<!-- EN: make roasted coffee beans -->
+	<RoastingCoffeeBeans.label>Обжарить зёрна кофе</RoastingCoffeeBeans.label>
+	<!-- EN: Make roasted coffee beans. -->
+	<RoastingCoffeeBeans.description>Обжарить зёрна кофе.</RoastingCoffeeBeans.description>
+	<!-- EN: Roasting coffee berries. -->
+	<RoastingCoffeeBeans.jobString>Обжаривает зёрна кофе</RoastingCoffeeBeans.jobString>
+
+	<!-- EN: make ground coffee -->
+	<GrindingCoffeeBeans.label>Перемолоть обжаренные зёрна кофе</GrindingCoffeeBeans.label>
+	<!-- EN: Make ground coffee. -->
+	<GrindingCoffeeBeans.description>Перемолоть обжаренные зёрна кофе.</GrindingCoffeeBeans.description>
+	<!-- EN: Grinding roasted coffee beans. -->
+	<GrindingCoffeeBeans.jobString>Перемалывает обжаренные зёрна кофе</GrindingCoffeeBeans.jobString>
+</LanguageData>

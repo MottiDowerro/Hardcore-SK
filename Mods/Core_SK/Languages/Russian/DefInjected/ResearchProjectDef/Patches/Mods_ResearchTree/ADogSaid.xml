@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Animal_B1.label>Простые протезы животных</Animal_B1.label>
+	<Animal_B1.description>Изучите использование и создание простых протезов животных.</Animal_B1.description>
+
+	<Animal_C2.label>Бионика для животных</Animal_C2.label>
+	<Animal_C2.description>Изучите использование и создание бионики для животных.</Animal_C2.description>
+
+	<Animal_D1.label>Лечение животных</Animal_D1.label>
+	<Animal_D1.description>Лечение старых ран животных.</Animal_D1.description>
+</LanguageData>

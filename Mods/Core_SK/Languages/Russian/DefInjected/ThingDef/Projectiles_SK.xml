@@ -1,11 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Projectile_ArchoArrow.label>странная взрывная стрела</Projectile_ArchoArrow.label>
-	<Bullet_ArchoBlaster.label>непонятный бластерный болт</Bullet_ArchoBlaster.label>
-	<Bullet_ArchoSMG.label>странная пуля</Bullet_ArchoSMG.label>
-	<Projectile_ArchoSword.label>проекция разреза меча</Projectile_ArchoSword.label>
-    <!--
+	<!--
 	<Projectile_ExplosiveBolt.label>разрывной болт</Projectile_ExplosiveBolt.label> 
 	<Projectile_MetallicBolt.label>металлический болт</Projectile_MetallicBolt.label> 
 	<Projectile_VenomBolt.label>металлический болт</Projectile_VenomBolt.label> 

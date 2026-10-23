@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Compost Barrel-->
+	<Make_Fertilizer.label>сделать удобрения</Make_Fertilizer.label>
+	<Make_Fertilizer.description>Сделать удобрения. Процесс занимает 2.8 дня.</Make_Fertilizer.description>
+
+	<Make_Fertilizer_x5.label>сделать удобрения х5</Make_Fertilizer_x5.label>
+	<Make_Fertilizer_x5.description>Сделать удобрения х5. Процесс занимает 2.8 дня.</Make_Fertilizer_x5.description>
+</LanguageData>

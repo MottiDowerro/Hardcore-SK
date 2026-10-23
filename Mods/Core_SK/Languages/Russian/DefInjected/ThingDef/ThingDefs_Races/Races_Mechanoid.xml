@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Mech_Crawler.label>механический краб</Mech_Crawler.label>
+	<Mech_Crawler.description>Шустрый механический краб механоидов, любят нападать на своих жертв стайкой не оставляя им ни единого шанса.</Mech_Crawler.description>
+	<!-- EN: head -->
+	<Mech_Crawler.tools.head.label>голова</Mech_Crawler.tools.head.label>
+	<!-- EN: left blade -->
+	<Mech_Crawler.tools.0.label>левое лезвие</Mech_Crawler.tools.0.label>
+	<!-- EN: right blade -->
+	<Mech_Crawler.tools.1.label>правое лезвие</Mech_Crawler.tools.1.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Silage Pile-->
+	<Make_Silage.label>сделать силос</Make_Silage.label>
+	<Make_Silage.description>Сделать силос. Процесс занимает 20 дней.</Make_Silage.description>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MakeTincture.label>Сделать грибную настойку</MakeTincture.label>
+	<MakeTincture.description>Делать грибную настойку.</MakeTincture.description>
+	<MakeTincture.jobString>Делает грибную настойку</MakeTincture.jobString>
+
+	<MakeTinctureBulk.label>Сделать грибную настойку (х4)</MakeTinctureBulk.label>
+	<MakeTinctureBulk.description>Делать грибную настойку. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</MakeTinctureBulk.description>
+	<MakeTinctureBulk.jobString>Делает грибную настойку (х4)</MakeTinctureBulk.jobString>
+
+	<MakeTinctureHealroot.label>Сделать лечебную настойку из трав</MakeTinctureHealroot.label>
+	<MakeTinctureHealroot.description>Сделать лечебную настойку из трав смешав лекарственные травы и пепел. Используется в качестве антибиотика.</MakeTinctureHealroot.description>
+	<MakeTinctureHealroot.jobString>Делает лечебную настойку из трав</MakeTinctureHealroot.jobString>
+
+	<BrewMedicalDrink.label>Сделать иммунобустеры</BrewMedicalDrink.label>
+	<BrewMedicalDrink.description>Сделать концентрированный экстракт из лечебного корня и хмеля. Вкус ужасный, но укрепляет иммунную систему.</BrewMedicalDrink.description>
+	<BrewMedicalDrink.jobString>Делает иммунобустеры</BrewMedicalDrink.jobString>
+</LanguageData>

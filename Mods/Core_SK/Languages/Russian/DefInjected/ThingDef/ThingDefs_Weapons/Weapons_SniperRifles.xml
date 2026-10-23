@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ====================== Sniper Rifles ======================= -->
+	<Gun_M42A_USCM.label>СВ VC32</Gun_M42A_USCM.label>
+	<Gun_M42A_USCM.description>Снайперская винтовка VC32 морской пехоты.\n\nИспользует боеприпасы: 7.62x51mm NATO</Gun_M42A_USCM.description>
+
+	<RF_Gun_WA2K.label>СВ Walther WA2000</RF_Gun_WA2K.label>
+	<RF_Gun_WA2K.description>Ограниченная партия древней снайперской винтовки. Хорошая дальность, исключительная точность, очень хорошая мощность и очень низкая скорострельность.\n\nИспользует боеприпасы: 7.62x51mm NATO</RF_Gun_WA2K.description>
+</LanguageData>

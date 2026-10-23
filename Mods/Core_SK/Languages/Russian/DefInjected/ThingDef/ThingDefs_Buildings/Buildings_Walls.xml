@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ClutterSilverWall.label>армированная стена</ClutterSilverWall.label>
+	<ClutterSilverWall.description>Усиленная стена с прикрепленными для дополнительной прочности толстыми панелями.</ClutterSilverWall.description>
+
+	<UtilityWall.label>стена с электропроводкой</UtilityWall.label>
+	<UtilityWall.description>Усовершенствованная версия обычных стен с возможностью легкого крепления различных предметов. Эта версия оснащена встроенными каналами, чтобы скрыть их от кошек.</UtilityWall.description>
+
+	<ClutterUWallLight.label>стена с подсветкой</ClutterUWallLight.label>
+	<ClutterUWallLight.description>Усовершенствованная версия обычных стен с возможностью легкого крепления различных предметов. Эта версия оснащена подсветкой, чтобы продемонстрировать вашу прекрасную коллекцию пыли.</ClutterUWallLight.description>
+
+	<Window.label>Окно</Window.label>
+	<Window.description>Обыкновенное окно.</Window.description>
+
+	<ColumnPrimitive.label>деревянная колонна</ColumnPrimitive.label>
+	<ColumnPrimitive.description>Несущая колонна, способная поддерживать крышу. Она не препятствует движению.</ColumnPrimitive.description>
+</LanguageData>

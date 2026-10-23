@@ -1,21 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Grenadier_Destructive_Acidifier.label>гренадер</Grenadier_Destructive_Acidifier.label>
-  <Grenadier_Destructive_Acidifier.labelPlural>гренадеры</Grenadier_Destructive_Acidifier.labelPlural>
-
-  <Mercenary_Heavy_Acidifier.label>тяжеловооружённый наёмник</Mercenary_Heavy_Acidifier.label>
-  <Mercenary_Heavy_Acidifier.labelPlural>тяжеловооружённые наёмники</Mercenary_Heavy_Acidifier.labelPlural>
-
-  <PirateBomb.label>легкий гранатометчик</PirateBomb.label>
-  <PirateBomb.labelPlural>легкие гранатометчики</PirateBomb.labelPlural>
-
-  <!-- EN: mercenary gunner -->
-  <MercenaryGunnerBase.label>наёмник-стрелок</MercenaryGunnerBase.label>
-  <!-- EN: heavy mercenary -->
-  <MercenaryHeavyBase.label>тяжеловооружённый наёмник</MercenaryHeavyBase.label>
-  <!-- EN: mercenary slasher -->
-  <MercenarySlasherBase.label>наёмник-вышибала</MercenarySlasherBase.label>
-  <!-- EN: mercenary fusilier -->
-  <MercenarySniperBase.label>наёмник-фузилёр</MercenarySniperBase.label>
+	<!-- EN: mercenary gunner -->
+	<MercenaryGunnerBase.label>наёмник-стрелок</MercenaryGunnerBase.label>
+	<!-- EN: heavy mercenary -->
+	<MercenaryHeavyBase.label>тяжеловооружённый наёмник</MercenaryHeavyBase.label>
+	<!-- EN: mercenary slasher -->
+	<MercenarySlasherBase.label>наёмник-вышибала</MercenarySlasherBase.label>
+	<!-- EN: mercenary fusilier -->
+	<MercenarySniperBase.label>наёмник-фузилёр</MercenarySniperBase.label>
 </LanguageData>

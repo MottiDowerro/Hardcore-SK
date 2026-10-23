@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MakeVegetables.label>Приготовить жареное ассорти из овощей</MakeVegetables.label>
+	<MakeVegetables.description>Приготовить жареное ассорти из овощей.</MakeVegetables.description>
+	<MakeVegetables.jobString>Готовит жареное ассорти из овощей</MakeVegetables.jobString>
+
+	<MakeVegetablesBulk.label>Приготовить жареное ассорти из овощей (x4)</MakeVegetablesBulk.label>
+	<MakeVegetablesBulk.description>Приготовить жареное ассорти из овощей. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</MakeVegetablesBulk.description>
+	<MakeVegetablesBulk.jobString>Готовит жареное ассорти из овощей (x4)</MakeVegetablesBulk.jobString>
+
+	<CookScrambledEggs.label>Приготовить яичницу-болтунью</CookScrambledEggs.label>
+	<CookScrambledEggs.description>Приготовить яичницу-болтунью</CookScrambledEggs.description>
+	<CookScrambledEggs.jobString>Готовит яичницу-болтунью</CookScrambledEggs.jobString>
+
+	<CookScrambledEggsBulk.label>Приготовить яичницу-болтунью (x4)</CookScrambledEggsBulk.label>
+	<CookScrambledEggsBulk.description>Приготовить яичницу-болтунью. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</CookScrambledEggsBulk.description>
+	<CookScrambledEggsBulk.jobString>Готовит яичницу-болтунью (x4)</CookScrambledEggsBulk.jobString>
+
+	<CookRoastedMeat.label>Приготовить жареное мясо</CookRoastedMeat.label>
+	<CookRoastedMeat.description>Приготовить из сырого мяса жареное.</CookRoastedMeat.description>
+	<CookRoastedMeat.jobString>Жарит мясо</CookRoastedMeat.jobString>
+
+	<CookRoastedMeatBulk.label>Приготовить жареное мясо (x4)</CookRoastedMeatBulk.label>
+	<CookRoastedMeatBulk.description>Приготовить из сырого мяса жареное. Часть ингредиентов уйдёт впустую ради создания богатой палитры вкусов.</CookRoastedMeatBulk.description>
+	<CookRoastedMeatBulk.jobString>Жарит мясо (x4)</CookRoastedMeatBulk.jobString>
+</LanguageData>

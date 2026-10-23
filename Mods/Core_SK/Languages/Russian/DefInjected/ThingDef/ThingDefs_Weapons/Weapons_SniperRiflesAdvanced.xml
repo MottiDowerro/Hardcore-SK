@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ====================== Anti-material Rifles ======================= -->
+	<RF_Gun_ARFifty.label>КСВ Armalite AR-50</RF_Gun_ARFifty.label>
+	<RF_Gun_ARFifty.description>Крупнокалиберная снайперская винтовка Armalite AR-50.\n\nИспользует боеприпасы: .50 BMG</RF_Gun_ARFifty.description>
+
+	<RF_Gun_HecateII.label>КСВ Ultima Ratio Hecate II</RF_Gun_HecateII.label>
+	<RF_Gun_HecateII.description>Основу винтовки составляет металлический каркас, к которому крепится массивная фрезерованная из стали ствольная коробка. Ствол оснащён массивным дульным тормозом. Используется для уничтожения стен. Низкий темп стрельбы, высокая дальность, чрезвычайно высокий урон и точность.\n\nИспользует боеприпасы: .50 BMG</RF_Gun_HecateII.description>
+
+	<Gun_ATR.label>КСВ Barrett M205A2</Gun_ATR.label>
+	<Gun_ATR.description>Barrett M205A2 ATR — это полуавтоматическая противотанковая винтовка, предназначенная для стрельбы на дальние дистанции. Она отличается усовершенствованными конструктивными элементами для повышения эффективности и специальными бронебойными снарядами.\n\nИспользует патроны 145x115mmAM</Gun_ATR.description>
+
+	<Gun_TAMSR.label>КСВ Halo SRS-99</Gun_TAMSR.label>
+	<Gun_TAMSR.description>Тактическая крупнокалиберная снайперская винтовка.\n\nИспользует боеприпасы: 14.5x114mm</Gun_TAMSR.description>
+
+	<Gun_M82Gun.label>КСВ Barrett M82A1</Gun_M82Gun.label>
+	<Gun_M82Gun.description>Раритет. Cамозарядная крупнокалиберная снайперская винтовка специального назначения с оптическим прицелом.\n\nИспользует боеприпасы: .50 BMG</Gun_M82Gun.description>
+</LanguageData>

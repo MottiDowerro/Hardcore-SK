@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Drying-->
+	<Make_Jerky.label>высушить мясо</Make_Jerky.label>
+	<Make_Jerky.description>Сделать вяленое мясо. Процесс занимает 2 дня.</Make_Jerky.description>
+
+	<Make_Jerky_x5.label>высушить мясо х5</Make_Jerky_x5.label>
+	<Make_Jerky_x5.description>Сделать вяленое мясо х5. Процесс занимает 2 дня.</Make_Jerky_x5.description>
+
+	<Make_Tobacco.label>высушить табак</Make_Tobacco.label>
+	<Make_Tobacco.description>Высушить сырые табачные листья. Процесс занимает 3 дня.</Make_Tobacco.description>
+
+	<Make_Tobacco_x5.label>высушить табак х5</Make_Tobacco_x5.label>
+	<Make_Tobacco_x5.description>Высушить сырые табачные листья х5. Процесс занимает 3 дня.</Make_Tobacco_x5.description>
+
+	<Make_Smokeleaf.label>высушить дымолист</Make_Smokeleaf.label>
+	<Make_Smokeleaf.description>Высушить сырые листья дымолиста. Процесс занимает 4 дня.</Make_Smokeleaf.description>
+
+	<Make_Smokeleaf_x5.label>высушить дымолист х5</Make_Smokeleaf_x5.label>
+	<Make_Smokeleaf_x5.description>Высушить сырые листья дымолиста х5. Процесс занимает 4 дня.</Make_Smokeleaf_x5.description>
+
+	<Make_DriedFruit.label>высушить фрукты</Make_DriedFruit.label>
+	<Make_DriedFruit.description>Высушить свежие фрукты и ягоды. Процесс занимает 2 дня.</Make_DriedFruit.description>
+
+	<Make_DriedFruit_x5.label>высушить фрукты х5</Make_DriedFruit_x5.label>
+	<Make_DriedFruit_x5.description>Высушить свежие фрукты и ягоды х5. Процесс занимает 2 дня.</Make_DriedFruit_x5.description>
+
+	<Make_CoffeeBeans.label>обработать ягоды кофе</Make_CoffeeBeans.label>
+	<Make_CoffeeBeans.description>Извлечь зёрна кофе из ягод и высушить. Процесс занимает 5 дней.</Make_CoffeeBeans.description>
+
+	<Make_CoffeeBeans_x5.label>обработать ягоды кофе (х5)</Make_CoffeeBeans_x5.label>
+	<Make_CoffeeBeans_x5.description>Извлечь зёрна кофе из ягод и высушить (х5). Процесс занимает 5 дней.</Make_CoffeeBeans_x5.description>
+</LanguageData>

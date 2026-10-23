@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateArtificialPelvis.label>Создать простой протез таза</CreateArtificialPelvis.label>
+	<CreateArtificialPelvis.description>Создать простой протез таза.</CreateArtificialPelvis.description>
+	<CreateArtificialPelvis.jobString>Создает простой протез таза</CreateArtificialPelvis.jobString>
+
+	<CreateCochlearImplant.label>Создать кохлеарный имплант</CreateCochlearImplant.label>
+	<CreateCochlearImplant.description>Создать кохлеарный имплант.</CreateCochlearImplant.description>
+	<CreateCochlearImplant.jobString>Создаёт кохлеарный имплант</CreateCochlearImplant.jobString>
+
+	<CreateSimpleProstheticHeart.label>Создать простой кардиопротез</CreateSimpleProstheticHeart.label>
+	<CreateSimpleProstheticHeart.description>Создать простой кардиопротез.</CreateSimpleProstheticHeart.description>
+	<CreateSimpleProstheticHeart.jobString>Создает простой кардиопротез</CreateSimpleProstheticHeart.jobString>
+</LanguageData>

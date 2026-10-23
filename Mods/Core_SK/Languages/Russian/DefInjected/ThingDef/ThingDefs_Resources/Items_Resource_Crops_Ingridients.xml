@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: sugar -->
+	<Sugar.label>Сахар</Sugar.label>
+	<!-- EN: Sugar is the milled product of Sugarcanes. It is used in baking, typically for desserts and candies. -->
+	<Sugar.description>Продукт переработки сахарного тростника. Используется в выпечке, как правило, для десертов и конфет.</Sugar.description>
+
+	<!-- EN: flour -->
+	<Flour.label>Мука</Flour.label>
+	<!-- EN: Flour ground from raw Wheat or Oats. It can be used for baking breads. -->
+	<Flour.description>Обычная мука из злаковых растений. Можно использовать для выпечки хлеба.</Flour.description>
+
+	<!-- EN: soy milk -->
+	<SoyMilk.Label>Соевое молоко</SoyMilk.Label>
+	<!-- EN: Soy milk is a pale liquid produced from grinding Beans. It is similar to an animal's milk, just produced from plants instead. -->
+	<SoyMilk.Description>Бледная жидкость, получаемая путём помола соевых бобов. Оно похоже на молоко животных, только производится из растений.</SoyMilk.Description>
+
+	<!-- Disabled because it duplicates regular flour products -->
+	<!-- <Cornmeal.label>Кукурузная мука</Cornmeal.label>
+	<Cornmeal.description>Простая кукурузная мука, используемая в хлебопечении.</Cornmeal.description> -->
+	<!-- EN: coconut milk -->
+	<coconutmilk.label>Кокосовое молоко</coconutmilk.label>
+	<!-- EN: Milk harvested from the coconut fruit. -->
+	<coconutmilk.description>Сладковатая жидкость молочно-белого цвета. Получается в процессе отжима мякоти созревшего кокоса.</coconutmilk.description>
+
+	<!-- EN: tofu -->
+	<Tofu.label>Тофу</Tofu.label>
+	<!-- EN: Raw protein-rich tofu, produced from bean pods. Acceptable to eat when raw. -->
+	<Tofu.description>Богатый белком тофу, производится из сои. Приемлемо употреблять в сыром виде.</Tofu.description>
+
+	<!-- EN: roasted coffee beans -->
+	<RoastedCoffeeBeans.label>Обжаренные зёрна кофе</RoastedCoffeeBeans.label>
+	<!-- EN: roasted coffee beans. -->
+	<RoastedCoffeeBeans.description>Зёрна из ягод кофейного дерева, готовые к помолке и варке в кофемашине.</RoastedCoffeeBeans.description>
+
+	<!-- EN: ground coffee -->
+	<GroundCoffee.label>Молотый кофе</GroundCoffee.label>
+	<!-- EN: A powder for making a coffee drink. -->
+	<GroundCoffee.description>Гранулированный порошок для варки кофе.</GroundCoffee.description>
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MuffaloArt.label>Скульптура муффало</MuffaloArt.label>
+	<MuffaloArt.description>Святой муффало является существом, которому поклоняются некоторые племена аборигенов Римворлда.</MuffaloArt.description>
+
+	<QueenArt.label>Скульптура принцессы</QueenArt.label>
+	<QueenArt.description>Эта потрясающая статуя является подобием грациознной Анны из матриархата племени Грей в Римворлде, которая как известно ослепительно красива.</QueenArt.description>
+
+	<NymphArt.label>Скульптура музы</NymphArt.label>
+	<NymphArt.description>Потрясающая статуя Музы. По древним племенным легендам - бог вдохновения.</NymphArt.description>
+
+	<GreenyArt.label>Скульптура Грини</GreenyArt.label>
+	<GreenyArt.description>Потрясающая статуя зеленого божества.</GreenyArt.description>
+
+	<WolfArt.label>Скульптура волка</WolfArt.label>
+	<WolfArt.description>Эта статуя изображает волчьего бога "Лорди", почитаемого в одном из племен Римворлда.</WolfArt.description>
+
+	<DragonArt.label>Скульптура бехира</DragonArt.label>
+	<DragonArt.description>Эта потрясающе огромная статуя изображает изящное драконоподобное существо с головой крокодила.</DragonArt.description>
+
+	<ZeonArt.label>Скульптура Зеона</ZeonArt.label>
+	<ZeonArt.description>Скульптура Зеону. Установив её, вы можете надеяться на то, что ОН решит не посещать ваше поселение, но это не точно.</ZeonArt.description>
+
+	<DecorativeUrnSmall.label>Декоративная урна</DecorativeUrnSmall.label>
+	<DecorativeUrnSmall.description>Небольшой кусок декоративной керамики.</DecorativeUrnSmall.description>
+
+	<SmallPottery.label>Декоративная глиняная посуда</SmallPottery.label>
+	<SmallPottery.description>Керамика украшеная различными изображениями и резьбой. Не имеет никакого практического применения.</SmallPottery.description>
+
+	<PotteryDisplay.label>Стенд с глиняной посудой</PotteryDisplay.label>
+	<PotteryDisplay.description>Стенд с разной декоративной керамикой. Многие из них окрашены или имеют резные изображения.</PotteryDisplay.description>
+
+	<CatArt.label>Скульптура кошки</CatArt.label>
+	<CatArt.description>Скульптура кошки. Мяу.</CatArt.description>
+
+	<GlowstoneArt.label>Светокаменная скульптура</GlowstoneArt.label>
+	<GlowstoneArt.description>Эта потрясающая статуя сделана из красиво ограненного светокамня, она имеет идеальную кристаллическую форму и излучает яркий свет.</GlowstoneArt.description>
+
+	<GlowstoneMonument.label>светокаменный монумент</GlowstoneMonument.label>
+	<GlowstoneMonument.description>Этот потрясающий монумент сделан из ограненного светящегося камня, имеющего форму идеального кристалла и излучающего яркий свет.</GlowstoneMonument.description>
+</LanguageData>

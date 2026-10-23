@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Sunderer.label>Сепаратор</Sunderer.label>
+	<Sunderer.description>Огромный топор огров. Если у вас хватит силы, чтобы поднять это оружие, то вам хватит одного взмаха, чтобы опрокинуть противника на землю.</Sunderer.description>
+	<!-- EN: edge -->
+	<Sunderer.tools.edge.label>лезвие</Sunderer.tools.edge.label>
+	<!-- EN: handle -->
+	<Sunderer.tools.handle.label>рукоять</Sunderer.tools.handle.label>
+
+	<!-- ================= Org heavy weapons ================= -->
+	<Gun_SawGun.label>Пулемёт OG-165</Gun_SawGun.label>
+	<Gun_SawGun.description>Этот крупнокалиберный пулемет, известный как "Лесоповал" более уместно смотрелся бы на станковой турели, но огры предпочитают носить его в руках.\nВполне оправдывает своё название: имея достаточное количество патронов, вы можете забыть о назначении топора.</Gun_SawGun.description>
+
+	<Gun_RocketLance.label>Гранатомёт BFR-80</Gun_RocketLance.label>
+	<Gun_RocketLance.description>Сверхтяжелая однозарядная ракетная установка огров огромной мощи. Залп из этого оружия оставит от укреплений лишь дымящиеся развалины, украшенные очень отдельными частями ваших врагов.</Gun_RocketLance.description>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DriedLeavesSmokeleaf.label>высушенный дымолист</DriedLeavesSmokeleaf.label>
+	<DriedLeavesSmokeleaf.description>Высушенные листья дымолиста. Могут быть использованы для скрутки сигар, сигарет.</DriedLeavesSmokeleaf.description>
+
+	<DriedLeavesTobacco.label>листья табака</DriedLeavesTobacco.label>
+	<DriedLeavesTobacco.description>Высушенные листья табака. Могут быть использованы для скрутки сигар, сигарет.</DriedLeavesTobacco.description>
+
+	<CoffeeBeans.Label>Высушенные зёрна кофе</CoffeeBeans.Label>
+	<CoffeeBeans.description>Высушенные зёрна кофе.</CoffeeBeans.description>
+</LanguageData>

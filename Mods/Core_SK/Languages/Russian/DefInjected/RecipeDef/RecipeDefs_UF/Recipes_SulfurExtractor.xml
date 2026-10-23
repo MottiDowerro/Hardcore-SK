@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Silfur Extractor-->
+	<CollectSulfurGeyser.label>собрать серу</CollectSulfurGeyser.label>
+	<CollectSulfurGeyser.description>Собрать серу из гейзера. Требуется химтопливо для запуска реакции. Процесс занимает 3 дня.</CollectSulfurGeyser.description>
+
+	<CollectNitreGeyser.label>собрать селитру</CollectNitreGeyser.label>
+	<CollectNitreGeyser.description>Собрать селитру со стен гейзера. Очень неэффективно и выдаёт серу как субпродукт. Требуется химтопливо для запуска реакции. Процесс занимает 5 дней.</CollectNitreGeyser.description>
+</LanguageData>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SK_Pallet.label>Поддон</SK_Pallet.label>
+	<SK_Pallet.description>Дешевый плоский поддон для упаковки вещей. Не защищает от непогоды. Сложно использовать при хранении различных предметов.</SK_Pallet.description>
+
+	<PalletSmall.label>Малый поддон</PalletSmall.label>
+	<PalletSmall.description>Дешевый плоский поддон для упаковки вещей. Не защищает от непогоды. Сложно использовать при хранении различных предметов.</PalletSmall.description>
+
+	<PalletRack.label>Большой складской стеллаж</PalletRack.label>
+	<PalletRack.description>Большой складской стеллаж в комплекте с поддонами, позволяющий складывать штабеля вещей. Более организованный и более простой в использовании, чем обычные поддоны, и это единственный возможный способ штабелирования крупных предметов, таких как обломки камня и даже различные собранные конструкции.</PalletRack.description>
+
+	<SK_DeepStorage_Skip.label>Контейнер</SK_DeepStorage_Skip.label>
+	<SK_DeepStorage_Skip.description>Большой металлический контейнер. Лучше всего подходит для хранения больших и тяжелых вещей, если вы не хотите часами искать пропавший носок - его легче найти, когда он еще прикреплен к телу. Эти контейнеры не имеют крыши, они открыты для погоды, но более прочные, чем поддоны.</SK_DeepStorage_Skip.description>
+
+	<SK_BigShelf.label>Настенный стеллаж</SK_BigShelf.label>
+	<SK_BigShelf.description>Полки, прикрепленные к стене для хранения вещей. Выглядят красиво и не мешают движению.</SK_BigShelf.description>
+
+	<SK_VeryBigShelf.label>Стойки для подсобных помещений</SK_VeryBigShelf.label>
+	<SK_VeryBigShelf.description>Довольно прочный набор стоек из арматуры для хранения вещей. Более удобны, чем поддоны.</SK_VeryBigShelf.description>
+
+	<DisplayCase.label>Выставочный шкаф</DisplayCase.label>
+	<DisplayCase.description>Стеклянная витрина для демонстрации ваших изделий гостям.</DisplayCase.description>
+
+	<Basket.label>Плетеная корзина</Basket.label>
+	<Basket.description>Плетеный контейнер, изготовленный, как правило, из растительных материалов, но может быть и из синтетических ингредиентов. В нем можно хранить практически все, что угодно, он защищает от внешних воздействий и хорошо сохраняет свежесть фруктов и овощей, снижая их порчу на 30%.</Basket.description>
+
+	<Barrel.label>Бочка</Barrel.label>
+	<Barrel.description>Бочка, сделанная из дерева или металла. Используется для хранения различных вещей внутри, хотя легче управлять, когда все вещи одного типа. До 5 предметов.</Barrel.description>
+
+	<Chest.label>Сундук</Chest.label>
+	<Chest.description>Сундук с отсеками для более быстрой организации хранения. Вмещает до 6 предметов.</Chest.description>
+
+	<IndustrialChest.label>Прочный сундук</IndustrialChest.label>
+	<IndustrialChest.description>Армированный сундук из металла. Используется для хранения различных вещей внутри. До 6 предметов.</IndustrialChest.description>
+
+	<BinRack.label>Шкаф с контейнерами</BinRack.label>
+	<BinRack.description>Шкаф с контейнерами с крышками. Легко выдвигаются и открываются, снабжены этикетками для оптимальной организации хранения.</BinRack.description>
+
+	<Shed.label>Лабаз</Shed.label>
+	<Shed.description>Универсальный сарай. Вы можете хранить инструменты, использовать его как кладовую или спрятать трупы. Имеет полки и вешалки для лучшей организации. Замедляет порчу на 25%.</Shed.description>
+
+	<Pot.label>Горшок</Pot.label>
+	<Pot.description>Большой горшок из дерева, металла или керамики; используется для сохранения продуктов. Замедляет процесс гниения на 40%.</Pot.description>
+
+	<SK_Meat_Hook.label>Мясной крюк</SK_Meat_Hook.label>
+	<SK_Meat_Hook.description>Высокий металлический каркас с несколькими крючками, висящими на цепях. Простая рукоятка позволяет поднимать несколько подвесных тушь в воздух. Хороший способ хранения трупов животных, которых вы убили, перед тем, как резать и употреблять их мясо. Вы монстр.</SK_Meat_Hook.description>
+
+	<!--============================== For Cats ================================-->
+	<FeedingBowl.label>кошачья миска</FeedingBowl.label>
+	<FeedingBowl.description>Обеспечьте своих домашних животных удобно расположенными мисками для корма</FeedingBowl.description>
+
+	<FabricHamperSingle.label>Корзина</FabricHamperSingle.label>
+	<FabricHamperSingle.description>Это корзина меньшего размера, сделанная из ткани, с крышкой для защиты содержимого. В развитом мире используется для сбора грязного белья, но здесь, на краю мира, ее чаще используют фермеры и собиратели, чтобы складывать в нее урожай.</FabricHamperSingle.description>
+
+	<SK_Hayloft.label>Лофт для сена</SK_Hayloft.label>
+	<SK_Hayloft.description>Это хранилище можно использовать для хранения сена, силоса и различных других растительных материалов вне сырых полов. Скорее всего, вы захотите построить его под крышей.</SK_Hayloft.description>
+
+	<!-- EN: A rack for storing clothing for easy, quick access and a tidy room. Is not protected from the elements. -->
+	<ClothingRack.description>Стойка для хранения одежды, обеспечивающая быстрый доступ и порядок в комнате. Не защищает вещи от погодных условий.</ClothingRack.description>
+	<!-- EN: Clothing Rack -->
+	<ClothingRack.label>вешалка для одежды</ClothingRack.label>
+
+	<RootCellar.label>Погреб</RootCellar.label>
+	<RootCellar.description>Погреб, вырытый в земле для сохранения продуктов в прохладе и в условиях низкой влажности. Сокращает порчу на 40%. Медленно хранить и извлекать предметы, так как требуется некоторое время, чтобы "покопаться" в нем. Может хранить до 27 предметов, но занимает пространство 3x3.</RootCellar.description>
+
+	<BarShelf.label>Навесной барный стеллаж</BarShelf.label>
+	<BarShelf.description>Полки, прикрепленные к стене, для хранения бутылок и банок. Идеально подходят для тесного пространства за баром.</BarShelf.description>
+
+	<Sack.label>Плетеный мешок</Sack.label>
+	<Sack.description>Плетеный мешок для наполнения рисом, картофелем, песком, проволокой разной длины и т.д. Быстро используется, если наполнять его только одним видом. Снижает порчу на 25%.</Sack.description>
+
+	<TrayRackSingle.label>Сервировочный стол</TrayRackSingle.label>
+	<TrayRackSingle.description>Это небольшая высокая полка для подносов; здесь хранятся блюда и угощения.</TrayRackSingle.description>
+
+	<FoodDisplayCounter.label>Стеклянная витрина</FoodDisplayCounter.label>
+	<FoodDisplayCounter.description>Стеклянная витрина для демонстрации блюд, выпечки или даже лекарств, помогает дольше сохранить их свежесть.</FoodDisplayCounter.description>
+
+	<SK_Medicine_Cabinet.label>Медицинский шкаф</SK_Medicine_Cabinet.label>
+	<SK_Medicine_Cabinet.description>Шкаф с полками для хранения медикаментов и лекарств. Рекомендуется: присматривать за детьми.</SK_Medicine_Cabinet.description>
+
+	<SK_WeaponsCabinet.label>Оружейный шкаф</SK_WeaponsCabinet.label>
+	<SK_WeaponsCabinet.description>Прочный шкаф для хранения нескольких видов оружия. Хранящиеся в нем предметы не испортятся, даже если находятся на улице.</SK_WeaponsCabinet.description>
+
+	<SK_WeaponsLocker.label>Крепкий оружейный шкаф</SK_WeaponsLocker.label>
+	<SK_WeaponsLocker.description>Металлический шкафчик большой вместимости для надежного хранения большого количества оружия. Хранящиеся в нем предметы не испортятся, даже если находятся на улице.</SK_WeaponsLocker.description>
+
+	<Storage_AmmoContainer.label>Оружейный кейс</Storage_AmmoContainer.label>
+	<Storage_AmmoContainer.description>Контейнер для хранения боеприпасов, взрывчатки. До 9 предметов.</Storage_AmmoContainer.description>
+
+	<Storage_ExplosiveContainer.label>Прочный оружейный кейс</Storage_ExplosiveContainer.label>
+	<Storage_ExplosiveContainer.description>Контейнер для хранения боеприпасов, взрывчатки. До 10 предметов.</Storage_ExplosiveContainer.description>
+
+	<ClutterLockerA.label>Бронированный шкаф</ClutterLockerA.label>
+	<ClutterLockerA.description>Хранит оружие, части оружия, ящики с оружием, боеприпасы и одежду; предотвращает порчу. До 8 предметов.</ClutterLockerA.description>
+
+	<TextileRack.label>Текстильный стеллаж</TextileRack.label>
+	<TextileRack.description>Корзины и подвесы для хранения текстильных изделий.</TextileRack.description>
+
+	<Commode.label>Комод</Commode.label>
+	<Commode.description>Место, где поселенцы могут упорядочить свою одежду. В комплекте с декоративным черепом, который не поможет вам лучше спать.</Commode.description>
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Security -->
+	<SubCategory_Fortifications.label>укрепления</SubCategory_Fortifications.label>
+	<SubCategory_Fortifications.description>Различные защитные постройки и укрепления.</SubCategory_Fortifications.description>
+
+	<SubCategory_Traps.label>ловушки</SubCategory_Traps.label>
+	<SubCategory_Traps.description>Специальные защитные ловушки.</SubCategory_Traps.description>
+
+	<SubCategory_Napalm.label>напалм</SubCategory_Napalm.label>
+	<SubCategory_Napalm.description>Чувствуешь запах? Это напалм, сынок. Больше ничто в мире не пахнет так.\nЯ люблю запах напалма поутру. Однажды мы бомбили одну высоту, двенадцать часов подряд. И когда всё закончилось, я поднялся на неё. Там уже никого не было, даже ни одного вонючего трупа. Но запах! Весь холм был им пропитан. Это был запах… победы!\nКогда-нибудь эта война закончится.</SubCategory_Napalm.description>
+
+	<SubCategory_MedievalTurrets.label>средневековое оружие</SubCategory_MedievalTurrets.label>
+	<SubCategory_MedievalTurrets.description>Баллисты и катапульты.</SubCategory_MedievalTurrets.description>
+
+	<SubCategory_Machineguns.label>пулемёты</SubCategory_Machineguns.label>
+	<SubCategory_Machineguns.description>Различные стационарные пулемёты.</SubCategory_Machineguns.description>
+
+	<SubCategory_Mortars.label>мортиры</SubCategory_Mortars.label>
+	<SubCategory_Mortars.description>Различные стационарные мортиры и гранатомёты.</SubCategory_Mortars.description>
+
+	<SubCategory_Cannons.label>артиллерия</SubCategory_Cannons.label>
+	<SubCategory_Cannons.description>Различные стационарные тяжёлые пушки и гаубицы.</SubCategory_Cannons.description>
+
+	<SubCategory_RocketLaunchers.label>ракетные комплексы</SubCategory_RocketLaunchers.label>
+	<SubCategory_RocketLaunchers.description>Ракетные комплексы.</SubCategory_RocketLaunchers.description>
+
+	<SubCategory_SentryTurrets.label>автотурели</SubCategory_SentryTurrets.label>
+	<SubCategory_SentryTurrets.description>Автотурели с интегрированным ИИ для автоматической работы.</SubCategory_SentryTurrets.description>
+
+	<SubCategory_ACannons.label>автопушки</SubCategory_ACannons.label>
+	<SubCategory_ACannons.description>Различные стационарные крупнокалиберные пулемёты.</SubCategory_ACannons.description>
+
+	<SubCategory_EnergyWeapons.label>продвинутое вооружение</SubCategory_EnergyWeapons.label>
+	<SubCategory_EnergyWeapons.description>Различное продвинутое вооружение для защиты колонии.</SubCategory_EnergyWeapons.description>
+
+	<SubCategory_WeaponsUtilities.label>системы поддержки периметра</SubCategory_WeaponsUtilities.label>
+	<SubCategory_WeaponsUtilities.description>Различные системы поддержки в бою и управления полем боя.</SubCategory_WeaponsUtilities.description>
+
+	<SubCategory_Autoloaders.label>автоподатчики</SubCategory_Autoloaders.label>
+	<SubCategory_Autoloaders.description>Атоподатчики патронов для бесконечного ада из пуль!</SubCategory_Autoloaders.description>
+
+	<SubCategory_SpecialDefences.label>особые защитные системы</SubCategory_SpecialDefences.label>
+	<SubCategory_SpecialDefences.description>Защитные системы, не вписывающиеся в базовую классификацию.</SubCategory_SpecialDefences.description>
+</LanguageData>

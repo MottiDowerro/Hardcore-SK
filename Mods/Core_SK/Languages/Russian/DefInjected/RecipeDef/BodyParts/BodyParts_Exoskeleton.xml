@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Special -->
+	<InstallExoskeletonSuit.label>Имплантировать экзоскелет</InstallExoskeletonSuit.label>
+	<InstallExoskeletonSuit.description>Имплантировать экзоскелет.</InstallExoskeletonSuit.description>
+	<InstallExoskeletonSuit.jobString>Имплантирует экзоскелет</InstallExoskeletonSuit.jobString>
+
+	<RemoveExoskeletonSuit.label>Удалить экзоскелет</RemoveExoskeletonSuit.label>
+	<RemoveExoskeletonSuit.description>Удалить экзоскелет.</RemoveExoskeletonSuit.description>
+	<RemoveExoskeletonSuit.jobString>Удаляет экзоскелет</RemoveExoskeletonSuit.jobString>
+
+	<InstallProtectiveExoskeleton.label>Имплантировать защитный экзоскелет</InstallProtectiveExoskeleton.label>
+	<InstallProtectiveExoskeleton.description>Имплантировать защитный экзоскелет.</InstallProtectiveExoskeleton.description>
+	<InstallProtectiveExoskeleton.jobString>Имплантирует защитный экзоскелет</InstallProtectiveExoskeleton.jobString>
+
+	<RemoveProtectiveExoskeleton.label>Удалить защитный экзоскелет</RemoveProtectiveExoskeleton.label>
+	<RemoveProtectiveExoskeleton.description>Удалить защитный экзоскелет.</RemoveProtectiveExoskeleton.description>
+	<RemoveProtectiveExoskeleton.jobString>Удаляет защитный экзоскелет</RemoveProtectiveExoskeleton.jobString>
+</LanguageData>

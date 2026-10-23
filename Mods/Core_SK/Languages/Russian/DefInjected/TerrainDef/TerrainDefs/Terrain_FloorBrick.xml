@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MBrickSandstone.label>Кирпичи из песчаника</MBrickSandstone.label>
+	<MBrickSandstone.description>Кирпичи, сложенные в узор.</MBrickSandstone.description>
+
+	<MBrickGranite.label>Гранитные кирпичи</MBrickGranite.label>
+	<MBrickGranite.description>Кирпичи, сложенные в узор.</MBrickGranite.description>
+
+	<MBrickLimestone.label>Известняковые кирпичи</MBrickLimestone.label>
+	<MBrickLimestone.description>Кирпичи, сложенные в узор.</MBrickLimestone.description>
+
+	<MBrickSlate.label>Сланцевые кирпичи</MBrickSlate.label>
+	<MBrickSlate.description>Кирпичи, сложенные в узор.</MBrickSlate.description>
+
+	<MBrickMarble.label>Мраморные кирпичи</MBrickMarble.label>
+	<MBrickMarble.description>Кирпичи, сложенные в узор.</MBrickMarble.description>
+
+	<MBrickClayBrick.label>Глиняные кирпичи</MBrickClayBrick.label>
+	<MBrickClayBrick.description>Кирпичи, сложенные в узор.</MBrickClayBrick.description>
+
+	<MBrickCeramics.label>Керамические кирпичи</MBrickCeramics.label>
+	<MBrickCeramics.description>Кирпичи, сложенные в узор.</MBrickCeramics.description>
+
+	<SBrickSandstone.label>Песчаниковые малые кирпичи</SBrickSandstone.label>
+	<SBrickSandstone.description>Кирпичи, сложенные в узор.</SBrickSandstone.description>
+
+	<SBrickGranite.label>Гранитные малые кирпичи</SBrickGranite.label>
+	<SBrickGranite.description>Кирпичи, сложенные в узор.</SBrickGranite.description>
+
+	<SBrickLimestone.label>Известняковые малые кирпичи</SBrickLimestone.label>
+	<SBrickLimestone.description>Кирпичи, сложенные в узор.</SBrickLimestone.description>
+
+	<SBrickSlate.label>Сланцевые малые кирпичи</SBrickSlate.label>
+	<SBrickSlate.description>Кирпичи, сложенные в узор.</SBrickSlate.description>
+
+	<SBrickMarble.label>Мраморные малые кирпичи</SBrickMarble.label>
+	<SBrickMarble.description>Кирпичи, сложенные в узор.</SBrickMarble.description>
+
+	<SBrickClayBrick.label>Глиняные малые кирпичи</SBrickClayBrick.label>
+	<SBrickClayBrick.description>Кирпичи, сложенные в узор.</SBrickClayBrick.description>
+
+	<SBrickCeramics.label>Керамические малые кирпичи</SBrickCeramics.label>
+	<SBrickCeramics.description>Кирпичи, сложенные в узор.</SBrickCeramics.description>
+
+	<MedBrickSandstone.label>Песчаниковые средиземноморские кирпичи</MedBrickSandstone.label>
+	<MedBrickSandstone.description>Кирпичи, сложенные в узор.</MedBrickSandstone.description>
+
+	<MedBrickGranite.label>Гранитные средиземноморские кирпичи</MedBrickGranite.label>
+	<MedBrickGranite.description>Кирпичи, сложенные в узор.</MedBrickGranite.description>
+
+	<MedBrickLimestone.label>Известняковые средиземноморские кирпичи</MedBrickLimestone.label>
+	<MedBrickLimestone.description>Кирпичи, сложенные в узор.</MedBrickLimestone.description>
+
+	<MedBrickSlate.label>Сланцевые средиземноморские кирпичи</MedBrickSlate.label>
+	<MedBrickSlate.description>Кирпичи, сложенные в узор.</MedBrickSlate.description>
+
+	<MedBrickMarble.label>Мраморные средиземноморские кирпичи</MedBrickMarble.label>
+	<MedBrickMarble.description>Кирпичи, сложенные в узор.</MedBrickMarble.description>
+
+	<MedBrickClayBrick.label>Глиняные средиземноморские кирпичи</MedBrickClayBrick.label>
+	<MedBrickClayBrick.description>Кирпичи, сложенные в узор.</MedBrickClayBrick.description>
+
+	<MedBrickCeramics.label>Керамич. средиземноморские кирпичи</MedBrickCeramics.label>
+	<MedBrickCeramics.description>Кирпичи, сложенные в узор.</MedBrickCeramics.description>
+
+	<CobbleFloorSandstone.label>Песчаниковый мощёный пол</CobbleFloorSandstone.label>
+	<CobbleFloorSandstone.description>Простой пол из каменных блоков.</CobbleFloorSandstone.description>
+
+	<CobbleFloorGranite.label>Гранитный мощёный пол</CobbleFloorGranite.label>
+	<CobbleFloorGranite.description>Простой пол из каменных блоков.</CobbleFloorGranite.description>
+
+	<CobbleFloorLimestone.label>Известняковый мощёный пол</CobbleFloorLimestone.label>
+	<CobbleFloorLimestone.description>Простой пол из каменных блоков..</CobbleFloorLimestone.description>
+
+	<CobbleFloorSlate.label>Сланцевый мощёный пол</CobbleFloorSlate.label>
+	<CobbleFloorSlate.description>Простой пол из каменных блоков.</CobbleFloorSlate.description>
+
+	<CobbleFloorMarble.label>Мраморный мощёный пол</CobbleFloorMarble.label>
+	<CobbleFloorMarble.description>Простой пол из каменных блоков.</CobbleFloorMarble.description>
+
+	<UEBrickSandstone.label>Песчаниковые неровные кирпичи</UEBrickSandstone.label>
+	<UEBrickSandstone.description>Кирпичи различных размеров, уложенные на пол.</UEBrickSandstone.description>
+
+	<UEBrickGranite.label>Гранитные неровные кирпичи</UEBrickGranite.label>
+	<UEBrickGranite.description>Кирпичи различных размеров, уложенные на пол.</UEBrickGranite.description>
+
+	<UEBrickLimestone.label>Известняковые неровные кирпичи</UEBrickLimestone.label>
+	<UEBrickLimestone.description>Кирпичи различных размеров, уложенные на пол.</UEBrickLimestone.description>
+
+	<UEBrickSlate.label>Сланцевые неровные кирпичи</UEBrickSlate.label>
+	<UEBrickSlate.description>Кирпичи различных размеров, уложенные на пол.</UEBrickSlate.description>
+
+	<UEBrickMarble.label>Мраморные неровные кирпичи</UEBrickMarble.label>
+	<UEBrickMarble.description>Кирпичи различных размеров, уложенные на пол.</UEBrickMarble.description>
+
+	<UEBrickClayBrick.label>Глиняные неровные кирпичи</UEBrickClayBrick.label>
+	<UEBrickClayBrick.description>Кирпичи различных размеров, уложенные на пол.</UEBrickClayBrick.description>
+
+	<UEBrickCeramics.label>Керамические неровные кирпичи</UEBrickCeramics.label>
+	<UEBrickCeramics.description>Кирпичи различных размеров, уложенные на пол.</UEBrickCeramics.description>
+
+	<EXF_TileSandstone.label>Плитка из песчаника</EXF_TileSandstone.label>
+	<EXF_TileSandstone.description>Гладкие отполированные каменные плитки. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</EXF_TileSandstone.description>
+
+	<EXF_TileGranite.label>Гранитная плитка</EXF_TileGranite.label>
+	<EXF_TileGranite.description>Гладкие отполированные каменные плитки. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</EXF_TileGranite.description>
+
+	<EXF_TileLimestone.label>Известняковая плитка</EXF_TileLimestone.label>
+	<EXF_TileLimestone.description>Гладкие отполированные каменные плитки. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</EXF_TileLimestone.description>
+
+	<EXF_TileSlate.label>Сланцевая плитка</EXF_TileSlate.label>
+	<EXF_TileSlate.description>Гладкие отполированные каменные плитки. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</EXF_TileSlate.description>
+
+	<EXF_TileMarble.label>Мраморная плитка</EXF_TileMarble.label>
+	<EXF_TileMarble.description>Гладкие отполированные каменные плитки. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</EXF_TileMarble.description>
+
+	<EXF_TileCeramics.label>Керамическая плитка</EXF_TileCeramics.label>
+	<EXF_TileCeramics.description>Гладкие отполированные каменные плитки. Трудоемкий процесс изготовления, но зато их легко поддерживать в чистоте.</EXF_TileCeramics.description>
+
+	<HerrBrickSandstone.label>Кирпичи из песчаника ёлочкой</HerrBrickSandstone.label>
+	<HerrBrickSandstone.description>Кирпичи, сложенные в узор.</HerrBrickSandstone.description>
+
+	<HerrBrickGranite.label>Гранитные кирпичи в ёлочку</HerrBrickGranite.label>
+	<HerrBrickGranite.description>Кирпичи, сложенные в узор.</HerrBrickGranite.description>
+
+	<HerrBrickLimestone.label>Известняковые кирпичи в ёлочку</HerrBrickLimestone.label>
+	<HerrBrickLimestone.description>Кирпичи, сложенные в узор.</HerrBrickLimestone.description>
+
+	<HerrBrickSlate.label>Сланцевые кирпичи в ёлочку</HerrBrickSlate.label>
+	<HerrBrickSlate.description>Кирпичи, сложенные в узор.</HerrBrickSlate.description>
+
+	<HerrBrickMarble.label>Мраморные кирпичи в ёлочку</HerrBrickMarble.label>
+	<HerrBrickMarble.description>Кирпичи, сложенные в узор.</HerrBrickMarble.description>
+
+	<HerrBrickClayBrick.label>Глиняные кирпичи в ёлочку</HerrBrickClayBrick.label>
+	<HerrBrickClayBrick.description>Кирпичи, сложенные в узор.</HerrBrickClayBrick.description>
+
+	<HerrBrickCeramics.label>Керамические кирпичи в ёлочку</HerrBrickCeramics.label>
+	<HerrBrickCeramics.description>Кирпичи, сложенные в узор.</HerrBrickCeramics.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ClothTail.label>тканевый хвост</ClothTail.label>
+	<ClothTail.labelNoun>тканевый хвост</ClothTail.labelNoun>
+	<ClothTail.description>Установлен обыкновенный тканевый муляж хвоста.</ClothTail.description>
+	<BionicTail.label>бионический хвост</BionicTail.label>
+	<BionicTail.labelNoun>бионический хвост</BionicTail.labelNoun>
+	<BionicTail.description>Установлен бионический цепкий хвост.</BionicTail.description>
+</LanguageData>

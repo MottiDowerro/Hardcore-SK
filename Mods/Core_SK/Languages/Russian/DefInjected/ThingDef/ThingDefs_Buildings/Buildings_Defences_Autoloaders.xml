@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Turret_Autoloader_Bullets.label>автоподатчик (пули)</Turret_Autoloader_Bullets.label>
+	<Turret_Autoloader_Bullets.description>Внешнее устройство, предназначенное для перезарядки как для автоматических, так и для управляемых турелей. Оснащено специальной «кольцевой» лентой с боеприпасами и механизмом автоматической зарядки.</Turret_Autoloader_Bullets.description>
+
+	<Turret_Autoloader_Shells.label>автоподатчик (снаряды)</Turret_Autoloader_Shells.label>
+	<Turret_Autoloader_Shells.description>Внешнее устройство, предназначенное для перезарядки как для автоматических, так и для управляемых турелей. Оснащено специальной «кольцевой» лентой с боеприпасами и механизмом автоматической зарядки.</Turret_Autoloader_Shells.description>
+</LanguageData>

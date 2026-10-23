@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MetalCan.label>металлическая банка</MetalCan.label>
+	<MetalCan.description>Пустая металлическая банка, которую можно использовать для консервирования.</MetalCan.description>
+
+	<Biomatter.label>Биоматерия</Biomatter.label>
+	<Biomatter.description>Биоматерия, полученная из человеческих тел. Используется для выращивания органов.</Biomatter.description>
+
+	<Ash.label>Пепел</Ash.label>
+	<Ash.description>Пепел или зола. Это субстанция, остающаяся после сгорания чего-либо.</Ash.description>
+
+	<ConcreteResource.label>Бетон</ConcreteResource.label>
+	<ConcreteResource.description>Широко используется в строительстве.</ConcreteResource.description>
+	<ConcreteResource.stuffProps.stuffAdjective>бетона</ConcreteResource.stuffProps.stuffAdjective>
+
+	<ReinforcedConcrete.label>железобетонные блоки</ReinforcedConcrete.label>
+	<ReinforcedConcrete.description>Бетон на палочке - специальные арматурные штыри, залитые бетоном в определённой форме.</ReinforcedConcrete.description>
+	<ReinforcedConcrete.stuffProps.stuffAdjective>железобетонных блоков</ReinforcedConcrete.stuffProps.stuffAdjective>
+
+	<ClayBrick.label>Глиняный кирпич</ClayBrick.label>
+	<ClayBrick.description>Обычный глиняный кирпич.</ClayBrick.description>
+	<ClayBrick.stuffProps.stuffAdjective>глиняного кирпича</ClayBrick.stuffProps.stuffAdjective>
+
+	<Ceramics.label>Керамика</Ceramics.label>
+	<Ceramics.description>Глазурированная керамика, созданная с помощью высоких температур печи. Гладкий, красивый, но хрупкий материал.</Ceramics.description>
+	<Ceramics.stuffProps.stuffAdjective>керамики</Ceramics.stuffProps.stuffAdjective>
+
+	<!-- ============================================================== -->
+	<!-- Matter -->
+	<Matter.label>Неорганическая материя</Matter.label>
+	<Matter.description>Это химические соединения, не являющиеся органическими, то есть, не содержащие углерода, а также некоторые углеродсодержащие соединения - карбиды, цианиды, карбонаты, оксиды углерода и некоторые другие вещества  которые традиционно относят к неорганическим. Они не имеют характерного для органических веществ углеродного скелета.</Matter.description>
+
+	<PaintingSupplies.label>Инструменты для живописи</PaintingSupplies.label>
+	<PaintingSupplies.description>Большой ассортимент кистей и красок. Идеально подходит для художника.</PaintingSupplies.description>
+
+	<MineralSonarModule.label>Модуль мобильного сонара минералов</MineralSonarModule.label>
+	<MineralSonarModule.description>Модуль мобильного сонара минералов. Размещённый в нужной зоне и снабжённый аккумуляторами, может сканировать окружение на предмет наличия залежей полезных ископаемых.</MineralSonarModule.description>
+
+	<RobotParts.label>Детали робота</RobotParts.label>
+	<RobotParts.description>Набор из сервоприводов, аккумуляторов, интегральных схем, программируемого блока ИИ, манипуляторов и других компонентов, необходимых для сборки автоматического помощника. Слава роботам!</RobotParts.description>
+
+	<MendingKit.label>Ремонтный комплект</MendingKit.label>
+	<MendingKit.description>Ремонтный комплект требуется для починки вещей и оружия на ремонтном станке.</MendingKit.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Shields-->
+	<Shield_Tribal.label>Щит туземца</Shield_Tribal.label>
+	<Shield_Tribal.description>Легкий, но быстро приходит в негодность.</Shield_Tribal.description>
+
+	<Shield_Bone.label>Костяной щит</Shield_Bone.label>
+	<!-- EN: 원시 부족민들이 착용하는 나무로 만든 방패입니다. -->
+	<Shield_Bone.description>Щит примитивных племён, изготовленный из кости и дерева.</Shield_Bone.description>
+
+	<Shield_Buckler.label>Баклер</Shield_Buckler.label>
+	<Shield_Buckler.description>Баклер чаще всего небольшой металлический круглый щит. У баклера только одна рукоятка, которую сжимают в кулаке, из-за чего их называют «кулачными щитами».</Shield_Buckler.description>
+
+	<Shield_Medieval.label>Треугольный щит</Shield_Medieval.label>
+	<Shield_Medieval.description>Вытянутый геральдический треугольный щит.</Shield_Medieval.description>
+</LanguageData>

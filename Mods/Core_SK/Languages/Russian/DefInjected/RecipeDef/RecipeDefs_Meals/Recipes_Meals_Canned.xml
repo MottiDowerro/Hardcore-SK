@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MakeBasicCannedFood.label>Сделать питательные консервы из овощей</MakeBasicCannedFood.label>
+	<MakeBasicCannedFood.description>Сделать консервы из обычных овощей в металлической банке.</MakeBasicCannedFood.description>
+	<MakeBasicCannedFood.jobString>Делает консервы из овощей в стекл. банке</MakeBasicCannedFood.jobString>
+
+	<MakeExtraCannedFood.label>Сделать вкусные консервы из овощей</MakeExtraCannedFood.label>
+	<MakeExtraCannedFood.description>Сделать консервы из вкусных овощей в металлической банке.</MakeExtraCannedFood.description>
+	<MakeExtraCannedFood.jobString>Делает консервы из овощей в мет. банке</MakeExtraCannedFood.jobString>
+
+	<MakeMetalCannedMeat_prime.label>Сделать консервы с первосортным мясом</MakeMetalCannedMeat_prime.label>
+	<MakeMetalCannedMeat_prime.description>Сделать мясные консервы в металлической банке.</MakeMetalCannedMeat_prime.description>
+	<MakeMetalCannedMeat_prime.jobString>Делает мясные консервы</MakeMetalCannedMeat_prime.jobString>
+
+	<MakeMetalCannedMeat_raw.label>Сделать консервы с обычным мясом</MakeMetalCannedMeat_raw.label>
+	<MakeMetalCannedMeat_raw.description>Сделать мясные консервы в металлической банке.</MakeMetalCannedMeat_raw.description>
+	<MakeMetalCannedMeat_raw.jobString>Делает мясные консервы</MakeMetalCannedMeat_raw.jobString>
+
+	<PickleVegetable.label>Мариновать овощи</PickleVegetable.label>
+	<PickleVegetable.description>Сделать маринованные овощи из свежих овощей и соли.</PickleVegetable.description>
+	<PickleVegetable.jobString>Маринует овощи</PickleVegetable.jobString>
+
+	<SaltMeat.label>Засолить мясо</SaltMeat.label>
+	<SaltMeat.description>Сделать солонину из сырого мяса и соли.</SaltMeat.description>
+	<SaltMeat.jobString>Солит мясо</SaltMeat.jobString>
+</LanguageData>

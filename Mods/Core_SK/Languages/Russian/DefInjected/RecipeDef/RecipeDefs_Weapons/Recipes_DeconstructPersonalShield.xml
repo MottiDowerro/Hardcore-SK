@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DeconstructPersonalShield.label>Разобрать силовой щит</DeconstructPersonalShield.label>
+	<DeconstructPersonalShield.description>Разобрать силовой щит и получить часть ресурсов, из которых он состоит.</DeconstructPersonalShield.description>
+	<DeconstructPersonalShield.jobString>Разбирание силового щита</DeconstructPersonalShield.jobString>
+</LanguageData>

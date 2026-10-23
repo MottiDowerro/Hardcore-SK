@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ==================== Granages ========================== -->
+	<MakeStickBomb.label>Сделать гранаты на палке</MakeStickBomb.label>
+	<MakeStickBomb.description>Сделать гранаты на палке.</MakeStickBomb.description>
+	<MakeStickBomb.jobString>Делает гранаты на палке</MakeStickBomb.jobString>
+
+	<MakeMolotov.label>Сделать коктейль Молотова</MakeMolotov.label>
+	<MakeMolotov.description>Сделать коктейль Молотова.</MakeMolotov.description>
+	<MakeMolotov.jobString>Делает коктейль Молотова</MakeMolotov.jobString>
+
+	<MakeFragGrenades.label>Сделать осколочные гранаты (FRAG)</MakeFragGrenades.label>
+	<MakeFragGrenades.description>Сделать осколочные гранаты (FRAG).</MakeFragGrenades.description>
+	<MakeFragGrenades.jobString>Делает осколочные гранаты (FRAG)</MakeFragGrenades.jobString>
+
+	<MakeFirefoamGrenade.label>Сделать пенные гранаты</MakeFirefoamGrenade.label>
+	<MakeFirefoamGrenade.description>Сделать пенные гранаты.</MakeFirefoamGrenade.description>
+	<MakeFirefoamGrenade.jobString>Делает пенные гранаты</MakeFirefoamGrenade.jobString>
+
+	<!-- EN: Craft 5 tox grenades. -->
+	<MakeToxGrenade.description>Изготовить 5 токсичных гранат.</MakeToxGrenade.description>
+	<!-- EN: Making tox grenades. -->
+	<MakeToxGrenade.jobString>Изготавливает токсичные гранаты</MakeToxGrenade.jobString>
+	<!-- EN: make tox grenades x5 -->
+	<MakeToxGrenade.label>изготовить токсичные гранаты (5 шт.)</MakeToxGrenade.label>
+
+	<MakeFlashbangGrenades.label>Сделать шоковые гранаты (SH)</MakeFlashbangGrenades.label>
+	<MakeFlashbangGrenades.description>Сделать шоковые гранаты (SH).</MakeFlashbangGrenades.description>
+	<MakeFlashbangGrenades.jobString>Делает шоковые гранаты (SH)</MakeFlashbangGrenades.jobString>
+
+	<MakeIncendiaryGrenade.label>Сделать зажигательные гранаты (I)</MakeIncendiaryGrenade.label>
+	<MakeIncendiaryGrenade.description>Сделать зажигательные гранаты (I).</MakeIncendiaryGrenade.description>
+	<MakeIncendiaryGrenade.jobString>Делает зажигательные гранаты (I)</MakeIncendiaryGrenade.jobString>
+
+	<MakeSmokeGrenade.label>Сделать дымовые гранаты</MakeSmokeGrenade.label>
+	<MakeSmokeGrenade.description>Сделать дымовые гранаты.</MakeSmokeGrenade.description>
+	<MakeSmokeGrenade.jobString>Делает дымовые гранаты</MakeSmokeGrenade.jobString>
+
+	<MakeHighExplosiveGrenades.label>Сделать фугасные гранаты (HE)</MakeHighExplosiveGrenades.label>
+	<MakeHighExplosiveGrenades.description>Сделать фугасные гранаты (HE).</MakeHighExplosiveGrenades.description>
+	<MakeHighExplosiveGrenades.jobString>Делает фугасные гранаты (HE)</MakeHighExplosiveGrenades.jobString>
+
+	<MakeEMPGrenades.label>Сделать электромагнитные гранаты (EMP)</MakeEMPGrenades.label>
+	<MakeEMPGrenades.description>Сделать электромагнитные гранаты (EMP).</MakeEMPGrenades.description>
+	<MakeEMPGrenades.jobString>Делает электромагнитные гранаты (EMP)</MakeEMPGrenades.jobString>
+
+	<MakeGrenadeChargedFrag.label>Сделать энергетические гранаты (CH)</MakeGrenadeChargedFrag.label>
+	<MakeGrenadeChargedFrag.description>Сделать энергетические гранаты (CH).</MakeGrenadeChargedFrag.description>
+	<MakeGrenadeChargedFrag.jobString>Делает энергетические гранаты (CH)</MakeGrenadeChargedFrag.jobString>
+
+	<MakeFusionGrenades.label>Сделать термобарические гранаты (HE)</MakeFusionGrenades.label>
+	<MakeFusionGrenades.description>Сделать термобарические гранаты (HE).</MakeFusionGrenades.description>
+	<MakeFusionGrenades.jobString>Делает термобарические гранаты (HE)</MakeFusionGrenades.jobString>
+
+	<MakePlasmaGrenades.label>Сделать плазменные гранаты (PL)</MakePlasmaGrenades.label>
+	<MakePlasmaGrenades.description>Сделать Плазменную плазменные гранаты (PL).</MakePlasmaGrenades.description>
+	<MakePlasmaGrenades.jobString>Делает плазменные гранаты (PL)</MakePlasmaGrenades.jobString>
+</LanguageData>

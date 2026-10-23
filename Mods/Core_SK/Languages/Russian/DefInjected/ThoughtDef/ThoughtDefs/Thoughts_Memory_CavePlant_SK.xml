@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AteRawShimmershroom.stages.0.label>съел мерцающей поганки</AteRawShimmershroom.stages.0.label>
+	<AteRawShimmershroom.stages.0.description>Мне довелось съесть сырую мерцающую поганку, она была восхитительна на вкус!</AteRawShimmershroom.stages.0.description>
+
+	<BreathedGleamcapSmoke.stages.0.label>опьянение от паров</BreathedGleamcapSmoke.stages.0.label>
+	<BreathedGleamcapSmoke.stages.0.description>Мне посчастливилось надышаться парами от сатанинского гриба, это восхитительно!</BreathedGleamcapSmoke.stages.0.description>
+
+	<!-- Caveflora -->
+	<AteMushroomMadness.stages.0.label>съел грибное безумие</AteMushroomMadness.stages.0.label>
+	<AteMushroomMadness.stages.0.description>Земля разговаривает со мной... Я вижу странные образы... Великая Грибница хочет защитить меня.</AteMushroomMadness.stages.0.description>
+</LanguageData>

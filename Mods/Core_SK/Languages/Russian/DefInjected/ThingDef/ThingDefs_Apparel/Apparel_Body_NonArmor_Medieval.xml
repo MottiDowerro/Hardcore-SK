@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Apparel_FurCoat.label>шерстяной плащ</Apparel_FurCoat.label>
+	<Apparel_FurCoat.description>Тёплый шерстяной плащ.</Apparel_FurCoat.description>
+
+	<Apparel_DesertRobe.label>пустынная мантия</Apparel_DesertRobe.label>
+	<Apparel_DesertRobe.description>Лёгкая мантия одичалых, хорошо защищающая от жары.</Apparel_DesertRobe.description>
+
+	<Apparel_WandererPlate.label>нагрудник скитальца</Apparel_WandererPlate.label>
+	<Apparel_WandererPlate.description>Излюбленная броня странников и путешественников, великолепно защищающая от непогоды и острых предметов.</Apparel_WandererPlate.description>
+
+	<!--Apparel-->
+	<Apparel_LongCloak.label>длинный плащ</Apparel_LongCloak.label>
+	<Apparel_LongCloak.description>Длинный плащ, сделанный из меха и кожи, чтобы блокировать суровые ветра и леденящий кости холод. Первобытной эры технология, но по-прежнему весьма эффективна. Если носитель будет находиться в помещении, то он, скорее всего, упадет в обморок от теплового удара.</Apparel_LongCloak.description>
+
+	<Apparel_TraderCoat.label>плащ торговца</Apparel_TraderCoat.label>
+	<Apparel_TraderCoat.description>Излюбленная одежда любого уважающего себя торговца.</Apparel_TraderCoat.description>
+
+	<Apparel_QuiltedJacket.label>ватник</Apparel_QuiltedJacket.label>
+	<Apparel_QuiltedJacket.description>Ватник для сохранения тепла при самых низких температурах.</Apparel_QuiltedJacket.description>
+
+	<Apparel_Blazer.label>блейзер</Apparel_Blazer.label>
+	<Apparel_Blazer.description>Более повседневный подход к пиджаку. Блэйзер носят как обычную одежду.</Apparel_Blazer.description>
+
+	<Apparel_Poncho.label>пончо</Apparel_Poncho.label>
+	<Apparel_Poncho.description>Второй лучший друг стрелка.</Apparel_Poncho.description>
+
+	<Apparel_SimpleDress.label>простая туника</Apparel_SimpleDress.label>
+	<Apparel_SimpleDress.description>Простая легкодоступная одежда предпочтительно сшитая из ткани.</Apparel_SimpleDress.description>
+
+	<Apparel_TunicPoor.label>обычная туника</Apparel_TunicPoor.label>
+	<Apparel_TunicPoor.description>Обычно используется крестьянами и состоит только из кожаного пояса и плохо сделанной туники.</Apparel_TunicPoor.description>
+
+	<Apparel_TunicFine.label>крестьянская туника</Apparel_TunicFine.label>
+	<Apparel_TunicFine.description>Обычно используется крестьянами и состоит только из кожаного пояса и неплохо сделанной туники. Неплохо сохраняет тепло.</Apparel_TunicFine.description>
+
+	<Apparel_MundaneShirt.label>утеплённая рубашка</Apparel_MundaneShirt.label>
+	<Apparel_MundaneShirt.description>Тёплая рубашка, теплее обычных.</Apparel_MundaneShirt.description>
+
+	<Apparel_Gambeson.label>гамбезон</Apparel_Gambeson.label>
+	<Apparel_Gambeson.description>Куртка, также известная как акетон, стеганый жакет или подменный дублет. Эта куртка необходима для ношения любых приличных средневековых доспехов. Такая модель предназначена для ношения с кольчужной кольчугой или пластинчатыми доспехами.</Apparel_Gambeson.description>
+
+	<Apparel_GambesonPadded.label>мягкий гамбезон</Apparel_GambesonPadded.label>
+	<Apparel_GambesonPadded.description>Куртка, также известная как акетон, стеганый жакет или подменный дублет. Эта куртка необходима для ношения любых приличных средневековых доспехов. Такая модель предназначена для ношения с кольчужной кольчугой или пластинчатыми доспехами.</Apparel_GambesonPadded.description>
+
+	<Apparel_MedievalTunic.label>средневековая туника</Apparel_MedievalTunic.label>
+	<Apparel_MedievalTunic.description>Рубашка средневековой эпохи. Добротно сшита и подвязана кожаными шнурками.</Apparel_MedievalTunic.description>
+
+	<Apparel_BrocadeVest.label>жилет из парчи</Apparel_BrocadeVest.label>
+	<Apparel_BrocadeVest.description>Чтобы всегда сохранять спокойствие и самообладание, носите жилет из парчи. Это беспроигрышный вариант одежды для любого джентльмена или леди.</Apparel_BrocadeVest.description>
+</LanguageData>

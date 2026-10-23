@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SubCategory_Lights.label>заправляемые светильники</SubCategory_Lights.label>
+	<SubCategory_Lights.description>Светильники требующие зарядки топливом или ресурсами.</SubCategory_Lights.description>
+
+	<SubCategory_DarkLamps.label>тусклые светильники</SubCategory_DarkLamps.label>
+	<SubCategory_DarkLamps.description>Лампы и светильники для освещения окружающей территории тусклым светом. Освещаемая область и потребление ресурсов ниже, чем у нетусклых аналогов.</SubCategory_DarkLamps.description>
+
+	<SubCategory_GlowstoneLights.label>светокаменные светильники</SubCategory_GlowstoneLights.label>
+	<SubCategory_GlowstoneLights.description>Бесконечные, не очень яркие и дорогие светильники из светокамня.</SubCategory_GlowstoneLights.description>
+
+	<SubCategory_Lamps.label>электрические лампы</SubCategory_Lamps.label>
+	<SubCategory_Lamps.description>Лампы для освещения окружающей территории.</SubCategory_Lamps.description>
+
+	<SubCategory_LEDLamps.label>светодиодные лампы</SubCategory_LEDLamps.label>
+	<SubCategory_LEDLamps.description>Светодиодные лампы для освещения окружающей территории.</SubCategory_LEDLamps.description>
+
+	<!-- EN: LED lamp that lights an area. -->
+	<SubCategory_CeilingLEDLamps.description>Светодиодная лампа, освещающая область.</SubCategory_CeilingLEDLamps.description>
+	<!-- EN: ceiling LED lamps -->
+	<SubCategory_CeilingLEDLamps.label>потолочные LED-лампы</SubCategory_CeilingLEDLamps.label>
+
+	<SubCategory_DoorMats.label>дверные ковры</SubCategory_DoorMats.label>
+	<SubCategory_DoorMats.description>Дверные ковры для сбора грязи.</SubCategory_DoorMats.description>
+
+	<SubCategory_AncientRugs.label>древние ковры</SubCategory_AncientRugs.label>
+	<SubCategory_AncientRugs.description>Древние ковры для создания допотопного уюта.</SubCategory_AncientRugs.description>
+
+	<SubCategory_ModernRugs.label>современные ковры</SubCategory_ModernRugs.label>
+	<SubCategory_ModernRugs.description>Современные дизайнерские ковры придадут любому помещению изысканность.</SubCategory_ModernRugs.description>
+
+	<SubCategory_RoundRugs.label>круглые ковры</SubCategory_RoundRugs.label>
+	<SubCategory_RoundRugs.description>Круглые ковры.</SubCategory_RoundRugs.description>
+
+	<SubCategory_SquareRugs.label>квадратные ковры</SubCategory_SquareRugs.label>
+	<SubCategory_SquareRugs.description>Квадратные ковры.</SubCategory_SquareRugs.description>
+
+	<SubCategory_RectangleRugs.label>прямоугольные ковры</SubCategory_RectangleRugs.label>
+	<SubCategory_RectangleRugs.description>Прямоугольные ковры.</SubCategory_RectangleRugs.description>
+
+	<SubCategory_RunnerRugs.label>ковровые дорожки</SubCategory_RunnerRugs.label>
+	<SubCategory_RunnerRugs.description>Ковровые дорожки.</SubCategory_RunnerRugs.description>
+
+	<!-- Accessories -->
+	<SubCategory_PlantPots.label>горшки</SubCategory_PlantPots.label>
+	<SubCategory_PlantPots.description>Горшки для выращивания комнатных декоративных растений.</SubCategory_PlantPots.description>
+
+	<SubCategory_BordersWarningRibbon.label>бордюр (предупреждающий)</SubCategory_BordersWarningRibbon.label>
+	<SubCategory_BordersWarningRibbon.description>Бордюр с окрасом предупреждаюшей ленты.</SubCategory_BordersWarningRibbon.description>
+
+	<SubCategory_BordersStoneBlocks.label>бордюр (каменные блоки)</SubCategory_BordersStoneBlocks.label>
+	<SubCategory_BordersStoneBlocks.description>Бордюр из каменных блоков.</SubCategory_BordersStoneBlocks.description>
+
+	<SubCategory_BordersPebbles.label>бордюр (галька)</SubCategory_BordersPebbles.label>
+	<SubCategory_BordersPebbles.description>Бордюр из гальки.</SubCategory_BordersPebbles.description>
+</LanguageData>

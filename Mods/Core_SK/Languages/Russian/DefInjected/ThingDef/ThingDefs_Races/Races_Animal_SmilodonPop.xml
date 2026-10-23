@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SmilodonPop.label>саблезубый тигр</SmilodonPop.label>
+	<SmilodonPop.description>Вымерший вид подсемейства кошачьих, возрожденный учеными, использующими продвинутые технологии клонирования. Саблезубые кошки обязаны своим названием очень длинным изогнутым клыкам примерно 20 сантиметров. Эти животные могут открывать пасть на 95 градусов и по строению тела, более сильные чем современные кошки.</SmilodonPop.description>
+	<!-- EN: head -->
+	<SmilodonPop.tools.head.label>голова</SmilodonPop.tools.head.label>
+	<!-- EN: left claw -->
+	<SmilodonPop.tools.0.label>левая лапа</SmilodonPop.tools.0.label>
+	<!-- EN: right claw -->
+	<SmilodonPop.tools.1.label>правая лапа</SmilodonPop.tools.1.label>
+</LanguageData>

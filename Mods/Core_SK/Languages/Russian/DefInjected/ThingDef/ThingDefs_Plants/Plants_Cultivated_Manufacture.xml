@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Flax flower -->
+	<Plant_Flax.label>Цветы льна</Plant_Flax.label>
+	<!-- EN: A flower thats fibers are use to spin into cloth. -->
+	<Plant_Flax.description>Волокна этих цветов используют, чтобы получить льняную ткань.</Plant_Flax.description>
+
+	<!-- EN: Sugarcane Plant -->
+	<Plant_Sugarcane.label>Сахарный тростник</Plant_Sugarcane.label>
+	<!-- EN: Sugarcane Plants produce a type of long grass stalk called Sugarcane. The grass stalks are rich in sucrose, which can be milled from the Butcher Table to produce Sugar. -->
+	<Plant_Sugarcane.description>Стебли этой длинной травы богаты сахарозой, поэтому их можно измельчить на каменной молотилке или электрическом измельчителе для получения сахара.</Plant_Sugarcane.description>
+
+	<!-- EN: Wheat Grass -->
+	<Plantwheat.label>Пшеница</Plantwheat.label>
+	<!-- EN: Wheat Grass is a cereal grain that produces Wheat. Wheat can be milled into Flour, which can be baked into Bread Leaves from the Oven. -->
+	<Plantwheat.description>Зерновая культура семейства злаковые. Её плоды, зерновки, можно перемолоть в муку для использования в выпечке хлеба.</Plantwheat.description>
+
+	<!-- EN: Tobacco Plant -->
+	<Plant_Tobacco.label>Табак</Plant_Tobacco.label>
+	<!-- EN: Tobacco Plants are a green, leafy member of the nightshade family. Unlike other nightshade plants that produce fruits, Tobacco Plants are grown for their Tobacco Leaves. These leaves are rolled from the Tobacco Rolling Bench and smoked as an addictive drug. -->
+	<Plant_Tobacco.description>Зелёное лиственное растение семейства паслёновых. Быстро созревает и даёт хороший урожай, но требовательно к окружающим условиям. Листья табака можно высушивать, скручивать и курить - действуют как стимулирующий наркотик.</Plant_Tobacco.description>
+
+	<!-- EN: Coffee Plant -->
+	<Plant_Coffee.label>Кофе</Plant_Coffee.label>
+	<!-- EN: Coffee Plants are green, leafy plants that produce red cherries. Coffee Beans are inside of the cherries, and when the Coffee Beans are ground they are can be brewed into a tasty beverage called Coffee from the Coffee Machine. -->
+	<Plant_Coffee.description>Зелёное лиственное растение с красными ягодами. Ягоды содержат семена, из которых, после созревания, можно сварить вкусный бодрящий напиток.</Plant_Coffee.description>
+
+	<!-- EN: Tea Shrub -->
+	<Plant_Tea.label>Чайный куст</Plant_Tea.label>
+	<!-- EN: Tea Shrubs produce aromatic Tea Leaves. When these leaves are brewed with hot water they make a tasty beverage from the Coffee Machine called Tea. -->
+	<Plant_Tea.description>Растение, из листьев которого можно заваривать расслабляющий чайный напиток.</Plant_Tea.description>
+
+	<!-- EN: Hevea Tree -->
+	<Plant_TreeHevea.label>Гевея</Plant_TreeHevea.label>
+	<!-- EN: Hevea Trees produce a natural latex, rubber-like sap called Caoutchouc. Caoutchouc can be vulcanized in a kiln or a laboratory to create rubber. -->
+	<Plant_TreeHevea.description>Производит натуральный латекс, резиноподобный сок, называемый каучуком. Каучук может быть вулканизирован в горне или лаборатории для создания резины.</Plant_TreeHevea.description>
+</LanguageData>

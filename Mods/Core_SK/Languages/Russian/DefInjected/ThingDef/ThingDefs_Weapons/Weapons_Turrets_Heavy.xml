@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ==================== Neolitic ========================== -->
+	<Medieval_Ballista_Turret.label>Баллиста</Medieval_Ballista_Turret.label>
+	<Medieval_Ballista_Turret.description>Огромный осадный арбалет.</Medieval_Ballista_Turret.description>
+
+	<Artillery_Medieval_Catapult_Top.label>Катапульта</Artillery_Medieval_Catapult_Top.label>
+	<Artillery_Medieval_Catapult_Top.description>Осадная катапульта, стреляющая зажигательными и взрывными снарядами через стены с большой точностью, но малой дистанцией.</Artillery_Medieval_Catapult_Top.description>
+
+	<!-- EN: 30mm grenade launcher attached to a trypod. -->
+	<Gun_AGLGrenadeLauncher.description>30 мм гранатомёт, установленный на треноге.</Gun_AGLGrenadeLauncher.description>
+	<!-- EN: AGL Grenade launcher -->
+	<Gun_AGLGrenadeLauncher.label>гранатомёт АГС-30</Gun_AGLGrenadeLauncher.label>
+
+	<Gun_CannonTurret.label>Орудие танковое 120мм</Gun_CannonTurret.label>
+	<Gun_CannonTurret.description>Танковая 120мм пушка для стационарной сторожевой турели.</Gun_CannonTurret.description>
+
+	<Gun_HowitzerTurret.label>Орудие 155мм M800</Gun_HowitzerTurret.label>
+	<Gun_HowitzerTurret.description>Стационарная 155мм гаубичная турель.</Gun_HowitzerTurret.description>
+</LanguageData>

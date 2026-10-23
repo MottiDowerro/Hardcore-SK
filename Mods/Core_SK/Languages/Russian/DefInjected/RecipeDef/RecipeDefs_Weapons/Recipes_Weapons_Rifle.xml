@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<BuildAssaultRifle.label>Собрать винтовку M16</BuildAssaultRifle.label>
+	<BuildAssaultRifle.description>Военное оружие общего назначения для действий в полевых и городских условиях. Стреляет очередями по три патрона. Хорошая дальность, низкий урон, высокая скорострельность.</BuildAssaultRifle.description>
+	<BuildAssaultRifle.jobString>Собирает винтовку M16</BuildAssaultRifle.jobString>
+
+	<BuildSG553Gun.label>Собрать винтовку SIG SG553</BuildSG553Gun.label>
+	<BuildSG553Gun.description>Штурмовая винтовка с оптическим прицелом.</BuildSG553Gun.description>
+	<BuildSG553Gun.jobString>Собирает винтовку SIG SG553</BuildSG553Gun.jobString>
+
+	<BuildAUG.label>Собрать винтовку Steyr AUG A3</BuildAUG.label>
+	<BuildAUG.description>Штурмовая винтовка с оптическим прицелом.</BuildAUG.description>
+	<BuildAUG.jobString>Собирает винтовку Steyr AUG A3</BuildAUG.jobString>
+
+	<BuildSCAR_H.label>Собрать винтовку FN SCAR-H</BuildSCAR_H.label>
+	<BuildSCAR_H.description>Штурмовая винтовка.</BuildSCAR_H.description>
+	<BuildSCAR_H.jobString>Собирает винтовку FN SCAR-H</BuildSCAR_H.jobString>
+
+	<BuildFAMAS.label>Собрать винтовку Famas G2</BuildFAMAS.label>
+	<BuildFAMAS.description>Винтовка имеет конфигурацию буллпап - магазин и патронник расположены позади спускового крючка и пистолетной рукоятки управления огнем.</BuildFAMAS.description>
+	<BuildFAMAS.jobString>Собирает винтовку Famas G2</BuildFAMAS.jobString>
+
+	<BuildXM8MilitaryRifle.label>Собрать винтовку HK XM8</BuildXM8MilitaryRifle.label>
+	<BuildXM8MilitaryRifle.description>Древняя военная винтовка. Хорошая дальность, низкая мощность, высокая скорострельность.</BuildXM8MilitaryRifle.description>
+	<BuildXM8MilitaryRifle.jobString>Собирает винтовку HK XM8</BuildXM8MilitaryRifle.jobString>
+
+	<BuildAK47Gun.label>Собрать винтовку AK-47</BuildAK47Gun.label>
+	<BuildAK47Gun.description>Настолько известный, что на Римворлде был известен еще до появления людей.</BuildAK47Gun.description>
+	<BuildAK47Gun.jobString>Собирает винтовку AK-47</BuildAK47Gun.jobString>
+
+	<BuildTacticalCombatrifle.label>Собрать винтовку Halo Fanon MA5</BuildTacticalCombatrifle.label>
+	<BuildTacticalCombatrifle.description>Удобная в использовании тактическая боевая винтовка.</BuildTacticalCombatrifle.description>
+	<BuildTacticalCombatrifle.jobString>Собирает винтовку Halo Fanon MA5</BuildTacticalCombatrifle.jobString>
+
+	<BuildMarineSturmRifle.label>Собрать винтовку IWI Tavor</BuildMarineSturmRifle.label>
+	<BuildMarineSturmRifle.description>Винтовка Tavor по своему дизайну выглядит футуристично. Корпус выполнен из ударопрочного полимера, сверху расположена планка Пикатинни, на которую можно устанавливать различные оптические прицелы. Это газоотводная винтовка компоновки буллпап для современной эпохи.</BuildMarineSturmRifle.description>
+	<BuildMarineSturmRifle.jobString>Собирает винтовку IWI Tavor</BuildMarineSturmRifle.jobString>
+</LanguageData>

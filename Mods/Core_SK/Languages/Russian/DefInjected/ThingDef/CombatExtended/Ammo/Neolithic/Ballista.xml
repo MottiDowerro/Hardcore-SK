@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Ammo_BalistaBolt.label>Болт для баллисты</Ammo_BalistaBolt.label>
+	<Ammo_BalistaBolt.description>Большой болт для стрельбы с баллисты.</Ammo_BalistaBolt.description>
+
+	<Ammo_BalistaBolt_Explosive.label>Болт для баллисты (взрывной)</Ammo_BalistaBolt_Explosive.label>
+	<Ammo_BalistaBolt_Explosive.description>Большой взрывной болт для стрельбы с баллисты.</Ammo_BalistaBolt_Explosive.description>
+
+	<Projectile_BalistaBolt.label>болт баллисты</Projectile_BalistaBolt.label>
+
+	<Projectile_BalistaBolt_Explosive.label>болт баллисты (взрыв.)</Projectile_BalistaBolt_Explosive.label>
+</LanguageData>

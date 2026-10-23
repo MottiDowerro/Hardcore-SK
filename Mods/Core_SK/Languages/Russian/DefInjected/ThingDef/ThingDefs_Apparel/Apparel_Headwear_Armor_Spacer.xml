@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Helmet_SyndicateHood.label>капюшон синдиката</Helmet_SyndicateHood.label>
+	<Helmet_SyndicateHood.description>Полная защита от ветра! Тип головных уборов которые носят всякие темные личности в темных переулках, глядя на вас блестящими глазами, готовые нанести удар в....</Helmet_SyndicateHood.description>
+
+	<Helmet_Phase.label>шлем «Фаза»</Helmet_Phase.label>
+	<Helmet_Phase.description>Полный средний шлем.</Helmet_Phase.description>
+
+	<Helmet_InteractorHood.label>капюшон-интерактор</Helmet_InteractorHood.label>
+	<Helmet_InteractorHood.description>Модный капюшон для продвинутых ниндзя.</Helmet_InteractorHood.description>
+
+	<Helmet_Siege.description>Осадный шлем JE-342A7 «Дверг». Прочный и надежный шлем для защиты мягкой, мясистой головы даже от самых мерзких врагов.</Helmet_Siege.description>
+	<Helmet_Siege.label>Осадный шлем JE-342A7 «Дверг»</Helmet_Siege.label>
+
+	<Helmet_CQC.description>Шлем для брони JE-257A1 «Эйнхерий» - это модифицированная версия осадного шлема «Дверг». Часть толстых броневых листов была удалена, чтобы установить мощные приводы и быстро перезаряжаемые щиты.</Helmet_CQC.description>
+	<Helmet_CQC.label>Шлем для брони JE-257A1 «Эйнхерий»</Helmet_CQC.label>
+
+	<Helmet_PsyPrototype.label>шлем с пси-усилителем «Прото-1»</Helmet_PsyPrototype.label>
+	<Helmet_PsyPrototype.description>Инновационный прототип головного убора с целью повышения синаптической скорости реакции. Он имеет некоторые побочные эффекты, такие как нервозность, странные шумы и/или даже голоса, которые могут свести с ума...</Helmet_PsyPrototype.description>
+
+	<Helmet_PsyPrototypeTwo.label>шлем с пси-усилителем «Прото-2»</Helmet_PsyPrototypeTwo.label>
+	<Helmet_PsyPrototypeTwo.description>Инновационный прототип головного убора с целью повышения синаптической скорости реакции. Он по-прежнему имеет некоторые побочные эффекты, хотя и не так плохие как раньше. Размещение передового ядра ИИ к сожалению также усиливает владельца к психо-чувствительности, делая его чрезвычайно уязвимым.</Helmet_PsyPrototypeTwo.description>
+
+	<Helmet_PsyPrototypeThree.label>шлем с пси-усилителем «Прото-3»</Helmet_PsyPrototypeThree.label>
+	<Helmet_PsyPrototypeThree.description>Очень любопытный образец передовых технологий, конечный вариант прототипа с пси-усилителем. Имеет лучшее сопротивление побочным эффектам.</Helmet_PsyPrototypeThree.description>
+
+	<Helmet_Enviro.label>шлем «Энвиро»</Helmet_Enviro.label>
+	<Helmet_Enviro.description>Теплый, уютный и самое главное герметичный головной убор предназначенный для применения в космосе для борьбы с враждебными бактериями на необитаемых планетах.</Helmet_Enviro.description>
+
+	<Helmet_EnviroLight.label>шлем «Энвиро Лайт»</Helmet_EnviroLight.label>
+	<Helmet_EnviroLight.description>Прочный обтекаемый шлем, разработанный для космонавтов и первооткрывателей. Капюшон в комплект не входит.</Helmet_EnviroLight.description>
+
+	<Helmet_Hive.label>вытянутый шлем «Чужой»</Helmet_Hive.label>
+	<Helmet_Hive.description>В сочетании с инопланетным сплавом брони центропеды и пугающим обликом этот шлем вполне может заставить обмочится в штаны противника только от одного его вида.</Helmet_Hive.description>
+
+	<Helmet_Steamhull.label>боевой шлем «Чужой»</Helmet_Steamhull.label>
+	<Helmet_Steamhull.description>Громоздкий шлем разработан в соответствии с технологиями инопланетного сплава.</Helmet_Steamhull.description>
+
+	<Helmet_PowerArmorLight.label>лёгкий силовой шлем</Helmet_PowerArmorLight.label>
+	<Helmet_PowerArmorLight.description>Один из частей сета силовой брони. Лёгкий силовой шлем в основном используется для пехоты.</Helmet_PowerArmorLight.description>
+
+	<Helmet_Doom.label>шлем убийцы демонов</Helmet_Doom.label>
+	<Helmet_Doom.description>Часть комплекта силовой брони убийцы демонов. В основном используется тяжелой пехотой.</Helmet_Doom.description>
+
+	<Helmet_HellPowerArmor.label>адский силовой шлем</Helmet_HellPowerArmor.label>
+	<Helmet_HellPowerArmor.description>Часть комплекта силовой брони. В основном используется силовиками.</Helmet_HellPowerArmor.description>
+
+	<Helmet_ShuttlePilot.label>шлем пилота шаттла</Helmet_ShuttlePilot.label>
+	<Helmet_ShuttlePilot.description>Все известные пилоты носили его, некоторые из них были более украшены, чем другие. Это один из более практичных его вариантов.</Helmet_ShuttlePilot.description>
+</LanguageData>

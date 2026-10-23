@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<TableKitchen.label>Кухонный стол</TableKitchen.label>
+	<TableKitchen.description>Обычный кухонный стол, на котором можно приготовить пищу без каких либо требований к электричеству или топливу.</TableKitchen.description>
+
+	<!-- EN: An open fireplace for cooking food, heating the home, and gathering with friends. -->
+	<OpenHearth.description>Открытый очаг для приготовления пищи, обогрева жилища и посиделок с друзьями.</OpenHearth.description>
+	<!-- EN: open hearth -->
+	<OpenHearth.label>открытый очаг</OpenHearth.label>
+
+	<TableGrill.label>Гриль</TableGrill.label>
+	<TableGrill.description>Маленький гриль для жарки мяса, грибов и рыбы.</TableGrill.description>
+
+	<ElectricStove_Pro.label>Кухонная плита шеф-повара</ElectricStove_Pro.label>
+	<ElectricStove_Pro.description>Профессиональная плита, позволяет готовить качественно и быстро.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 50 W\nПри работе: 500 W</ElectricStove_Pro.description>
+
+	<Canningstove.label>Консервный станок</Canningstove.label>
+	<Canningstove.description>Станок, позволяющий делать консервы. Консервирование это процесс значительно удлиняющий сохранность продуктов в пригодном для употребления в пищу виде. Стерилизация или кипячение при температуре выше температуры кипения воды  уничтожает все микроорганизмы в плотно запечатанных консервах, что позволяет продуктам  хранится дольше, если не нарушать герметичность консервов. Чтобы вода не испарялась, стерилизацию необходимо проводить при избыточном давлении.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 25 W\nПри работе: 250 W</Canningstove.description>
+
+	<GrindStone.label>Каменные жернова</GrindStone.label>
+	<GrindStone.description>Устройство с двумя отшлифованными каменными дисками, предназначенное для измельчения зёрен пшеницы, кукурузы и сахарного тростника.</GrindStone.description>
+
+	<MillElectric.label>Электрический измельчитель</MillElectric.label>
+	<MillElectric.description>Электрический кухонный измельчитель с мощным мотором для наилучшего измельчения.\n\nНужна энергия.\nПотребляемая мощность: 300 W</MillElectric.description>
+
+	<SK_Windmill.label>Ветряная мельница</SK_Windmill.label>
+	<SK_Windmill.description>Высокая башня, на вершине которой установлено колесо с лопастями. Используется для перемалывания злаков в муку.</SK_Windmill.description>
+
+	<TableOven.label>Печь</TableOven.label>
+	<TableOven.description>Обычная печь для приготовления пирогов, хлеба и пиццы.\nДля работы нужны дрова или уголь.</TableOven.description>
+
+	<ElectricOven.label>Электрическая духовка</ElectricOven.label>
+	<ElectricOven.description>Электрическая духовка для выпекания разных вкусностей.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 40 W\nПри работе: 400 W</ElectricOven.description>
+
+	<CandyTable.label>Мастерская сладостей</CandyTable.label>
+	<CandyTable.description>Даёт возможность приготовить сладости.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 25 W\nПри работе: 250 W</CandyTable.description>
+
+	<TableCoffee.label>Кофемашина</TableCoffee.label>
+	<TableCoffee.description>Аппарат для приготовления различных напитков.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 25 W\nПри работе: 250 W</TableCoffee.description>
+
+	<soylenttable.label>Преобразователь сойлента</soylenttable.label>
+	<soylenttable.description>Сойлент - питательная биомасса, которую получают из органических тканей (из трупов). Можно использовать в пищу, но поселенцам она не по вкусу.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 50 W\nПри работе: 500 W</soylenttable.description>
+
+	<ElectricBrewery.label>Электрическая пивоварня</ElectricBrewery.label>
+	<ElectricBrewery.description>Работающий от электричества рабочий стол, оснащённый всем необходимым для варки пива и других алкогольных продуктов, а так же топлива на базе этанола.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 24 W\nПри работе: 240 W</ElectricBrewery.description>
+
+	<UniversalFermenter.label>бочка для брожения</UniversalFermenter.label>
+	<UniversalFermenter.description>Бочка для получения пива из сусла путём брожения.</UniversalFermenter.description>
+
+	<JerkyRack.label>Сушилка для мяса</JerkyRack.label>
+	<JerkyRack.description>Стойка, предназначенная для изготовления вяленого мяса из сырого мяса.\nМясо должно находиться на доступном складе.</JerkyRack.description>
+
+	<DryingRack.label>сушилка для листьев</DryingRack.label>
+	<DryingRack.description>Сушилка используется для сушки дымчатых и табачных листьев, а также для сушки фруктов.</DryingRack.description>
+
+	<ElectricDryingRack.label>Промышленная сушилка</ElectricDryingRack.label>
+	<ElectricDryingRack.description>Электрическая версия устаревшей сушилки. Сушит в любую погоду, куда быстрее и безопаснее.</ElectricDryingRack.description>
+
+	<CheeseBasin.label>Форма для сыра</CheeseBasin.label>
+	<CheeseBasin.description>Форма для изготовления сыра. Обычный сыр можно изготавливать из обычного или соевого молока, тогда как элитный сыр делается только из животного молока.</CheeseBasin.description>
+
+	<CheeseVat.label>Чан для сыра</CheeseVat.label>
+	<CheeseVat.description>Большой чан для изготовления сыра. Имеет автоматическую систему контроля температуры.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 80 W\nПри работе: 800 W</CheeseVat.description>
+
+	<FungiponicsBasin.label>Фунгопоника</FungiponicsBasin.label>
+	<FungiponicsBasin.description>Созданная на базе гидропоники фунгопоника позволяет выращивать пещерные растения. Нужно только немного естественной органики для начала выращивания. Выращивать грибы сложно, так как у них собственный темп роста.</FungiponicsBasin.description>
+
+	<VG_SaltMine.label>Соляная яма</VG_SaltMine.label>
+	<VG_SaltMine.description>Место в грубом камне, предназначенное для добычи соли.</VG_SaltMine.description>
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--============================== Lamps ==============================-->
+	<ClutterFloorLampA.label>Напольная лампа</ClutterFloorLampA.label>
+	<ClutterFloorLampA.description>Обычная напольная лампа.\nНужна энергия.\nПотребляемая мощность: 80 W</ClutterFloorLampA.description>
+
+	<GlowstoneLamp.label>Светокаменная лампа</GlowstoneLamp.label>
+	<GlowstoneLamp.description>Красивая лампа, увенчанная светокамнем, излучающая отраженный свет. Бесплатный источник света. Освещает небольшую область.</GlowstoneLamp.description>
+
+	<GlowstoneTableLamp.label>Светокаменная настольная лампа</GlowstoneTableLamp.label>
+	<GlowstoneTableLamp.description>Красивая настольная лампа, увенчанная светокамнем, излучающая отраженный свет. Бесплатный источник света. Освещает небольшую область.</GlowstoneTableLamp.description>
+
+	<!--====================================== Ceiling Lights ======================================-->
+	<CeilingLamp.label>Потолочная лампа</CeilingLamp.label>
+	<CeilingLamp.description>Лампа для потолка, которая освещает большую площадь.\nНужна энергия.\nПотребляемая мощность: 80 W</CeilingLamp.description>
+
+	<CeilingGlowstoneLamp.label>Светокаменная потолочная лампа</CeilingGlowstoneLamp.label>
+	<CeilingGlowstoneLamp.description>Красивая потолочная лампа, содержащая светокамень, излучающая отраженный свет. Бесплатный источник света. Освещает небольшую область.</CeilingGlowstoneLamp.description>
+
+	<Lighting_WallLight.label>Настенный фонарь</Lighting_WallLight.label>
+	<Lighting_WallLight.description>Обычный настенный фонарь. Требуется стенка для установки.\nНужна энергия.\nПотребляемая мощность: 70 W</Lighting_WallLight.description>
+
+	<Lighting_WallGlowstone.label>Светокаменная настенная лампа</Lighting_WallGlowstone.label>
+	<Lighting_WallGlowstone.description>Красивая настенная лампа, увенчанная светокамнем, излучающая отраженный свет. Бесплатный источник света. Освещает небольшую область.</Lighting_WallGlowstone.description>
+
+	<!--====================================== WallLights ======================================-->
+	<BowlLamp.label>Чаша для огня</BowlLamp.label>
+	<BowlLamp.description>Специальная огнеупорная чаша для тёплого маленького огонька.</BowlLamp.description>
+
+	<Candle.label>Свеча</Candle.label>
+	<Candle.description>Небольшая свеча, которая даёт свет и совсем немного тепла. Заправляется смальцем или парафином.</Candle.description>
+
+	<!--====================================== OutdoorLights ======================================-->
+	<OutdoorGroundLamp.label>Внешняя лампа</OutdoorGroundLamp.label>
+	<OutdoorGroundLamp.description>Эффект от лампы будет работать только снаружи. Работает от солнечных лучей. Освещает небольшую площадь на открытом воздухе.</OutdoorGroundLamp.description>
+
+	<Lighting_PathLamp.label>Уличный светильник</Lighting_PathLamp.label>
+	<Lighting_PathLamp.description>Небольшой светильник со встроенной солнечной панелью, которая накапливает энергию днём и освещает небольшую площадь ночью.</Lighting_PathLamp.description>
+</LanguageData>

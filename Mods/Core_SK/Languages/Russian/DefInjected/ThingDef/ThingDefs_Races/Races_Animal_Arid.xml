@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ========================= Herbivore animal enviro ============================= -->
+	<!--Alphalo-->
+	<Buffalo.label>альфало</Buffalo.label>
+	<Buffalo.description>Огромный Муффало, который пережил суровые времена. Будьте аккуратны! Он также может быть немного агрессивным...</Buffalo.description>
+	<!-- EN: head -->
+	<Buffalo.tools.head.label>голова</Buffalo.tools.head.label>
+	<!-- EN: left hoof -->
+	<Buffalo.tools.0.label>левое копыто</Buffalo.tools.0.label>
+	<!-- EN: right hoof -->
+	<Buffalo.tools.2.label>правое копыто</Buffalo.tools.2.label>
+</LanguageData>

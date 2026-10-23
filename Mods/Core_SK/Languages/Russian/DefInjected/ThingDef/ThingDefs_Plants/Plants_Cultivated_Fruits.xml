@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Watermelon plant -->
+	<Plant_Watermelon.label>Арбуз</Plant_Watermelon.label>
+	<!-- EN: A tall, creeping vine that produces large, juicy fruits. Although watermelon is not as calorie-dense as grains or legumes, its refreshing flesh is prized in hot weather and can be stored for several weeks after harvest. -->
+	<Plant_Watermelon.description>Арбуз – высокая, ползучая лиана, дающая крупные, сочные плоды. Хотя арбуз не так калорийен, как злаки или бобовые, его освежающая мякоть ценится в жаркую погоду и может храниться несколько недель после сбора урожая.</Plant_Watermelon.description>
+
+	<!-- EN: Apple Tree -->
+	<Plant_TreeApple.label>Яблоня</Plant_TreeApple.label>
+	<!-- EN: Apple Trees produce round, palm-sized, red fruits called Apples. The Apple Tree will remain after harvesting and will start another cycle of Apple production. -->
+	<Plant_TreeApple.description>Растёт в зонах умеренного климата. Производит красные круглые плоды, называемые яблоками. Яблоня останется после сбора урожая и начнёт новый цикл производства яблок.</Plant_TreeApple.description>
+
+	<!-- EN: Banana Tree -->
+	<Plant_TreeBanana.label>Банан</Plant_TreeBanana.label>
+	<!-- EN: Banana Trees produce long, yellow fruits called Bananas, which eventually soften into a sweet delight. The Banana Tree will remain after harvesting and will start another cycle of Banana production. -->
+	<Plant_TreeBanana.description>Растёт в тропических и субтропических районах с жарким влажным климатом. Производит длинные жёлтые плоды, называемые бананами. Банановое дерево останется после сбора урожая и начнёт новый цикл производства бананов.</Plant_TreeBanana.description>
+
+	<!-- EN: Orange Tree -->
+	<Plant_TreeOrange.label>Апельсиновое дерево</Plant_TreeOrange.label>
+	<!-- EN: Orange Trees produce sweet, citric fruits called Oranges. The Orange Tree will remain after harvesting and will start another cycle of Orange production. -->
+	<Plant_TreeOrange.description>Производит сладкие цитрусовые фрукты, называемые апельсинами. Апельсиновое дерево останется после сбора урожая и начнёт новый цикл производства апельсинов.</Plant_TreeOrange.description>
+
+	<!-- EN: peach tree -->
+	<Plant_TreePeach.label>Персиковое дерево</Plant_TreePeach.label>
+	<!-- EN: Peach trees produce soft, fuzzy, sweet fruits called peaches. The peach tree will remain after harvesting and will start another cycle of peach production. -->
+	<Plant_TreePeach.description>Производит сладкие пушистые фрукты, называемые персиками. Персиковое дерево останется после сбора урожая и начнёт новый цикл производства персиков.</Plant_TreePeach.description>
+
+	<!-- EN: grape vine -->
+	<Plant_TreeGrape.label>Виноград</Plant_TreeGrape.label>
+	<!-- EN: Grape vines produce small, sweet berries that grow in clusters on a single branch. These fruits are called grapes. -->
+	<Plant_TreeGrape.description>Производит маленькие сладкие ягоды, которые растут гроздьями на одной ветке.</Plant_TreeGrape.description>
+</LanguageData>

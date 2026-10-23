@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Make Weapon parts -->
+	<MakeWeapon_Parts.label>Изготовить оружейные детали</MakeWeapon_Parts.label>
+	<!-- EN: It's the main part of craft all types of weapons. Produces 5. -->
+	<MakeWeapon_Parts.description>Изготовить оружейные детали - главный компонент в изготовлении любого оружия.\nПроизводится 5 шт.</MakeWeapon_Parts.description>
+	<!-- EN: Making weapon parts. -->
+	<MakeWeapon_Parts.jobString>Изготавливает оружейные детали</MakeWeapon_Parts.jobString>
+
+	<!-- EN: Make Pistol component -->
+	<MakePistol_Component.label>Изготовить пистолетный компонент</MakePistol_Component.label>
+	<!-- EN: Pistol components used as basis for craft pistols. Produces 1. -->
+	<MakePistol_Component.description>Изготовить пистолетный компонент - главный компонент в изготовлении пистолетов.\nПроизводится 1 шт.</MakePistol_Component.description>
+	<!-- EN: Making pistol component. -->
+	<MakePistol_Component.jobString>Изготавливает пистолетный компонент</MakePistol_Component.jobString>
+
+	<!-- EN: Make SMG component -->
+	<MakeSMG_Component.label>Изготовить компонент ПП</MakeSMG_Component.label>
+	<!-- EN: SMG components used as basis for craft SMGs. Produces 1. -->
+	<MakeSMG_Component.description>Изготовить компонент ПП - главный компонент в изготовлении полуавтоматических пистолетов.\nПроизводится 1 шт.</MakeSMG_Component.description>
+	<!-- EN: Making SMG component. -->
+	<MakeSMG_Component.jobString>Изготавливает компонент ПП</MakeSMG_Component.jobString>
+
+	<!-- EN: Make Shotgun component -->
+	<MakeShotgun_Component.label>Изготовить компонент дробовика</MakeShotgun_Component.label>
+	<!-- EN: Shotgun components used as basis for craft Shotgun. Produces 1. -->
+	<MakeShotgun_Component.description>Изготовить компонент дробовика - главный компонент в изготовлении дробовиков.\nПроизводится 1 шт.</MakeShotgun_Component.description>
+	<!-- EN: Making Shotgun component. -->
+	<MakeShotgun_Component.jobString>Изготавливает компонент дробовика</MakeShotgun_Component.jobString>
+
+	<!-- EN: Make Rifle Component -->
+	<MakeRifle_Component.label>Изготовить винтовочный компонент</MakeRifle_Component.label>
+	<!-- EN: Rifle components used as basis for craft Rifle. Produces 1. -->
+	<MakeRifle_Component.description>Изготовить винтовочный компонент - главный компонент в изготовлении винтовок.\nПроизводится 1 шт.</MakeRifle_Component.description>
+	<!-- EN: Making Rifle Component. -->
+	<MakeRifle_Component.jobString>Изготавливает винтовочный компонент</MakeRifle_Component.jobString>
+
+	<!-- EN: Make Advanced Rifle Component -->
+	<MakeAdvRifle_Component.label>Изготовить продвинутый винтовочный компонент</MakeAdvRifle_Component.label>
+	<!-- EN: Advanced Rifle components used as basis for craft Advanced rifle. Produces 1. -->
+	<MakeAdvRifle_Component.description>Изготовить продвинутый винтовочный компонент - главный компонент в изготовлении продвинутых винтовок.\nПроизводится 1 шт.</MakeAdvRifle_Component.description>
+	<!-- EN: Making Advanced rifle Component. -->
+	<MakeAdvRifle_Component.jobString>Изготавливает продвинутый винтовочный компонент</MakeAdvRifle_Component.jobString>
+
+	<!-- EN: Make Sniper Component -->
+	<MakeSniper_Component.label>Изготовить снайперский прицел</MakeSniper_Component.label>
+	<!-- EN: Sniper Components used as basis for craft Sniper rifle. Produces 1. -->
+	<MakeSniper_Component.description>Изготовить снайперский прицел - главный компонент в изготовлении снайперских винтовок.\nПроизводится 1 шт.</MakeSniper_Component.description>
+	<!-- EN: Making Sniper Rifle Component. -->
+	<MakeSniper_Component.jobString>Изготавливает снайперский прицел</MakeSniper_Component.jobString>
+
+	<!-- EN: Make Advanced Sniper Component -->
+	<MakeAdvSniper_Component.label>Изготовить продвинутый снайперский прицел</MakeAdvSniper_Component.label>
+	<!-- EN: Advanced Sniper components used as basis for craft Sniper rifle. Produces 1. -->
+	<MakeAdvSniper_Component.description>Изготовить продвинутый снайперский прицел - главный компонент в изготовлении продвинутых снайперских винтовок.\nПроизводится 1 шт.</MakeAdvSniper_Component.description>
+	<!-- EN: Making Advanced Sniper Component. -->
+	<MakeAdvSniper_Component.jobString>Изготавливает продвинутый снайперский прицел</MakeAdvSniper_Component.jobString>
+
+	<!-- EN: Make Heavy Component -->
+	<MakeHeavy_Component.label>Изготовить компонент тяжёлого оружия</MakeHeavy_Component.label>
+	<!-- EN: Heavy Components used as basis for craft Heavy weapons. Produces 1. -->
+	<MakeHeavy_Component.description>Изготовить компонент тяжёлого оружия - главный компонент в изготовлении различного тяжелого оружия.\nПроизводится 1 шт.</MakeHeavy_Component.description>
+	<!-- EN: Making Heavy Component. -->
+	<MakeHeavy_Component.jobString>Изготавливает компонент тяжёлого оружия</MakeHeavy_Component.jobString>
+
+	<!-- EN: Make Launcher component -->
+	<MakeLauncher_Component.label>Изготовить компонент ракетного оружия</MakeLauncher_Component.label>
+	<!-- EN: Launcher components used as basis for craft Launchers component weapons. Produces 1. -->
+	<MakeLauncher_Component.description>Изготовить компонент ракетного оружия - главный компонент в изготовлении различного ракетного оружия.\nПроизводится 1 шт.</MakeLauncher_Component.description>
+	<!-- EN: Making Launcher Component. -->
+	<MakeLauncher_Component.jobString>Изготавливает компонент ракетного оружия</MakeLauncher_Component.jobString>
+
+	<!-- EN: Make Cannon component -->
+	<MakeCannon_Component.label>Изготовить пушечный компонент</MakeCannon_Component.label>
+	<!-- EN: Cannon Components used as basis for craft Cannons component weapons. Produces 1. -->
+	<MakeCannon_Component.description>Изготовить пушечный компонент - главный компонент в изготовлении различного пушечного оружия.\nПроизводится 1 шт.</MakeCannon_Component.description>
+	<!-- EN: Making Cannon Component. -->
+	<MakeCannon_Component.jobString>Изготавливает пушечный компонент</MakeCannon_Component.jobString>
+
+	<!-- EN: Make Charged component -->
+	<MakeCharged_Component.label>Изготовить компонент энергетического оружия</MakeCharged_Component.label>
+	<!-- EN: Charged components used as basis for craft charged weapons. Produces 1. -->
+	<MakeCharged_Component.description>Изготовить компонент энергетического оружия - главный компонент в изготовлении различного энергетического оружия.\nПроизводится 1 шт.</MakeCharged_Component.description>
+	<!-- EN: Making Charged Component. -->
+	<MakeCharged_Component.jobString>Изготавливает компонент энергетического оружия</MakeCharged_Component.jobString>
+
+	<!-- EN: Make Plasma component -->
+	<MakePlasma_Component.label>Изготовить компонент плазменного оружия</MakePlasma_Component.label>
+	<!-- EN: Plasma components used as basis for craft Plasma weapons. Produces 1. -->
+	<MakePlasma_Component.description>Изготовить компонент плазменного оружия - главный компонент в изготовлении различного плазменного оружия.\nПроизводится 1 шт.</MakePlasma_Component.description>
+	<!-- EN: Making Plasma Component. -->
+	<MakePlasma_Component.jobString>Изготавливает компонент плазменного оружия</MakePlasma_Component.jobString>
+
+	<!-- EN: Make Laser component -->
+	<MakeLaser_Component.label>Изготовить компонент лазерного оружия</MakeLaser_Component.label>
+	<!-- EN: Laser components used as basis for craft Laser weapons. Produces 1. -->
+	<MakeLaser_Component.description>Изготовить компонент лазерного оружия - главный компонент в изготовлении различного лазерного оружия.\nПроизводится 1 шт.</MakeLaser_Component.description>
+	<!-- EN: Making Laser Component. -->
+	<MakeLaser_Component.jobString>Изготавливает компонент лазерного оружия</MakeLaser_Component.jobString>
+</LanguageData>

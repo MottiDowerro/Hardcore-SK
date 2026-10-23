@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<BuildGun_BoltActionRifle.label>Собрать винтовку Lee–Enfield</BuildGun_BoltActionRifle.label>
+	<BuildGun_BoltActionRifle.description>Старая однозарядная винтовка. Обладает хорошей дальностью и убойной силой, но низким темпом стрельбы..</BuildGun_BoltActionRifle.description>
+	<BuildGun_BoltActionRifle.jobString>Собирает винтовку Lee–Enfield</BuildGun_BoltActionRifle.jobString>
+
+	<!-- ==================== Carabines ========================== -->
+	<BuildCXfour.label>Собрать карабин Beretta CX4</BuildCXfour.label>
+	<BuildCXfour.description>Очень надежный компактный карабин с калибром как у пистолета. Предназначен для стрельбы пистолетным патроном на винтовочную дальность стрельбы. Урон - ниже среднего, темп стрельбы - средний, дальность стрельбы - выше среднего.</BuildCXfour.description>
+	<BuildCXfour.jobString>Собирает карабин Beretta CX4</BuildCXfour.jobString>
+
+	<BuildUSC.label>Собрать карабин HK USC</BuildUSC.label>
+	<BuildUSC.description>Самозарядный карабин с низкой отдачей и необычным дизайном. Средний ущерб, выше среднего скорострельность и дальность стрельбы, стреляет очередями по 3 выстрела.</BuildUSC.description>
+	<BuildUSC.jobString>Собирает карабин HK USC</BuildUSC.jobString>
+
+	<BuildM4A1Gun.label>Собрать карабин M4A1</BuildM4A1Gun.label>
+	<BuildM4A1Gun.description>Укороченная версия винтовки М16.</BuildM4A1Gun.description>
+	<BuildM4A1Gun.jobString>Собирает карабин M4A1</BuildM4A1Gun.jobString>
+</LanguageData>

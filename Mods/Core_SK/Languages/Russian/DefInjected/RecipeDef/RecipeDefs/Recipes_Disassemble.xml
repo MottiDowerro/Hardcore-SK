@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: disassemble prosthesis -->
+	<ScrapProsthesis.label>Разобрать протез/имплант</ScrapProsthesis.label>
+	<!-- EN: Scrap and disassemble unwanted prosthesis for materials. -->
+	<ScrapProsthesis.description>Разобрать ненужные протезы или импланты на материалы.</ScrapProsthesis.description>
+	<!-- EN: Disassembling prosthesis. -->
+	<ScrapProsthesis.jobString>Разбирает протез/имплант</ScrapProsthesis.jobString>
+
+	<!-- EN: Scrap and disassemble unwanted firearms for materials. -->
+	<DissasembleFirearms.description>Разобрать ненужное огнестрельное оружие на материалы.</DissasembleFirearms.description>
+	<!-- EN: Scraping metal from weapon. -->
+	<DissasembleFirearms.jobString>Разбирает огнестрельное оружие</DissasembleFirearms.jobString>
+	<!-- EN: disassemble firearms -->
+	<DissasembleFirearms.label>разобрать огнестрельное оружие</DissasembleFirearms.label>
+</LanguageData>

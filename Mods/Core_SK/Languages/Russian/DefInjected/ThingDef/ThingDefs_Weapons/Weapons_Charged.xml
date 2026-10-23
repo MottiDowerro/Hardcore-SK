@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ================= Hi-tec weapons ================= -->
+	<Gun_Splitter.label>Энерговинтовка R6 Splitter</Gun_Splitter.label>
+	<Gun_Splitter.description>Тяжелая винтовка с энергетическими зарядами.</Gun_Splitter.description>
+
+	<Gun_RailgunMKI.label>Рейлган XZero</Gun_RailgunMKI.label>
+	<Gun_RailgunMKI.description>Рельсовый ускоритель масс, рельсовая пушка. Принцип его действия объясняется с помощью силы Лоренца, превращающей электрическую энергию в кинетическую.</Gun_RailgunMKI.description>
+</LanguageData>

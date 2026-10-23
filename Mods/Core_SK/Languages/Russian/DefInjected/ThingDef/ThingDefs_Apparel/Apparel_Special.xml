@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Apparel_PersonalNanoShield.label>модулятор нанитов щита</Apparel_PersonalNanoShield.label>
+	<Apparel_PersonalNanoShield.description>Контролирует вживленных в поселенцев нанитов. Используются для раскрытия щита, предотвращающего входящий урон. К сожалению, наниты пропадают после использования и должны быть заменены после принятия урона.</Apparel_PersonalNanoShield.description>
+
+	<!--Special-->
+	<Apparel_MiningHelmet.label>шахтерская каска</Apparel_MiningHelmet.label>
+	<Apparel_MiningHelmet.description>Лучший друг шахтеров. Это прочная каска поможет уберечь голову при обвалах, а свет от установленного на ней фонаря - успокоит и поможет найти путь назад.</Apparel_MiningHelmet.description>
+
+	<Apparel_MiningVest.label>шахтерский комбинезон</Apparel_MiningVest.label>
+	<Apparel_MiningVest.description>Рабочая одежда, предназначенная для горных работ.</Apparel_MiningVest.description>
+
+	<Apparel_HazardHelmet.label>шлем химзащиты</Apparel_HazardHelmet.label>
+	<Apparel_HazardHelmet.description>Общевойсковой шлем химзащиты может защитить людей от опасных материалов или веществ, в том числе химических веществ, биологических вирусов или радиоактивных материалов.</Apparel_HazardHelmet.description>
+
+	<Apparel_HazardVest.label>комбинезон химзащиты</Apparel_HazardVest.label>
+	<Apparel_HazardVest.description>Общевойсковой комплект химзащиты может защитить людей от опасных материалов или веществ, в том числе химических веществ, биологических вирусов или радиоактивных материалов.</Apparel_HazardVest.description>
+
+	<Apparel_Respirator.label>респиратор</Apparel_Respirator.label>
+	<Apparel_Respirator.description>Респираторы фильтруют воздух и не дают пользователю дотронуться до рта и носа.</Apparel_Respirator.description>
+</LanguageData>

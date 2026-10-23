@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Bottoms_Loincloth.label>Набедренная повязка</Bottoms_Loincloth.label>
+	<Bottoms_Loincloth.description>Обычная набедренная повязка.</Bottoms_Loincloth.description>
+
+	<Bottoms_Suspenders.label>Брюки с подтяжками</Bottoms_Suspenders.label>
+	<Bottoms_Suspenders.description>Брюки средневековой эпохи, немного неумело сшиты вместе с хорошо заметными кожаными шнурками. Вам нужна пара подтяжек, чтобы эти брюки держались.</Bottoms_Suspenders.description>
+
+	<Bottoms_SuspendersStriped.label>Полосатые брюки с подтяжками</Bottoms_SuspendersStriped.label>
+	<Bottoms_SuspendersStriped.description>Брюки средневековой эпохи, немного неумело сшиты вместе с хорошо заметными кожаными шнурками. Вам нужна пара подтяжек, чтобы эти брюки держались. По крайней мере, у этих брюк есть полоски, чтобы показать оригинальность носителя.</Bottoms_SuspendersStriped.description>
+
+	<Bottoms_Fancy.label>Нарядные штаны</Bottoms_Fancy.label>
+	<Bottoms_Fancy.description>Нарядные необычные штаны.</Bottoms_Fancy.description>
+
+	<Bottoms_Holstered.label>Ковбойские штаны</Bottoms_Holstered.label>
+	<Bottoms_Holstered.description>Пара парней с кобурами. Все самые быстрые стрелки носили их.</Bottoms_Holstered.description>
+
+	<Bottoms_LeatherPants.label>Кожаные штаны</Bottoms_LeatherPants.label>
+	<Bottoms_LeatherPants.description>Кожаные штаны. Панк будет носить это всегда и чувствовать себя счастливым.</Bottoms_LeatherPants.description>
+
+	<Bottoms_Jeans.label>Джинсы</Bottoms_Jeans.label>
+	<Bottoms_Jeans.description>Прочные джинсовые брюки.</Bottoms_Jeans.description>
+
+	<Bottoms_SuspendersModern.label>Современные брюки с подтяжками</Bottoms_SuspendersModern.label>
+	<Bottoms_SuspendersModern.description>Ни один парень на свете не выглядит так же честно, как тот, кто носит эти брюки. В них чувствуешь себя увереннее, пробираясь сквозь грязь и нечистоты, и, следовательно, с большей вероятностью выполнишь работу без отвлечения.</Bottoms_SuspendersModern.description>
+
+	<!--Bottoms-->
+	<Bottoms_WorkTrousers.label>Рабочие штаны</Bottoms_WorkTrousers.label>
+	<Bottoms_WorkTrousers.description>Штаны с большими карманами для любых видов работ.</Bottoms_WorkTrousers.description>
+
+	<Bottoms_Armored.label>Укреплённые штаны</Bottoms_Armored.label>
+	<Bottoms_Armored.description>Штаны, усиленные стальным сплавом.</Bottoms_Armored.description>
+
+	<Bottoms_Combat.label>Боевые штаны</Bottoms_Combat.label>
+	<Bottoms_Combat.description>Армированные штаны для лучшей защиты.</Bottoms_Combat.description>
+</LanguageData>

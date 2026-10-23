@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--
+	<CompostBin.label>Компостная яма</CompostBin.label>
+	<CompostBin.description>Предназначена для переработки растительных и пищевых отходов в экологически чистый компост.</CompostBin.description>
+
+	<TableComposter.label>Компостер</TableComposter.label>
+	<TableComposter.description>Компостер используется для изготовления удобрений и получения семян из растений.\n\nНужна энергия.\nПотребляемая мощность: 20 W</TableComposter.description>
+	-->
+	<WeaponCraftingWorkTable.label>Оружейный станок</WeaponCraftingWorkTable.label>
+	<WeaponCraftingWorkTable.description>Оружейный станок, который позволит делать огнестрельное оружие, а также разбирать его на исходные материалы.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 50 W\nПри работе: 500 W</WeaponCraftingWorkTable.description>
+
+	<AdvWeaponCraftingWorkTable.label>Улучшенный оружейный станок</AdvWeaponCraftingWorkTable.label>
+	<AdvWeaponCraftingWorkTable.description>Улучшенный оружейный станок, который позволит делать лучшее оружие, а также разбирать его на исходные материалы.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 50 W\nПри работе: 500 W</AdvWeaponCraftingWorkTable.description>
+
+	<HeavyArmsBench.label>Верстак производства турелей</HeavyArmsBench.label>
+	<HeavyArmsBench.description>Верстак для производства различных стационарных турелей.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 80 W\nПри работе: 800 W</HeavyArmsBench.description>
+
+	<MechWeaponCraftingWorkTable.label>Продвинутый оружейный стол</MechWeaponCraftingWorkTable.label>
+	<MechWeaponCraftingWorkTable.description>Специально оборудованный стол, на котором у вас появляется возможность создавать оружие будущего.\n\nНужна энергия.\nПотребляемая мощность:\nВ простое: 180 W\nПри работе: 1800 W</MechWeaponCraftingWorkTable.description>
+
+	<TableHeavyAmmunition.label>Верстак тяжелой амуниции</TableHeavyAmmunition.label>
+	<TableHeavyAmmunition.description>Верстак для создания тяжелых боеприпасов и гранат. Можно также производить серу из железной руды, порох и напалм. За ним можно работать без подключения к электричеству (40%), но с подключением к сети скорость работы значительно повышается.\nПотребляемая мощность:\nВ простое: 50 W\nПри работе: 500 W</TableHeavyAmmunition.description>
+</LanguageData>

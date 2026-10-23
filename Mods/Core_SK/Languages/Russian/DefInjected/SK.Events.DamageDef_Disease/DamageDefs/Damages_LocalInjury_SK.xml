@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: plague bite -->
+	<PlagueBite.label>чумной укус</PlagueBite.label>
+
+	<!-- EN: malaria bite -->
+	<MalariaBite.label>малярийный укус</MalariaBite.label>
+</LanguageData>

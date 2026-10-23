@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Synthesize magnetic material -->
+	<BuildMagneticMaterial.label>Синтезировать супермагнит</BuildMagneticMaterial.label>
+	<!-- EN: Synthesize strong magnetic material from magnetic metals. Produces 5. -->
+	<BuildMagneticMaterial.description>Синтезировать супермагнит - невероятно мощный магнитный материал.\nПроизводится 5 шт.</BuildMagneticMaterial.description>
+	<!-- EN: Synthesizing magnetic material. -->
+	<BuildMagneticMaterial.jobString>Синтезирует супермагнит</BuildMagneticMaterial.jobString>
+
+	<!-- EN: Synthesize BioSynthetic material -->
+	<BuildBiosyntheticMaterial.label>Синтезировать биосинтетику</BuildBiosyntheticMaterial.label>
+	<!-- EN: Synthesize high ductility BioSynthetic material. Produces 5. -->
+	<BuildBiosyntheticMaterial.description>Синтезировать соединение биорганики и синтетики, обладающее повышенной прочностью и регенерирующими свойствами.\nПроизводится 5 шт.</BuildBiosyntheticMaterial.description>
+	<!-- EN: Synthesizing BioSynthetic material. -->
+	<BuildBiosyntheticMaterial.jobString>Синтезирует биосинтетику</BuildBiosyntheticMaterial.jobString>
+
+	<!-- EN: Fabricate alpha poly -->
+	<ProduceAPoly.label>Синтезировать альфа поли</ProduceAPoly.label>
+	<!-- EN: Use heat and strong electromagnets to assemble artifical elements. Produces 15. -->
+	<ProduceAPoly.description>Синтезировать вещество, которое принимает любую форму с образованием сверхпрочного соединения на атомном уровне.\nПроизводится 15 шт.</ProduceAPoly.description>
+	<!-- EN: Fabricating alpha poly. -->
+	<ProduceAPoly.jobString>Синтезирует альфа поли</ProduceAPoly.jobString>
+
+	<!-- EN: Fabricate beta poly -->
+	<ProduceBPoly.label>Синтезировать бета поли</ProduceBPoly.label>
+	<!-- EN: Use heat and strong electromagnets to assemble artifical elements. Produces 5. -->
+	<ProduceBPoly.description>Синтезировать вещество, которое принимает любую форму с образованием сверхпрочного соединения на атомном уровне. Обладает лучшими свойствами, чем альфа поли.\nПроизводится 5 шт.</ProduceBPoly.description>
+	<!-- EN: Fabricating beta poly. -->
+	<ProduceBPoly.jobString>Синтезирует бета поли</ProduceBPoly.jobString>
+</LanguageData>

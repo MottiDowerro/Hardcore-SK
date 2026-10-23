@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<medieval_surg_washpan.label>Средневековая мойка</medieval_surg_washpan.label>
+	<medieval_surg_washpan.description>Самое нехитрое приспособление, чтобы держать руки врача чистыми. Нужно поместить рядом с кроватью.</medieval_surg_washpan.description>
+
+	<medieval_surg_instruments.label>Древние инструменты хирургии</medieval_surg_instruments.label>
+	<medieval_surg_instruments.description>Один лишь вид от этих хирургических инструментов ускорит восстановление ваших поселенцев. Нужно поместить рядом с кроватью.</medieval_surg_instruments.description>
+
+	<medieval_surg_lamp.label>Лампа лекаря</medieval_surg_lamp.label>
+	<medieval_surg_lamp.description>Нужно больше света, подумал врач перед тем как случайно не ампутировал здоровую ногу. Нужно поместить рядом с кроватью.</medieval_surg_lamp.description>
+
+	<industrial_surg_instruments.label>Инструменты хирургии</industrial_surg_instruments.label>
+	<industrial_surg_instruments.description>Один лишь вид от этих хирургических инструментов ускорит восстановление ваших поселенцев. Нужно поместить рядом с кроватью.</industrial_surg_instruments.description>
+
+	<industrial_surg_lamp.label>Хирургическая лампа</industrial_surg_lamp.label>
+	<industrial_surg_lamp.description>Сияние света на предметах приобретает совершенно новый смысл, если вы стоите на против тела во время операции. Нужно поместить рядом с кроватью.</industrial_surg_lamp.description>
+
+	<space_surg_instruments.label>Плазменный резак</space_surg_instruments.label>
+	<space_surg_instruments.description>Если я использую плазменный резак, операция точно должна пройти успешно. Звучит не очень убедительно, но пациент не почувствует никакой боли. По крайней мере, вот что говорит реклама. Нужно поместить рядом с кроватью.</space_surg_instruments.description>
+
+	<space_surg_lamp.label>Плазменный шар</space_surg_lamp.label>
+	<space_surg_lamp.description>Новейшая технология в хирургии, буквально плавающий шар света. Нужно поместить рядом с кроватью.</space_surg_lamp.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Helmet_ColonialMarine.label>пехотный шлем</Helmet_ColonialMarine.label>
+	<Helmet_ColonialMarine.description>Защитный шлем пехоты. Стандартное обмундирование пехотинцев.</Helmet_ColonialMarine.description>
+
+	<Helmet_ColonialMarineCamo.label>пехотный камуфляжный шлем</Helmet_ColonialMarineCamo.label>
+	<Helmet_ColonialMarineCamo.description>Защитный шлем пехоты. Стандартное обмундирование пехотинцев. Идёт с камуфляжем.</Helmet_ColonialMarineCamo.description>
+
+	<Helmet_Security.label>шлем охранника</Helmet_Security.label>
+	<Helmet_Security.description>Этот простой защитный шлем не обеспечивает высокой степени защиты, но зато он лёгкий.</Helmet_Security.description>
+
+	<Helmet_Tactical.label>тактический шлем</Helmet_Tactical.label>
+	<Helmet_Tactical.description>Удобный в использовании тактический шлем для спецопераций.</Helmet_Tactical.description>
+
+	<Helmet_Welding.label>маска сварщика</Helmet_Welding.label>
+	<Helmet_Welding.description>Удивительно, что кто-то использует её как средство защиты.</Helmet_Welding.description>
+</LanguageData>

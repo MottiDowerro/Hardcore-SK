@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Mech_Zeon.label>Зеон</Mech_Zeon.label>
+	<Mech_Zeon.description>Безобразный и злобный босс механоидов. У него очень внушительный размер, доходящий в высоту до 15 метров Крайне опасен!</Mech_Zeon.description>
+	<!-- EN: head -->
+	<Mech_Zeon.tools.head.label>голова</Mech_Zeon.tools.head.label>
+	<!-- EN: left blade -->
+	<Mech_Zeon.tools.0.label>левое лезвие</Mech_Zeon.tools.0.label>
+	<!-- EN: right blade -->
+	<Mech_Zeon.tools.1.label>правое лезвие</Mech_Zeon.tools.1.label>
+</LanguageData>

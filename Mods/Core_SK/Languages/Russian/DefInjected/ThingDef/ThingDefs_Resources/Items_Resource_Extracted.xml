@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Salt.label>Соль</Salt.label>
+	<Salt.description>Соль - ингредиент для консервации продуктов.</Salt.description>
+
+	<Glowstone.label>Светокамень</Glowstone.label>
+	<Glowstone.description>Несмотря на то, что безопасность этих светящейся горной породы сомнительна, она обеспечивает хорошее освещение, особенно с отражающим серебром.</Glowstone.description>
+
+	<Coldstone.label>Хладокамень</Coldstone.label>
+	<Coldstone.description>Кремовый белый камень, который, кажется, излучает холод. Он остаётся холодным в течение очень долгого времени.</Coldstone.description>
+
+	<Peat.label>Торф</Peat.label>
+	<Peat.description>Горючее полезное ископаемое и агроруда; образовано скоплением остатков мхов, подвергшихся неполному разложению в условиях болот. Для болота характерно отложение на поверхности почвы неполно разложившегося органического вещества, превращающегося в дальнейшем в торф.</Peat.description>
+
+	<SoftClay.label>Мягкая глина</SoftClay.label>
+	<SoftClay.description>Мягкая глина для производства кирпичей.</SoftClay.description>
+
+	<!--Saltpeter-->
+	<Nitre.label>Селитра</Nitre.label>
+	<Nitre.description>Селитра используются как азотные удобрения, при этом нитрат калия также является одним из ингредиентов чёрного пороха. Аммонийная селитра используется для приготовления таких взрывчатых веществ как аммонал и аммотол.</Nitre.description>
+
+	<Coal.label>Уголь</Coal.label>
+	<Coal.description>Ресурс, используемый для поддержания работы топливной электростанции.</Coal.description>
+
+	<Charcoal.label>Древесный уголь</Charcoal.label>
+	<Charcoal.description>Микропористый высокоуглеродистый продукт, образующийся при пиролизе древесины без доступа воздуха.</Charcoal.description>
+
+	<Silicon.label>Кремний</Silicon.label>
+	<Silicon.description>Материал, который изготавливается из кремнийорганических соединений (песка).</Silicon.description>
+</LanguageData>

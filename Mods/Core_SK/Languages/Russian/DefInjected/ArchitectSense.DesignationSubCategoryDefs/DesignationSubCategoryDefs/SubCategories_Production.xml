@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Production -->
+	<SubCategory_Sawmills.label>деревообработка</SubCategory_Sawmills.label>
+	<SubCategory_Sawmills.description>Верстаки для деревообработки и производства досок и дров.</SubCategory_Sawmills.description>
+
+	<SubCategory_Furnaces.label>печи</SubCategory_Furnaces.label>
+	<SubCategory_Furnaces.description>Печи для выплавки металлов.</SubCategory_Furnaces.description>
+
+	<SubCategory_Machining.label>камнеобработка</SubCategory_Machining.label>
+	<SubCategory_Machining.description>Верстаки, предназначенные для обработки камней и производства щебня и песка.</SubCategory_Machining.description>
+
+	<SubCategory_Smithy.label>кузнечное дело</SubCategory_Smithy.label>
+	<SubCategory_Smithy.description>Верстаки для производства оружия, одежды и различных приспособлений.</SubCategory_Smithy.description>
+
+	<SubCategory_AssemblyBench.label>столы компонентов</SubCategory_AssemblyBench.label>
+	<SubCategory_AssemblyBench.description>Верстаки для производства компонентов, проводки, механизмов.</SubCategory_AssemblyBench.description>
+
+	<SubCategory_Conversion.label>переработка</SubCategory_Conversion.label>
+	<SubCategory_Conversion.description>Постройки для переработки различных материалов и вещей.</SubCategory_Conversion.description>
+
+	<SubCategory_Mining.label>горное дело</SubCategory_Mining.label>
+	<SubCategory_Mining.description>Постройки и приспособления для различной горнодобывающей деятельности.</SubCategory_Mining.description>
+
+	<SubCategory_Sewing.label>портняжное дело</SubCategory_Sewing.label>
+	<SubCategory_Sewing.description>Верстаки для производства одежды и обработки тканей.</SubCategory_Sewing.description>
+
+	<SubCategory_CraftWeapons.label>оружейное дело</SubCategory_CraftWeapons.label>
+	<SubCategory_CraftWeapons.description>Верстаки для производства оружия и амуниции для него.</SubCategory_CraftWeapons.description>
+
+	<SubCategory_Repair.label>починка</SubCategory_Repair.label>
+	<SubCategory_Repair.description>Верстаки для починки старого оружия и брони.</SubCategory_Repair.description>
+
+	<SubCategory_ConcreteMixers.label>бетономешалки</SubCategory_ConcreteMixers.label>
+	<SubCategory_ConcreteMixers.description>Бетономешалки для производства бетона. Внезапно.</SubCategory_ConcreteMixers.description>
+
+	<SubCategory_Medicine.label>медицина</SubCategory_Medicine.label>
+	<SubCategory_Medicine.description>Верстаки для производства различных медикаментов.</SubCategory_Medicine.description>
+
+	<SubCategory_Prosthetics.label>протезирование</SubCategory_Prosthetics.label>
+	<SubCategory_Prosthetics.description>Верстаки для производства различных протезов и заменителей органов.</SubCategory_Prosthetics.description>
+
+	<SubCategory_Hightech.label>высокие технологии</SubCategory_Hightech.label>
+	<SubCategory_Hightech.description>Нам нужно строить новый мир, лучше прошлого.</SubCategory_Hightech.description>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MeleeWeapon_PoweredShortsword.label>Силовой короткий меч</MeleeWeapon_PoweredShortsword.label>
+	<MeleeWeapon_PoweredShortsword.description>Высокотехнологичный короткий меч. Обычно используется штурмовыми подразделениями утопических миров. Его лезвие покрыто полем ионизированной плазмой, позволяя клинку прорезать броню врага насквозь.</MeleeWeapon_PoweredShortsword.description>
+	<!-- EN: blade -->
+	<MeleeWeapon_PoweredShortsword.tools.blade.label>лезвие</MeleeWeapon_PoweredShortsword.tools.blade.label>
+	<!-- EN: handle -->
+	<MeleeWeapon_PoweredShortsword.tools.handle.label>рукоять</MeleeWeapon_PoweredShortsword.tools.handle.label>
+	<!-- EN: point -->
+	<MeleeWeapon_PoweredShortsword.tools.point.label>остриё</MeleeWeapon_PoweredShortsword.tools.point.label>
+
+	<MeleeWeapon_WraithBlade.label>Клинок-призрак</MeleeWeapon_WraithBlade.label>
+	<MeleeWeapon_WraithBlade.description>Продвинутое оружие ближнего боя. В активном состоянии он излучает постоянный поток ионизированной плазмы, который может прорезать практически любую броню. Его потусторонний вид создал ему его прозвище и вдохновил на создание многих норбальских сказаний.</MeleeWeapon_WraithBlade.description>
+	<!-- EN: edge -->
+	<MeleeWeapon_WraithBlade.tools.edge.label>лезвие</MeleeWeapon_WraithBlade.tools.edge.label>
+	<!-- EN: handle -->
+	<MeleeWeapon_WraithBlade.tools.handle.label>рукоять</MeleeWeapon_WraithBlade.tools.handle.label>
+	<!-- EN: point -->
+	<MeleeWeapon_WraithBlade.tools.point.label>остриё</MeleeWeapon_WraithBlade.tools.point.label>
+</LanguageData>

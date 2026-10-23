@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Hat_Cryptosleep.label>Шапочка криптосна</Hat_Cryptosleep.label>
+	<Hat_Cryptosleep.description>Наполовину закрывающий голову головной убор, предназначенный для длительного криптосна. Вы можете спокойно отдыхать, зная, что ваше лицо не будет полностью обнаженным сотни или тысячи лет, пока вы спите.</Hat_Cryptosleep.description>
+
+	<Hat_Officer.label>офицерская фуражка</Hat_Officer.label>
+	<Hat_Officer.description>Офицерская шляпа с острым концом. Довольно редко ее можно увидеть в наши дни... Очень легкая и удобная, изготовленная из неизвестного материал. Позволит вам выглядеть настоящим героем войны.</Hat_Officer.description>
+
+	<Hat_Ushanka.label>ушанка</Hat_Ushanka.label>
+	<Hat_Ushanka.description>Толстая и мягкая шляпа старой модели используется, чтобы держать вашу голову в тепле в течении холодных зим. Чуть более долговечна, чем вязаная шерстяная шапка.</Hat_Ushanka.description>
+
+	<Hat_MedicBandana.label>бандана медика</Hat_MedicBandana.label>
+	<Hat_MedicBandana.description>Этот платок - бандана для врачей. Используется в основном для того чтобы быстро найти врача в толпе.</Hat_MedicBandana.description>
+
+	<Hat_HeadsetBandana.label>бандана с гарнитурой</Hat_HeadsetBandana.label>
+	<Hat_HeadsetBandana.description>Обычно используется  для связи. Она беспроводная, жаль не рабочая, но создает эффект!</Hat_HeadsetBandana.description>
+
+	<Hat_Beret.label>берет</Hat_Beret.label>
+	<Hat_Beret.description>Мягкий и держит голову в тепле. Очень часто его можно увидеть среди солдат. Униформа обычно внушает уважение.</Hat_Beret.description>
+
+	<Hat_BanditScarf.label>бандитская шляпа</Hat_BanditScarf.label>
+	<Hat_BanditScarf.description>Стильная, элегантная и мягкая на ощупь. Известный как наиболее важная часть западной одежды. Особенно среди мошенников кредитных карточек и других подлецов, поставляется вместе с шарфом, добавляя "бандитизма".</Hat_BanditScarf.description>
+
+	<Hat_Chef.label>колпак шеф-повара</Hat_Chef.label>
+	<Hat_Chef.description>Предназначение этой шапки в том, чтобы держать волосы собранными. Ведь когда находят волосы шеф-повара в супе, в мире становится на одного меньше...</Hat_Chef.description>
+
+	<Hat_ChefImproved.label>колпак искусного шеф-повара</Hat_ChefImproved.label>
+	<Hat_ChefImproved.description>Искусный колпак шеф-повара имеет встроенный секундомер и детектор запаха, что помогает готовить блюда.</Hat_ChefImproved.description>
+
+	<Hat_PsyMask.label>маска с противогазом</Hat_PsyMask.label>
+	<Hat_PsyMask.description>Противогаз в комплекте с маской. Он построен по сенсорной технологии, что позволяет владельцу работать в среде токсичных облаков и что самое главное - выжить.</Hat_PsyMask.description>
+
+	<Hat_Surgeon.label>хирургическая маска</Hat_Surgeon.label>
+	<Hat_Surgeon.description>Санитарно-техническое оборудование имеет решающее значение. Маска имеет встроенный модуль улучшающий зрение врача.</Hat_Surgeon.description>
+
+	<Hat_GasMask.label>современный противогаз</Hat_GasMask.label>
+	<Hat_GasMask.description>Громоздкая и тяжелая защита от газовых атак. Неплохо выступает в роли запугивания.</Hat_GasMask.description>
+
+	<Hat_GasMaskElephant.label>устаревший противогаз</Hat_GasMaskElephant.label>
+	<Hat_GasMaskElephant.description>Противогаз «Lefant Industries» (или «Elephant», как его чаще называют) широко использовался большинством военных подразделений, пока не был обнаружен один очень серьезный конструктивный недостаток. Воздушные фильтры застревали в закрывающихся люках лифтов и ступенях лестниц при спуске.</Hat_GasMaskElephant.description>
+
+	<Hat_TacticalCover.label>тактический платок</Hat_TacticalCover.label>
+	<Hat_TacticalCover.description>Предназначен для использования в тактических отрядах в условиях городской войны.</Hat_TacticalCover.description>
+
+	<Hat_Fur.label>меховая шапка</Hat_Fur.label>
+	<Hat_Fur.description>Держите голову в тепле, когда вы находитесь в холодных климатических условиях! Носите для этого одежду из меха! Но будьте осторожны, в ненужное время в ненужном месте мех может начать носить вас!</Hat_Fur.description>
+
+	<Hat_SimpleCap.label>бейсболка</Hat_SimpleCap.label>
+	<Hat_SimpleCap.description>Старомодная кепка. Пожалуй, наиболее известная среди всех возрастов.</Hat_SimpleCap.description>
+
+	<Hat_WoolCap.label>вязаная шапка</Hat_WoolCap.label>
+	<Hat_WoolCap.description>Мягкая и плотная шапка. Зимой хорошо держит голову в тепле.</Hat_WoolCap.description>
+
+	<Hat_Fedora.label>фетровая шляпа</Hat_Fedora.label>
+	<Hat_Fedora.description>Нет, только не это! Эти шляпы часто связаны с бандитами и правительственными чиновниками, которые... практически одно и тоже.</Hat_Fedora.description>
+
+	<Hat_Tricorn.label>треуголка</Hat_Tricorn.label>
+	<Hat_Tricorn.description>Вышедшие из моды, но почему-то кто-то до сих пор носит это. Странно. Тем не менее они удобны.</Hat_Tricorn.description>
+
+	<Hat_Sombrero.label>сомбреро</Hat_Sombrero.label>
+	<Hat_Sombrero.description>Спасает ваши глаза от солнца во время сиесты! Карамба!</Hat_Sombrero.description>
+
+	<Hat_Cardshark.label>шляпа с полями</Hat_Cardshark.label>
+	<Hat_Cardshark.description>Стильная, элегантная и мягкая на ощупь. Известна как наиболее важная часть западной одежды. Особенно среди мошенников кредитных карт и других подлецов.</Hat_Cardshark.description>
+
+	<Hat_BeanieCat.label>модная шапочка</Hat_BeanieCat.label>
+	<Hat_BeanieCat.description>Мягкая шапочка, с симпатичным дизайном. До сих пор модно, особенно зимой.</Hat_BeanieCat.description>
+</LanguageData>

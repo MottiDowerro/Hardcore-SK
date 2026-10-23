@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: mend textile apparel -->
+	<MendSimpleApparel.label>Починить одежду из текстиля</MendSimpleApparel.label>
+	<!-- EN: Mend simple apparel. -->
+	<MendSimpleApparel.description>Починить одежду из текстиля.</MendSimpleApparel.description>
+	<MendSimpleApparel.jobString>Чинит одежду</MendSimpleApparel.jobString>
+
+	<!-- EN: mend armor -->
+	<MendComplexApparel.label>Починить броню</MendComplexApparel.label>
+	<!-- EN: Mend armor. -->
+	<MendComplexApparel.description>Починить броню.</MendComplexApparel.description>
+	<MendComplexApparel.jobString>Чинит броню</MendComplexApparel.jobString>
+
+	<!-- EN: repair melee weapon -->
+	<MendSimpleWeapon.label>Починить простое оружие</MendSimpleWeapon.label>
+	<!-- EN: Repair weapon. -->
+	<MendSimpleWeapon.description>Починить простое оружие.</MendSimpleWeapon.description>
+	<!-- EN: Repairing. -->
+	<MendSimpleWeapon.jobString>Чинит простое оружие</MendSimpleWeapon.jobString>
+
+	<!-- EN: repair complex weapon -->
+	<MendComplexWeapon.label>Починить сложное оружие</MendComplexWeapon.label>
+	<!-- EN: Repair weapon. -->
+	<MendComplexWeapon.description>Починить сложное оружие.</MendComplexWeapon.description>
+	<!-- EN: Repairing. -->
+	<MendComplexWeapon.jobString>Чинит сложное оружие</MendComplexWeapon.jobString>
+
+	<!-- EN: recycle apparel -->
+	<RecycleApparel.label>Переработать одежду в текстиль</RecycleApparel.label>
+	<!-- EN: Recycle apparel into their basic components. -->
+	<RecycleApparel.description>Переработать одежду в пригодный для использования текстиль.</RecycleApparel.description>
+	<!-- EN: Recycling. -->
+	<RecycleApparel.jobString>Перерабатывает одежду</RecycleApparel.jobString>
+
+	<MendTextileApparel.label>починить простую одежду из текстиля</MendTextileApparel.label>
+	<MendTextileApparel.description>Починить простую одежду из текстиля.</MendTextileApparel.description>
+
+	<MendRepairArmor.label>починить простую броню/оружие</MendRepairArmor.label>
+	<MendRepairArmor.description>Починить простую броню и оружие.</MendRepairArmor.description>
+</LanguageData>

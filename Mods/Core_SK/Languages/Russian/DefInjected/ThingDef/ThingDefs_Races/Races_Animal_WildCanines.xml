@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Nightling.label>найтлинг</Nightling.label>
+	<Nightling.description>Большой уродливый зверь с шипами на спине. Римворлд - это суровое место и трупы здесь - обычное явление. Но за последние годы тревожные сообщения о растерзанных трупах, вывернутых наизнанку и пронзённых шипами, стали появляться всё чаще. Каждый рассвет освещает то, что происходило ночью. Местные жители довольно быстро научились бояться темноты и тех, кто в ней обитает.</Nightling.description>
+	<!-- EN: head -->
+	<Nightling.tools.head.label>голова</Nightling.tools.head.label>
+	<!-- EN: left claw -->
+	<Nightling.tools.0.label>левая лапа</Nightling.tools.0.label>
+	<!-- EN: right claw -->
+	<Nightling.tools.1.label>правая лапа</Nightling.tools.1.label>
+</LanguageData>

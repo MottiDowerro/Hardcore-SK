@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Tungsten.label>вольфрам</Tungsten.label>
+	<Tungsten.description>Вольфрам самый тугоплавкий из металлов. Более высокую температуру плавления имеет только неметаллический элемент углерод.</Tungsten.description>
+
+	<StelliteAlloy.label>стеллит</StelliteAlloy.label>
+	<StelliteAlloy.description>Стеллит это сверхтвёрдый сплав на основе кобальта и хрома с добавками вольфрама.</StelliteAlloy.description>
+	<StelliteAlloy.stuffProps.stuffAdjective>стеллита</StelliteAlloy.stuffProps.stuffAdjective>
+
+	<NitinolAlloy.label>нитинол</NitinolAlloy.label>
+	<NitinolAlloy.description>Нитинол это сплав никеля и титана. Его очень сложно изготовить из-за требований исключительно жесткого контроля состава и огромной реакционной способности титана. Исключительно прочен и очень красив. Нитинол не является магнитным металлом.</NitinolAlloy.description>
+	<NitinolAlloy.stuffProps.stuffAdjective>нитинола</NitinolAlloy.stuffProps.stuffAdjective>
+
+	<PobediteAlloy.label>победит</PobediteAlloy.label>
+	<PobediteAlloy.description>Победит это твёрдый сплав карбида вольфрама и кобальта, обладающий особенно высокой твёрдостью, сравнимой с алмазом.</PobediteAlloy.description>
+	<PobediteAlloy.stuffProps.stuffAdjective>победита</PobediteAlloy.stuffProps.stuffAdjective>
+
+	<Titanium.label>металлический титан</Titanium.label>
+	<Titanium.description>Металлический титан получают из ильменита в сложном процессе обработки. Такой титан можно использовать для создания сверхпрочных конструкций, а также для выплавки других сплавов.</Titanium.description>
+	<Titanium.stuffProps.stuffAdjective>титана</Titanium.stuffProps.stuffAdjective>
+
+	<!--=============== AlphaPoly ====================-->
+	<AlphaPoly.label>Альфа-полимер</AlphaPoly.label>
+	<AlphaPoly.description>Синтезированное вещество, которое принимает любую форму с образованием сверхпрочного соединения на атомном уровне.</AlphaPoly.description>
+	<AlphaPoly.stuffProps.stuffAdjective>альфы</AlphaPoly.stuffProps.stuffAdjective>
+
+	<BetaPoly.label>Бета-полимер</BetaPoly.label>
+	<BetaPoly.description>Синтезированное вещество, которое принимает любую форму с образованием сверхпрочного соединения на атомном уровне. Обладает улучшенными свойствами.</BetaPoly.description>
+	<BetaPoly.stuffProps.stuffAdjective>беты</BetaPoly.stuffProps.stuffAdjective>
+</LanguageData>

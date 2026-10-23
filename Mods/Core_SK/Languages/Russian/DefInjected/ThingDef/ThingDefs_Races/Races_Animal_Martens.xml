@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Fishercat.label>фишер</Fishercat.label>
+	<Fishercat.description>Небольшое млекопитающее из рода куницы, так же известное как "Кот рыболов", но это не особо и рыболов и тем более не кот. Генетически ближе к хорьку. Несмотря на небольшой размер, может быть опасен. Хоть и имеет милый внешний вид, все же очень дикий, и не может быть приручен.</Fishercat.description>
+
+	<Ermine.label>горностай</Ermine.label>
+	<Ermine.description>Почти чисто-белый горностай. Представитель семейства куньих.</Ermine.description>
+</LanguageData>

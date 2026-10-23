@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<EmptyCrate_cider.label>Распаковать ящик сидра</EmptyCrate_cider.label>
+	<EmptyCrate_cider.description>Распаковать ящик сидра, получив 75 бутылок.</EmptyCrate_cider.description>
+	<EmptyCrate_cider.jobString>Распаковывает ящик сидра</EmptyCrate_cider.jobString>
+
+	<EmptyCrate_rum.label>Распаковать ящик рома</EmptyCrate_rum.label>
+	<EmptyCrate_rum.description>Распаковать ящик рома, получив 75 бутылок.</EmptyCrate_rum.description>
+	<EmptyCrate_rum.jobString>Распаковывает ящик рома</EmptyCrate_rum.jobString>
+
+	<EmptyCrate_Wine.label>Распаковать ящик вина</EmptyCrate_Wine.label>
+	<EmptyCrate_Wine.description>Распаковать ящик вина, получив 75 бутылок.</EmptyCrate_Wine.description>
+	<EmptyCrate_Wine.jobString>Распаковывает ящик вина</EmptyCrate_Wine.jobString>
+
+	<EmptyCrate_strawberrywine.label>Распаковать ящик столового вина</EmptyCrate_strawberrywine.label>
+	<EmptyCrate_strawberrywine.description>Распаковать ящик столового вина, получив 75 бутылок.</EmptyCrate_strawberrywine.description>
+	<EmptyCrate_strawberrywine.jobString>Распаковывает ящик столового вина</EmptyCrate_strawberrywine.jobString>
+
+	<EmptyCrate_saki.label>Распаковать ящик саке</EmptyCrate_saki.label>
+	<EmptyCrate_saki.description>Распаковать ящик саке, получив 75 бутылок.</EmptyCrate_saki.description>
+	<EmptyCrate_saki.jobString>Распаковывает ящик саке</EmptyCrate_saki.jobString>
+
+	<EmptyCrate_vodka.label>Распаковать ящик водки</EmptyCrate_vodka.label>
+	<EmptyCrate_vodka.description>Распаковать ящик водки, получив 75 бутылок.</EmptyCrate_vodka.description>
+	<EmptyCrate_vodka.jobString>Распаковывает ящик водки</EmptyCrate_vodka.jobString>
+
+	<EmptyCrate_tequila.label>Распаковать ящик текилы</EmptyCrate_tequila.label>
+	<EmptyCrate_tequila.description>Распаковать ящик текилы, получив 75 бутылок.</EmptyCrate_tequila.description>
+	<EmptyCrate_tequila.jobString>Распаковывает ящик текилы</EmptyCrate_tequila.jobString>
+
+	<EmptyCrate_Whiskey.label>Распаковать ящик виски</EmptyCrate_Whiskey.label>
+	<EmptyCrate_Whiskey.description>Распаковать ящик виски, получив 75 бутылок.</EmptyCrate_Whiskey.description>
+	<EmptyCrate_Whiskey.jobString>Распаковывает ящик виски</EmptyCrate_Whiskey.jobString>
+
+	<EmptyCrate_Moonshine.label>Распаковать ящик самогона</EmptyCrate_Moonshine.label>
+	<EmptyCrate_Moonshine.description>Распаковать ящик самогона, получив 75 бутылок.</EmptyCrate_Moonshine.description>
+	<EmptyCrate_Moonshine.jobString>Распаковывает ящик самогона</EmptyCrate_Moonshine.jobString>
+
+	<EmptyCrate_Gin.label>Распаковать ящик джина</EmptyCrate_Gin.label>
+	<EmptyCrate_Gin.description>Распаковать ящик джина, получив 75 бутылок.</EmptyCrate_Gin.description>
+	<EmptyCrate_Gin.jobString>Распаковывает ящик джина</EmptyCrate_Gin.jobString>
+
+	<EmptyCrate_Brandy.label>Распаковать ящик бренди</EmptyCrate_Brandy.label>
+	<EmptyCrate_Brandy.description>Распаковать ящик бренди, получив 75 бутылок.</EmptyCrate_Brandy.description>
+	<EmptyCrate_Brandy.jobString>Распаковывает ящик бренди</EmptyCrate_Brandy.jobString>
+
+	<EmptyCrate_Cognac.label>Распаковать ящик коньяка</EmptyCrate_Cognac.label>
+	<EmptyCrate_Cognac.description>Распаковать ящик коньяка, получив 75 бутылок.</EmptyCrate_Cognac.description>
+	<EmptyCrate_Cognac.jobString>Распаковывает ящик коньяка</EmptyCrate_Cognac.jobString>
+
+	<EmptyCrate_Kahlua.label>Распаковать ящик калуа</EmptyCrate_Kahlua.label>
+	<EmptyCrate_Kahlua.description>Распаковать ящик калуа, получив 75 бутылок.</EmptyCrate_Kahlua.description>
+	<EmptyCrate_Kahlua.jobString>Распаковывает ящик калуа</EmptyCrate_Kahlua.jobString>
+
+	<EmptyCrate_Arak.label>Распаковать ящик арака</EmptyCrate_Arak.label>
+	<EmptyCrate_Arak.description>Распаковать ящик арака, получив 75 бутылок.</EmptyCrate_Arak.description>
+	<EmptyCrate_Arak.jobString>Распаковывает ящик арака</EmptyCrate_Arak.jobString>
+
+	<EmptyCrate_Applejack.label>Распаковать ящик яблочного бренди</EmptyCrate_Applejack.label>
+	<EmptyCrate_Applejack.description>Распакуйте ящик яблочного бренди, получив 75 бутылок.</EmptyCrate_Applejack.description>
+	<EmptyCrate_Applejack.jobString>Распаковывает ящик яблочного бренди</EmptyCrate_Applejack.jobString>
+</LanguageData>

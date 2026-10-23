@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Power -->
+	<SubCategory_PowerConduit.label>проводка</SubCategory_PowerConduit.label>
+	<SubCategory_PowerConduit.description>Различные провода для электрической сети.</SubCategory_PowerConduit.description>
+
+	<SubCategory_Switchers.label>коммутаторы</SubCategory_Switchers.label>
+	<SubCategory_Switchers.description>Используются для настройки и автоматизации электроснабжения.</SubCategory_Switchers.description>
+
+	<SubCategory_Battery.label>батареи</SubCategory_Battery.label>
+	<SubCategory_Battery.description>Различные батареи и аккумуляторы для накапливания энергии.</SubCategory_Battery.description>
+
+	<SubCategory_RenewablePower.label>возобновляемая энергия</SubCategory_RenewablePower.label>
+	<SubCategory_RenewablePower.description>Различные генераторы, вырабатывающие энергию из естественных возобновляемых природных ресурсов (солнце, ветер и т.д.).</SubCategory_RenewablePower.description>
+
+	<SubCategory_ConvectionalPower.label>конвекционная энергия</SubCategory_ConvectionalPower.label>
+	<SubCategory_ConvectionalPower.description>Различные генераторы, вырабатывающие энергию из конвекционных ресурсов планеты (уголь, топливо и т.д.).</SubCategory_ConvectionalPower.description>
+
+	<SubCategory_PlasmaPower.label>энергия плазмы</SubCategory_PlasmaPower.label>
+	<SubCategory_PlasmaPower.description>Различные генераторы, вырабатывающие энергию из разогретой плазмы.</SubCategory_PlasmaPower.description>
+
+	<SubCategory_PowerSafety.label>защита энергосети</SubCategory_PowerSafety.label>
+	<SubCategory_PowerSafety.description>Защитите вашу жнергосистему от различных инцидентов.</SubCategory_PowerSafety.description>
+</LanguageData>

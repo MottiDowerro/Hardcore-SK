@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: chased refugee -->
+	<RefugeeChased.label>преследуемый беженец</RefugeeChased.label>
+
+	<!-- EN: crop eaters -->
+	<CropEaters.label>пожиратели посевов</CropEaters.label>
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--[Core] <PlayerColony.label>поселение</PlayerColony.label>-->
+	<!--[Core] <PlayerColony.description>Ваше собственное поселение.</PlayerColony.description>-->
+	<!--[Core] <PlayerColony.pawnsPlural>поселенцы</PlayerColony.pawnsPlural>-->
+	<PlayerNova.label>исследователи Нова</PlayerNova.label>
+	<PlayerNova.description>Ваше собственное сообщество.</PlayerNova.description>
+	<PlayerNova.pawnsPlural>исследователи Нова</PlayerNova.pawnsPlural>
+	<!-- EN: colonist -->
+	<PlayerNova.pawnSingular>поселенец</PlayerNova.pawnSingular>
+
+	<PlayerExiled.label>изгнанник</PlayerExiled.label>
+	<PlayerExiled.description>Ваше собственное сообщество.</PlayerExiled.description>
+	<PlayerExiled.pawnsPlural>изгнанники</PlayerExiled.pawnsPlural>
+	<!-- EN: colonist -->
+	<PlayerExiled.pawnSingular>поселенец</PlayerExiled.pawnSingular>
+
+	<!--[Core] <PlayerTribe.label>племя</PlayerTribe.label>-->
+	<!--[Core] <PlayerTribe.description>Ваше собственное племя.</PlayerTribe.description>-->
+	<!--[Core] <PlayerTribe.pawnsPlural>члены племени</PlayerTribe.pawnsPlural>-->
+	<PlayerNorbal.label>беженцы</PlayerNorbal.label>
+	<PlayerNorbal.description>Ваше собственное сообщество.</PlayerNorbal.description>
+	<PlayerNorbal.pawnsPlural>беженцы</PlayerNorbal.pawnsPlural>
+	<!-- EN: norbal -->
+	<PlayerNorbal.pawnSingular>норбал</PlayerNorbal.pawnSingular>
+
+	<OrassanPlayerColony.label>прайд Орассандэ</OrassanPlayerColony.label>
+	<OrassanPlayerColony.description>Ваше собственное сообщество.</OrassanPlayerColony.description>
+	<OrassanPlayerColony.pawnsPlural>поселенцы</OrassanPlayerColony.pawnsPlural>
+	<!-- EN: colonist -->
+	<OrassanPlayerColony.pawnSingular>поселенец</OrassanPlayerColony.pawnSingular>
+
+	<NuclearColonySurvivor.label>постапокалиптическое поселение</NuclearColonySurvivor.label>
+	<NuclearColonySurvivor.description>Ваше собственное сообщество.</NuclearColonySurvivor.description>
+	<NuclearColonySurvivor.pawnsPlural>поселенцы</NuclearColonySurvivor.pawnsPlural>
+	<!-- EN: colonist -->
+	<NuclearColonySurvivor.pawnSingular>поселенец</NuclearColonySurvivor.pawnSingular>
+</LanguageData>

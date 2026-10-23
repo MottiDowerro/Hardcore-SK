@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Aloe Plant -->
+	<Plant_Aloe.label>Алоэ</Plant_Aloe.label>
+	<!-- EN: Aloe Plants produce Aloe Leaves, which are similar to Healroots but can be produced as Herbal Medicine Kits from the Canning Stove. -->
+	<Plant_Aloe.description>Алоэ выращивают за его великолепные природные целебные свойства.</Plant_Aloe.description>
+
+	<!-- EN: Neutro Flower -->
+	<Plant_NeutroFlower.label>Нейтроцветы</Plant_NeutroFlower.label>
+	<!-- EN: A beautiful Yellow-Orange Flower. Used to make Neutroamine, a medicine base. -->
+	<Plant_NeutroFlower.description>Красивые жёлто-оранжевые цветы, выращиваемые для получения нейтроамина.\nМожно посадить только в гидропонике.</Plant_NeutroFlower.description>
+</LanguageData>

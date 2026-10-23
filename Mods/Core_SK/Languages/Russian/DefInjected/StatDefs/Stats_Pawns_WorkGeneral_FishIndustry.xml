@@ -3,6 +3,4 @@
 
 	<FishingSpeed.label>Скорость рыбалки</FishingSpeed.label>
 	<FishingSpeed.description>Множитель скорости, с которой рыбачит этот поселенец.</FishingSpeed.description>
-
-
 </LanguageData>

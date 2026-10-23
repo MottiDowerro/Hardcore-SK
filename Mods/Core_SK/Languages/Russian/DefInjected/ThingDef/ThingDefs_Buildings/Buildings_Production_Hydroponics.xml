@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<PrimitiveHydroponic.label>Удобренная насыпь</PrimitiveHydroponic.label>
+	<PrimitiveHydroponic.description>Удобренная насыпь для выращивания еды. Плодородность 80%.</PrimitiveHydroponic.description>
+
+	<NewHydroponicsBasin.label>Ящик с гидропоникой</NewHydroponicsBasin.label>
+	<NewHydroponicsBasin.description>Для выращивания еды. Гидропоника позволяет выращивать растения очень быстро. Плодородность 300%.\n\nНужна энергия.\nПотребляемая мощность: 45 W</NewHydroponicsBasin.description>
+	<NewHydroponicsBasin.comps.5.fuelLabel>Вода</NewHydroponicsBasin.comps.5.fuelLabel>
+
+	<ClutterAlloyHydroponicsBasinVS.comps.4.fuelLabel>Вода</ClutterAlloyHydroponicsBasinVS.comps.4.fuelLabel>
+	<ClutterAlloyHydroponicsBasinVS.label>Горшок с гидропоникой</ClutterAlloyHydroponicsBasinVS.label>
+	<ClutterAlloyHydroponicsBasinVS.description>Красивый горшок для выращивания гидропоники. Плодородность 300%.\n\nНужна энергия.\nПотребляемая мощность: 25 W</ClutterAlloyHydroponicsBasinVS.description>
+
+	<Agrarian.label>Клумба с гидропоникой</Agrarian.label>
+	<Agrarian.description>Небольшой деревянный ящик с землёй предназначенный для выращивания в нём растений. Трубы поставляют землю с необходимой водой. Плодородность 120%.\n\n\nНужна энергия.\nПотребляемая мощность: 150 W</Agrarian.description>
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Bean Pod -->
+	<Rawbean.label>Соевые бобы</Rawbean.label>
+	<!-- EN: Bean Pods are the edible seeds of the Bean Plant. They can be used for cooking or for making BioDiesel Fuel. Unpleasant when eaten raw. -->
+	<Rawbean.description>Съедобные семена бобовых растений. Неприятные на вкус, если есть сырыми.</Rawbean.description>
+
+	<!-- EN: Tomatoes -->
+	<RawTomatoes.label>Помидор</RawTomatoes.label>
+	<!-- EN: Tomatoes are round, palm sized, red, sharp-tasting fruits of the Tomato Vine. It is useful in cooking and is enjoyable to eat even when raw. -->
+	<RawTomatoes.description>Круглый красный плод томата. Полезен в кулинарии и приятный на вкус даже в сыром виде.</RawTomatoes.description>
+
+	<!-- EN: Carrots -->
+	<RawCarrots.label>Морковь</RawCarrots.label>
+	<!-- EN: Carrots are long, crunchy, orange root vegetables of the Carrot Plant. Refreshing when eaten raw. -->
+	<RawCarrots.description>Длинный хрустящий оранжевый корнеплод. Освежает, если есть сырым.</RawCarrots.description>
+
+	<!-- EN: giant leaf -->
+	<RawGiantLeaf.label>Гигантские листья</RawGiantLeaf.label>
+	<!-- EN: Raw giant leaf. Not really appetizing raw, it is better prepared as a soup. -->
+	<RawGiantLeaf.description>Свежесрезанные гигантские листья. Не очень аппетитные в сыром виде, поэтому лучше приготовить в виде супа.</RawGiantLeaf.description>
+
+	<!-- EN: Algae -->
+	<RawAlgae.label>Водоросли</RawAlgae.label>
+	<!-- EN: Algae are rich in vitamins seaweed that is used in cooking recipes with vegetables. -->
+	<RawAlgae.description>Богатая витаминами морская трава. Используется в кулинарных рецептах, включающих овощи.</RawAlgae.description>
+</LanguageData>

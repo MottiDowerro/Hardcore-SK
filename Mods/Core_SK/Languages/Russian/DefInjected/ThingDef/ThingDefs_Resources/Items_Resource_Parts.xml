@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ComponentMedieval.label>примитивный компонент</ComponentMedieval.label>
+	<ComponentMedieval.description>Различные простые компоненты из эры средневековья.</ComponentMedieval.description>
+
+	<ComponentAdvanced.label>продвинутый компонент</ComponentAdvanced.label>
+	<ComponentAdvanced.description>Различные шестерёнки, конденсаторы, платы, трубки, колёсики, сенсоры, провода, чипы, процессоры и другие электронные и механические детали, сделанные из высококачественных материалов. Необходимы для сборки сложных механизмов и электроприборов.</ComponentAdvanced.description>
+
+	<ComponentUltra.label>передовой компонент</ComponentUltra.label>
+	<ComponentUltra.description>Передовые вычислительные и энергетические компоненты, миниатюрные и в тоже время прочные для самых продвинутых технологий.</ComponentUltra.description>
+
+	<Wire.label>проволока</Wire.label>
+	<Wire.description>Отрезок длинной металлической проволоки. Удобный для проводки электричества. Также применяется в быту.</Wire.description>
+
+	<Mechanism.label>механизм</Mechanism.label>
+	<Mechanism.description>Простой механизм для простых конструкций.</Mechanism.description>
+
+	<AdvMechanism.label>продвинутый механизм</AdvMechanism.label>
+	<AdvMechanism.description>Продвинутый механизм из высокопрочных сплавов.</AdvMechanism.description>
+</LanguageData>

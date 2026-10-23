@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<FruitYogurt.label>Фруктовый йогурт</FruitYogurt.label>
+	<FruitYogurt.description>Сладкое удовольствие из молока и фруктов.</FruitYogurt.description>
+
+	<Cuptea.label>Чай</Cuptea.label>
+	<Cuptea.description>Напиток, изготовленный путём заварки листьев чайного дерева.</Cuptea.description>
+	<Cuptea.ingestible.ingestCommandString>Выпить {0}</Cuptea.ingestible.ingestCommandString>
+	<Cuptea.ingestible.ingestReportString>Пьёт {0}</Cuptea.ingestible.ingestReportString>
+
+	<CupCoffee.label>Кофе</CupCoffee.label>
+	<CupCoffee.description>Бодрящий ароматный напиток.</CupCoffee.description>
+	<CupCoffee.ingestible.ingestCommandString>Выпить {0}</CupCoffee.ingestible.ingestCommandString>
+	<CupCoffee.ingestible.ingestReportString>Пьёт {0}</CupCoffee.ingestible.ingestReportString>
+
+	<FruitDrink.label>Фруктовый напиток</FruitDrink.label>
+	<FruitDrink.description>Напиток сделанный из свежевыжатых фруктов.</FruitDrink.description>
+	<FruitDrink.ingestible.ingestCommandString>Выпить Фруктовый напиток</FruitDrink.ingestible.ingestCommandString>
+	<FruitDrink.ingestible.ingestReportString>Пьёт Фруктовый напиток</FruitDrink.ingestible.ingestReportString>
+</LanguageData>

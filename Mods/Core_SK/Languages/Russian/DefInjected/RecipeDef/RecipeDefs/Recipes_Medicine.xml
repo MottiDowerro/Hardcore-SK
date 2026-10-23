@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: craft herbal medicine -->
+	<MakeHerbMedicine.label>Изготовить полевые медикаменты</MakeHerbMedicine.label>
+	<!-- EN: Crafts herbal medicine from Raw Healroot. Produces 1. -->
+	<MakeHerbMedicine.description>Изготовить полевые медикаменты из лекарственных трав.\nПроизводится 1 шт.</MakeHerbMedicine.description>
+	<!-- EN: Crafting herbal medicine. -->
+	<MakeHerbMedicine.jobString>Изготавливает полевые медикаменты</MakeHerbMedicine.jobString>
+
+	<!-- EN: craft medicine -->
+	<makemedicine.label>Изготовить медикаменты</makemedicine.label>
+	<!-- EN: Crafts a medicine kit from herbal medicine and various other resources. Produces 1. -->
+	<makemedicine.description>Изготовить медикаменты из лекарственных трав и других материалов.\nПроизводится 1 шт.</makemedicine.description>
+	<!-- EN: Crafting medicine. -->
+	<makemedicine.jobString>Изготавливает медикаменты</makemedicine.jobString>
+
+	<!-- EN: craft advanced medicine -->
+	<makeadvmedicine.label>Изготовить передовые медикаменты</makeadvmedicine.label>
+	<!-- EN: Crafts advanced medicine from plants with high medical potency. Produces 1. -->
+	<makeadvmedicine.description>Изготовить передовые медикаменты из различных индустриальных материалов.\nПроизводится 1 шт.</makeadvmedicine.description>
+	<!-- EN: Crafting advanced medicine. -->
+	<makeadvmedicine.jobString>Изготавливает передовые медикаменты</makeadvmedicine.jobString>
+
+	<!-- EN: craft crude bandage kit -->
+	<MakeBandagekitcrude.label>Изготовить cамодельные бинты</MakeBandagekitcrude.label>
+	<!-- EN: A pack of makeshift bandages. Looks bad, probably bad for your wounds. Good for stopping bleeding but nothing more. Produces 1. -->
+	<MakeBandagekitcrude.description>Изготовить cамодельные бинты. Выглядят ужасно, верный способ заработать инфекцию. Сгодятся для остановки кровотечения, но не более.\nПроизводится 1 шт.</MakeBandagekitcrude.description>
+	<!-- EN: Crafting crude bandage kit. -->
+	<MakeBandagekitcrude.jobString>Изготавливает cамодельные бинты</MakeBandagekitcrude.jobString>
+
+	<!-- EN: craft crude bandage kit bulk -->
+	<MakeBandagekitcrudeBulk.label>Изготовить cамодельные бинты (x3)</MakeBandagekitcrudeBulk.label>
+	<!-- EN: A pack of 3 makeshift bandages. Looks bad, probably bad for your wounds. Good for stopping bleeding but nothing more. Produces 3. -->
+	<MakeBandagekitcrudeBulk.description>Изготовить комплект cамодельных бинтов. Выглядят ужасно, верный способ заработать инфекцию. Сгодятся для остановки кровотечения, но не более.\nПроизводится 3 шт.</MakeBandagekitcrudeBulk.description>
+	<!-- EN: Crafting crude bandage kit bulk. -->
+	<MakeBandagekitcrudeBulk.jobString>Изготавливает cамодельные бинты</MakeBandagekitcrudeBulk.jobString>
+
+	<!-- EN: craft bandage kit -->
+	<MakeBandageKit.label>Изготовить бинты</MakeBandageKit.label>
+	<!-- EN: A pack of bandages made from cloth. Less potent than medical kits. Produces 1. -->
+	<MakeBandageKit.description>Изготовить бинты из ткани. Не медицинская аптечка, но лучше, чем ничего.\nПроизводится 1 шт.</MakeBandageKit.description>
+	<!-- EN: Crafting bandage kit. -->
+	<MakeBandageKit.jobString>Изготавливает бинты</MakeBandageKit.jobString>
+
+	<!-- EN: craft bandage kit bulk -->
+	<MakeBandageKitBulk.label>Изготовить бинты (x3)</MakeBandageKitBulk.label>
+	<!-- EN: A pack of 3 bandages made from cloth. Less potent than medical kits. Produces 3. -->
+	<MakeBandageKitBulk.description>Изготовить комплект бинтов из ткани. Не медицинская аптечка, но лучше, чем ничего.\nПроизводится 3 шт.</MakeBandageKitBulk.description>
+	<!-- EN: Crafting bandage kit bulk. -->
+	<MakeBandageKitBulk.jobString>Изготавливает бинты</MakeBandageKitBulk.jobString>
+
+	<!-- EN: craft basic medicine kit (aloe) -->
+	<MakeHerbmedicine.label>Изготовить простую аптечку (алоэ)</MakeHerbmedicine.label>
+	<!-- EN: A pack of mix herbs. Less potent than industrial pharmaceuticals. \n\nMade from aloe and cloth. Produces 1. -->
+	<MakeHerbmedicine.description>Смесь лечебных трав в комплекте с бинтами. Менее эффективна, чем индустриальные медикаменты.\nПроизводится 1 шт.</MakeHerbmedicine.description>
+	<!-- EN: Crafting basic medicine kit. -->
+	<MakeHerbmedicine.jobString>Изготавливает простую аптечку</MakeHerbmedicine.jobString>
+
+	<!-- EN: craft basic medicine kit (Mixed Herbs) -->
+	<MakeHerbmedicineMix.label>Изготовить простую аптечку (набор трав)</MakeHerbmedicineMix.label>
+	<!-- EN: A pack of mix herbs. Less potent than industrial pharmaceuticals. \n\nMade from aloe and cloth. Produces 1. -->
+	<MakeHerbmedicineMix.description>Смесь лечебных трав в комплекте с бинтами. Менее эффективна, чем индустриальные медикаменты.\nПроизводится 1 шт.</MakeHerbmedicineMix.description>
+	<!-- EN: Crafting basic medicine kit. -->
+	<MakeHerbmedicineMix.jobString>Изготавливает простую аптечку</MakeHerbmedicineMix.jobString>
+</LanguageData>

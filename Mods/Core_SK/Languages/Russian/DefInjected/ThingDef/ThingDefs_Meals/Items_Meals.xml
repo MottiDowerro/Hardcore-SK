@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RoastedMeat.label>Жареное мясо</RoastedMeat.label>
+	<RoastedMeat.description>Вкусное, только что пожареное мясо.</RoastedMeat.description>
+
+	<ScrambledEggs.label>Яичница-болтунья</ScrambledEggs.label>
+	<ScrambledEggs.description>Блюдо из взбитых и нагретых яиц.</ScrambledEggs.description>
+
+	<FriedVegetables.label>Жареное ассорти из овощей</FriedVegetables.label>
+	<FriedVegetables.description>Всего по немногу, иногда кулинарный шедевр, особенно когда голоден.</FriedVegetables.description>
+</LanguageData>

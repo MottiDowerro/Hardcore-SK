@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Heal wounds -->
+	<RepairBurn.label>лечить шрам ожога</RepairBurn.label>
+	<RepairBurn.description>Вылечить шрам от ожога.</RepairBurn.description>
+	<RepairBurn.jobString>лечит шрам от ожога</RepairBurn.jobString>
+	<RepairBurn.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от ожога.</RepairBurn.successfullyRemovedHediffMessage>
+
+	<RepairCut.label>лечить шрам от пореза</RepairCut.label>
+	<RepairCut.description>Вылечить шрам от пореза.</RepairCut.description>
+	<RepairCut.jobString>лечит шрам от пореза</RepairCut.jobString>
+	<RepairCut.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от пореза.</RepairCut.successfullyRemovedHediffMessage>
+
+	<RepairSurgicalCut.label>лечить шрам от хирургического пореза</RepairSurgicalCut.label>
+	<RepairSurgicalCut.description>Вылечить шрам от хирургического пореза.</RepairSurgicalCut.description>
+	<RepairSurgicalCut.jobString>лечит шрам от хирургического пореза</RepairSurgicalCut.jobString>
+	<RepairSurgicalCut.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от хирургического пореза.</RepairSurgicalCut.successfullyRemovedHediffMessage>
+
+	<RepairScratch.label>Лечить шрам от царапины</RepairScratch.label>
+	<RepairScratch.description>Вылечить шрам от царапины.</RepairScratch.description>
+	<RepairScratch.jobString>лечит царапину</RepairScratch.jobString>
+	<RepairScratch.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от царапины.</RepairScratch.successfullyRemovedHediffMessage>
+
+	<RepairBite.label>лечить шрам от укуса</RepairBite.label>
+	<RepairBite.description>Вылечить шрам от укуса.</RepairBite.description>
+	<RepairBite.jobString>лечит шрам от укуса</RepairBite.jobString>
+	<RepairBite.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от укуса.</RepairBite.successfullyRemovedHediffMessage>
+
+	<RepairStab.label>лечить шрам от колотой раны</RepairStab.label>
+	<RepairStab.description>Вылечить шрам от колотой раны.</RepairStab.description>
+	<RepairStab.jobString>лечит шрам от колотой раны</RepairStab.jobString>
+	<RepairStab.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от колотой раны.</RepairStab.successfullyRemovedHediffMessage>
+
+	<RepairGunshot.label>лечить шрам от пулевого ранения</RepairGunshot.label>
+	<RepairGunshot.description>Вылечить шрам от пулевого ранения.</RepairGunshot.description>
+	<RepairGunshot.jobString>лечит шрам от пулевого ранения</RepairGunshot.jobString>
+	<RepairGunshot.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от пулевого ранения.</RepairGunshot.successfullyRemovedHediffMessage>
+
+	<RepairFrostbite.label>лечить шрам от обморожения</RepairFrostbite.label>
+	<RepairFrostbite.description>Вылечить шрам от обморожения.</RepairFrostbite.description>
+	<RepairFrostbite.jobString>лечит шрам от обморожения</RepairFrostbite.jobString>
+	<RepairFrostbite.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от обморожения.</RepairFrostbite.successfullyRemovedHediffMessage>
+
+	<RepairChemicalBurn.label>лечить шрам от химического ожога</RepairChemicalBurn.label>
+	<RepairChemicalBurn.description>Вылечить шрам от химического ожога.</RepairChemicalBurn.description>
+	<RepairChemicalBurn.jobString>лечит шрам от химического ожога</RepairChemicalBurn.jobString>
+	<RepairChemicalBurn.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от химического ожога.</RepairChemicalBurn.successfullyRemovedHediffMessage>
+
+	<RepairShredded.label>лечить мелкий шрам</RepairShredded.label>
+	<RepairShredded.description>Вылечить мелкий шрам</RepairShredded.description>
+	<RepairShredded.jobString>лечит мелкий шрам</RepairShredded.jobString>
+	<RepairShredded.successfullyRemovedHediffMessage>{0} успешно вылечил {1} мелкий шрам.</RepairShredded.successfullyRemovedHediffMessage>
+
+	<RepairCrush.label>лечить поврежденный шрам</RepairCrush.label>
+	<RepairCrush.description>Вылечить поврежденный шрам.</RepairCrush.description>
+	<RepairCrush.jobString>лечит поврежденный шрам</RepairCrush.jobString>
+	<RepairCrush.successfullyRemovedHediffMessage>{0} успешно вылечил {1} поврежденный шрам.</RepairCrush.successfullyRemovedHediffMessage>
+
+	<RepairCrack.label>лечить шрам от рубца</RepairCrack.label>
+	<RepairCrack.description>Вылечить шрам от рубца.</RepairCrack.description>
+	<RepairCrack.jobString>лечит шрам от рубца</RepairCrack.jobString>
+	<RepairCrack.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от рубца.</RepairCrack.successfullyRemovedHediffMessage>
+
+	<RepairBruise.label>Вылечить шрам с гематомой</RepairBruise.label>
+	<RepairBruise.description>Вылечить шрам с гематомой.</RepairBruise.description>
+	<RepairBruise.jobString>лечит шрам с гематомой</RepairBruise.jobString>
+	<RepairBruise.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам с гематомой.</RepairBruise.successfullyRemovedHediffMessage>
+
+	<RepairBrainBurn.label>Вылечить шрам от ожога (мозг)</RepairBrainBurn.label>
+	<RepairBrainBurn.description>Вылечить шрам от ожога (мозг).</RepairBrainBurn.description>
+	<RepairBrainBurn.jobString>лечит шрам от ожога (мозг)</RepairBrainBurn.jobString>
+	<RepairBrainBurn.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от ожога.</RepairBrainBurn.successfullyRemovedHediffMessage>
+
+	<RepairBrainCut.label>лечить шрам от пореза (мозг)</RepairBrainCut.label>
+	<RepairBrainCut.description>Вылечить шрам от пореза (мозг).</RepairBrainCut.description>
+	<RepairBrainCut.jobString>лечит шрам от пореза (мозг)</RepairBrainCut.jobString>
+	<RepairBrainCut.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от пореза.</RepairBrainCut.successfullyRemovedHediffMessage>
+
+	<RepairBrainSurgicalCut.label>лечить шрам от хирургического пореза (мозг)</RepairBrainSurgicalCut.label>
+	<RepairBrainSurgicalCut.description>Вылечить шрам от хирургического пореза (мозг).</RepairBrainSurgicalCut.description>
+	<RepairBrainSurgicalCut.jobString>лечит шрам от хирургического пореза (мозг)</RepairBrainSurgicalCut.jobString>
+	<RepairBrainSurgicalCut.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от хирургического пореза.</RepairBrainSurgicalCut.successfullyRemovedHediffMessage>
+
+	<RepairBrainScratch.label>Лечить шрам от царапины (мозг)</RepairBrainScratch.label>
+	<RepairBrainScratch.description>Вылечить шрам от царапины (мозг).</RepairBrainScratch.description>
+	<RepairBrainScratch.jobString>лечит царапину (мозг)</RepairBrainScratch.jobString>
+	<RepairBrainScratch.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от царапины.</RepairBrainScratch.successfullyRemovedHediffMessage>
+
+	<RepairBrainBite.label>лечить шрам от укуса (мозг)</RepairBrainBite.label>
+	<RepairBrainBite.description>Вылечить шрам от укуса (мозг).</RepairBrainBite.description>
+	<RepairBrainBite.jobString>лечит шрам от укуса (мозг)</RepairBrainBite.jobString>
+	<RepairBrainBite.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от укуса.</RepairBrainBite.successfullyRemovedHediffMessage>
+
+	<RepairBrainStab.label>лечить шрам от колотой раны (мозг)</RepairBrainStab.label>
+	<RepairBrainStab.description>Вылечить шрам от колотой раны (мозг).</RepairBrainStab.description>
+	<RepairBrainStab.jobString>лечит шрам от колотой раны (мозг)</RepairBrainStab.jobString>
+	<RepairBrainStab.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от колотой раны.</RepairBrainStab.successfullyRemovedHediffMessage>
+
+	<RepairBrainGunshot.label>лечить шрам от пулевого ранения (мозг)</RepairBrainGunshot.label>
+	<RepairBrainGunshot.description>Вылечить шрам от пулевого ранения (мозг).</RepairBrainGunshot.description>
+	<RepairBrainGunshot.jobString>лечит шрам от пулевого ранения (мозг)</RepairBrainGunshot.jobString>
+	<RepairBrainGunshot.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от пулевого ранения.</RepairBrainGunshot.successfullyRemovedHediffMessage>
+
+	<RepairBrainFrostbite.label>лечить шрам от обморожения (мозг)</RepairBrainFrostbite.label>
+	<RepairBrainFrostbite.description>Вылечить шрам от обморожения (мозг).</RepairBrainFrostbite.description>
+	<RepairBrainFrostbite.jobString>лечит шрам от обморожения (мозг)</RepairBrainFrostbite.jobString>
+	<RepairBrainFrostbite.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от обморожения.</RepairBrainFrostbite.successfullyRemovedHediffMessage>
+
+	<RepairBrainChemicalBurn.label>лечить шрам от химического ожога (мозг)</RepairBrainChemicalBurn.label>
+	<RepairBrainChemicalBurn.description>Вылечить шрам от химического ожога (мозг).</RepairBrainChemicalBurn.description>
+	<RepairBrainChemicalBurn.jobString>лечит шрам от химического ожога (мозг)</RepairBrainChemicalBurn.jobString>
+	<RepairBrainChemicalBurn.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от химического ожога.</RepairBrainChemicalBurn.successfullyRemovedHediffMessage>
+
+	<RepairBrainShredded.label>лечить мелкий шрам (мозг)</RepairBrainShredded.label>
+	<RepairBrainShredded.description>Вылечить мелкий шрам (мозг)</RepairBrainShredded.description>
+	<RepairBrainShredded.jobString>лечит мелкий шрам (мозг)</RepairBrainShredded.jobString>
+	<RepairBrainShredded.successfullyRemovedHediffMessage>{0} успешно вылечил {1} мелкий шрам.</RepairBrainShredded.successfullyRemovedHediffMessage>
+
+	<RepairBrainCrush.label>лечить поврежденный шрам (мозг)</RepairBrainCrush.label>
+	<RepairBrainCrush.description>Вылечить поврежденный шрам (мозг).</RepairBrainCrush.description>
+	<RepairBrainCrush.jobString>лечит поврежденный шрам (мозг)</RepairBrainCrush.jobString>
+	<RepairBrainCrush.successfullyRemovedHediffMessage>{0} успешно вылечил {1} поврежденный шрам.</RepairBrainCrush.successfullyRemovedHediffMessage>
+
+	<RepairBrainCrack.label>лечить шрам от рубца (мозг)</RepairBrainCrack.label>
+	<RepairBrainCrack.description>Вылечить шрам от рубца (мозг).</RepairBrainCrack.description>
+	<RepairBrainCrack.jobString>лечит шрам от рубца (мозг)</RepairBrainCrack.jobString>
+	<RepairBrainCrack.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам от рубца.</RepairBrainCrack.successfullyRemovedHediffMessage>
+
+	<RepairBrainBruise.label>Вылечить шрам с гематомой (мозг)</RepairBrainBruise.label>
+	<RepairBrainBruise.description>Вылечить шрам с гематомой (мозг).</RepairBrainBruise.description>
+	<RepairBrainBruise.jobString>лечит шрам с гематомой (мозг)</RepairBrainBruise.jobString>
+	<RepairBrainBruise.successfullyRemovedHediffMessage>{0} успешно вылечил {1} шрам с гематомой.</RepairBrainBruise.successfullyRemovedHediffMessage>
+
+	<!-- Cosmetic: Ear -->
+	<RepairCosmeticEar.label>Косметика уха</RepairCosmeticEar.label>
+	<RepairCosmeticEar.description>Провести косметику уха.</RepairCosmeticEar.description>
+	<RepairCosmeticEar.jobString>Проводит косметику уха</RepairCosmeticEar.jobString>
+
+	<!-- Cosmetic: Nose -->
+	<RepairCosmeticNose.label>Косметика носа</RepairCosmeticNose.label>
+	<RepairCosmeticNose.description>Провести косметику носа</RepairCosmeticNose.description>
+	<RepairCosmeticNose.jobString>Проводит косметику носа</RepairCosmeticNose.jobString>
+
+	<RepairFinger.label>Лечить палец руки</RepairFinger.label>
+	<RepairFinger.description>Лечить палец руки.</RepairFinger.description>
+	<RepairFinger.jobString>Лечит палец руки</RepairFinger.jobString>
+
+	<RepairToe.label>Лечить палец на ноге</RepairToe.label>
+	<RepairToe.description>Лечить палец на ноге.</RepairToe.description>
+	<RepairToe.jobString>Лечит палец на ноге</RepairToe.jobString>
+
+	<!-- Chronic: BadBack -->
+	<CureChronicBadBack.label>Лечить хронический радикулит</CureChronicBadBack.label>
+	<CureChronicBadBack.description>Лечить хронический радикулит. Внимание! Шанс смертельного исхода!</CureChronicBadBack.description>
+	<CureChronicBadBack.jobString>Лечит хронический радикулит</CureChronicBadBack.jobString>
+	<CureChronicBadBack.successfullyRemovedHediffMessage>{0} успешно вылечил {1} хронический радикулит.</CureChronicBadBack.successfullyRemovedHediffMessage>
+
+	<!-- Chronic: Frail -->
+	<CureChronicFrail.label>Лечить хроническую немощность</CureChronicFrail.label>
+	<CureChronicFrail.description>Лечить хроническую немощность.</CureChronicFrail.description>
+	<CureChronicFrail.jobString>Лечит хроническую немощность</CureChronicFrail.jobString>
+	<CureChronicFrail.successfullyRemovedHediffMessage>{0} успешно вылечил {1} хроническую немощность.</CureChronicFrail.successfullyRemovedHediffMessage>
+
+	<!-- Chronic: Cataract -->
+	<CureChronicCataract.label>Лечить хроническую катаракту</CureChronicCataract.label>
+	<CureChronicCataract.description>Лечить хроническую катаракту.</CureChronicCataract.description>
+	<CureChronicCataract.jobString>Лечит хроническую катаракту</CureChronicCataract.jobString>
+
+	<!-- Chronic: HearingLoss -->
+	<CureChronicHearingLoss.label>Лечить хроническую потерю слуха</CureChronicHearingLoss.label>
+	<CureChronicHearingLoss.description>Лечить хроническую потерю слуха.</CureChronicHearingLoss.description>
+	<CureChronicHearingLoss.jobString>Лечит хроническую потерю слуха</CureChronicHearingLoss.jobString>
+
+	<!-- Chronic: Dementia -->
+	<CureChronicDementia.label>Лечить хроническое слабоумие</CureChronicDementia.label>
+	<CureChronicDementia.description>Лечить хроническое слабоумие. Внимание! Шанс смертельного исхода!</CureChronicDementia.description>
+	<CureChronicDementia.jobString>Лечит хроническое слабоумие</CureChronicDementia.jobString>
+	<CureChronicDementia.successfullyRemovedHediffMessage>{0} успешно вылечил {1} хроническое слабоумие.</CureChronicDementia.successfullyRemovedHediffMessage>
+
+	<CureMuscleParasites.label>Вывести мышечных паразитов</CureMuscleParasites.label>
+	<CureMuscleParasites.description>Вывести мышечных паразитов.</CureMuscleParasites.description>
+	<CureMuscleParasites.jobString>Выводит мышечных паразитов</CureMuscleParasites.jobString>
+
+	<CureGutWorms.label>Вывести кишечных паразитов</CureGutWorms.label>
+	<CureGutWorms.description>Вывести кишечных паразитов.</CureGutWorms.description>
+	<CureGutWorms.jobString>Выводит кишечных паразитов</CureGutWorms.jobString>
+
+	<!-- Chronic: Alzheimers -->
+	<CureChronicAlzheimers.label>Лечить болезнь альцгеймера</CureChronicAlzheimers.label>
+	<CureChronicAlzheimers.description>Лечить болезнь альцгеймера. Внимание! Шанс смертельного исхода!</CureChronicAlzheimers.description>
+	<CureChronicAlzheimers.jobString>Лечит болезнь альцгеймера</CureChronicAlzheimers.jobString>
+	<CureChronicAlzheimers.successfullyRemovedHediffMessage>{0} успешно вылечил {1} болезнь альцгеймера.</CureChronicAlzheimers.successfullyRemovedHediffMessage>
+
+	<!-- Chronic: Asthma -->
+	<CureChronicAsthma.label>Лечить хроническую астму</CureChronicAsthma.label>
+	<CureChronicAsthma.description>Лечить хроническую астму.</CureChronicAsthma.description>
+	<CureChronicAsthma.jobString>Лечит хроническую астму</CureChronicAsthma.jobString>
+
+	<!-- Chronic: HeartArteryBlockage -->
+	<CureChronicHeartArteryBlockage.label>Лечить хроническую болезнь сердца</CureChronicHeartArteryBlockage.label>
+	<CureChronicHeartArteryBlockage.description>Лечить хроническую болезнь сердца. Внимание! Шанс смертельного исхода!.</CureChronicHeartArteryBlockage.description>
+	<CureChronicHeartArteryBlockage.jobString>Лечит хроническую болезнь сердца</CureChronicHeartArteryBlockage.jobString>
+
+	<!-- EN: 마취를 시킵니다. -->
+	<InjectMedicine.description>Ввести анестетик.</InjectMedicine.description>
+	<!-- EN: 마취 하는 중 -->
+	<InjectMedicine.jobString>Вводит анестетик</InjectMedicine.jobString>
+	<!-- EN: 마취제 투여 -->
+	<InjectMedicine.label>ввести анестетик</InjectMedicine.label>
+</LanguageData>

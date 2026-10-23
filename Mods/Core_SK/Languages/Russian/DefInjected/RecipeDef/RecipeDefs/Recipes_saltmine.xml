@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: mine salt -->
+	<VG_Minesalt.label>Добыть соль</VG_Minesalt.label>
+	<!-- EN: Mine salt from rough stone. Takes a lot of work -->
+	<VG_Minesalt.description>Добыть соль - ходовую приправу и ингредиент, необходимый для приготовления солонины. Чтобы добыть, придётся запастись терпением.</VG_Minesalt.description>
+	<!-- EN: Mining salt. -->
+	<VG_Minesalt.jobString>Добывает соль</VG_Minesalt.jobString>
+</LanguageData>

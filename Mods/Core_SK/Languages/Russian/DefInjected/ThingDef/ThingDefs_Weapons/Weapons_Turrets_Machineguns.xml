@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Gun_M2Browning.label>Орудие M2 Browning MG</Gun_M2Browning.label>
+	<Gun_M2Browning.description>Стационарный пулемет М2 .50 калибра. Есть возможность переноса на другую позицию.</Gun_M2Browning.description>
+
+	<Gun_TurretMinigun.label>Орудие M134 Миниган</Gun_TurretMinigun.label>
+	<Gun_TurretMinigun.description>Стационарный миниган M134 калибра 7,62×51мм.</Gun_TurretMinigun.description>
+
+	<Gun_Avenger.label>Орудие 30mm GAU-8 "Мститель"</Gun_Avenger.label>
+	<Gun_Avenger.description>Стационарная автоматическая 30мм пушка "Мститель".</Gun_Avenger.description>
+
+	<!-- ==================== Autocannons ========================== -->
+	<Gun_Oerlikonautocannon.label>Орудие 20mm "Эрликон"</Gun_Oerlikonautocannon.label>
+	<Gun_Oerlikonautocannon.description>Стационарная 20мм пушка "Эрликон".</Gun_Oerlikonautocannon.description>
+
+	<Gun_VulcanCannon.label>Орудие 20mm "Вулкан"</Gun_VulcanCannon.label>
+	<Gun_VulcanCannon.description>Стационарная 20мм пушка, обладающая высокой огневой мощью. Использует 20мм боеприпасы.</Gun_VulcanCannon.description>
+</LanguageData>

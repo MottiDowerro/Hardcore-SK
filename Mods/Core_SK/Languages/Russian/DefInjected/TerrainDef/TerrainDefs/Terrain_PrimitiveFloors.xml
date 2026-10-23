@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ================= Primitive Floors ================= -->
+	<TikiFloorBamboo.label>Пол из бамбука</TikiFloorBamboo.label>
+	<TikiFloorBamboo.description>Примитивный пол из бамбука.</TikiFloorBamboo.description>
+
+	<TikiFloorDark.label>Пол из темного дерева</TikiFloorDark.label>
+	<TikiFloorDark.description>Примитивный пол из темного дерева.</TikiFloorDark.description>
+
+	<TikiFloorLight.label>Пол из светлого дерева</TikiFloorLight.label>
+	<TikiFloorLight.description>Примитивный пол из светлого дерева.</TikiFloorLight.description>
+
+	<TikiFloorFancy.label>Пол из дерева с золотыми узорами</TikiFloorFancy.label>
+	<TikiFloorFancy.description>Хороший пол из дерева с золотыми узорами.</TikiFloorFancy.description>
+
+	<LogFloor.label>Обычный деревянный пол</LogFloor.label>
+	<LogFloor.description>Примитивный пол из обычной древесины.</LogFloor.description>
+
+	<ThatchFloor.label>Пол из сена</ThatchFloor.label>
+	<ThatchFloor.description>Примитивный пол из сена.</ThatchFloor.description>
+
+	<WeaveFloor.label>Пол из плетеного сена</WeaveFloor.label>
+	<WeaveFloor.description>Примитивный пол плетеного сена.</WeaveFloor.description>
+
+	<WovenLeafFloor.label>Пол из свежего сена</WovenLeafFloor.label>
+	<WovenLeafFloor.description>Примитивный пол из свежего сена.</WovenLeafFloor.description>
+</LanguageData>

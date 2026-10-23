@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Helmet_Kettlehat.label>капеллина</Helmet_Kettlehat.label>
+	<Helmet_Kettlehat.description>Шлем с широким металлическим козырьком для дополнительной защиты; предпочитался крестьянами, но считался недостойным знати.</Helmet_Kettlehat.description>
+
+	<Helmet_Nasal.label>шлем с наносником</Helmet_Nasal.label>
+	<Helmet_Nasal.description>Простой шлем с небольшим нововведением: планка, которая спускается вниз над носом, обеспечивая лучшую защиту лица, но несколько ограничивая обзор.</Helmet_Nasal.description>
+
+	<Helmet_NorbalChain.label>норбальский бацинет</Helmet_NorbalChain.label>
+	<Helmet_NorbalChain.description>Норбальский бацинет. Защищает всю голову.</Helmet_NorbalChain.description>
+
+	<Helmet_Bascinet.label>бацинет</Helmet_Bascinet.label>
+	<Helmet_Bascinet.description>Средневековый военный шлем с открытым лицом, обычно снабженный бармицей и подвижным забралом. Бацинет эволюционировал из цервельера.</Helmet_Bascinet.description>
+
+	<Helmet_Domed.label>купольный шлем</Helmet_Domed.label>
+	<Helmet_Domed.description>Купольный каркасный шлем с кольчужной защитой лица и шеи. Не самый вычурный, но своё дело делает.</Helmet_Domed.description>
+
+	<Helmet_Sallet.label>салад</Helmet_Sallet.label>
+	<Helmet_Sallet.description>Группа шлемов, ведущая своё происхождение от бацинетов, различные по форме, но имеющие в качестве общей черты наличие назатыльника, а также продольного ребра жёсткости, нередко превращающегося в настоящий гребень.</Helmet_Sallet.description>
+</LanguageData>

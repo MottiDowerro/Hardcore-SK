@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--
+	<MakePillar.label>Сделать столб фундамента</MakePillar.label>
+	<MakePillar.description>Требуются для заложения фундамента.</MakePillar.description>
+	<MakePillar.jobString>Делает столб</MakePillar.jobString>
+	-->
+	<Make_ComponentMedieval.label>сделать примитивный компонент из дерева</Make_ComponentMedieval.label>
+	<Make_ComponentMedieval.description>Изготовление примитивных компонентов из дерева. Производится 10 шт.</Make_ComponentMedieval.description>
+	<Make_ComponentMedieval.jobString>Делает примитивный компонент</Make_ComponentMedieval.jobString>
+
+	<Make_ComponentMedievalBronze.label>сделать примитивный компонент из металла</Make_ComponentMedievalBronze.label>
+	<Make_ComponentMedievalBronze.description>Изготовление примитивных компонентов из металла. Производится 10 шт.</Make_ComponentMedievalBronze.description>
+	<Make_ComponentMedievalBronze.jobString>Делает примитивный компонент</Make_ComponentMedievalBronze.jobString>
+
+	<Make_ComponentAdvanced.label>сделать продвинутый компонент</Make_ComponentAdvanced.label>
+	<Make_ComponentAdvanced.description>Различные шестерёнки, конденсаторы, платы, трубки, колёсики, сенсоры, провода, чипы, процессоры и другие электронные и механические детали, сделанные из высококачественных материалов. Необходимы для сборки сложных механизмов и электроприборов.</Make_ComponentAdvanced.description>
+	<Make_ComponentAdvanced.jobString>Делает продвинутый компонент</Make_ComponentAdvanced.jobString>
+
+	<Make_ComponentUltra.label>сделать ультра компонент</Make_ComponentUltra.label>
+	<Make_ComponentUltra.description>Передовые вычислительные и энергетические компоненты, миниатюрные и в тоже время прочные для самых продвинутых технологий.</Make_ComponentUltra.description>
+	<Make_ComponentUltra.jobString>Делает ультра компоненты</Make_ComponentUltra.jobString>
+
+	<MakeWires_Hand.label>создать проволоку</MakeWires_Hand.label>
+	<MakeWires_Hand.description>Создать проволоку. Производится 20.</MakeWires_Hand.description>
+	<MakeWires_Hand.jobString>Делает проволоку</MakeWires_Hand.jobString>
+
+	<MakeWires_Electric.label>создать проволоку</MakeWires_Electric.label>
+	<MakeWires_Electric.description>Создать проволоку. Производится 40.</MakeWires_Electric.description>
+	<MakeWires_Electric.jobString>Делает проволоку</MakeWires_Electric.jobString>
+
+	<!-- EN: Craft hex-cells -->
+	<MakeHexcell.label>Изготовить модуль питания</MakeHexcell.label>
+	<!-- EN: Craft hex-cells. These are used as power source in various pieces of high-tech armor. Produces 10. -->
+	<MakeHexcell.description>Изготовить модуль питания. Используется для питания современного оружия, экзоскелетов и силовой брони.\nПроизводится 10 шт.</MakeHexcell.description>
+	<!-- EN: Crafting hex-cells. -->
+	<MakeHexcell.jobString>Изготавливает модуль питания</MakeHexcell.jobString>
+
+	<MakeSimpleMechanism_Hand.label>собрать простой механизм</MakeSimpleMechanism_Hand.label>
+	<MakeSimpleMechanism_Hand.description>Собрать простой механизм. Производится 5.</MakeSimpleMechanism_Hand.description>
+	<MakeSimpleMechanism_Hand.jobString>Собирает простой механизм</MakeSimpleMechanism_Hand.jobString>
+
+	<MakeSimpleMechanism_Electric.label>собрать простой механизм</MakeSimpleMechanism_Electric.label>
+	<MakeSimpleMechanism_Electric.description>Собрать простой механизм. Производится 10.</MakeSimpleMechanism_Electric.description>
+	<MakeSimpleMechanism_Electric.jobString>Собирает простой механизм</MakeSimpleMechanism_Electric.jobString>
+
+	<MakeAdvMechanism_Hand.label>собрать продвинутый механизм</MakeAdvMechanism_Hand.label>
+	<MakeAdvMechanism_Hand.description>Собрать продвинутый механизм. Производится 5.</MakeAdvMechanism_Hand.description>
+	<MakeAdvMechanism_Hand.jobString>Собирает продвинутый механизм</MakeAdvMechanism_Hand.jobString>
+
+	<MakeAdvMechanism_Electric.label>собрать продвинутый механизм</MakeAdvMechanism_Electric.label>
+	<MakeAdvMechanism_Electric.description>Собрать продвинутый механизм. Производится 10</MakeAdvMechanism_Electric.description>
+	<MakeAdvMechanism_Electric.jobString>Собирает продвинутый механизм</MakeAdvMechanism_Electric.jobString>
+</LanguageData>

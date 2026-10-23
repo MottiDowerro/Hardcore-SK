@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Make herbal tea -->
+	<MakeHerbalTea.label>Заварить травяной чай</MakeHerbalTea.label>
+	<!-- EN: Make herbal tea from herbs. Produces 6. -->
+	<MakeHerbalTea.description>Заварить травяной чай из лечебных трав.\nПроизводится 6 шт.</MakeHerbalTea.description>
+	<!-- EN: Making herbal tea -->
+	<MakeHerbalTea.jobString>Заваривает травяной чай</MakeHerbalTea.jobString>
+</LanguageData>

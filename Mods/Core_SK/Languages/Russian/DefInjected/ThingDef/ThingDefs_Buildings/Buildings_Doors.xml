@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<PrimitiveDoor.label>примитивная дверь</PrimitiveDoor.label>
+	<PrimitiveDoor.description>Простая дверь, которую нужно открывать и закрывать вручную. Быстро открывается, но очень хлипкая и немного уродливая.</PrimitiveDoor.description>
+
+	<MDoor.label>металлическая дверь</MDoor.label>
+	<MDoor.description>Металлическая дверь. Может быть открыта или закрыта вручную. Замедляет движение.</MDoor.description>
+
+	<CellDoor.label>дверь камеры</CellDoor.label>
+	<CellDoor.description>Дверь, которой заключенные могут пользоваться наравне с поселенцами. Разделяет комнаты.</CellDoor.description>
+
+	<Blastdoor.label>армированная дверь</Blastdoor.label>
+	<Blastdoor.description>Укреплённая автоматическая дверь, позволяющая людям проходить через неё, не замедляя движения.</Blastdoor.description>
+
+	<DoorGlass.label>дверь</DoorGlass.label>
+	<DoorGlass.description>Простая стеклянная дверь, которую нужно открывать и закрывать вручную. Время открывания и закрывания зависит от материала изготовления.</DoorGlass.description>
+
+	<AutoDoorGlass.label>автодверь</AutoDoorGlass.label>
+	<AutoDoorGlass.description>Автоматическая дверь позволяет входить и выходить без задержки.</AutoDoorGlass.description>
+
+	<OpenBlastDoor.label>открытые мощные ворота</OpenBlastDoor.label>
+	<OpenBlastDoor.description>Большие ворота для большой базы!</OpenBlastDoor.description>
+
+	<ClosedBlastDoor.label>мощные ворота</ClosedBlastDoor.label>
+	<ClosedBlastDoor.description>Большие ворота для большой базы!</ClosedBlastDoor.description>
+
+	<JammedBlastDoor.label>взорванные ворота</JammedBlastDoor.label>
+	<JammedBlastDoor.description>Большие ворота для большой базы! Правда немного поломанные.</JammedBlastDoor.description>
+</LanguageData>

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: saw wood planks -->
+	<MakeWoodPlanks_Hand.label>Напилить досок</MakeWoodPlanks_Hand.label>
+	<!-- EN: Saws wood logs into planks. Quite slow. Produces 15. -->
+	<MakeWoodPlanks_Hand.description>Распилить брёвна на доски. Длительный ручной процесс.\nПроизводится 15 шт.</MakeWoodPlanks_Hand.description>
+	<!-- EN: Sawing wood planks. -->
+	<MakeWoodPlanks_Hand.jobString>Пилит брёвна на доски</MakeWoodPlanks_Hand.jobString>
+
+	<!-- EN: saw wood planks -->
+	<MakeWoodPlanks_Electric.label>Напилить досок</MakeWoodPlanks_Electric.label>
+	<!-- EN: Saws wood logs into planks. Quite fast. Produces 30. -->
+	<MakeWoodPlanks_Electric.description>Распилить брёвна на доски. Быстрее, чем руками.\nПроизводится 30 шт.</MakeWoodPlanks_Electric.description>
+	<!-- EN: Sawing wood planks. -->
+	<MakeWoodPlanks_Electric.jobString>Пилит доски</MakeWoodPlanks_Electric.jobString>
+
+	<!-- EN: saw bamboo planks -->
+	<MakeBambooPlanks_Hand.label>Напилить бамбуковых досок</MakeBambooPlanks_Hand.label>
+	<!-- EN: Saw bamboo logs into bamboo planks. Quite slow. Produces 15. -->
+	<MakeBambooPlanks_Hand.description>Распилить бамбук на доски. Длительный ручной процесс.\nПроизводится 15 шт.</MakeBambooPlanks_Hand.description>
+	<!-- EN: Sawing bamboo planks. -->
+	<MakeBambooPlanks_Hand.jobString>Пилит бамбуковые доски</MakeBambooPlanks_Hand.jobString>
+
+	<!-- EN: saw bamboo planks -->
+	<MakeBambooPlanks_Electric.label>Напилить бамбуковые доски</MakeBambooPlanks_Electric.label>
+	<!-- EN: Saws bamboo logs into bamboo planks. Quite fast. Produces 30. -->
+	<MakeBambooPlanks_Electric.description>Распилить бамбук на доски. Быстрее, чем руками.\nПроизводится 30 шт.</MakeBambooPlanks_Electric.description>
+	<!-- EN: Sawing bamboo planks. -->
+	<MakeBambooPlanks_Electric.jobString>Пилит бамбуковые доски</MakeBambooPlanks_Electric.jobString>
+
+	<!-- EN: saw redwood planks -->
+	<MakeRedWoodPlanks_Hand.label>Напилить досок красного дерева</MakeRedWoodPlanks_Hand.label>
+	<!-- EN: Saws redwood logs into planks. Quite slow. Produces 15. -->
+	<MakeRedWoodPlanks_Hand.description>Распилить брёвна красного дерева на доски. Длительный ручной процесс.\nПроизводится 15 шт.</MakeRedWoodPlanks_Hand.description>
+	<!-- EN: Sawing redwood planks. -->
+	<MakeRedWoodPlanks_Hand.jobString>Пилит брёвна красного дерева на доски</MakeRedWoodPlanks_Hand.jobString>
+
+	<!-- EN: saw redwood planks -->
+	<MakeRedWoodPlanks_Electric.label>Напилить досок красного дерева</MakeRedWoodPlanks_Electric.label>
+	<!-- EN: Saws redwood logs into planks. Quite fast. Produces 30. -->
+	<MakeRedWoodPlanks_Electric.description>Распилить брёвна красного дерева на доски. Быстрее, чем руками.\nПроизводится 30 шт.</MakeRedWoodPlanks_Electric.description>
+	<!-- EN: Sawing redwood planks. -->
+	<MakeRedWoodPlanks_Electric.jobString>Пилит доски красного дерева</MakeRedWoodPlanks_Electric.jobString>
+
+	<!-- EN: render tallow -->
+	<MakeTallow.label>Вытопить смалец</MakeTallow.label>
+	<!-- EN: Render tallow from meat. Produces 15. -->
+	<MakeTallow.description>Вытопить смалец из мяса.\nПроизводится 15 шт.</MakeTallow.description>
+	<!-- EN: Creating fuel. -->
+	<MakeTallow.jobString>Вытапливает смалец</MakeTallow.jobString>
+
+	<!-- EN: chop firewood -->
+	<MakeKindling_Hand.label>Наколоть дрова</MakeKindling_Hand.label>
+	<!-- EN: Chop wood logs or bamboo logs into kindling. Quite slow. Produces 20. -->
+	<MakeKindling_Hand.description>Наколоть дрова на растопку. Длительный ручной процесс.\nПроизводится 20 шт.</MakeKindling_Hand.description>
+	<!-- EN: Chopping logs into kindling. -->
+	<MakeKindling_Hand.jobString>Колет брёвна на дрова</MakeKindling_Hand.jobString>
+
+	<!-- EN: chop firewood -->
+	<MakeKindling_Electric.label>Напилить дрова</MakeKindling_Electric.label>
+	<!-- EN: Chop wood logs or bamboo logs into kindling. Quite fast. Produces 40. -->
+	<MakeKindling_Electric.description>Напилить дрова на растопку. Быстрее, чем махать топором.\nПроизводится 40 шт.</MakeKindling_Electric.description>
+	<!-- EN: Chopping logs into kindling. -->
+	<MakeKindling_Electric.jobString>Пилит дрова</MakeKindling_Electric.jobString>
+
+	<!-- EN: create charcoal -->
+	<MakeCharcoal_Hand.label>Получить древесный уголь</MakeCharcoal_Hand.label>
+	<!-- EN: Burn wood logs or bamboo into charcoal. Quite slow. Produces 20. -->
+	<MakeCharcoal_Hand.description>Сжечь брёвна или бамбук на древесный уголь. Длительный ручной процесс.\nПроизводится 20 шт.</MakeCharcoal_Hand.description>
+	<!-- EN: Creating charcoal. -->
+	<MakeCharcoal_Hand.jobString>Получает древесный уголь</MakeCharcoal_Hand.jobString>
+
+	<!-- EN: create charcoal -->
+	<MakeCharcoal_Electric.label>Получить древесный уголь</MakeCharcoal_Electric.label>
+	<!-- EN: Burn wood logs or bamboo logs into charcoal. Quite fast. Produces 20. -->
+	<MakeCharcoal_Electric.description>Сжечь брёвна или бамбук на древесный уголь. Быстрее, чем руками.\nПроизводится 30 шт.</MakeCharcoal_Electric.description>
+	<!-- EN: Creating charcoal. -->
+	<MakeCharcoal_Electric.jobString>Получает древесный уголь</MakeCharcoal_Electric.jobString>
+
+	<!-- EN: bake clay bricks -->
+	<MakeClayBricks.label>Изготовить глиняные кирпичи</MakeClayBricks.label>
+	<!-- EN: Creates clay bricks by baking soft clay. Produces 5. -->
+	<MakeClayBricks.description>Изготовить глиняные кирпичи путём обжига мягкой глины.\nПроизводится 5 шт.</MakeClayBricks.description>
+	<!-- EN: Baking clay into bricks. -->
+	<MakeClayBricks.jobString>Изготавливает глиняные кирпичи</MakeClayBricks.jobString>
+
+	<!-- EN: bake ceramics -->
+	<MakeCeramics.label>Изготовить керамику</MakeCeramics.label>
+	<!-- EN: Bakes glazed ceramics. Produces 10. -->
+	<MakeCeramics.description>Изготовить глазурованную керамику.\nПроизводится 10 шт.</MakeCeramics.description>
+	<!-- EN: Baking ceramics. -->
+	<MakeCeramics.jobString>Изготавливает керамику</MakeCeramics.jobString>
+
+	<!-- EN: create glass frames -->
+	<MakeGlass.label>Выплавить стекло</MakeGlass.label>
+	<!-- EN: Create glass frames from glass batch. Produces 10. -->
+	<MakeGlass.description>Переплавить стекольную шихту в стекло.\nПроизводится 10 шт.</MakeGlass.description>
+	<!-- EN: Creating glass frames. -->
+	<MakeGlass.jobString>Выплавляет стекло</MakeGlass.jobString>
+
+	<!-- EN: create glass batch -->
+	<MakeGlassBatch.label>Выплавить стекольную шихту</MakeGlassBatch.label>
+	<!-- EN: Smelt sand into a batch of glass. Produces 25. -->
+	<MakeGlassBatch.description>Переплавить песок в стекольную шихту.\nПроизводится 25 шт.</MakeGlassBatch.description>
+	<!-- EN: Creating glass batch. -->
+	<MakeGlassBatch.jobString>Выплавляет стекольную шихту</MakeGlassBatch.jobString>
+
+	<!-- EN: reinforce glass frames -->
+	<MakeReinforcedGlass.label>Изготовить армированное стекло</MakeReinforcedGlass.label>
+	<!-- EN: Turn fragile glass frames into reinforced glass frames by adding sythetic fibers. Produces 6. -->
+	<MakeReinforcedGlass.description>Укрепить хрупкие стеклянные рамы, добавив синтетические волокна.\nПроизводится 6 шт.</MakeReinforcedGlass.description>
+	<!-- EN: Reinforcing glass frame. -->
+	<MakeReinforcedGlass.jobString>Изготавливает армированное стекло</MakeReinforcedGlass.jobString>
+
+	<!-- EN: mix concrete -->
+	<MixConcrete.label>Замешать бетон</MixConcrete.label>
+	<!-- EN: Mixes sand and rubble into concrete. Produces 15. -->
+	<MixConcrete.description>Смешивает песок и щебень в бетон.\nПроизводится 15 шт.</MixConcrete.description>
+	<!-- EN: Mixing concrete. -->
+	<MixConcrete.jobString>Замешивает бетон</MixConcrete.jobString>
+
+	<!-- EN: mix concrete -->
+	<MixConcreteElectric.label>Замешать бетон</MixConcreteElectric.label>
+	<!-- EN: Mixes sand and rubble into concrete. Produces 15. -->
+	<MixConcreteElectric.description>Смешивает песок и щебень в бетон.\nПроизводится 15 шт.</MixConcreteElectric.description>
+	<!-- EN: Mixing concrete. -->
+	<MixConcreteElectric.jobString>Замешивает бетон</MixConcreteElectric.jobString>
+
+	<!-- EN: create fuel -->
+	<MakeChemfuel.label>Изготовить химтопливо</MakeChemfuel.label>
+	<!-- EN: Create fuel from raw corn, wheat or rice. Produces 15. -->
+	<MakeChemfuel.description>Изготовить топливо из органики.\nПроизводится 15 шт.</MakeChemfuel.description>
+	<!-- EN: Creating fuel. -->
+	<MakeChemfuel.jobString>Изготавливает топливо</MakeChemfuel.jobString>
+
+	<!-- EN: extract silicon -->
+	<MakeSilicon_Electric.label>Выплавить кремний</MakeSilicon_Electric.label>
+	<!-- EN: Melts down sand to extract the silicon from it. Quite fast. Produces 5. -->
+	<MakeSilicon_Electric.description>Переплавить песок, чтобы извлечь из него кремний. Быстрый процесс.\nПроизводится 5 шт.</MakeSilicon_Electric.description>
+	<!-- EN: Extracting silicon from sand. -->
+	<MakeSilicon_Electric.jobString>Выплавляет кремний</MakeSilicon_Electric.jobString>
+
+	<!-- EN: extract silicon (x4) -->
+	<MakeSilicon_Set.label>Выплавить кремний (х4)</MakeSilicon_Set.label>
+	<!-- EN: Melts down sand to extract the silicon from it. Quite fast. Produces 20. -->
+	<MakeSilicon_Set.description>Переплавить песок, чтобы извлечь из него кремний. Быстрый процесс.\nПроизводится 20 шт.</MakeSilicon_Set.description>
+	<!-- EN: Extracting silicon from sand. -->
+	<MakeSilicon_Set.jobString>Выплавляет кремний</MakeSilicon_Set.jobString>
+
+	<!-- EN: Make dirt -->
+	<make_dirt.label>Изготовить грязь</make_dirt.label>
+	<!-- EN: Make dirt from sand and fertilizer. -->
+	<make_dirt.description>Изготовить грязь из песка и удобрения.</make_dirt.description>
+	<!-- EN: Making dirt. -->
+	<make_dirt.jobString>Изготавливает грязь</make_dirt.jobString>
+
+	<!-- EN: Make dirt -->
+	<make_dirt_hand.label>Изготовить грязь</make_dirt_hand.label>
+	<!-- EN: Make dirt from sand and fertilizer. -->
+	<make_dirt_hand.description>Изготовить грязь из песка и удобрения.</make_dirt_hand.description>
+	<!-- EN: Making dirt. -->
+	<make_dirt_hand.jobString>Изготавливает грязь</make_dirt_hand.jobString>
+
+	<!-- EN: Make dirt -->
+	<make_dirt_Electric.label>Изготовить грязь</make_dirt_Electric.label>
+	<!-- EN: Make dirt from sand and fertilizer. -->
+	<make_dirt_Electric.description>Изготовить грязь из песка и удобрения.</make_dirt_Electric.description>
+	<!-- EN: Making dirt. -->
+	<make_dirt_Electric.jobString>Изготавливает грязь</make_dirt_Electric.jobString>
+</LanguageData>

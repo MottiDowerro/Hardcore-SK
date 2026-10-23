@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: RPG-7 small grenade (HEAT) -->
+	<Bullet_RPG7TripleGrenade_HEAT.label>малая граната РПГ-7 (HEAT)</Bullet_RPG7TripleGrenade_HEAT.label>
+
+	<!-- EN: RPG-7 small grenade (Thermobaric) -->
+	<Bullet_RPG7TripleGrenade_Thermobaric.label>малая граната РПГ-7 (Thermobaric)</Bullet_RPG7TripleGrenade_Thermobaric.label>
+
+	<!-- EN: RPG-7 small grenade (Frag) -->
+	<Bullet_RPG7TripleGrenade_Frag.label>малая граната РПГ-7 (FRAG)</Bullet_RPG7TripleGrenade_Frag.label>
+</LanguageData>

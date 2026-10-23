@@ -1,19 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- cybernetic parts -->
-
+	<!-- cybernetic parts -->
 	<GTEar.label>Кибернетическое ухо</GTEar.label>
 	<GTEar.description>Кибернетическая версия уха, с применением технологий будущего.</GTEar.description>
-
-	<ArchotechEye.label>Кибернетический глаз</ArchotechEye.label> 
-	<ArchotechEye.description>Кибернетическая версия глаза, с применением технологий будущего.</ArchotechEye.description> 
-
-	<ArchotechArm.label>Кибернетическая рука</ArchotechArm.label>
-	<ArchotechArm.description>Кибернетическая версия бионической руки, с применением технологий будущего.</ArchotechArm.description>
-
-	<ArchotechLeg.label>Кибернетическая нога</ArchotechLeg.label>
-	<ArchotechLeg.description>Кибернетическая версия бионической ноги, с применением технологий будущего.</ArchotechLeg.description>
 
 	<GTHeart.label>Кибернетическое сердце</GTHeart.label>
 	<GTHeart.description>Кибернетическая версия сердца, с применением технологий будущего.</GTHeart.description>
@@ -44,5 +34,4 @@
 
 	<GTNeck.label>Кибернетическая шея</GTNeck.label>
 	<GTNeck.description>Кибернетическая версия шеи, с применением технологий будущего. Позволяет поворачивать шею на 360 градусов.</GTNeck.description>
-
 </LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MeleeWeapon_Schiv.label>Заточка</MeleeWeapon_Schiv.label>
+	<MeleeWeapon_Schiv.description>Импровизированное холодное оружие.</MeleeWeapon_Schiv.description>
+	<!-- EN: handle -->
+	<MeleeWeapon_Schiv.tools.handle.label>рукоять</MeleeWeapon_Schiv.tools.handle.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Schiv.tools.point.label>остриё</MeleeWeapon_Schiv.tools.point.label>
+</LanguageData>

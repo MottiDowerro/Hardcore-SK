@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<Meat_Elephant.label>обычное мясо</Meat_Elephant.label>
@@ -11,5 +11,4 @@
 	<Meat_Human.description>Сырое мясо гуманоидов, таких как человек, орассан, нова, азари или норбал.</Meat_Human.description>
 	<Meat_ThingDefFishSduiggles.label>мясо рыбы</Meat_ThingDefFishSduiggles.label>
 	<Meat_ThingDefFishSduiggles.description>Мясо морских и речных жителей.</Meat_ThingDefFishSduiggles.description>
-
 </LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CreateEyePatch.label>Создать повязку на глаз</CreateEyePatch.label>
+	<CreateEyePatch.description>Создать из ткани повязку на глаз. За бутылку рома! Йохохо!</CreateEyePatch.description>
+	<CreateEyePatch.jobString>Создаёт повязку на глаз</CreateEyePatch.jobString>
+
+	<CreateClothTail.label>Создать тряпичный хвост</CreateClothTail.label>
+	<CreateClothTail.description>Создать хвост из ткани.</CreateClothTail.description>
+	<CreateClothTail.jobString>Делает тряпичный хвост</CreateClothTail.jobString>
+
+	<CreateArtificialNose.label>Создать простой протез носа</CreateArtificialNose.label>
+	<CreateArtificialNose.description>Создать простой протез носа.</CreateArtificialNose.description>
+	<CreateArtificialNose.jobString>Создает простой протез носа</CreateArtificialNose.jobString>
+
+	<CreateSimpleProstheticHand.label>Создать простой протез кисти</CreateSimpleProstheticHand.label>
+	<CreateSimpleProstheticHand.description>Создать простой протез кисти руки.</CreateSimpleProstheticHand.description>
+	<CreateSimpleProstheticHand.jobString>Создает простой протез кисти руки</CreateSimpleProstheticHand.jobString>
+
+	<CreateSimpleProstheticArm.label>Создать простой протез руки</CreateSimpleProstheticArm.label>
+	<CreateSimpleProstheticArm.description>Создать простой протез руки.</CreateSimpleProstheticArm.description>
+	<CreateSimpleProstheticArm.jobString>Создает простой протез руки</CreateSimpleProstheticArm.jobString>
+
+	<CreateSimpleProstheticFoot.label>Создать простой протез ступни</CreateSimpleProstheticFoot.label>
+	<CreateSimpleProstheticFoot.description>Создать простой протез ступни.</CreateSimpleProstheticFoot.description>
+	<CreateSimpleProstheticFoot.jobString>Создает простой протез ступни</CreateSimpleProstheticFoot.jobString>
+
+	<CreateSimpleProstheticLeg.label>Создать простой протез ноги</CreateSimpleProstheticLeg.label>
+	<CreateSimpleProstheticLeg.description>Создать простой протез ноги.</CreateSimpleProstheticLeg.description>
+	<CreateSimpleProstheticLeg.jobString>Создает простой протез ноги</CreateSimpleProstheticLeg.jobString>
+</LanguageData>

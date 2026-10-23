@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Feenix.label>феникс</Feenix.label>
+	<Feenix.description>Живое воплощение огня которое может опустошить всю вашу колонию.</Feenix.description>
+	<!-- EN: Left claw -->
+	<Feenix.tools.0.label>левая лапа</Feenix.tools.0.label>
+	<!-- EN: Right claw -->
+	<Feenix.tools.1.label>правая лапа</Feenix.tools.1.label>
+	<!-- EN: head -->
+	<Feenix.tools.head.label>голова</Feenix.tools.head.label>
+
+	<GreenWyvern.label>зелёная виверна</GreenWyvern.label>
+	<GreenWyvern.description>Большое, драконоподобное существо зелёного цвета. В отличие от драконов, виверны способны на полёт с помощью своих видоизмененных предплечий, а не ярко выраженных крыльев.</GreenWyvern.description>
+	<!-- EN: Left claw -->
+	<GreenWyvern.tools.0.label>левая лапа</GreenWyvern.tools.0.label>
+	<!-- EN: Right claw -->
+	<GreenWyvern.tools.1.label>правая лапа</GreenWyvern.tools.1.label>
+	<!-- EN: head -->
+	<GreenWyvern.tools.head.label>голова</GreenWyvern.tools.head.label>
+
+	<Kirin.label>кирин</Kirin.label>
+	<Kirin.description>Мистическое существо рожденное изо льда, Кирин несет стужу и холод. Сердце этого существа высоко ценится за свои свойства на рынках римворлда.</Kirin.description>
+	<!-- EN: Left paw -->
+	<Kirin.tools.0.label>левая лапа</Kirin.tools.0.label>
+	<!-- EN: Right paw -->
+	<Kirin.tools.1.label>правая лапа</Kirin.tools.1.label>
+	<!-- EN: head -->
+	<Kirin.tools.head.label>голова</Kirin.tools.head.label>
+
+	<Behir.label>бехир</Behir.label>
+	<Behir.description>Бехир - огромный синий волшебный змеевидный зверь с головой крокодила. Существо около 40 футов в длину и весом около 4 тысяч фунтов. Может быстро передвигаться на своих двенадцати коротких, но мощных ногах или скользить, сложив свои ноги близко к телу.</Behir.description>
+	<!-- EN: head -->
+	<Behir.tools.head.label>голова</Behir.tools.head.label>
+	<!-- EN: left claw -->
+	<Behir.tools.2.label>левая лапа</Behir.tools.2.label>
+	<!-- EN: left leg claw -->
+	<Behir.tools.0.label>левая задняя лапа</Behir.tools.0.label>
+	<!-- EN: right claw -->
+	<Behir.tools.3.label>правая лапа</Behir.tools.3.label>
+	<!-- EN: right leg claw -->
+	<Behir.tools.1.label>правая задняя лапа</Behir.tools.1.label>
+
+	<!-- ========================= Raptor enviro ============================= -->
+	<FRaptor.label>пернатый раптор</FRaptor.label>
+	<FRaptor.description>Тихий и хитрый, элегантный, но безжалостный - этот пернатый ящер был выведен для борьбы с нарастающей угрозой нашествия варгов. К несчастью, когда кто-то наконец додумался, что селекция нового альфа-хищника не сможет помочь уже разрушенной экосистеме, проект был отменен. После его отмены, ученые взялись за новый - сделать этих рептилий питомцами богатых и состоятельный людей. Именно из-за этого теперь тело рапторов покрывают переливающиеся на солнце перья.</FRaptor.description>
+	<!-- EN: head -->
+	<FRaptor.tools.head.label>голова</FRaptor.tools.head.label>
+	<!-- EN: left claw -->
+	<FRaptor.tools.2.label>левая лапа</FRaptor.tools.2.label>
+	<!-- EN: left leg claw -->
+	<FRaptor.tools.0.label>левая задняя лапа</FRaptor.tools.0.label>
+	<!-- EN: right claw -->
+	<FRaptor.tools.3.label>правая лапа</FRaptor.tools.3.label>
+	<!-- EN: right leg claw -->
+	<FRaptor.tools.1.label>правая задняя лапа</FRaptor.tools.1.label>
+
+	<Barghest.label>баргест</Barghest.label>
+	<Barghest.description>Мифическое существо. Может выглядеть по-разному, но чаще всего принимает вид чёрного пса с горящими глазами, огромными когтями и клыками. Считается злым духом, приносящим несчастье и горе. Говорят, что по ночам он охраняет могилы своих хозяев от вандалов и прочих недобрых людей. Согласно поверью, встреча с баргестом приносит несчастья и скорую смерть. Считается, что баргесты — призраки, материализовавшиеся в призрачных псов и преследующие живых людей. По некоторым поверьям эти чудовища являются предзнаменованием Дикой Охоты. Другие же легенды гласят, что баргесты — воплощение божественной кары и олицетворенного возмездия. И только в одном все рассказы сходятся: баргесты всегда безжалостны по отношению к живым существам.</Barghest.description>
+	<!-- EN: head -->
+	<Barghest.tools.head.label>голова</Barghest.tools.head.label>
+	<!-- EN: left claw -->
+	<Barghest.tools.0.label>левая лапа</Barghest.tools.0.label>
+	<!-- EN: right claw -->
+	<Barghest.tools.1.label>правая лапа</Barghest.tools.1.label>
+</LanguageData>

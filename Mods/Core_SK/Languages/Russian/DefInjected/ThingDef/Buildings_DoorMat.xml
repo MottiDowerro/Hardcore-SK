@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <LT_DoorMatRed.label>Маленький коврик</LT_DoorMatRed.label>
-    <LT_DoorMatRed.description>Маленький коврик для вытирания ног.</LT_DoorMatRed.description>
-
-    <LT_DoorMatBigRed.label>Большой коврик</LT_DoorMatBigRed.label>
-    <LT_DoorMatBigRed.description>Большой коврик для вытирания ног.</LT_DoorMatBigRed.description>
-
-<!--    <LT_DoorMatGreen.label>Зеленый коврик</LT_DoorMatGreen.label>
+	<!--    <LT_DoorMatGreen.label>Зеленый коврик</LT_DoorMatGreen.label>
     <LT_DoorMatGreen.description>Коврик для вытирания ног.</LT_DoorMatGreen.description>
 
     <LT_DoorMatBlue.label>Синий коврик</LT_DoorMatBlue.label>
@@ -18,5 +12,4 @@
 
     <LT_DoorMatBigBlue.label>Большой синий коврик</LT_DoorMatBigBlue.label>
     <LT_DoorMatBigBlue.description>Коврик для вытирания ног.</LT_DoorMatBigBlue.description> -->
-
 </LanguageData>

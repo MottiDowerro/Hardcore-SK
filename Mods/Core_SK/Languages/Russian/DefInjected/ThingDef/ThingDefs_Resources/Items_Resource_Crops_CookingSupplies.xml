@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Wheat -->
+	<Rawwheat.label>Пшеница</Rawwheat.label>
+	<!-- EN: Wheat is a cereal grain. It can be milled into Flour for use in baking bread. -->
+	<Rawwheat.description>Зерновая культура. Можно перемолоть в муку для выпечки хлеба.</Rawwheat.description>
+
+	<!-- EN: Cocoa Beans -->
+	<Rawcocoa.label>Какао-бобы</Rawcocoa.label>
+	<!-- EN: Cocoa Beans are the seeds of cocoa pods from a Cocoa Tree. They can be refined into chocolate. -->
+	<Rawcocoa.description>Семена какао дерева. Можно переработать в шоколад.</Rawcocoa.description>
+
+	<!-- EN: Sugarcane -->
+	<Rawsugarcane.label>Сахарный тростник</Rawsugarcane.label>
+	<!-- EN: Sugarcane is a type of long grass from the Sugarcane Plant. The grass stalks are rich in sucrose, which can be milled to produce Sugar. -->
+	<Rawsugarcane.description>Тип длинной травы, стебли которой богаты сахарозой. Можно перемалывать для получения сахара.</Rawsugarcane.description>
+
+	<!-- EN: Tobacco Leaves -->
+	<RawTobacco.label>Сырые листья табака</RawTobacco.label>
+	<!-- EN: Raw Tobacco Leaves from a Tobacco Plant. Not recommended for eating. Tobacco can be rolled and smoked as a stimulating drug. They are addicting and are associated with a number of health problems for long term use. -->
+	<RawTobacco.description>Сырые листья табачного растения. Не рекомендуется употреблять в пищу. Можно высушивать, скручивать и курить - действуют как стимулирующий наркотик, вызывая зависимость и ряд проблем со здоровьем при длительном использовании.</RawTobacco.description>
+
+	<!-- EN: coffee berries -->
+	<RawCoffee.label>Ягоды кофе</RawCoffee.label>
+	<!-- EN: Raw coffee berries from a Coffee Plant. It should be dried, roasted, pulverized before use and only then brewed. -->
+	<RawCoffee.description>Сырые многосемянные ягоды кофейного дерева. Перед использованием их следует высушить, обжарить, измельчить и только потом заваривать.</RawCoffee.description>
+
+	<!-- EN: Tea Leaves -->
+	<RawTea.label>Листья чая</RawTea.label>
+	<!-- EN: Tea Leaves from a Tea Shrub. When brewed with water, it produces a relaxing beverage called Tea. -->
+	<RawTea.description>Сырые листья чайного куста. При заваривании с водой получается расслабляющий напиток под названием Чай.</RawTea.description>
+</LanguageData>

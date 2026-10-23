@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--================ Seats ================-->
+	<PrimitiveStoolStone.label>Каменный табурет</PrimitiveStoolStone.label>
+	<PrimitiveStoolStone.description>Примитивный каменный табурет.</PrimitiveStoolStone.description>
+
+	<PrimitiveStoolWood.label>Деревянный табурет</PrimitiveStoolWood.label>
+	<PrimitiveStoolWood.description>Примитивный деревянный табурет.</PrimitiveStoolWood.description>
+
+	<StoolBackrest.label>Стул со спинкой</StoolBackrest.label>
+	<StoolBackrest.description>Переходный элемент между обычной табуреткой и шикарными креслами. Многими считается образцом стулостроения.</StoolBackrest.description>
+
+	<SimplePillow.label>Подушка</SimplePillow.label>
+	<SimplePillow.description>Рекласируй свою тушку на этой плюшевой подушке!</SimplePillow.description>
+
+	<SlabChair.label>Каменное кресло</SlabChair.label>
+	<SlabChair.description>Кто сказал, что каменные кресла не очень удобны? А вот это не так, совершенно удобное кресло из камня!</SlabChair.description>
+
+	<FoldingStool.label>Складной стул</FoldingStool.label>
+	<FoldingStool.description>Кусок кожи и немного стали и вуаля! Получаем оригинальный складной стул.</FoldingStool.description>
+
+	<Bench.label>Скамья</Bench.label>
+	<Bench.description>Самая обычная скамейка, на которой можно сидеть.</Bench.description>
+
+	<MilleniumChair.label>Современный стул</MilleniumChair.label>
+	<MilleniumChair.description>Это прекрасно разработанный современный стул является идеальным для любой столовой!</MilleniumChair.description>
+
+	<EggArmchair.label>Кресло-яйцо</EggArmchair.label>
+	<EggArmchair.description>Почувствуйте себя цыпленком, когда сидите в яйце...</EggArmchair.description>
+
+	<RusticCouch.label>Старомодная кушетка</RusticCouch.label>
+	<RusticCouch.description>Расслабляющая старомодная кушетка, которая не будет превращать поселенца в ленивое создание, по крайней мере теоретически.</RusticCouch.description>
+
+	<MilleniumCouch.label>Современная кушетка</MilleniumCouch.label>
+	<MilleniumCouch.description>Расслабляющая современная кушетка, которая не будет превращать поселенца в ленивое создание, по крайней мере теоретически.</MilleniumCouch.description>
+
+	<PodChair.label>Продвинутое кресло</PodChair.label>
+	<!-- EN: galahoo, 그 자신을 입력하십시오 인간이 필요해 -->
+	<PodChair.description>Высокотехнологичное футуристическое кресло-капсула, обеспечивающее непревзойдённый уровень комфорта.</PodChair.description>
+
+	<PrimitiveTableStone.label>Каменный стол</PrimitiveTableStone.label>
+	<PrimitiveTableStone.description>Допотопный каменный стол.</PrimitiveTableStone.description>
+
+	<TableStone.label>Каменный стол</TableStone.label>
+
+	<PrimitiveTableWood.label>Примитивный деревянный стол</PrimitiveTableWood.label>
+	<PrimitiveTableWood.description>Допотопный деревянный стол.</PrimitiveTableWood.description>
+
+	<Table1x1c.label>cтол (1x1)</Table1x1c.label>
+	<Table1x1c.description>Люди будут есть за столом, если рядом есть стулья.</Table1x1c.description>
+
+	<Table1x3c.label>cтол (1x3)</Table1x3c.label>
+	<Table1x3c.description>Люди будут есть за столом, если рядом есть стулья.</Table1x3c.description>
+
+	<!--================ Tables ================-->
+	<TeaTable.label>Чайный столик</TeaTable.label>
+	<TeaTable.description>Современный чайный стол.</TeaTable.description>
+
+	<MilleniumTableSmall.label>Современный стол (1x1)</MilleniumTableSmall.label>
+	<MilleniumTableSmall.description>Это прекрасно разработанный современный стол является идеальным для любой столовой!</MilleniumTableSmall.description>
+
+	<MilleniumTable1x2c.label>Современный стол (1x2)</MilleniumTable1x2c.label>
+	<MilleniumTable1x2c.description>Это прекрасно разработанный современный стол является идеальным для любой столовой!</MilleniumTable1x2c.description>
+
+	<MilleniumTable1x3c.label>Современный стол (1x3)</MilleniumTable1x3c.label>
+	<MilleniumTable1x3c.description>Это прекрасно разработанный современный стол является идеальным для любой столовой!</MilleniumTable1x3c.description>
+
+	<MilleniumTable.label>Современный стол (2x2)</MilleniumTable.label>
+	<MilleniumTable.description>Это прекрасно разработанный современный стол является идеальным для любой столовой!</MilleniumTable.description>
+
+	<MilleniumTable2x3c.label>Современный стол (2x3)</MilleniumTable2x3c.label>
+	<MilleniumTable2x3c.description>Это прекрасно разработанный современный стол является идеальным для любой столовой!</MilleniumTable2x3c.description>
+
+	<ClutterLocker.label>сейф</ClutterLocker.label>
+	<ClutterLocker.description>Декоративный сейф.</ClutterLocker.description>
+
+	<!--============================== Decoration ==============================-->
+	<EndTableSimple.label>Тумба</EndTableSimple.label>
+	<EndTableSimple.description>Этот небольшой стол хорошо сочетается с кроватью. При размещении с кроватью увеличит комфорт и немного эффективность сна.</EndTableSimple.description>
+
+	<JournalTable.label>Журнальный столик</JournalTable.label>
+	<JournalTable.description>Декоративный предмет.</JournalTable.description>
+
+	<HolographicCell.label>Голографическая ячейка</HolographicCell.label>
+	<HolographicCell.description>В меру удобное, способное прямо из галанета выдавать нужную информацию и проецировать ее на реальность, ускоряя работу.</HolographicCell.description>
+
+	<!-- EN: 텐트를 배치합니다 -->
+	<TentDeployed.description>Служит опорой для палатки.</TentDeployed.description>
+	<!-- EN: 텐트 배치 -->
+	<TentDeployed.label>опора палатки</TentDeployed.label>
+</LanguageData>

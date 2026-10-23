@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Chromium.label>хром</Chromium.label>
+	<Chromium.description>Твёрдый металл голубовато-белого цвета. Хром иногда относят к чёрным металлам.</Chromium.description>
+
+	<LeadBar.label>свинец</LeadBar.label>
+	<LeadBar.description>Свинец можно получить из англезита - серно-свинцовой руды. Это тяжёлый металл, который плотнее большинства обычных металлов. Свинец является мягким и ковким и имеет относительно низкую температуру плавления.</LeadBar.description>
+	<LeadBar.stuffProps.stuffAdjective>свинца</LeadBar.stuffProps.stuffAdjective>
+
+	<NickelBar.label>никель</NickelBar.label>
+	<NickelBar.description>Никель относится к переходным металлам, твёрдый и пластичный одновременно. Это один из основных элементов, улучшающих свойства стали; добавка никеля повышает её прочность, вязкость и пластичность. Представляет собой серебристо-белый металл с лёгким золотистым оттенком. Никель - ферромагнетик (он может намагничиваться в паре с магнитным металлом).</NickelBar.description>
+	<NickelBar.stuffProps.stuffAdjective>никеля</NickelBar.stuffProps.stuffAdjective>
+
+	<Cobalt.label>кобальт</Cobalt.label>
+	<Cobalt.description>Синие пигменты на основе кобальта использовались с древних времен для изготовления ювелирных изделий и красок, а также для придания характерного синего оттенка стеклу. Позднее алхимики решили, что этот цвет был вызван металлом, известным как висмут. Кобальт - магнитный металл.</Cobalt.description>
+
+	<AluminiumBar.label>алюминий</AluminiumBar.label>
+	<AluminiumBar.description>Алюминий - это сплав бокситовой руды. Похожий и менее ценный металл, чем медь, он используется в основном для электротехнических целей благодаря своей высокой проводимости. Для обработки алюминия требуется электрический ток, поэтому его невозможно получить в обычной печи. Алюминий парамагнитен (он притягивается к магнитным металлам для укрепления магнитной связи).</AluminiumBar.description>
+	<AluminiumBar.stuffProps.stuffAdjective>алюминия</AluminiumBar.stuffProps.stuffAdjective>
+
+	<FerrosiliconAlloy.label>альсифер</FerrosiliconAlloy.label>
+	<FerrosiliconAlloy.description>Альсифер производится путем восстановления кремния в присутствии железа и алюминия. Альсифер полезен в качестве раскислителя других металлов. Он более прочный, чем стандартный чугун или сталь. Альсифер не является магнитным металлом. Альтернативное название - сендаст.</FerrosiliconAlloy.description>
+	<FerrosiliconAlloy.stuffProps.stuffAdjective>альсифера</FerrosiliconAlloy.stuffProps.stuffAdjective>
+
+	<CupronickelAlloy.label>мельхиор</CupronickelAlloy.label>
+	<CupronickelAlloy.description>Мельхиор - сплав меди и никеля. Характеризуется коррозионной устойчивостью, повышенной прочностью и упругостью при деформации, удовлетворительной пластичностью в горячем и холодном состоянии.</CupronickelAlloy.description>
+	<CupronickelAlloy.stuffProps.stuffAdjective>мельхиора</CupronickelAlloy.stuffProps.stuffAdjective>
+
+	<SteelBar.label>инвар</SteelBar.label>
+	<SteelBar.description>Инвар это очень прочный сплав железа и никеля, отличающийся уникально низким коэффициентом температурного расширения. Инвар - слабомагнитный металл.</SteelBar.description>
+	<SteelBar.stuffProps.stuffAdjective>инвара</SteelBar.stuffProps.stuffAdjective>
+
+	<AlnicoAlloy.label>альнико</AlnicoAlloy.label>
+	<AlnicoAlloy.description>Это сплав железа, алюминия и кобальта. Сплав обладает высокой остаточной намагниченностью, применяется для изготовления постоянных магнитов. Альнико обладает высокой коррозионной устойчивостью.</AlnicoAlloy.description>
+	<AlnicoAlloy.stuffProps.stuffAdjective>альнико</AlnicoAlloy.stuffProps.stuffAdjective>
+
+	<DepletedUranium.label>Сплав обеднённого урана</DepletedUranium.label>
+	<DepletedUranium.description>Обеднённый уран стал популярен благодаря высокой плотности. Ребята из Пентагона утверждают, что он совершенно безопасен и, даже, полезен для поддержания "свежести и молодости".</DepletedUranium.description>
+	<DepletedUranium.stuffProps.stuffAdjective>обеднённого урана</DepletedUranium.stuffProps.stuffAdjective>
+
+	<CarbonAlloy.label>полимерный композит</CarbonAlloy.label>
+	<CarbonAlloy.description>Чрезвычайно лёгкий, и тем не менее очень прочный полимер укреплённый волокном, содержащий углеволокна со стальным сплавом. Создаётся в лаборатории.</CarbonAlloy.description>
+	<CarbonAlloy.stuffProps.stuffAdjective>полимерного композита</CarbonAlloy.stuffProps.stuffAdjective>
+</LanguageData>

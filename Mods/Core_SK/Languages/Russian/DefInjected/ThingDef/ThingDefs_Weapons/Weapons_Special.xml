@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<MeleeWeapon_Shocker.label>шокер</MeleeWeapon_Shocker.label>
+	<MeleeWeapon_Shocker.description>Шокер на небольшое время оглушает противника.</MeleeWeapon_Shocker.description>
+	<!-- EN: handle -->
+	<MeleeWeapon_Shocker.tools.handle.label>рукоять</MeleeWeapon_Shocker.tools.handle.label>
+
+	<MeleeWeapon_ElectricBaton.label>дубинка-шокер</MeleeWeapon_ElectricBaton.label>
+	<MeleeWeapon_ElectricBaton.description>Лучшее оружие для оглушения противника.</MeleeWeapon_ElectricBaton.description>
+	<!-- EN: handle -->
+	<MeleeWeapon_ElectricBaton.tools.handle.label>рукоять</MeleeWeapon_ElectricBaton.tools.handle.label>
+
+	<Bullet_FireExtinguisher.label>пена</Bullet_FireExtinguisher.label>
+
+	<Gun_FireExtinguisher.label>Огнетушитель</Gun_FireExtinguisher.label>
+	<Gun_FireExtinguisher.description>Мощный огнетушитель, с помощью которого можно быстро потушить серьезный пожар.</Gun_FireExtinguisher.description>
+	<!-- EN: handle -->
+	<Gun_FireExtinguisher.tools.handle.label>рукоять</Gun_FireExtinguisher.tools.handle.label>
+	<!-- EN: tank -->
+	<Gun_FireExtinguisher.tools.tank.label>баллон</Gun_FireExtinguisher.tools.tank.label>
+
+	<!-- ==================== Firefoam fuel ========================== -->
+	<!-- EN: Surfactant Fuel -->
+	<Surfactant.label>Сурфактант</Surfactant.label>
+	<!-- EN: Surfactants are a product of Salt, Sulfur and Alcohol or various other methods. Effective foam base for fighting fires. -->
+	<Surfactant.description>Поверхностно-активное вещество, изготовленное из соли, серы и пенообразующих элементов. Эффективная пенная основа для тушения пожаров.</Surfactant.description>
+</LanguageData>

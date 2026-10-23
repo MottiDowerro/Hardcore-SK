@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Mammoth.label>мамонт</Mammoth.label>
+	<Mammoth.description>Вымерший род млекопитающих из семейства слоновых, живший в доисторические времена на Земле. Каким образом они оказались на этой планете и сохранились, никому не известно.</Mammoth.description>
+	<!-- EN: head -->
+	<Mammoth.tools.head.label>голова</Mammoth.tools.head.label>
+	<!-- EN: left foot -->
+	<Mammoth.tools.1.label>левая нога</Mammoth.tools.1.label>
+	<!-- EN: right foot -->
+	<Mammoth.tools.2.label>правая нога</Mammoth.tools.2.label>
+	<!-- EN: tusk -->
+	<Mammoth.tools.tusk.label>бивень</Mammoth.tools.tusk.label>
+
+	<Megabadger.label>мегабарсук</Megabadger.label>
+	<Megabadger.description>Реально большой барсук - размером, примерно, со слона в зрелом возрасте. Мегабарсуки - невероятно опасные существа, с челюстями, способными перекусить выросшее дерево в щепки, и кожей, достаточно толстой, чтобы остановить большинство пуль. Рекомендуется при любых обстоятельствах избегать их.</Megabadger.description>
+	<!-- EN: head -->
+	<Megabadger.tools.head.label>голова</Megabadger.tools.head.label>
+	<!-- EN: left claw -->
+	<Megabadger.tools.0.label>левая лапа</Megabadger.tools.0.label>
+	<!-- EN: right claw -->
+	<Megabadger.tools.1.label>правая лапа</Megabadger.tools.1.label>
+
+	<Rhino_Wooly.label>шерстистый носорог</Rhino_Wooly.label>
+	<Rhino_Wooly.description>Носорог, почти полностью покрытый грубой шерстью, пригодной для гораздо более холодного климата, чем его голые сородичи.</Rhino_Wooly.description>
+	<!-- EN: head -->
+	<Rhino_Wooly.tools.head.label>голова</Rhino_Wooly.tools.head.label>
+	<!-- EN: horn -->
+	<Rhino_Wooly.tools.horn.label>рог</Rhino_Wooly.tools.horn.label>
+</LanguageData>

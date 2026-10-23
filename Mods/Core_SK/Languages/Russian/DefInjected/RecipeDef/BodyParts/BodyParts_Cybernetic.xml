@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Cybernetic -->
+	<InstallGTEar.label>Установить кибернетическое ухо</InstallGTEar.label>
+	<InstallGTEar.description>Кибернетическая версия уха, с применением технологий будущего.</InstallGTEar.description>
+	<InstallGTEar.jobString>Устанавливает кибернетическое ухо</InstallGTEar.jobString>
+
+	<InstallGTHeart.label>Установить кибернетическое сердце</InstallGTHeart.label>
+	<InstallGTHeart.description>Кибернетическая версия сердца, с применением технологий будущего.</InstallGTHeart.description>
+	<InstallGTHeart.jobString>Устанавливает кибернетическое сердце</InstallGTHeart.jobString>
+
+	<InstallGTLung.label>Установить кибернетическое лёгкое</InstallGTLung.label>
+	<InstallGTLung.description>Кибернетическая версия легкого, с применением технологий будущего.</InstallGTLung.description>
+	<InstallGTLung.jobString>Устанавливает кибернетическое лёгкое</InstallGTLung.jobString>
+
+	<InstallGTKidney.label>Установить кибернетическую почку</InstallGTKidney.label>
+	<InstallGTKidney.description>Кибернетическая версия почки, с применением технологий будущего.</InstallGTKidney.description>
+	<InstallGTKidney.jobString>Устанавливает кибернетическую почку</InstallGTKidney.jobString>
+
+	<InstallGTLiver.label>Установить кибернетическую печень</InstallGTLiver.label>
+	<InstallGTLiver.description>Кибернетическая версия печени, с применением технологий будущего.</InstallGTLiver.description>
+	<InstallGTLiver.jobString>Устанавливает кибернетическую печень</InstallGTLiver.jobString>
+
+	<InstallGTStomach.label>Установить кибернетический желудок</InstallGTStomach.label>
+	<InstallGTStomach.description>Кибернетическая версия желудка, с применением технологий будущего.</InstallGTStomach.description>
+	<InstallGTStomach.jobString>Устанавливает кибернетический желудок</InstallGTStomach.jobString>
+
+	<InstallGTHand.label>Установить кибернетическую кисть</InstallGTHand.label>
+	<InstallGTHand.description>Кибернетическая версия бионической кисти, с применением технологий будущего.</InstallGTHand.description>
+	<InstallGTHand.jobString>Устанавливает кибернетическую кисть</InstallGTHand.jobString>
+
+	<InstallGTFoot.label>Установить кибернетическую стопу</InstallGTFoot.label>
+	<InstallGTFoot.description>Кибернетическая версия бионической стопы, с применением технологий будущего.</InstallGTFoot.description>
+	<InstallGTFoot.jobString>Устанавливает  кибернетическую стопу</InstallGTFoot.jobString>
+
+	<InstallGTDentures.label>Установить кибернетическую челюсть</InstallGTDentures.label>
+	<InstallGTDentures.description>Кибернетическая версия челюсти, с применением технологий будущего.</InstallGTDentures.description>
+	<InstallGTDentures.jobString>Устанавливает кибернетическую челюсть</InstallGTDentures.jobString>
+
+	<InstallGTSpine.label>Установить кибернетический позвоночник</InstallGTSpine.label>
+	<InstallGTSpine.description>Кибернетическая версия позвоночника, с применением технологий будущего.</InstallGTSpine.description>
+	<InstallGTSpine.jobString>Устанавливает кибернетический позвоночник</InstallGTSpine.jobString>
+
+	<InstallGTNeck.label>Имплантировать кибернетическую шею</InstallGTNeck.label>
+	<InstallGTNeck.description>Имплантировать кибернетическую шею.</InstallGTNeck.description>
+	<InstallGTNeck.jobString>Имплантирует кибернетическую шею</InstallGTNeck.jobString>
+</LanguageData>

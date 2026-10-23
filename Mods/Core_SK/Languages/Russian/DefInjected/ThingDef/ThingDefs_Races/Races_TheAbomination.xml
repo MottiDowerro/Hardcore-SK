@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Abomination.label>Нечто</Abomination.label>
+	<Abomination.description>Нечто - это медленный и неповоротливый кусок плоти. Его уродливое тело выкручивается и изменяется, чтобы исцелить даже крупные раны. С изуродованной пасти стекает токсичная желчь. Он будет поедать трупы, чтобы размножаться.</Abomination.description>
+	<!-- EN: head -->
+	<Abomination.tools.head.label>голова</Abomination.tools.head.label>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Apparel_TribalShoulderpads.label>церемониальные наплечники</Apparel_TribalShoulderpads.label>
+	<Apparel_TribalShoulderpads.description>Наплечники, одеваемые аборигенами на различные жертвоприношения и ритуалы.</Apparel_TribalShoulderpads.description>
+
+	<Apparel_RagDress.label>оборванное платье</Apparel_RagDress.label>
+	<Apparel_RagDress.description>Очень простая одежда из ткани, которую можно изготовить где угодно.</Apparel_RagDress.description>
+
+	<Apparel_RagTunic.label>оборванная туника</Apparel_RagTunic.label>
+	<Apparel_RagTunic.description>Плохо сшитая туника, закрывающая всё тело и способная защитить владельца от непогоды.</Apparel_RagTunic.description>
+</LanguageData>

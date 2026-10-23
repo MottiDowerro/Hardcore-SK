@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ========================= Insects enviro ============================= -->
+	<!--Mosquito-->
+	<Mosquito.label>москит-мутант</Mosquito.label>
+	<Mosquito.description>Гигантский комар.</Mosquito.description>
+	<!-- EN: head -->
+	<Mosquito.tools.head.label>голова</Mosquito.tools.head.label>
+	<!-- EN: mouth -->
+	<Mosquito.tools.mouth.label>рот</Mosquito.tools.mouth.label>
+
+	<!--Crashbug-->
+	<Crashbug.label>жук</Crashbug.label>
+	<Crashbug.description>Эти твари малы и их трудно найти, но лучше их не искать, один их укус может быть последним для вас. Но их довольно просто убить из-за отсутствия защиты.</Crashbug.description>
+	<!-- EN: head -->
+	<Crashbug.tools.head.label>голова</Crashbug.tools.head.label>
+	<!-- EN: mouth -->
+	<Crashbug.tools.mouth.label>рот</Crashbug.tools.mouth.label>
+
+	<!--Fly-->
+	<Fly.label>муха-мутант</Fly.label>
+	<Fly.description>Муха-переросток, вредитель посевов.</Fly.description>
+	<!-- EN: head -->
+	<Fly.tools.head.label>голова</Fly.tools.head.label>
+	<!-- EN: mouth -->
+	<Fly.tools.mouth.label>рот</Fly.tools.mouth.label>
+
+	<Flea.label>блоха</Flea.label>
+	<Flea.description>Кровососущие насекомые с полным превращением, нередко являющихся переносчиками различных возбудителей болезней человека и животных.</Flea.description>
+	<!-- EN: head -->
+	<Flea.tools.head.label>голова</Flea.tools.head.label>
+	<!-- EN: mouth -->
+	<Flea.tools.mouth.label>рот</Flea.tools.mouth.label>
+
+	<!--Cockroach-->
+	<Cockroach.label>таракан</Cockroach.label>
+	<Cockroach.description>Эти мерзкие насекомые вечно кружаться под ногами в поисках чего быть сточить!</Cockroach.description>
+	<!-- EN: head -->
+	<Cockroach.tools.head.label>голова</Cockroach.tools.head.label>
+	<!-- EN: mouth -->
+	<Cockroach.tools.mouth.label>рот</Cockroach.tools.mouth.label>
+
+	<!--CropEaterInsect-->
+	<CropEaterInsect.label>пожиратель</CropEaterInsect.label>
+	<CropEaterInsect.description>Вечно голодные насекомые зеленой окраски так и наровят погрызть урожай!</CropEaterInsect.description>
+	<!-- EN: head -->
+	<CropEaterInsect.tools.head.label>голова</CropEaterInsect.tools.head.label>
+</LanguageData>

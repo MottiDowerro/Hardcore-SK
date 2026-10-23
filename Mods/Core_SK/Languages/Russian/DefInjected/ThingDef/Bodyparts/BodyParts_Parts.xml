@@ -12,8 +12,4 @@
 
 	<ScytherBlade.label>клинок жнеца</ScytherBlade.label>
 	<ScytherBlade.description>Клинок жнеца, как оружие ближнего боя.</ScytherBlade.description>
-
-	<MAAI_Chip.label>чип MAAI</MAAI_Chip.label>
-	<MAAI_Chip.description>Чип ИИ с медицинским помощником. Используется как специализированный компонент в сложных и деликатных имплантатах, с системой искусственного интеллекта, которая может обрабатывать все сложные процессы устройства, не обременяя пользователя.</MAAI_Chip.description>
-
 </LanguageData>

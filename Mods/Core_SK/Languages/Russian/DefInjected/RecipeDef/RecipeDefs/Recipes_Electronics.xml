@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Assemble electronic components -->
+	<MakeElectronicComponents.label>Собрать электронные компоненты</MakeElectronicComponents.label>
+	<!-- EN: Assemble electronic components. Vital part of all electronics. Produces 5. -->
+	<MakeElectronicComponents.description>Собрать электронные компоненты - важнейшую часть всей электроники.\nПроизводится 5 шт.</MakeElectronicComponents.description>
+	<!-- EN: Assembling electronic components. -->
+	<MakeElectronicComponents.jobString>Собирает электронные компоненты</MakeElectronicComponents.jobString>
+
+	<!-- EN: Assemble integrated circuits -->
+	<MakeIntegratedCircuits.label>Собрать набор интегральных схем</MakeIntegratedCircuits.label>
+	<!-- EN: Assemble integrated circuits. Used in the creation of higher tier electronics. Produces 5. -->
+	<MakeIntegratedCircuits.description>Собрать набор интегральных схем.\nПроизводится 5 шт.</MakeIntegratedCircuits.description>
+	<!-- EN: Assembling integrated circuits. -->
+	<MakeIntegratedCircuits.jobString>Собирает набор интегральных схем</MakeIntegratedCircuits.jobString>
+
+	<!-- EN: Assemble microchip integrated circuit -->
+	<MakeMicrochipIntegratedCircuits.label>Собрать набор микрочипов</MakeMicrochipIntegratedCircuits.label>
+	<!-- EN: Assemble a microchip integrated circuit. Used in high tier electronics. Produces 1. -->
+	<MakeMicrochipIntegratedCircuits.description>Собрать набор микрочипов.\nПроизводится 1 шт.</MakeMicrochipIntegratedCircuits.description>
+	<!-- EN: Assembling a microchip integrated circuit. -->
+	<MakeMicrochipIntegratedCircuits.jobString>Собирает набор микрочипов</MakeMicrochipIntegratedCircuits.jobString>
+
+	<!-- EN: Assemble bioelectronic device -->
+	<MakeBioelectronicDevices.label>Собрать набор биомикрочипов</MakeBioelectronicDevices.label>
+	<!-- EN: Assemble a bioelectronic device. Used in high tier electronics and bionics. Produces 1. -->
+	<MakeBioelectronicDevices.description>Собрать набор биомикрочипов.\nПроизводится 1 шт.</MakeBioelectronicDevices.description>
+	<!-- EN: Assembling a bioelectronic device. -->
+	<MakeBioelectronicDevices.jobString>Собирает набор биомикрочипов</MakeBioelectronicDevices.jobString>
+
+	<!-- EN: Disassemble AI persona core -->
+	<DisassembleAIPersonaCore.label>Разобрать ядро ИИ</DisassembleAIPersonaCore.label>
+	<!-- EN: Disassemble an AI persona core to get high-tech alloys. -->
+	<DisassembleAIPersonaCore.description>Разобрать ядро ИИ для получения высокотехнологичных сплавов и биомикрочипа.</DisassembleAIPersonaCore.description>
+	<!-- EN: Disassembling an AI persona core. -->
+	<DisassembleAIPersonaCore.jobString>Разбирает ядро ИИ</DisassembleAIPersonaCore.jobString>
+
+	<!-- EN: Assemble mineral sonar module -->
+	<MakeMineralSonarModule.label>Изготовить модуль сонара минералов</MakeMineralSonarModule.label>
+	<!-- EN: Assemble a mineral sonar module using metal alloy for the packaging box and electronic components for the computing module. Produces 1. -->
+	<MakeMineralSonarModule.description>Изготовить модуль, оснащённый сонаром для поиска минералов. Размещён в металлическом корпусе с набором интеграционных схем для настройки.\nПроизводится 1 шт.</MakeMineralSonarModule.description>
+	<!-- EN: Assembling a mineral sonar module. -->
+	<MakeMineralSonarModule.jobString>Изготавливает модуль сонара минералов</MakeMineralSonarModule.jobString>
+</LanguageData>

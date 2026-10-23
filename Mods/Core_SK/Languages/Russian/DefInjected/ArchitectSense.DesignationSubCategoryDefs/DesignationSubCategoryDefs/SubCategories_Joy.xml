@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--<SubCategory_FuturisticDevices.label>технологии будущего</SubCategory_FuturisticDevices.label>
+    <SubCategory_FuturisticDevices.description>Адронный коллайдер и работа с материей.</SubCategory_FuturisticDevices.description>-->
+	<!-- Joy -->
+	<SubCategory_TableGames.label>настольные игры</SubCategory_TableGames.label>
+	<SubCategory_TableGames.description>Специальные столы для совместных игр.</SubCategory_TableGames.description>
+
+	<SubCategory_ActiveGames.label>активные игры</SubCategory_ActiveGames.label>
+	<SubCategory_ActiveGames.description>Активные игры для активных колонистов.</SubCategory_ActiveGames.description>
+
+	<SubCategory_TV.label>ТВ</SubCategory_TV.label>
+	<SubCategory_TV.description>Телевизоры для просмотра фильмов.</SubCategory_TV.description>
+
+	<SubCategory_Monuments.label>монументы</SubCategory_Monuments.label>
+	<SubCategory_Monuments.description>Иногда камни могут быть прекрасными.</SubCategory_Monuments.description>
+
+	<SubCategory_Painting.label>рисование</SubCategory_Painting.label>
+	<SubCategory_Painting.description>Мы не делаем ошибок - у нас просто счастливые случайности.</SubCategory_Painting.description>
+
+	<SubCategory_KidsToys.label>игрушки</SubCategory_KidsToys.label>
+	<SubCategory_KidsToys.description>Каждый ребёнок заслуживает игрушку.</SubCategory_KidsToys.description>
+</LanguageData>

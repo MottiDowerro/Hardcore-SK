@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ==================== Shotguns ========================== -->
+	<BuildPumpShotgun.label>Собрать дробовик Remington 870</BuildPumpShotgun.label>
+	<BuildPumpShotgun.description>Раритет. Смертоносен на малых дистанциях.</BuildPumpShotgun.description>
+	<BuildPumpShotgun.jobString>Собирает дробовик Remington 870</BuildPumpShotgun.jobString>
+
+	<BuildM37A2_USCM.label>Собрать дробовик M37A2</BuildM37A2_USCM.label>
+	<BuildM37A2_USCM.description>Помповый дробовик M37A2 морской пехоты.</BuildM37A2_USCM.description>
+	<BuildM37A2_USCM.jobString>Собирает дробовик M37A2</BuildM37A2_USCM.jobString>
+
+	<BuildStrikerShotgun.label>Собрать дробовик Striker 12</BuildStrikerShotgun.label>
+	<BuildStrikerShotgun.description>Собрать дробовик Striker 12.</BuildStrikerShotgun.description>
+	<BuildStrikerShotgun.jobString>Дешёвый вид полу-автоматического дробовика. Имеет высокую скорострельность и высокий урон, но низкую дальность стрельбы.</BuildStrikerShotgun.jobString>
+
+	<BuildTacticalShotgun.label>Собрать дробовик Halo M45D</BuildTacticalShotgun.label>
+	<BuildTacticalShotgun.description>Удобный в использовании тактический боевой дробовик.</BuildTacticalShotgun.description>
+	<BuildTacticalShotgun.jobString>Собирает тактический дробовик Halo M45D</BuildTacticalShotgun.jobString>
+
+	<BuildAA12AutoShotgun.label>Собрать автодробовик AA-12</BuildAA12AutoShotgun.label>
+	<BuildAA12AutoShotgun.description>Автоматический дробовик. Почти без отдачи. Дальность стрельбы как у винтовки и высокий урон как у дробовика.</BuildAA12AutoShotgun.description>
+	<BuildAA12AutoShotgun.jobString>Собирает автоматический дробовик AA-12</BuildAA12AutoShotgun.jobString>
+
+	<BuildTacticalAutoshotgun.label>Собрать автодробовик Trident F7</BuildTacticalAutoshotgun.label>
+	<BuildTacticalAutoshotgun.description>Удобный в использовании тактический автоматический боевой дробовик.</BuildTacticalAutoshotgun.description>
+	<BuildTacticalAutoshotgun.jobString>Собирает автодробовик Trident F7</BuildTacticalAutoshotgun.jobString>
+</LanguageData>

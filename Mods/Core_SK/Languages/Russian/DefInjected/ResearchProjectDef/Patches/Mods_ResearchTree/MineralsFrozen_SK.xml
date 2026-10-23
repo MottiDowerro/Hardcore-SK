@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Ice_Stuff_A1.label>Замороженные конструкции I</Ice_Stuff_A1.label>
+	<Ice_Stuff_A1.description>Использование снега для строительства помещений.</Ice_Stuff_A1.description>
+
+	<Ice_Stuff_A2.label>Замороженные конструкции II</Ice_Stuff_A2.label>
+	<Ice_Stuff_A2.description>Использование льда для строительства помещений.</Ice_Stuff_A2.description>
+
+	<Ice_Stuff_A3.label>Замороженные конструкции III</Ice_Stuff_A3.label>
+	<Ice_Stuff_A3.description>description</Ice_Stuff_A3.description>
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ====================== Rifles ======================= -->
+	<RF_Gun_XMeight.label>Винтовка HK XM8</RF_Gun_XMeight.label>
+	<RF_Gun_XMeight.description>Древняя военная винтовка. Хорошая дальность, низкая мощность, высокая скорострельность.\n\nИспользует боеприпасы: 5.56x45mm NATO</RF_Gun_XMeight.description>
+
+	<Gun_FAMAS.label>Винтовка Famas G2</Gun_FAMAS.label>
+	<Gun_FAMAS.description>Винтовка имеет конфигурацию буллпап - магазин и патронник расположены позади спускового крючка и пистолетной рукоятки управления огнем.\n\nИспользует боеприпасы: 5.56x45mm NATO</Gun_FAMAS.description>
+
+	<Gun_AK47Gun.label>Винтовка AK-47</Gun_AK47Gun.label>
+	<Gun_AK47Gun.description>Настолько известный, что на Римворлде был известен ещё до появления людей.\n\nИспользует боеприпасы: 7.62x39mm Soviet</Gun_AK47Gun.description>
+
+	<Gun_MarineSturmRifle.label>Винтовка IWI Tavor</Gun_MarineSturmRifle.label>
+	<Gun_MarineSturmRifle.description>Винтовка Tavor по своему дизайну выглядит футуристично. Корпус выполнен из ударопрочного полимера, сверху расположена планка Пикатинни, на которую можно устанавливать различные оптические прицелы. Это газоотводная винтовка компоновки буллпап для современной эпохи.\n\nИспользует боеприпасы: 5.56x45mm NATO</Gun_MarineSturmRifle.description>
+
+	<Gun_TacticalCombatRifle.label>Винтовка Halo Fanon MA5</Gun_TacticalCombatRifle.label>
+	<Gun_TacticalCombatRifle.description>Удобная в использовании тактическая боевая винтовка.\n\nИспользует боеприпасы: 5.56x45mm NATO</Gun_TacticalCombatRifle.description>
+
+	<Gun_SG553Gun.label>Винтовка SIG SG553</Gun_SG553Gun.label>
+	<Gun_SG553Gun.description>Штурмовая винтовка с оптическим прицелом.\n\nИспользует боеприпасы: 5.56x45mm NATO</Gun_SG553Gun.description>
+
+	<Gun_AUG.label>Винтовка Steyr AUG A3</Gun_AUG.label>
+	<Gun_AUG.description>Штурмовая винтовка с оптическим прицелом.\n\nИспользует боеприпасы: 5.56x45mm NATO</Gun_AUG.description>
+
+	<Gun_SCAR_H.label>Винтовка FN SCAR-H</Gun_SCAR_H.label>
+	<Gun_SCAR_H.description>Штурмовая винтовка.\n\nИспользует боеприпасы: 7.62x51mm NATO</Gun_SCAR_H.description>
+</LanguageData>

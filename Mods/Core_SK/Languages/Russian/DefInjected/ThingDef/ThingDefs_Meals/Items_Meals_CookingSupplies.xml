@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<IceCream.label>Мороженое</IceCream.label>
+	<IceCream.description>Холодная вкуснятина, которая помогает справиться с тепловым ударом.</IceCream.description>
+
+	<Chocomilk.label>Шоколадное молоко</Chocomilk.label>
+	<Chocomilk.description>Шоколад с добавлением молока. Божественный нектар, вобравший в себя достижения различных народов старого мира.</Chocomilk.description>
+
+	<Caramel.label>Карамель</Caramel.label>
+	<Caramel.description>Сладкая карамель.</Caramel.description>
+
+	<Cheese.label>Сыр</Cheese.label>
+	<Cheese.description>Кусок сыра.</Cheese.description>
+
+	<AgedCheese.label>Элитный сыр</AgedCheese.label>
+	<AgedCheese.description>Кусок элитного сыра. Поселенцы обожают его.</AgedCheese.description>
+</LanguageData>

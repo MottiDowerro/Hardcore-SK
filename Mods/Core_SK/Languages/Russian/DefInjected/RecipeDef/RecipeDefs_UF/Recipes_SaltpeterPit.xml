@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Nitre Pit-->
+	<Make_Nitre_Body.label>извлечь селитру из трупов</Make_Nitre_Body.label>
+	<Make_Nitre_Body.description>Извлечь селитру из трупов. Процесс занимает 10 дней.</Make_Nitre_Body.description>
+
+	<Make_Nitre_Mush.label>извлечь селитру из гнили</Make_Nitre_Mush.label>
+	<Make_Nitre_Mush.description>Извлечь селитру из гнили. Процесс занимает 10 дней.</Make_Nitre_Mush.description>
+</LanguageData>

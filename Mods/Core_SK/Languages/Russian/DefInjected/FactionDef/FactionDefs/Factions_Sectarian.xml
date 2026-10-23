@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Sectarian.label>Церковь насилия</Sectarian.label>
+	<Sectarian.pawnsPlural>фанатики церкви насилия</Sectarian.pawnsPlural>
+	<Sectarian.leaderTitle>ересиарх</Sectarian.leaderTitle>
+	<!-- EN: church of violence -->
+	<Sectarian.pawnSingular>фанатик церкви насилия</Sectarian.pawnSingular>
+</LanguageData>

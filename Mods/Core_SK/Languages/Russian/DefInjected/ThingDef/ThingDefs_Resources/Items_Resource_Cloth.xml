@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: camelhair -->
+	<WoolDromedary.label>верблюжья шерсть</WoolDromedary.label>
+	<!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
+	<WoolDromedary.description>Одежду из шерсти верблюда обычно носят путешественники в пустыне, чтобы защититься от жары. Она обеспечивает превосходную изоляцию благодаря своим термостатическим свойствам.</WoolDromedary.description>
+	<WoolDromedary.stuffProps.stuffAdjective>верблюжьей шерсти</WoolDromedary.stuffProps.stuffAdjective>
+
+	<!--=============== Fabric, leather, etc  ====================-->
+	<HempCloth.label>Конопляная ткань</HempCloth.label>
+	<HempCloth.description>Эта ткань соткана из материала, которое мы курим, но кто-то решил, что делать из неё ткань - хорошая идея...</HempCloth.description>
+	<HempCloth.stuffProps.stuffAdjective>конопляной ткань</HempCloth.stuffProps.stuffAdjective>
+
+	<!--
+	<Tannedleather.label>дублёная кожа</Tannedleather.label>
+	<Tannedleather.description>Дублёная кожа из различных шкур.</Tannedleather.description>
+	<Tannedleather.stuffProps.stuffAdjective>дублёной кожи</Tannedleather.stuffProps.stuffAdjective>
+	-->
+	<Velour.label>Велюр</Velour.label>
+	<Velour.description>Велюр — чистошерстяная ворсованная ткань из пряжи суконного прядения, имеющая ворс несколько более длинный, чем у бархата.</Velour.description>
+	<Velour.stuffProps.stuffAdjective>велюра</Velour.stuffProps.stuffAdjective>
+
+	<Flaxcloth.label>Льняная ткань</Flaxcloth.label>
+	<Flaxcloth.description>Мягкая, лёгкая и прочная ткань для изготовления одежды.</Flaxcloth.description>
+	<Flaxcloth.stuffProps.stuffAdjective>льняной ткани</Flaxcloth.stuffProps.stuffAdjective>
+
+	<Kevlar.label>Кевлар</Kevlar.label>
+	<Kevlar.description>Кевлар - это плетеная комбинация пластиковых и синтетических волокон, которая часто используется для изготовления боевой защитной брони.</Kevlar.description>
+	<Kevlar.stuffProps.stuffAdjective>кевлара</Kevlar.stuffProps.stuffAdjective>
+
+	<ChitinPlating.label>Хитиновый покров</ChitinPlating.label>
+	<ChitinPlating.description>Модифицированная версия экзоскелета насекомых. Обладает значительно повышенной прочностью и простотой применения в качестве текстиля.</ChitinPlating.description>
+	<ChitinPlating.stuffProps.stuffAdjective>хитинового покрова</ChitinPlating.stuffProps.stuffAdjective>
+
+	<Compaste.label>Смесь пасты</Compaste.label>
+	<Compaste.description>Бутылка смеси пасты, которая используется в различных рецептах изготовления. НЕ ПИТЬ! Избегать прилипания пальцев к поверхности после использования!</Compaste.description>
+</LanguageData>

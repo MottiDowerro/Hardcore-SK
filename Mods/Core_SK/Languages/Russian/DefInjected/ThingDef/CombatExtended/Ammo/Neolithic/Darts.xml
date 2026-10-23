@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Ammo_Dart.label>Дротик (отравленный)</Ammo_Dart.label>
+	<Ammo_Dart.description>Дротик, наконечных которого смазан ядом.</Ammo_Dart.description>
+
+	<!-- EN: Poison Dart -->
+	<PoisonDart.label>ядовитый дротик</PoisonDart.label>
+</LanguageData>
